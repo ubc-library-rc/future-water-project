@@ -1,0 +1,185 @@
+/home/msarthur/Workspace/venv/pyframe2/bin/python /home/msarthur/Workspace/future-water-project/test/test_datacite.py
+AUTHOR
+{
+    "name": "Ali Ameli",
+    "orcid": "0000-0002-8173-887X",
+    "wikidata_id": "Q57582079"
+}
+----------
+PUBLICATIONS
+[
+    {
+        "DOI": "10.1111/1752-1688.12737",
+        "aliases": {},
+        "author_name": "Irena F. Creed",
+        "descriptions": {
+            "nl": {
+                "language": "nl",
+                "value": "wetenschappelijk artikel"
+            }
+        },
+        "id": "Q104878985",
+        "issue": "3",
+        "labels": {
+            "en": {
+                "language": "en",
+                "value": "Does Wetland Location Matter When Managing Wetlands for Watershed\u2010Scale Flood and Drought Resilience?"
+            },
+            "nl": {
+                "language": "nl",
+                "value": "Does Wetland Location Matter When Managing Wetlands for Watershed\u2010Scale Flood and Drought Resilience?"
+            }
+        },
+        "lastrevid": 1343332948,
+        "modified": "2021-01-18T07:21:42Z",
+        "ns": 0,
+        "pageid": 100291128,
+        "pages": "529-542",
+        "publication_date": {
+            "after": 0,
+            "before": 0,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+            "precision": 11,
+            "time": "+2019-03-12T00:00:00Z",
+            "timezone": 0
+        },
+        "sitelinks": {},
+        "title": {
+            "language": "en",
+            "text": "Does Wetland Location Matter When Managing Wetlands for Watershed\u2010Scale Flood and Drought Resilience?"
+        },
+        "type": "item"
+    },
+    {
+        "DOI": "10.1111/1752-1688.12690",
+        "aliases": {},
+        "author_name": "Irena F. Creed",
+        "descriptions": {
+            "nl": {
+                "language": "nl",
+                "value": "wetenschappelijk artikel"
+            }
+        },
+        "id": "Q104878992",
+        "issue": "2",
+        "labels": {
+            "en": {
+                "language": "en",
+                "value": "Groundwaters at Risk: Wetland Loss Changes Sources, Lengthens Pathways, and Decelerates Rejuvenation of Groundwater Resources"
+            },
+            "nl": {
+                "language": "nl",
+                "value": "Groundwaters at Risk: Wetland Loss Changes Sources, Lengthens Pathways, and Decelerates Rejuvenation of Groundwater Resources"
+            }
+        },
+        "lastrevid": 1343332916,
+        "modified": "2021-01-18T07:21:36Z",
+        "ns": 0,
+        "pageid": 100291135,
+        "pages": "294-306",
+        "publication_date": {
+            "after": 0,
+            "before": 0,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+            "precision": 10,
+            "time": "+2018-10-00T00:00:00Z",
+            "timezone": 0
+        },
+        "sitelinks": {},
+        "title": {
+            "language": "en",
+            "text": "Groundwaters at Risk: Wetland Loss Changes Sources, Lengthens Pathways, and Decelerates Rejuvenation of Groundwater Resources"
+        },
+        "type": "item"
+    },
+    {
+        "DOI": "10.1002/2016WR019448",
+        "aliases": {},
+        "author_name": "Martin Erlandsson",
+        "id": "Q53465413",
+        "issue": "1",
+        "labels": {
+            "en": {
+                "language": "en",
+                "value": "Primary weathering rates, water transit times, and concentration-discharge relations: A theoretical analysis for the critical zone"
+            },
+            "nl": {
+                "language": "nl",
+                "value": "Primary weathering rates, water transit times, and concentration-discharge relations: A theoretical analysis for the critical zone"
+            }
+        },
+        "lastrevid": 932333432,
+        "modified": "2019-05-03T22:20:58Z",
+        "ns": 0,
+        "pageid": 54014205,
+        "pages": "942-960",
+        "publication_date": {
+            "after": 0,
+            "before": 0,
+            "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+            "precision": 10,
+            "time": "+2017-01-00T00:00:00Z",
+            "timezone": 0
+        },
+        "sitelinks": {},
+        "title": {
+            "language": "en",
+            "text": "Primary weathering rates, water transit times, and concentration-discharge relations: A theoretical analysis for the critical zone"
+        },
+        "type": "item"
+    }
+]
+----------
+MISSING ON WIKIDATA
+[
+    {
+        "doi": "10.5194/egusphere-egu21-13070",
+        "title": [
+            "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un)gauged basins"
+        ]
+    },
+    {
+        "doi": "10.5194/egusphere-egu21-13979",
+        "title": [
+            "The importance of geology when estimating catchment-scale streamflow characteristics: Application of a new technique for hydrologic similarity and regionalization"
+        ]
+    },
+    {
+        "doi": "10.5194/egusphere-egu21-14084",
+        "title": [
+            "Can snow persistence explain the spatial-temporal variabilities in streamflow hydrograph flashiness across snow-dominated regions?"
+        ]
+    },
+    {
+        "doi": "10.1029/2017wr022356",
+        "title": [
+            "Groundwater Subsidy From Headwaters to Their Parent Water Watershed: A Combined Field\u2010Modeling Approach"
+        ]
+    },
+    {
+        "doi": "10.1002/2016wr019448",
+        "title": [
+            "Primary weathering rates, water transit times, and concentration-discharge relations: A theoretical analysis for the critical zone"
+        ]
+    },
+    {
+        "doi": "10.5194/hess-21-1791-2017",
+        "title": [
+            "Quantifying hydrologic connectivity of wetlands to surface water systems"
+        ]
+    },
+    {
+        "doi": "10.5194/hess-2016-404",
+        "title": [
+            "Quantifying hydrologic connectivity of wetlands to surface water\nsystems"
+        ]
+    },
+    {
+        "doi": "10.5194/hess-2016-404-supplement",
+        "title": [
+            "Supplementary material to &quot;Quantifying hydrologic connectivity of wetlands to surface water\nsystems&quot;"
+        ]
+    }
+]
+
+Process finished with exit code 0
