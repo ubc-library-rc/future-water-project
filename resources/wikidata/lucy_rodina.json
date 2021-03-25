@@ -1,0 +1,72 @@
+{
+    "author": {
+        "name": "Lucy Rodina",
+        "orcid": null,
+        "wikidata_id": "Q58348879"
+    },
+    "missing_data": [],
+    "wikidata": [
+        {
+            "DOI": "10.1177/0956247816686905",
+            "aliases": {},
+            "author_name": [
+                "Gina Ziervogel",
+                "Anton Cartwright",
+                "Tanvi Deshpande",
+                "Leila Harris",
+                "Keith Hyams",
+                "Jean Kaunda",
+                "Benjamin Klaus",
+                "Lorena Pasquini",
+                "Robyn Pharoah",
+                "Dianne Scott",
+                "Patricia Zweig"
+            ],
+            "descriptions": {
+                "de": {
+                    "language": "de",
+                    "value": "im M\u00e4rz 2017 ver\u00f6ffentlichter wissenschaftlicher Artikel"
+                },
+                "nl": {
+                    "language": "nl",
+                    "value": "wetenschappelijk artikel"
+                },
+                "uk": {
+                    "language": "uk",
+                    "value": "\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0431\u0435\u0440\u0435\u0437\u043d\u0456 2017"
+                }
+            },
+            "id": "Q58259895",
+            "issue": "1",
+            "labels": {
+                "en": {
+                    "language": "en",
+                    "value": "Inserting rights and justice into urban resilience: a focus on everyday risk"
+                },
+                "nl": {
+                    "language": "nl",
+                    "value": "Inserting rights and justice into urban resilience: a focus on everyday risk"
+                }
+            },
+            "lastrevid": 1136081750,
+            "modified": "2020-03-15T06:05:59Z",
+            "ns": 0,
+            "pageid": 58174024,
+            "pages": "123-138",
+            "publication_date": {
+                "after": 0,
+                "before": 0,
+                "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                "precision": 11,
+                "time": "+2017-03-20T00:00:00Z",
+                "timezone": 0
+            },
+            "sitelinks": {},
+            "title": {
+                "language": "en",
+                "text": "Inserting rights and justice into urban resilience: a focus on everyday risk"
+            },
+            "type": "item"
+        }
+    ]
+}

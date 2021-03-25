@@ -92,10 +92,17 @@ def search_author(author):
         headers=headers, params=params).json()
     if 'search' in response_data:
         if response_data['search']:
-            return [
-                dict(wikidata_id=d['id'],
-                     orcid=get_orcid(d['description'])) for d in response_data['search']
-            ]
+            if 'search' in response_data:
+                results = []
+                for d in response_data['search']:
+                    wikidata_id = d['id']
+                    orcid = None
+                    try:
+                        orcid = get_orcid(d['description'])
+                    except:
+                        pass
+                    results.append(dict(wikidata_id=wikidata_id, orcid=orcid))
+                return results
         else:
             return None
 
@@ -243,3 +250,34 @@ def entity_to_name(entity):
             for label in labels.values():
                 return label['value']
     return None
+
+
+
+# better querry using DOI got from google scholar.
+#defaultView:Table
+# SELECT
+#   (MIN(?dates) AS ?date)
+#   ?work ?workLabel
+#   (GROUP_CONCAT(DISTINCT ?type_label; separator=", ") AS ?type)
+#   (SAMPLE(?pages_) AS ?pages)
+#   ?venue ?venueLabel ?doi
+#   (GROUP_CONCAT(DISTINCT ?author_label; separator=", ") AS ?authors)
+#   (CONCAT("../authors/", GROUP_CONCAT(DISTINCT SUBSTR(STR(?author), 32); separator=",")) AS ?authorsUrl)
+# WHERE {
+#   ?work wdt:P356 "10.1111/RISA.13248" .
+#   ?work wdt:P50 ?author .
+#   OPTIONAL {
+#     ?author rdfs:label ?author_label_ . FILTER (LANG(?author_label_) = 'en')
+#   }
+#   BIND(COALESCE(?author_label_, SUBSTR(STR(?author), 32)) AS ?author_label)
+#   OPTIONAL { ?work wdt:P31 ?type_ . ?type_ rdfs:label ?type_label . FILTER (LANG(?type_label) = 'en') }
+#   ?work wdt:P577 ?datetimes .
+#   BIND(xsd:date(?datetimes) AS ?dates)
+#   OPTIONAL { ?work wdt:P1104 ?pages_ }
+#   OPTIONAL { ?work wdt:P1433 ?venue }
+#   OPTIONAL { ?work wdt:P356 ?doi }
+#   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,no,ru,sv,zh". }
+# }
+# GROUP BY ?work ?workLabel ?venue ?venueLabel ?doi
+# ORDER BY DESC(?date)
+#
