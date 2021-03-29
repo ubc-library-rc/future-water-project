@@ -3,15 +3,14 @@ from time import sleep
 from urllib.error import HTTPError
 from urllib.parse import quote_plus, urlencode
 from urllib.request import urlopen, Request
+import logging
 import json
+import os
 from colorama import Fore, Back, Style
 from Levenshtein import ratio, matching_blocks, editops
+from futurewater.util import format_author
+from futurewater.crossref import get_publication
 
-EMPTY_RESULT = {
-    "crossref_title": "",
-    "similarity": 0,
-    "doi": ""
-}
 
 MAX_RETRIES_ON_ERROR = 3
 
@@ -19,66 +18,67 @@ MAX_RETRIES_ON_ERROR = 3
 # https://github.com/scholarly-python-package/scholarly
 # https://github.com/OpenAPC/openapc-de/blob/master/python/import_dois.py
 
-def crossref_query_title(title):
-    api_url = "https://api.crossref.org/works?"
-    params = {"rows": "5", "query.bibliographic": title}
-    url = api_url + urlencode(params, quote_via=quote_plus)
-    print(url)
-    request = Request(url)
-    request.add_header("User-Agent", "OpenAPC DOI Importer (https://github.com/OpenAPC/openapc-de/blob/master/python/import_dois.py; mailto:openapc@uni-bielefeld.de)")
-    try:
-        ret = urlopen(request)
-        content = ret.read()
-        data = json.loads(content)
-        items = data["message"]["items"]
-        most_similar = EMPTY_RESULT
-        for item in items:
-            if "title" not in item:
-                continue
-            title = item["title"].pop()
-            result = {
-                "crossref_title": title,
-                "similarity": ratio(title.lower(), params["query.bibliographic"].lower()),
-                "doi": item["DOI"]
-            }
-            if most_similar["similarity"] < result["similarity"]:
-                most_similar = result
-        return {"success": True, "result": most_similar}
-    except HTTPError as httpe:
-        return {"success": False, "result": EMPTY_RESULT, "exception": httpe}
 
+logging.getLogger("requests").setLevel(logging.WARNING)
+logging.getLogger("urllib3").setLevel(logging.WARNING)
+
+logger = logging.getLogger()
 
 pg = ProxyGenerator()
 pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholarly_password")
 scholarly.use_proxy(pg)
 
 
-# Retrieve the author's data, fill-in, and print
-search_query = scholarly.search_author('Ali Ameli UBC')
-author = scholarly.fill(next(search_query))
-print(author)
+def get_schoolar_data(author_name, cache_folder="scholarly"):
+    output_folder = os.path.join(
+        os.path.dirname(os.path.realpath(__file__)),
+        "..", "resources", cache_folder
+    )
+    cached = os.path.join(output_folder, format_author(author_name))
+    from_cache = False
+    final_data = []
+    if not os.path.isfile(cached):
 
-# Print the titles of the author's publications
-titles = [pub['bib']['title'] for pub in author['publications']]
+        try:
+            # Retrieve the author's data, fill-in, and print
+            search_query = scholarly.search_author(f'{author_name} UBC')
+            author = scholarly.fill(next(search_query))
 
-final_data = []
-for title in titles:
-    print("Processing " + Fore.YELLOW + title + Style.RESET_ALL)
-    ret = crossref_query_title(title)
-    retries = 0
-    while not ret['success'] and retries < MAX_RETRIES_ON_ERROR:
-        retries += 1
-        msg = "Error while querying CrossRef API ({}), retrying ({})...".format(ret["exception"], retries)
-        print(Fore.RED + msg + Style.RESET_ALL)
-        ret = crossref_query_title(title)
-        sleep(3)
 
-    ret['original_title'] = title
-    final_data.append(ret)
-    # break
+            # Print the titles of the author's publications
+            titles = [pub['bib']['title'] for pub in author['publications']]
 
-final_data = list(filter(lambda k: k['result']['similarity'] >= 0.7, final_data))
+            final_data = []
+            for title in titles:
+                logger.info("Processing " + Fore.YELLOW + title + Style.RESET_ALL)
+                ret = get_publication(title)
+                retries = 0
+                while not ret['success'] and retries < MAX_RETRIES_ON_ERROR:
+                    retries += 1
+                    msg = "Error while querying CrossRef API ({}), retrying ({})...".format(ret["exception"], retries)
+                    logger.info(Fore.RED + msg + Style.RESET_ALL)
+                    ret = get_publication(title)
+                    sleep(3)
 
-print(json.dumps(final_data, indent=4, sort_keys=True))
+                ret['original_title'] = title
+                final_data.append(ret)
+
+            final_data = list(filter(lambda k: k['result']['similarity'] >= 0.7, final_data))
+            final_data = sorted(final_data, key=lambda k: k['result']['similarity'], reverse=True)
+
+            with open(cached, 'w') as fo:
+                json.dump(final_data, fo, indent=4, sort_keys=True)
+        except StopIteration:
+            logger.info(Fore.RED + 'no schoolar data available' + Style.RESET_ALL)
+            with open(cached, 'w') as fo:
+                json.dump(final_data, fo, indent=4, sort_keys=True)
+        except Exception as ex:
+            logger.exception(str(ex))
+    else:
+        with open(cached, 'r') as fo:
+            final_data = json.load(fo)
+            from_cache = True
+
+    return final_data, from_cache
 
 

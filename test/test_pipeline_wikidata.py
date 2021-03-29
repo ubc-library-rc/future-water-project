@@ -8,10 +8,12 @@ import time
 import csv
 
 from colorama import Fore, Style
+from Levenshtein import ratio, matching_blocks, editops
 
 import futurewater.crossref as crossref_api
 import futurewater.wikidata as wikidata_api
 from futurewater.disambiguation import disambiguate
+from futurewater.util import format_author
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library
 logging.getLogger("requests").setLevel(logging.WARNING)
@@ -23,98 +25,127 @@ stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
 
-def format_author(name):
-    aux = "_".join([n.lower() for n in name.split(" ")])
-    return f"{aux}.json"
+
+def load_crossref_data(author_file, resources_folder, crossref_folder="crossref"):
+    input_path = os.path.join(resources_folder, crossref_folder, author_file)
+    if not os.path.isfile(input_path):
+        return []
+
+    with open(input_path, 'r') as fo:
+        aux = json.load(fo)
+        for a in aux:
+            a['source'] = crossref_folder
+        return aux
 
 
-def publications_info(author_name, wikidata_id, test=False):
-    if wikidata_id == "":
-        wikidata_id = None
-    output_folder = os.path.join(
+
+def load_google_data(author_file, resources_folder, scholarly_folder="scholarly"):
+    input_path = os.path.join(resources_folder, scholarly_folder, author_file)
+    if not os.path.isfile(input_path):
+        return []
+
+    with open(input_path, 'r') as fo:
+        data = json.load(fo)
+        aux = [d['crossref'] for d in data if 'crossref' in d]
+        for a in aux:
+            a['source'] = scholarly_folder
+        return aux
+
+
+def merge_sources(google_data, crossref_data):
+    doi_publication_map = {}
+    for source in [google_data, crossref_data]:
+        for data in source:
+            if "DOI" not in data:
+                continue
+            doi_publication_map[data["DOI"]] = data
+
+    return doi_publication_map.values()
+
+
+def get_wikidata_author_id(author_name, wikidata):
+    if wikidata:
+        author_list = [(a['authors'], a['authorsurl']) for a in wikidata if 'authorsurl' in a]
+        for author, url in author_list:
+            for author_wikidata_name, author_wikidata_url in zip(author.split(","), url.split(",")):
+                if ratio(author_wikidata_name, author_name) >= 0.85:
+                    author_wikidata_id = author_wikidata_url.split('/')[-1]
+                    return author_wikidata_id
+    return None
+
+def get_wikidata_detailed_publications(wikidata_lst):
+    detailed_wikidata_lst = []
+    for wikidata_summary in wikidata_lst:
+        logger.info("\t\tFetching details of publication " + Fore.YELLOW + wikidata_summary['doi'] + Style.RESET_ALL)
+        wikidata_summary['work'] = wikidata_summary['work'].split('/')[-1]
+        entity = wikidata_api.get_publication_details(wikidata_summary['work'])
+        if entity:
+            if 'topics' in entity:
+                try:
+                    detailed_topics = [wikidata_api.get_topic_details(t['id']) for t in entity['topics']]
+                    entity['topics'] = detailed_topics
+                except:
+                    pass
+
+            detailed_wikidata_lst.append(entity)
+    return detailed_wikidata_lst
+
+def publications_info(author_name, test=False):
+    logger.info('Processing' + Fore.YELLOW + f' {author_name}' + Style.RESET_ALL)
+
+    resources_folder = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
-        "..", "resources", "wikidata"
+        "..", "resources"
     )
-    cached = os.path.join(output_folder, format_author(author_name))
+    author_file = format_author(author_name)
+    output_folder = os.path.join(resources_folder, "wikidata")
+    cached = os.path.join(output_folder, author_file)
 
 
+    publication_lst = merge_sources(
+        load_google_data(author_file, resources_folder),
+        load_crossref_data(author_file, resources_folder)
+    )
 
     if not os.path.isfile(cached):
-        logger.info('Processing' + Fore.YELLOW + f' {author_name}' + Style.RESET_ALL)
-        logger.info("Fetching author " + Fore.YELLOW + 'WikidataID/OCRID' + Style.RESET_ALL)
-        author_data = wikidata_api.search_author(author_name)
+        logger.info("\tFetching publications on " + Fore.YELLOW + 'Wikidata' + Style.RESET_ALL)
 
-        if author_data:
-            if wikidata_id:
-                author_data = list(filter(lambda k: wikidata_id == k['wikidata_id'], author_data))
-
-            if len(author_data) > 1:
-                # potential_wiki_ids = disambiguate(author_name)
-                # if len(potential_wiki_ids) == 1:
-                #     wiki_id = next(iter(potential_wiki_ids))
-                #     author_data = list(filter(lambda k: wiki_id == k['wikidata_id'], author_data))
-                # else:
-                logger.info(Fore.RED + f'Author {author_name} requires disambiguation' + Style.RESET_ALL)
-                logger.info(json.dumps(author_data, indent=4, sort_keys=True))
-                return
-
-            author = next(iter(author_data))
-            author['name'] = author_name
-
-            logger.info("Fetching existing publications on " + Fore.YELLOW + 'Wikidata' + Style.RESET_ALL)
-            publication_wiki_ids = wikidata_api.get_publications(author['wikidata_id'])
-            wikidata = []
-            dois = set()
-            if publication_wiki_ids:
-                for wikidata_id in publication_wiki_ids:
-                    entity = wikidata_api.get_publication_details(wikidata_id)
-                    if entity:
-                        if 'topics' in entity:
-                            detailed_topics = [wikidata_api.get_topic_details(t['id']) for t in entity['topics']]
-                            entity['topics'] = detailed_topics
-
-                        wikidata.append(entity)
-                        if 'DOI' in entity:
-                            dois.add(entity['DOI'])
-
-            logger.info("Fetching missing wikidata using " + Fore.YELLOW + 'CrossRef' + Style.RESET_ALL)
-            missing_wikidata = []
-
-            if author['orcid']:
-                missing_wikidata = crossref_api.get_publications(author['orcid'], dois=dois)
+        in_wikidata, not_in_wikidata = [], []
+        for publication in publication_lst:
+            data = wikidata_api.get_publication(publication["DOI"])
+            if data:
+                in_wikidata.append(data)
             else:
-                logger.info(Fore.RED + f'{author_name} does not have a orcid to fetch data from crossref' + Style.RESET_ALL)
-            # missing_wikidata = [dict(doi=d['DOI'], title=d['title']) for d in missing_wikidata]
-            # print(json.dumps(missing_wikidata, indent=4, sort_keys=True))
+                not_in_wikidata.append(publication)
 
-            final_data = dict(
-                author=author,
-                wikidata=wikidata,
-                missing_data=missing_wikidata
-            )
+        author_wikidata_id = get_wikidata_author_id(author_name, in_wikidata)
+        detailed_wikidata_lst = get_wikidata_detailed_publications(in_wikidata)
 
-            if not test:
-                with open(cached, 'w') as fo:
-                    json.dump(final_data, fo, indent=4, sort_keys=True)
-        else:
-            logger.info(Fore.RED + f'Author {author_name} not available on Wikidata' + Style.RESET_ALL)
+        final_data = dict(
+            author=author_name,
+            wikidata_id=author_wikidata_id,
+            wikidata=detailed_wikidata_lst,
+            missing_data=not_in_wikidata
+        )
 
+        if not test:
+            with open(cached, 'w') as fo:
+                json.dump(final_data, fo, indent=4, sort_keys=True)
+        # else:
+        #     logger.info(Fore.RED + f'Author {author_name} not available on Wikidata' + Style.RESET_ALL)
     else:
-        logger.info(Fore.YELLOW + f'loaded {author_name} from cache' + Style.RESET_ALL)
+        logger.info(Fore.YELLOW + '\talready on cache' + Style.RESET_ALL)
 
 
 def main(throttling_delay=3):
-    # publications_info('Ali Ameli', test=True) # OK
-    # publications_info('Alice Guimaraes', test=True)
-    # publications_info('Jongho Lee', test=True)
+    # publications_info('Ali Ameli', None, test=False) # OK
+    # publications_info('Alice Guimaraes', None, test=False)
+    # publications_info('Lucy Rodina', None, test=False)
     # publications_info('Jordi Honey-Rosés', test=True)
     # publications_info('Jordi Honey-Rosés', test=True)
     # publications_info('Jordi Honey-Rosés', test=True)
     # publications_info('Jordi Honey-Rosés', test=True)
 
-
-
-    # FIXME: uncomment as soon as I get it to work for a good portion of the cluster members
     _input = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         '..', 'resources', 'cluster-members.csv'
@@ -128,14 +159,14 @@ def main(throttling_delay=3):
 
     for author_name, wiki_id in authors:
         try:
-            publications_info(author_name, wikidata_id=wiki_id)
+            publications_info(author_name, test=False)
             time.sleep(throttling_delay)
             logger.info(Fore.RED + f'Sleeping {throttling_delay}s to avoid throttling/IP blocking' + Style.RESET_ALL)
         except Exception:
             logger.error(Fore.RED + f'Error fetching data for {author_name}' + Style.RESET_ALL)
             logging.exception("message")
-    # TODO: find how to dumb missing items into wikidata
-    # TODO: find how to update project members to be part of the research cluster
+
+    # TODO: find how to update/insert cluster members missing data into wikidata
 
 
 if __name__ == '__main__':

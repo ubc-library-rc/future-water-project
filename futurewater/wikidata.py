@@ -240,6 +240,50 @@ def get_publications(wikidata_id):
     else:
         return None
 
+def get_publication(DOI):
+    query = f"""
+        SELECT
+          (MIN(?dates) AS ?date)
+          ?work ?workLabel
+          (GROUP_CONCAT(DISTINCT ?type_label; separator=", ") AS ?type)
+          (SAMPLE(?pages_) AS ?pages)
+          ?venue ?venueLabel ?doi
+          (GROUP_CONCAT(DISTINCT ?author_label; separator=", ") AS ?authors)
+          (CONCAT("../authors/", GROUP_CONCAT(DISTINCT SUBSTR(STR(?author), 32); separator=",")) AS ?authorsUrl)
+        WHERE {{
+          ?work wdt:P356 "{DOI}" .
+          ?work wdt:P50 ?author .
+          OPTIONAL {{
+            ?author rdfs:label ?author_label_ . FILTER (LANG(?author_label_) = 'en')
+          }}
+          BIND(COALESCE(?author_label_, SUBSTR(STR(?author), 32)) AS ?author_label)
+          OPTIONAL {{ ?work wdt:P31 ?type_ . ?type_ rdfs:label ?type_label . FILTER (LANG(?type_label) = 'en') }}
+          ?work wdt:P577 ?datetimes .
+          BIND(xsd:date(?datetimes) AS ?dates)
+          OPTIONAL {{ ?work wdt:P1104 ?pages_ }}
+          OPTIONAL {{ ?work wdt:P1433 ?venue }}
+          OPTIONAL {{ ?work wdt:P356 ?doi }}
+          SERVICE wikibase:label {{ bd:serviceParam wikibase:language "en,da,de,es,fr,jp,no,ru,sv,zh". }}
+        }}
+        GROUP BY ?work ?workLabel ?venue ?venueLabel ?doi
+        ORDER BY DESC(?date)
+    """
+
+    try:
+        url = 'https://query.wikidata.org/sparql'
+        params = {'query': query, 'format': 'json'}
+        response = requests.get(url, params=params, headers=HEADERS)
+        data = response.json()
+
+        results = data['results']['bindings']
+        if results:
+            current = next(iter(results))
+            return {k.lower(): v['value'] for k, v in current.items()}
+        else:
+            return None
+    except Exception:
+        return None
+
 
 def entity_to_name(entity):
     if 'labels' in entity:
@@ -255,29 +299,4 @@ def entity_to_name(entity):
 
 # better querry using DOI got from google scholar.
 #defaultView:Table
-# SELECT
-#   (MIN(?dates) AS ?date)
-#   ?work ?workLabel
-#   (GROUP_CONCAT(DISTINCT ?type_label; separator=", ") AS ?type)
-#   (SAMPLE(?pages_) AS ?pages)
-#   ?venue ?venueLabel ?doi
-#   (GROUP_CONCAT(DISTINCT ?author_label; separator=", ") AS ?authors)
-#   (CONCAT("../authors/", GROUP_CONCAT(DISTINCT SUBSTR(STR(?author), 32); separator=",")) AS ?authorsUrl)
-# WHERE {
-#   ?work wdt:P356 "10.1111/RISA.13248" .
-#   ?work wdt:P50 ?author .
-#   OPTIONAL {
-#     ?author rdfs:label ?author_label_ . FILTER (LANG(?author_label_) = 'en')
-#   }
-#   BIND(COALESCE(?author_label_, SUBSTR(STR(?author), 32)) AS ?author_label)
-#   OPTIONAL { ?work wdt:P31 ?type_ . ?type_ rdfs:label ?type_label . FILTER (LANG(?type_label) = 'en') }
-#   ?work wdt:P577 ?datetimes .
-#   BIND(xsd:date(?datetimes) AS ?dates)
-#   OPTIONAL { ?work wdt:P1104 ?pages_ }
-#   OPTIONAL { ?work wdt:P1433 ?venue }
-#   OPTIONAL { ?work wdt:P356 ?doi }
-#   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,da,de,es,fr,jp,no,ru,sv,zh". }
-# }
-# GROUP BY ?work ?workLabel ?venue ?venueLabel ?doi
-# ORDER BY DESC(?date)
-#
+
