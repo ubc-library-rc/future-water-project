@@ -1,0 +1,475 @@
+[
+    {
+        "DOI": "10.1139/f2012-090",
+        "ISSN": [
+            "0706-652X",
+            "1205-7533"
+        ],
+        "URL": "http://dx.doi.org/10.1139/f2012-090",
+        "abstract": "<jats:p> Changes in riparian forest composition and diversity, such as plantations of exotic species, may alter resource quality, detritivore assemblages, and litter breakdown rates in streams. We hypothesized that different litter resources may influence colonization and drift of invertebrates inhabiting small, temperate rainforest streams in southwestern British Columbia, Canada. Leaves of different quality and origin were incubated in stream-side channels to test this hypothesis. The sequence of leaf decomposition rates was as follows: alder\u00a0&gt; alder\u00a0+ cedar\u00a0&gt; cedar\u00a0\u2265 eucalyptus. Cedar litter decayed faster when mixed with alder than when alone. Invertebrates colonizing leaf bags were predominantly collector\u2013gatherers and shredders, particularly on alder leaves. Drift density varied over the incubation period and seemed to be controlled by leaf quality, since there were more individuals drifting from channels with alder leaves than from channels with cedar or eucalyptus. However, we observed different species-specific invertebrate responses controlled by leaf traits, particularly by numerically dominant chironomid species. Indeed, invertebrate drift from channels incubated with alder bags was mostly due to pupation and emergence of orthoclad midges, whereas this was not observed in the other channels. This differential response in colonization and drift has the potential to modify the transfer rates of organic matter to higher trophic levels and thus ecosystem functioning. </jats:p>",
+        "alternative-id": [
+            "10.1139/f2012-090"
+        ],
+        "author": [
+            {
+                "affiliation": [
+                    {
+                        "name": "University of Vigo, Department of Ecology and Animal Biology, 30310\u00a0As Lagoas-Marcosende, Vigo, Spain."
+                    }
+                ],
+                "family": "Garc\u00eda",
+                "given": "Liliana",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "The University of British Columbia, Department of Forest Sciences, 3041\u00a0\u2013 2424 Main Mall, Vancouver, BC V6T\u00a01Z4, Canada."
+                    }
+                ],
+                "family": "Richardson",
+                "given": "John\u00a0S.",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of Vigo, Department of Ecology and Animal Biology, 30310\u00a0As Lagoas-Marcosende, Vigo, Spain."
+                    }
+                ],
+                "family": "Pardo",
+                "given": "Isabel",
+                "sequence": "additional"
+            }
+        ],
+        "container-title": [
+            "Canadian Journal of Fisheries and Aquatic Sciences"
+        ],
+        "content-domain": {
+            "crossmark-restriction": false,
+            "domain": []
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2012,
+                    10,
+                    12
+                ]
+            ],
+            "date-time": "2012-10-12T02:10:56Z",
+            "timestamp": 1350007856000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    6
+                ]
+            ],
+            "date-time": "2020-01-06T08:59:38Z",
+            "timestamp": 1578301178000
+        },
+        "indexed": {
+            "date-parts": [
+                [
+                    2021,
+                    1,
+                    26
+                ]
+            ],
+            "date-time": "2021-01-26T13:43:50Z",
+            "timestamp": 1611668630558
+        },
+        "is-referenced-by-count": 15,
+        "issn-type": [
+            {
+                "type": "print",
+                "value": "0706-652X"
+            },
+            {
+                "type": "electronic",
+                "value": "1205-7533"
+            }
+        ],
+        "issue": "10",
+        "issued": {
+            "date-parts": [
+                [
+                    2012,
+                    10
+                ]
+            ]
+        },
+        "journal-issue": {
+            "issue": "10",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2012,
+                        10
+                    ]
+                ]
+            }
+        },
+        "language": "en",
+        "license": [
+            {
+                "URL": "http://www.nrcresearchpress.com/page/about/CorporateTextAndDataMining",
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "start": {
+                    "date-parts": [
+                        [
+                            2012,
+                            10,
+                            1
+                        ]
+                    ],
+                    "date-time": "2012-10-01T00:00:00Z",
+                    "timestamp": 1349049600000
+                }
+            }
+        ],
+        "link": [
+            {
+                "URL": "http://www.nrcresearchpress.com/doi/full-xml/10.1139/f2012-090",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "http://www.nrcresearchpress.com/doi/pdf/10.1139/f2012-090",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "155",
+        "page": "1663-1673",
+        "prefix": "10.1139",
+        "published-print": {
+            "date-parts": [
+                [
+                    2012,
+                    10
+                ]
+            ]
+        },
+        "publisher": "Canadian Science Publishing",
+        "reference": [
+            {
+                "DOI": "10.1007/BF00016391",
+                "doi-asserted-by": "publisher",
+                "key": "refg1/ref1"
+            },
+            {
+                "DOI": "10.1007/978-94-011-0729-7_14",
+                "doi-asserted-by": "crossref",
+                "key": "refg2/ref2",
+                "unstructured": "Allan, J.D. 1995. Stream ecology: structure and function of running waters. Chapman and Hall, London, UK."
+            },
+            {
+                "DOI": "10.1046/j.1365-2427.2002.00836.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg3/ref3"
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.1995.tb00881.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg4/ref4"
+            },
+            {
+                "DOI": "10.1007/s002489900140",
+                "doi-asserted-by": "publisher",
+                "key": "refg5/ref5"
+            },
+            {
+                "key": "refg6/ref6",
+                "unstructured": "Clarke, K.R., and Gorley, R.N. 2006. PRIMER v6: user manual/tutorial. PRIMER-E Ltd., Plymouth, UK."
+            },
+            {
+                "author": "Coffman W.P.",
+                "first-page": "281",
+                "journal-title": "Arch. Hydrobiol.",
+                "key": "refg7/ref7",
+                "volume": "71",
+                "year": "1973"
+            },
+            {
+                "DOI": "10.2307/1310804",
+                "doi-asserted-by": "publisher",
+                "key": "refg8/ref8"
+            },
+            {
+                "DOI": "10.1071/MF10314",
+                "doi-asserted-by": "publisher",
+                "key": "refg9/ref9"
+            },
+            {
+                "DOI": "10.1046/j.1461-0248.2003.00398.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg10/ref10"
+            },
+            {
+                "DOI": "10.1007/s10750-012-1188-8",
+                "doi-asserted-by": "publisher",
+                "key": "refg11/ref11"
+            },
+            {
+                "DOI": "10.1111/j.0030-1299.2004.12738.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg12/ref12"
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.1991.tb01406.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg13/ref13"
+            },
+            {
+                "DOI": "10.1111/j.0030-1299.1999.13252.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg14/ref14"
+            },
+            {
+                "DOI": "10.1111/j.0030-1299.2004.13253.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg15/ref15"
+            },
+            {
+                "DOI": "10.1100/tsw.2002.193",
+                "doi-asserted-by": "publisher",
+                "key": "refg16/ref16"
+            },
+            {
+                "DOI": "10.1890/09-1968.1",
+                "doi-asserted-by": "publisher",
+                "key": "refg17/ref17"
+            },
+            {
+                "DOI": "10.2307/1468037",
+                "doi-asserted-by": "publisher",
+                "key": "refg18/ref18"
+            },
+            {
+                "key": "refg19/ref19",
+                "unstructured": "Hauer, F.R., and Lamberti, G.A. 1996. Methods in stream ecology. Academic Press, Inc., San Diego, California, USA."
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.2008.02138.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg20/ref20"
+            },
+            {
+                "author": "Hynes H.B.N.",
+                "first-page": "1",
+                "journal-title": "Verh. Int. Ver. Limnol.",
+                "key": "refg21/ref21",
+                "volume": "19",
+                "year": "1975"
+            },
+            {
+                "DOI": "10.1111/j.1365-2664.2003.00855.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg22/ref22"
+            },
+            {
+                "DOI": "10.1899/0887-3593(2004)023<0542:ELAACM>2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "refg23/ref23"
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.2009.02196.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg24/ref24"
+            },
+            {
+                "DOI": "10.1890/10-0028.1",
+                "doi-asserted-by": "publisher",
+                "key": "refg25/ref25"
+            },
+            {
+                "DOI": "10.1051/limn/2006002",
+                "doi-asserted-by": "publisher",
+                "key": "refg26/ref26"
+            },
+            {
+                "DOI": "10.1007/s00442-005-0212-3",
+                "doi-asserted-by": "publisher",
+                "key": "refg27/ref27"
+            },
+            {
+                "DOI": "10.1890/0012-9658(2007)88[219:DODLMI]2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "refg28/ref28"
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.2006.01512.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg29/ref29"
+            },
+            {
+                "DOI": "10.1023/A:1013903500888",
+                "doi-asserted-by": "publisher",
+                "key": "refg30/ref30"
+            },
+            {
+                "key": "refg31/ref31",
+                "unstructured": "Loreau, M., Naeem, S., and Inchausti, P. 2002. Biodiversity and ecosystem functioning. Synthesis and perspectives. Oxford University Press Inc., New York, USA."
+            },
+            {
+                "DOI": "10.1139/f92-071",
+                "doi-asserted-by": "publisher",
+                "key": "refg32/ref32"
+            },
+            {
+                "key": "refg33/ref33",
+                "unstructured": "Merritt, R.W., Cummins, K.W., and Berg, M.B. 2008. An introduction to the aquatic insects of North America. 4th\u00a0ed. Kendall/Hunt Publishing Company, Dubuque, Iowa, USA."
+            },
+            {
+                "author": "Minshall G.W.",
+                "first-page": "49",
+                "journal-title": "Arch. Hydrobiol.",
+                "key": "refg34/ref34",
+                "volume": "104",
+                "year": "1985"
+            },
+            {
+                "DOI": "10.1111/j.1461-0248.2004.00606.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg35/ref35"
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.1974.tb00103.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg36/ref36"
+            },
+            {
+                "DOI": "10.1146/annurev.ecolsys.28.1.289",
+                "doi-asserted-by": "publisher",
+                "key": "refg37/ref37"
+            },
+            {
+                "DOI": "10.2307/1467301",
+                "doi-asserted-by": "publisher",
+                "key": "refg38/ref38"
+            },
+            {
+                "DOI": "10.2307/1940589",
+                "doi-asserted-by": "publisher",
+                "key": "refg39/ref39"
+            },
+            {
+                "DOI": "10.1139/f92-038",
+                "doi-asserted-by": "publisher",
+                "key": "refg40/ref40"
+            },
+            {
+                "DOI": "10.1127/0003-9136/2004/0159-0309",
+                "doi-asserted-by": "publisher",
+                "key": "refg41/ref41"
+            },
+            {
+                "DOI": "10.1002/rra.1283",
+                "doi-asserted-by": "publisher",
+                "key": "refg42/ref42"
+            },
+            {
+                "DOI": "10.1007/s004420100748",
+                "author": "Rowe L.",
+                "doi-asserted-by": "crossref",
+                "first-page": "473",
+                "journal-title": "Oecologia (Berl.)",
+                "key": "refg43/ref43",
+                "volume": "129",
+                "year": "2001"
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.2009.02216.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg44/ref44"
+            },
+            {
+                "DOI": "10.1080/00288330.2003.9517210",
+                "doi-asserted-by": "publisher",
+                "key": "refg45/ref45"
+            },
+            {
+                "DOI": "10.1899/0887-3593(2004)023<0069:CRTSSD>2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "refg46/ref46"
+            },
+            {
+                "DOI": "10.1899/0887-3593(2004)023<0015:LDALBI>2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "refg47/ref47"
+            },
+            {
+                "DOI": "10.1007/s00442-005-0297-8",
+                "doi-asserted-by": "publisher",
+                "key": "refg48/ref48"
+            },
+            {
+                "DOI": "10.1899/07-054.1",
+                "doi-asserted-by": "publisher",
+                "key": "refg49/ref49"
+            },
+            {
+                "DOI": "10.2307/3579",
+                "doi-asserted-by": "publisher",
+                "key": "refg50/ref50"
+            },
+            {
+                "DOI": "10.1017/CBO9780511806407",
+                "doi-asserted-by": "crossref",
+                "key": "refg51/ref51",
+                "unstructured": "Underwood, A.J. 1997. Experiments in ecology: their logical design and interpretation using analysis of variance. Cambridge University Press, Cambridge, UK."
+            },
+            {
+                "DOI": "10.1890/0012-9615(1999)069[0409:EORLOA]2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "refg52/ref52"
+            },
+            {
+                "DOI": "10.1146/annurev.es.17.110186.003031",
+                "doi-asserted-by": "publisher",
+                "key": "refg53/ref53"
+            },
+            {
+                "DOI": "10.1023/B:HYDR.0000027734.95586.24",
+                "doi-asserted-by": "publisher",
+                "key": "refg54/ref54"
+            },
+            {
+                "DOI": "10.1111/j.1752-1688.2007.00007.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg55/ref55"
+            },
+            {
+                "DOI": "10.1111/j.1365-2427.2008.02081.x",
+                "doi-asserted-by": "publisher",
+                "key": "refg56/ref56"
+            }
+        ],
+        "reference-count": 56,
+        "references-count": 56,
+        "relation": {
+            "cites": []
+        },
+        "score": 23.49575,
+        "short-container-title": [
+            "Can. J. Fish. Aquat. Sci."
+        ],
+        "source": "Crossref",
+        "subject": [
+            "Aquatic Science",
+            "Ecology, Evolution, Behavior and Systematics"
+        ],
+        "title": [
+            "Leaf quality influences invertebrate colonization and drift in a temperate rainforest stream"
+        ],
+        "type": "journal-article",
+        "volume": "69"
+    }
+]

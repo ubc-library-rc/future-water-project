@@ -1,0 +1,1234 @@
+[
+    {
+        "DOI": "10.7287/peerj.preprints.27409v1",
+        "URL": "http://dx.doi.org/10.7287/peerj.preprints.27409v1",
+        "abstract": "<jats:p>Governments around the world rely on environmental impact assessment (EIA) to provide rigorous analyses and an accurate appraisal of the risks and benefits of development. But how rigorous are the analyses conducted in EIAs, and how do they compare across nations? We evaluate the output from EIAs for jurisdictions in seven countries, focusing on scope (temporal and spatial), mitigation actions, and impact significance determination, which is integral for decision-making. We find that in all jurisdictions, the number of identified significant adverse impacts was consistently small (or nonexistent), regardless of context. Likely contributing to this uniformity, we find that the scopes of analyses are consistently narrower than warranted ecologically and toxicologically, many proposed mitigation measures are assumed to be effective with little to no justification,and that the professional judgement of developer-paid consultants is overwhelmingly the determinant of impact significance, with no transparent account of the reasoning processes involved. EIA can be salvaged as a rigorous, credible decision-aiding tool if rigor is enforced in assessment methodologies, regulators are empowered to enforce rigor, and pro-development conflict of interest is avoided.</jats:p>",
+        "author": [
+            {
+                "ORCID": "http://orcid.org/0000-0003-4333-1988",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "authenticated-orcid": true,
+                "family": "Singh",
+                "given": "Gerald G",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Lerner",
+                "given": "Jackie",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Center for Ocean Solutions, Monterey, USA"
+                    }
+                ],
+                "family": "Mach",
+                "given": "Megan",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Fisheries and Oceans Canada, Victoria, Canada"
+                    }
+                ],
+                "family": "Clarke Murray",
+                "given": "Cathryn",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Ranieri",
+                "given": "Bernardo",
+                "sequence": "additional"
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0002-1329-0954",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "authenticated-orcid": true,
+                "family": "Peterson St-Laurent",
+                "given": "Guillaume",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "World Wildlife Fund, Vancouver, Canada"
+                    }
+                ],
+                "family": "Wong",
+                "given": "Janson",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Guimaraes",
+                "given": "Alice",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Yunda-Guarin",
+                "given": "Gustavo",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Satterfield",
+                "given": "Terre",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Chan",
+                "given": "Kai",
+                "sequence": "additional"
+            }
+        ],
+        "content-domain": {
+            "crossmark-restriction": false,
+            "domain": []
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2018-12-05T15:03:13Z",
+            "timestamp": 1544022193000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    24
+                ]
+            ],
+            "date-time": "2019-12-24T01:08:21Z",
+            "timestamp": 1577149701000
+        },
+        "group-title": "PeerJ Preprints",
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    14
+                ]
+            ],
+            "date-time": "2020-04-14T13:19:04Z",
+            "timestamp": 1586870344251
+        },
+        "is-referenced-by-count": 1,
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    12,
+                    5
+                ]
+            ]
+        },
+        "license": [
+            {
+                "URL": "http://creativecommons.org/licenses/by/4.0/",
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            12,
+                            5
+                        ]
+                    ],
+                    "date-time": "2018-12-05T00:00:00Z",
+                    "timestamp": 1543968000000
+                }
+            }
+        ],
+        "link": [
+            {
+                "URL": "https://peerj.com/preprints/27409v1.pdf",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://peerj.com/preprints/27409v1.xml",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://peerj.com/preprints/27409v1.html",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://peerj.com/preprints/27409v1.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "4443",
+        "posted": {
+            "date-parts": [
+                [
+                    2018,
+                    12,
+                    5
+                ]
+            ]
+        },
+        "prefix": "10.7287",
+        "publisher": "PeerJ",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+            "references": [
+                {
+                    "asserted-by": "subject",
+                    "id": "10.7287/peerj.preprints.27409v1/supp-1",
+                    "id-type": "doi"
+                },
+                {
+                    "asserted-by": "subject",
+                    "id": "10.7287/peerj.preprints.27409v1/supp-2",
+                    "id-type": "doi"
+                },
+                {
+                    "asserted-by": "object",
+                    "id": "10.7287/peerj.preprints.27409v1/supp-1",
+                    "id-type": "doi"
+                },
+                {
+                    "asserted-by": "object",
+                    "id": "10.7287/peerj.preprints.27409v1/supp-2",
+                    "id-type": "doi"
+                }
+            ]
+        },
+        "score": 25.938768,
+        "source": "Crossref",
+        "subtype": "preprint",
+        "title": [
+            "Scientific shortcomings in environmental impact statements internationally"
+        ],
+        "type": "posted-content"
+    },
+    {
+        "DOI": "10.7287/peerj.preprints.27409",
+        "URL": "http://dx.doi.org/10.7287/peerj.preprints.27409",
+        "abstract": "<jats:p>Governments around the world rely on environmental impact assessment (EIA) to provide rigorous analyses and an accurate appraisal of the risks and benefits of development. But how rigorous are the analyses conducted in EIAs, and how do they compare across nations? We evaluate the output from EIAs for jurisdictions in seven countries, focusing on scope (temporal and spatial), mitigation actions, and impact significance determination, which is integral for decision-making. We find that in all jurisdictions, the number of identified significant adverse impacts was consistently small (or nonexistent), regardless of context. Likely contributing to this uniformity, we find that the scopes of analyses are consistently narrower than warranted ecologically and toxicologically, many proposed mitigation measures are assumed to be effective with little to no justification,and that the professional judgement of developer-paid consultants is overwhelmingly the determinant of impact significance, with no transparent account of the reasoning processes involved. EIA can be salvaged as a rigorous, credible decision-aiding tool if rigor is enforced in assessment methodologies, regulators are empowered to enforce rigor, and pro-development conflict of interest is avoided.</jats:p>",
+        "author": [
+            {
+                "ORCID": "http://orcid.org/0000-0003-4333-1988",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "authenticated-orcid": true,
+                "family": "Singh",
+                "given": "Gerald G",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Lerner",
+                "given": "Jackie",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Center for Ocean Solutions, Monterey, USA"
+                    }
+                ],
+                "family": "Mach",
+                "given": "Megan",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Fisheries and Oceans Canada, Victoria, Canada"
+                    }
+                ],
+                "family": "Clarke Murray",
+                "given": "Cathryn",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Ranieri",
+                "given": "Bernardo",
+                "sequence": "additional"
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0002-1329-0954",
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "authenticated-orcid": true,
+                "family": "Peterson St-Laurent",
+                "given": "Guillaume",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "World Wildlife Fund, Vancouver, Canada"
+                    }
+                ],
+                "family": "Wong",
+                "given": "Janson",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Guimaraes",
+                "given": "Alice",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Yunda-Guarin",
+                "given": "Gustavo",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Satterfield",
+                "given": "Terre",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "University of British Columbia, Vancouver, Canada"
+                    }
+                ],
+                "family": "Chan",
+                "given": "Kai",
+                "sequence": "additional"
+            }
+        ],
+        "content-domain": {
+            "crossmark-restriction": false,
+            "domain": []
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    12,
+                    5
+                ]
+            ],
+            "date-time": "2018-12-05T15:03:21Z",
+            "timestamp": 1544022201000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    24
+                ]
+            ],
+            "date-time": "2019-12-24T11:58:05Z",
+            "timestamp": 1577188685000
+        },
+        "group-title": "PeerJ Preprints",
+        "indexed": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    24
+                ]
+            ],
+            "date-time": "2019-12-24T12:40:11Z",
+            "timestamp": 1577191211447
+        },
+        "is-referenced-by-count": 0,
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    12,
+                    5
+                ]
+            ]
+        },
+        "license": [
+            {
+                "URL": "http://creativecommons.org/licenses/by/4.0/",
+                "content-version": "unspecified",
+                "delay-in-days": 0,
+                "start": {
+                    "date-parts": [
+                        [
+                            2018,
+                            12,
+                            5
+                        ]
+                    ],
+                    "date-time": "2018-12-05T00:00:00Z",
+                    "timestamp": 1543968000000
+                }
+            }
+        ],
+        "link": [
+            {
+                "URL": "https://peerj.com/preprints/27409.pdf",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://peerj.com/preprints/27409.xml",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://peerj.com/preprints/27409.html",
+                "content-type": "text/html",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://peerj.com/preprints/27409.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "4443",
+        "posted": {
+            "date-parts": [
+                [
+                    2018,
+                    12,
+                    5
+                ]
+            ]
+        },
+        "prefix": "10.7287",
+        "publisher": "PeerJ",
+        "reference-count": 0,
+        "references-count": 0,
+        "relation": {
+            "references": [
+                {
+                    "asserted-by": "subject",
+                    "id": "10.7287/peerj.preprints.27409v1/supp-1",
+                    "id-type": "doi"
+                },
+                {
+                    "asserted-by": "subject",
+                    "id": "10.7287/peerj.preprints.27409v1/supp-2",
+                    "id-type": "doi"
+                }
+            ]
+        },
+        "score": 25.938768,
+        "source": "Crossref",
+        "subtype": "preprint",
+        "title": [
+            "Scientific shortcomings in environmental impact statements internationally"
+        ],
+        "type": "posted-content"
+    },
+    {
+        "DOI": "10.1002/pan3.10081",
+        "ISSN": [
+            "2575-8314",
+            "2575-8314"
+        ],
+        "URL": "http://dx.doi.org/10.1002/pan3.10081",
+        "alternative-id": [
+            "10.1002/pan3.10081"
+        ],
+        "archive": [
+            "Portico"
+        ],
+        "assertion": [
+            {
+                "group": {
+                    "label": "Publication History",
+                    "name": "publication_history"
+                },
+                "label": "Received",
+                "name": "received",
+                "order": 0,
+                "value": "2018-12-14"
+            },
+            {
+                "group": {
+                    "label": "Publication History",
+                    "name": "publication_history"
+                },
+                "label": "Accepted",
+                "name": "accepted",
+                "order": 1,
+                "value": "2020-02-01"
+            },
+            {
+                "group": {
+                    "label": "Publication History",
+                    "name": "publication_history"
+                },
+                "label": "Published",
+                "name": "published",
+                "order": 2,
+                "value": "2020-03-22"
+            }
+        ],
+        "author": [
+            {
+                "ORCID": "http://orcid.org/0000-0003-4333-1988",
+                "affiliation": [
+                    {
+                        "name": "Nippon Foundation Nereus Program Institute for the Oceans and Fisheries University of British Columbia Vancouver BC Canada"
+                    },
+                    {
+                        "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                    }
+                ],
+                "authenticated-orcid": false,
+                "family": "Singh",
+                "given": "Gerald G.",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                    }
+                ],
+                "family": "Lerner",
+                "given": "Jackie",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Center for Ocean Solutions Monterey CA USA"
+                    }
+                ],
+                "family": "Mach",
+                "given": "Megan",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                    },
+                    {
+                        "name": "Fisheries and Oceans Canada Victoria BC Canada"
+                    },
+                    {
+                        "name": "World Wildlife Fund Canada (WWF\u2010Canada) Vancouver BC Canada"
+                    }
+                ],
+                "family": "Murray",
+                "given": "Cathryn Clarke",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Norman B Keevil Institute of Mining Engineering University of British Columbia Vancouver BC Canada"
+                    }
+                ],
+                "family": "Ranieri",
+                "given": "Bernardo",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                    }
+                ],
+                "family": "St\u2010Laurent",
+                "given": "Guillaume Peterson",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "World Wildlife Fund Canada (WWF\u2010Canada) Vancouver BC Canada"
+                    }
+                ],
+                "family": "Wong",
+                "given": "Janson",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Norman B Keevil Institute of Mining Engineering University of British Columbia Vancouver BC Canada"
+                    }
+                ],
+                "family": "Guimaraes",
+                "given": "Alice",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                    }
+                ],
+                "family": "Yunda\u2010Guarin",
+                "given": "Gustavo",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                    }
+                ],
+                "family": "Satterfield",
+                "given": "Terre",
+                "sequence": "additional"
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0002-7804-3276",
+                "affiliation": [
+                    {
+                        "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                    }
+                ],
+                "authenticated-orcid": false,
+                "family": "Chan",
+                "given": "Kai M. A.",
+                "sequence": "additional"
+            }
+        ],
+        "container-title": [
+            "People and Nature"
+        ],
+        "content-domain": {
+            "crossmark-restriction": true,
+            "domain": [
+                "onlinelibrary.wiley.com"
+            ]
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2020,
+                    3,
+                    23
+                ]
+            ],
+            "date-time": "2020-03-23T05:01:13Z",
+            "timestamp": 1584939673000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    3
+                ]
+            ],
+            "date-time": "2020-06-03T16:34:10Z",
+            "timestamp": 1591202050000
+        },
+        "editor": [
+            {
+                "affiliation": [],
+                "family": "Buckley",
+                "given": "Yvonne",
+                "sequence": "additional"
+            }
+        ],
+        "funder": [
+            {
+                "DOI": "10.13039/100011346",
+                "award": [],
+                "doi-asserted-by": "publisher",
+                "name": "Pacific Institute for Climate Solutions"
+            },
+            {
+                "DOI": "10.13039/501100000038",
+                "award": [],
+                "doi-asserted-by": "publisher",
+                "name": "Natural Sciences and Engineering Research Council of Canada"
+            },
+            {
+                "DOI": "10.13039/501100002322",
+                "award": [],
+                "doi-asserted-by": "publisher",
+                "name": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior"
+            },
+            {
+                "DOI": "10.13039/501100000155",
+                "award": [],
+                "doi-asserted-by": "publisher",
+                "name": "Social Sciences and Humanities Research Council of Canada"
+            },
+            {
+                "DOI": "10.13039/501100003593",
+                "award": [],
+                "doi-asserted-by": "publisher",
+                "name": "Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico"
+            },
+            {
+                "DOI": "10.13039/100000001",
+                "award": [],
+                "doi-asserted-by": "publisher",
+                "name": "National Science Foundation"
+            }
+        ],
+        "indexed": {
+            "date-parts": [
+                [
+                    2021,
+                    2,
+                    4
+                ]
+            ],
+            "date-time": "2021-02-04T08:43:52Z",
+            "timestamp": 1612428232520
+        },
+        "is-referenced-by-count": 4,
+        "issn-type": [
+            {
+                "type": "print",
+                "value": "2575-8314"
+            },
+            {
+                "type": "electronic",
+                "value": "2575-8314"
+            }
+        ],
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    3,
+                    22
+                ]
+            ]
+        },
+        "journal-issue": {
+            "issue": "2",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            }
+        },
+        "language": "en",
+        "license": [
+            {
+                "URL": "http://creativecommons.org/licenses/by/4.0/",
+                "content-version": "am",
+                "delay-in-days": 365,
+                "start": {
+                    "date-parts": [
+                        [
+                            2021,
+                            3,
+                            22
+                        ]
+                    ],
+                    "date-time": "2021-03-22T00:00:00Z",
+                    "timestamp": 1616371200000
+                }
+            },
+            {
+                "URL": "http://creativecommons.org/licenses/by/4.0/",
+                "content-version": "vor",
+                "delay-in-days": 0,
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            3,
+                            22
+                        ]
+                    ],
+                    "date-time": "2020-03-22T00:00:00Z",
+                    "timestamp": 1584835200000
+                }
+            },
+            {
+                "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                "content-version": "tdm",
+                "delay-in-days": 0,
+                "start": {
+                    "date-parts": [
+                        [
+                            2020,
+                            3,
+                            22
+                        ]
+                    ],
+                    "date-time": "2020-03-22T00:00:00Z",
+                    "timestamp": 1584835200000
+                }
+            }
+        ],
+        "link": [
+            {
+                "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fpan3.10081",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pan3.10081",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/pan3.10081",
+                "content-type": "application/xml",
+                "content-version": "vor",
+                "intended-application": "text-mining"
+            },
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/am-pdf/10.1002%2Fpan3.10081",
+                "content-type": "application/pdf",
+                "content-version": "am",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pan3.10081",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pan3.10081",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "311",
+        "page": "369-379",
+        "prefix": "10.1002",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    3,
+                    22
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    6
+                ]
+            ]
+        },
+        "publisher": "Wiley",
+        "reference": [
+            {
+                "DOI": "10.1177/1086026600131001",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_2_1"
+            },
+            {
+                "DOI": "10.1016/j.eiar.2015.12.003",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_3_1"
+            },
+            {
+                "DOI": "10.3316/QRJ0902027",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_4_1"
+            },
+            {
+                "DOI": "10.1016/j.eiar.2012.04.003",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_5_1"
+            },
+            {
+                "DOI": "10.1016/S0195-9255(96)00082-0",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_6_1"
+            },
+            {
+                "DOI": "10.1016/0195-9255(93)90020-C",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_7_1"
+            },
+            {
+                "author": "Canty A.",
+                "key": "e_1_2_9_8_1",
+                "volume-title": "boot: Bootstrap R (S\u2010plus) functions",
+                "year": "2015"
+            },
+            {
+                "DOI": "10.1016/j.eiar.2012.06.008",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_9_1"
+            },
+            {
+                "DOI": "10.1016/j.apgeochem.2009.01.006",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_10_1"
+            },
+            {
+                "author": "CEQ",
+                "key": "e_1_2_9_11_1",
+                "volume-title": "Guidance regarding NEPA regulations",
+                "year": "1983"
+            },
+            {
+                "author": "Chernick M. R.",
+                "key": "e_1_2_9_12_1",
+                "volume-title": "Bootstrap methods: A guide for practitioners and researchers",
+                "year": "2008"
+            },
+            {
+                "author": "Clark B.",
+                "first-page": "35",
+                "key": "e_1_2_9_13_1",
+                "volume-title": "Handbook of environmental impact assessment",
+                "year": "1999"
+            },
+            {
+                "DOI": "10.1890/100068",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_14_1"
+            },
+            {
+                "DOI": "10.1111/j.1461-0248.2008.01253.x",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_15_1"
+            },
+            {
+                "DOI": "10.1007/3-540-26590-2_3",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_16_1"
+            },
+            {
+                "DOI": "10.1111/j.1461-0248.2008.01243.x",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_17_1"
+            },
+            {
+                "key": "e_1_2_9_18_1",
+                "unstructured": "2000 J. Demchak J. Skousen G. Bryant P. Ziemkiewicz Comparison of water quality in fifteen underground coal mines in 1968 and 1999"
+            },
+            {
+                "DOI": "10.2134/jeq2004.6560",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_19_1"
+            },
+            {
+                "DOI": "10.1139/er-2012-0035",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_20_1"
+            },
+            {
+                "DOI": "10.1007/s00267-004-0240-5",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_21_1"
+            },
+            {
+                "DOI": "10.1080/14615517.2014.981023",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_22_1"
+            },
+            {
+                "author": "Fishkin J.",
+                "key": "e_1_2_9_23_1",
+                "volume-title": "When the people speak: Deliberative democracy and public consultation",
+                "year": "2009"
+            },
+            {
+                "author": "Glasson J.",
+                "key": "e_1_2_9_24_1",
+                "volume-title": "Introduction to environmental impact assessment",
+                "year": "2013"
+            },
+            {
+                "DOI": "10.1126/science.1248361",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_25_1"
+            },
+            {
+                "DOI": "10.1016/j.eiar.2014.04.003",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_26_1"
+            },
+            {
+                "DOI": "10.1007/BF01866723",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_27_1"
+            },
+            {
+                "author": "Hughes R.",
+                "key": "e_1_2_9_28_1",
+                "volume-title": "Environmental impact assessment and stakeholder involvement",
+                "year": "1998"
+            },
+            {
+                "DOI": "10.1073/pnas.0704469104",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_29_1"
+            },
+            {
+                "DOI": "10.1016/j.eiar.2006.12.001",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_30_1"
+            },
+            {
+                "DOI": "10.1080/14615517.2015.1125643",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_31_1"
+            },
+            {
+                "author": "Killingsworth M. J.",
+                "key": "e_1_2_9_32_1",
+                "volume-title": "Ecospeak: Rhetoric and environmental politics in America",
+                "year": "2012"
+            },
+            {
+                "DOI": "10.1142/S1464333206002360",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_33_1"
+            },
+            {
+                "DOI": "10.1890/12-1137.1",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_34_1"
+            },
+            {
+                "author": "Krippendorff K.",
+                "key": "e_1_2_9_35_1",
+                "volume-title": "Content analysis: An introduction to its methodology",
+                "year": "2004"
+            },
+            {
+                "DOI": "10.1016/j.eiar.2007.02.011",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_36_1"
+            },
+            {
+                "DOI": "10.1080/09640568.2015.1116980",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_37_1"
+            },
+            {
+                "DOI": "10.19150/mmp.8464",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_38_1"
+            },
+            {
+                "DOI": "10.1002/jwmg.259",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_39_1"
+            },
+            {
+                "DOI": "10.3152/147154602781766618",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_40_1"
+            },
+            {
+                "DOI": "10.1016/j.apgeochem.2006.06.016",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_41_1"
+            },
+            {
+                "DOI": "10.1016/j.mineng.2017.08.008",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_42_1"
+            },
+            {
+                "DOI": "10.1126/science.349.6248.596-a",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_43_1"
+            },
+            {
+                "DOI": "10.1073/pnas.1319946111",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_44_1"
+            },
+            {
+                "DOI": "10.1371/journal.pone.0162932",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_45_1"
+            },
+            {
+                "DOI": "10.1016/j.envpol.2019.01.085",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_46_1"
+            },
+            {
+                "DOI": "10.1007/s00267-016-0799-7",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_47_1"
+            },
+            {
+                "DOI": "10.1016/S1076-6332(98)80208-0",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_48_1"
+            },
+            {
+                "DOI": "10.1016/j.eiar.2009.05.001",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_49_1"
+            },
+            {
+                "DOI": "10.1111/j.1539-6924.2005.00603.x",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_50_1"
+            },
+            {
+                "DOI": "10.1142/S1464333201000819",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_51_1"
+            },
+            {
+                "DOI": "10.1007/s00267-004-0263-y",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_52_1"
+            },
+            {
+                "DOI": "10.1016/S0195-9255(96)00071-6",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_53_1"
+            },
+            {
+                "article-title": "Data from: Scientific shortcomings in environmental impact statements internationally",
+                "author": "Singh G. G.",
+                "journal-title": "Dryad Digital Repository",
+                "key": "e_1_2_9_54_1",
+                "year": "2020"
+            },
+            {
+                "DOI": "10.1016/j.jenvman.2017.05.032",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_55_1"
+            },
+            {
+                "DOI": "10.1126/science.3576198",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_56_1"
+            },
+            {
+                "DOI": "10.14430/arctic1203",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_57_1"
+            },
+            {
+                "DOI": "10.3152/147154601781767131",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_58_1"
+            },
+            {
+                "author": "Wood C.",
+                "key": "e_1_2_9_59_1",
+                "volume-title": "Environmental impact assessment: A comparative review",
+                "year": "2003"
+            },
+            {
+                "DOI": "10.3368/er.25.3.162",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_2_9_60_1"
+            }
+        ],
+        "reference-count": 59,
+        "references-count": 59,
+        "relation": {
+            "cites": []
+        },
+        "score": 17.270033,
+        "short-container-title": [
+            "People and Nature"
+        ],
+        "source": "Crossref",
+        "title": [
+            "Scientific shortcomings in environmental impact statements internationally"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+        "volume": "2"
+    }
+]

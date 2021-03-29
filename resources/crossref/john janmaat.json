@@ -1,0 +1,617 @@
+[
+    {
+        "DOI": "10.3138/cpp.2017-003",
+        "ISSN": [
+            "0317-0861",
+            "1911-9917"
+        ],
+        "URL": "http://dx.doi.org/10.3138/cpp.2017-003",
+        "alternative-id": [
+            "10.3138/cpp.2017-003"
+        ],
+        "author": [
+            {
+                "affiliation": [
+                    {
+                        "name": "I.K. Barber School of Arts and Sciences, University of British Columbia, Kelowna, British Columbia"
+                    }
+                ],
+                "family": "Janmaat",
+                "given": "John",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "I.K. Barber School of Arts and Sciences, University of British Columbia, Kelowna, British Columbia"
+                    }
+                ],
+                "family": "Rahimova",
+                "given": "Nargiz",
+                "sequence": "additional"
+            }
+        ],
+        "container-title": [
+            "Canadian Public Policy"
+        ],
+        "content-domain": {
+            "crossmark-restriction": false,
+            "domain": []
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2018,
+                    6,
+                    13
+                ]
+            ],
+            "date-time": "2018-06-13T17:47:38Z",
+            "timestamp": 1528912058000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2018,
+                    6,
+                    28
+                ]
+            ],
+            "date-time": "2018-06-28T19:24:17Z",
+            "timestamp": 1530213857000
+        },
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    13
+                ]
+            ],
+            "date-time": "2020-04-13T23:41:24Z",
+            "timestamp": 1586821284201
+        },
+        "is-referenced-by-count": 0,
+        "issn-type": [
+            {
+                "type": "print",
+                "value": "0317-0861"
+            },
+            {
+                "type": "electronic",
+                "value": "1911-9917"
+            }
+        ],
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2018,
+                    6
+                ]
+            ]
+        },
+        "journal-issue": {
+            "issue": "2",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        6
+                    ]
+                ]
+            }
+        },
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://utpjournals.press/doi/pdf/10.3138/cpp.2017-003",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "1696",
+        "page": "112-125",
+        "prefix": "10.3138",
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    6
+                ]
+            ]
+        },
+        "publisher": "University of Toronto Press Inc. (UTPress)",
+        "reference-count": 0,
+        "references-count": 0,
+        "score": 38.55891,
+        "short-container-title": [
+            "Canadian Public Policy"
+        ],
+        "source": "Crossref",
+        "title": [
+            "Managing Drought Risk in the Okanagan: A Role for Dry-Year Option Contracts?"
+        ],
+        "type": "journal-article",
+        "volume": "44"
+    },
+    {
+        "DOI": "10.1080/07011784.2016.1268933",
+        "ISSN": [
+            "0701-1784",
+            "1918-1817"
+        ],
+        "URL": "http://dx.doi.org/10.1080/07011784.2016.1268933",
+        "alternative-id": [
+            "10.1080/07011784.2016.1268933"
+        ],
+        "assertion": [
+            {
+                "label": "Peer Review Statement",
+                "name": "peerreview_statement",
+                "order": 1,
+                "value": "The publishing and review policy for this title is described in its Aims & Scope."
+            },
+            {
+                "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tcwr20",
+                "label": "Aim & Scope",
+                "name": "aims_and_scope_url",
+                "order": 2,
+                "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=tcwr20"
+            }
+        ],
+        "author": [
+            {
+                "affiliation": [
+                    {
+                        "name": "Department of Earth and Environmental Sciences, University of British Columbia, Kelowna, Canada"
+                    }
+                ],
+                "family": "Brahney",
+                "given": "Janice",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Hydrology, BC Hydro, Burnaby, Canada"
+                    }
+                ],
+                "family": "Weber",
+                "given": "Frank",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "British Columbia Ministry of Forests, Lands, and Natural Resource Operations, Prince George, Canada"
+                    }
+                ],
+                "family": "Foord",
+                "given": "Vanessa",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Department of Economics, University of British Columbia, Kelowna, Canada"
+                    }
+                ],
+                "family": "Janmaat",
+                "given": "John",
+                "sequence": "additional"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Department of Earth and Environmental Sciences, University of British Columbia, Kelowna, Canada"
+                    }
+                ],
+                "family": "Curtis",
+                "given": "Paul Jefferson",
+                "sequence": "additional"
+            }
+        ],
+        "container-title": [
+            "Canadian Water Resources Journal / Revue canadienne des ressources hydriques"
+        ],
+        "content-domain": {
+            "crossmark-restriction": true,
+            "domain": [
+                "www.tandfonline.com"
+            ]
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2017,
+                    2,
+                    22
+                ]
+            ],
+            "date-time": "2017-02-22T12:55:20Z",
+            "timestamp": 1487768120000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2017,
+                    7,
+                    22
+                ]
+            ],
+            "date-time": "2017-07-22T02:00:02Z",
+            "timestamp": 1500688802000
+        },
+        "funder": [
+            {
+                "DOI": "10.13039/501100000038",
+                "award": [],
+                "doi-asserted-by": "publisher",
+                "name": "Natural Sciences and Engineering Research Council of Canada"
+            },
+            {
+                "award": [],
+                "name": "Columbia Basin Trust"
+            }
+        ],
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    12,
+                    15
+                ]
+            ],
+            "date-time": "2020-12-15T03:23:42Z",
+            "timestamp": 1608002622671
+        },
+        "is-referenced-by-count": 4,
+        "issn-type": [
+            {
+                "type": "print",
+                "value": "0701-1784"
+            },
+            {
+                "type": "electronic",
+                "value": "1918-1817"
+            }
+        ],
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    2017,
+                    2,
+                    22
+                ]
+            ]
+        },
+        "journal-issue": {
+            "issue": "2",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2017,
+                        2,
+                        9
+                    ]
+                ]
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2017,
+                        4,
+                        3
+                    ]
+                ]
+            }
+        },
+        "language": "en",
+        "link": [
+            {
+                "URL": "https://www.tandfonline.com/doi/pdf/10.1080/07011784.2016.1268933",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "301",
+        "page": "179-192",
+        "prefix": "10.1080",
+        "published-online": {
+            "date-parts": [
+                [
+                    2017,
+                    2,
+                    22
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2017,
+                    4,
+                    3
+                ]
+            ]
+        },
+        "publisher": "Informa UK Limited",
+        "reference": [
+            {
+                "DOI": "10.1038/nature04141",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0001"
+            },
+            {
+                "DOI": "10.1126/science.1152538",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0002"
+            },
+            {
+                "key": "CIT0003",
+                "unstructured": "BC, L., and W. 2003. Status of community water supplies in British Columbia: 2003 drought survey. Report."
+            },
+            {
+                "DOI": "10.1016/j.rse.2009.08.015",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0005"
+            },
+            {
+                "DOI": "10.1029/2003GL018597",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0006"
+            },
+            {
+                "DOI": "10.2307/1910133",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0007"
+            },
+            {
+                "DOI": "10.1080/02508060008686827",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0008"
+            },
+            {
+                "DOI": "10.1016/S0022-1694(00)00194-3",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0010"
+            },
+            {
+                "DOI": "10.5822/978-1-61091-008-8_3",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0011"
+            },
+            {
+                "DOI": "10.1029/2008WR006975",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0012"
+            },
+            {
+                "DOI": "10.1002/2014JD022221",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0013"
+            },
+            {
+                "DOI": "10.1080/07011784.2014.942164",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0014"
+            },
+            {
+                "DOI": "10.1002/(ISSN)1099-1085",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0015"
+            },
+            {
+                "DOI": "10.1088/1748-9326/11/4/044015",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0016"
+            },
+            {
+                "DOI": "10.1061/(ASCE)0733-9496(1992)118:6(654)",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0017"
+            },
+            {
+                "DOI": "10.1080/07055900.2012.759899",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0018"
+            },
+            {
+                "DOI": "10.1007/s10393-004-0120-8",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0019"
+            },
+            {
+                "DOI": "10.1111/jawr.1999.35.issue-6",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0020"
+            },
+            {
+                "DOI": "10.1061/(ASCE)0733-9496(1999)125:6(333)",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0021"
+            },
+            {
+                "DOI": "10.1016/S0079-6611(00)00033-1",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0022"
+            },
+            {
+                "DOI": "10.1175/1520-0469(1983)040<0817:BIOTPN>2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0023"
+            },
+            {
+                "author": "MacDonald, Berzins, N. R.",
+                "key": "CIT0026",
+                "volume-title": "Upper Columbia river watershed hydrometric analysis - phase 1",
+                "year": "2009"
+            },
+            {
+                "DOI": "10.1023/A:1015820616384",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0027"
+            },
+            {
+                "DOI": "10.1175/1520-0477(1997)078<1069:APICOW>2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0028"
+            },
+            {
+                "DOI": "10.1002/(ISSN)1099-1085",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0029"
+            },
+            {
+                "DOI": "10.1890/1051-0761(2003)13[964:ALMSAA]2.0.CO;2",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0030"
+            },
+            {
+                "DOI": "10.1002/eco.v2:2",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0031"
+            },
+            {
+                "DOI": "10.1175/JCLI3971.1",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0032"
+            },
+            {
+                "DOI": "10.1175/BAMS-86-1-39",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0033"
+            },
+            {
+                "key": "CIT0034",
+                "unstructured": "Murdock J. Fraser, and C. Pearce (Eds), T. Q., and C. B. Trust. 2007. Preliminary analysis of climate variability and change in the Canadian Columbia River basin: Focus on water resources 2006. Page (P. C. I. Consortium, ed. Report, University of Victoria, Victoria BC."
+            },
+            {
+                "DOI": "10.1016/j.pocean.2008.03.016",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0035"
+            },
+            {
+                "DOI": "10.1007/s10533-014-9957-2",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0036"
+            },
+            {
+                "author": "PCIC",
+                "key": "CIT0037",
+                "volume-title": "Climate summary for: Kootenay.Boundary region",
+                "year": "2013"
+            },
+            {
+                "DOI": "10.1002/grl.50424",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0038"
+            },
+            {
+                "DOI": "10.1029/2003GL017528",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0039"
+            },
+            {
+                "DOI": "10.1002/eco.v5.4",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0040"
+            },
+            {
+                "DOI": "10.1016/S0378-1127(01)00459-5",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0041"
+            },
+            {
+                "DOI": "10.1175/JCLI-3272.1",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0042"
+            },
+            {
+                "key": "CIT0043",
+                "unstructured": "Rodenhuis, D.R., K.E. Bennett, A.T. Werner, T.Q. Murdock, D. B. 2007. Hydro-climatology and future climate impacts in british Columbia. Report, University of Victoria, BC, Pacific Climate Impacts Consortium."
+            },
+            {
+                "DOI": "10.4319/lo.1996.41.5.1004",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0045"
+            },
+            {
+                "author": "Schnorbus M. A.",
+                "key": "CIT0046",
+                "volume-title": "Hydrologic impacts of climate change in the Peace, Campbell and Columbia watersheds, British Columbia",
+                "year": "2011"
+            },
+            {
+                "DOI": "10.1002/hyp.v28.3",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0047"
+            },
+            {
+                "DOI": "10.1029/2010GL043830",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0048"
+            },
+            {
+                "DOI": "10.1175/JCLI3321.1",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0049"
+            },
+            {
+                "DOI": "10.1029/2006WR005653",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0050"
+            },
+            {
+                "DOI": "10.1175/JAMC-D-11-043.1",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0051"
+            },
+            {
+                "author": "Ward M. J.",
+                "key": "CIT0052",
+                "volume-title": "The state of the mountains report. The impacts of climate change on teh alpine environment and glaciers of sourthern Alberta and British Columbia",
+                "year": "2011"
+            },
+            {
+                "DOI": "10.4296/cwrj3501001",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0053"
+            },
+            {
+                "DOI": "10.1002/(ISSN)1099-1085",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0054"
+            },
+            {
+                "key": "CIT0055",
+                "unstructured": "Winkler, R. D., R. D. Moore, T. E. Redding, D. L. Spittlehouse, B. D. Smerdon, and D. E. Carlyle-Moses. 2010. Chapter 7. The effects of forest disturbance on hydrologic processes and watershed response. In Page (T. E. R. Edited by R.G. Pike R.D. Moore, and and K. D. B. R.D. Winkler, Eds.) Compendium of Forest Hydrology and Geomorphology in British Columbia. Book, B.C. Ministry of Forests, Mines and Lands. FORREX."
+            },
+            {
+                "DOI": "10.1029/2001WR000861",
+                "doi-asserted-by": "publisher",
+                "key": "CIT0056"
+            }
+        ],
+        "reference-count": 51,
+        "references-count": 51,
+        "relation": {
+            "cites": []
+        },
+        "score": 27.992916,
+        "short-container-title": [
+            "Canadian Water Resources Journal / Revue canadienne des ressources hydriques"
+        ],
+        "source": "Crossref",
+        "title": [
+            "Evidence for a climate-driven hydrologic regime shift in the Canadian Columbia Basin"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+        "volume": "42"
+    }
+]

@@ -1,0 +1,333 @@
+[
+    {
+        "DOI": "10.1061/(asce)wr.1943-5452.0001076",
+        "ISSN": [
+            "0733-9496",
+            "1943-5452"
+        ],
+        "URL": "http://dx.doi.org/10.1061/(asce)wr.1943-5452.0001076",
+        "alternative-id": [
+            "10.1061/(ASCE)WR.1943-5452.0001076"
+        ],
+        "assertion": [
+            {
+                "group": {
+                    "label": "Publication History",
+                    "name": "publication_history"
+                },
+                "label": "Received",
+                "name": "received",
+                "order": 0,
+                "value": "2018-03-02"
+            },
+            {
+                "group": {
+                    "label": "Publication History",
+                    "name": "publication_history"
+                },
+                "label": "Accepted",
+                "name": "accepted",
+                "order": 1,
+                "value": "2018-11-27"
+            },
+            {
+                "group": {
+                    "label": "Publication History",
+                    "name": "publication_history"
+                },
+                "label": "Published",
+                "name": "published",
+                "order": 2,
+                "value": "2020-02-08"
+            }
+        ],
+        "author": [
+            {
+                "affiliation": [
+                    {
+                        "name": "Scientist, Dept. of Engineering, Delft Univ. of Technology, Jaffalaan 5, Delft 2628 BX, Netherlands; presently, Kelkoo Group, Parc Sud Galaxie, 6 rue des M\u00e9ridiens, \u00c9chirolles 38130, France (corresponding author)."
+                    }
+                ],
+                "family": "Raso",
+                "given": "Luciano",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Scientist, Institut de Recherche pour le D\u00e9veloppement, G-EAU (AgroParisTech, Cirad, IRSTEA, MontpellierSupAgro, Univ. Montpellier), 361 rue Jean Fran\u00e7ois Breton, Montpellier 34196, France."
+                    }
+                ],
+                "family": "Bader",
+                "given": "Jean-Claude",
+                "sequence": "additional"
+            },
+            {
+                "ORCID": "http://orcid.org/0000-0003-1311-3867",
+                "affiliation": [
+                    {
+                        "name": "Assistant Professor, Dept. of Civil Engineering, Univ. of British Columbia, 2002 - 6250 Applied Science Ln., Vancouver, BC, Canada V6T 1Z4. ORCID:"
+                    }
+                ],
+                "authenticated-orcid": true,
+                "family": "Weijs",
+                "given": "Steven",
+                "sequence": "additional"
+            }
+        ],
+        "container-title": [
+            "Journal of Water Resources Planning and Management"
+        ],
+        "content-domain": {
+            "crossmark-restriction": true,
+            "domain": [
+                "ascelibrary.org"
+            ]
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    8
+                ]
+            ],
+            "date-time": "2020-02-08T15:30:52Z",
+            "timestamp": 1581175852000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    14
+                ]
+            ],
+            "date-time": "2020-02-14T16:02:33Z",
+            "timestamp": 1581696153000
+        },
+        "indexed": {
+            "date-parts": [
+                [
+                    2021,
+                    2,
+                    19
+                ]
+            ],
+            "date-time": "2021-02-19T03:23:54Z",
+            "timestamp": 1613705034620
+        },
+        "is-referenced-by-count": 2,
+        "issn-type": [
+            {
+                "type": "print",
+                "value": "0733-9496"
+            },
+            {
+                "type": "electronic",
+                "value": "1943-5452"
+            }
+        ],
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    2020,
+                    4
+                ]
+            ]
+        },
+        "journal-issue": {
+            "issue": "4",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        4
+                    ]
+                ]
+            }
+        },
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29WR.1943-5452.0001076",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "30",
+        "page": "05020003",
+        "prefix": "10.1061",
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    4
+                ]
+            ]
+        },
+        "publisher": "American Society of Civil Engineers (ASCE)",
+        "reference": [
+            {
+                "key": "e_1_3_3_2_1",
+                "unstructured": "Albergel J. J.-C. Bader and J.-P. Lamagat. 1997. \u201cFlood and drought: Application to the Senegal River management.\u201d In Vol. 240 of IAHS Publications-Series of Proc. and Reports 509\u2013518. Wallingford UK: International Association of Hydrological Sciences."
+            },
+            {
+                "DOI": "10.1016/j.eneco.2013.02.016",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_3_1"
+            },
+            {
+                "DOI": "10.1623/hysj.48.4.525.51415",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_4_1"
+            },
+            {
+                "author": "Bellman R. E.",
+                "key": "e_1_3_3_5_1",
+                "volume-title": "Applied dynamic programming",
+                "year": "1966"
+            },
+            {
+                "author": "Birge J. R.",
+                "key": "e_1_3_3_6_1",
+                "volume-title": "Introduction to stochastic programming",
+                "year": "1997"
+            },
+            {
+                "DOI": "10.1016/j.automatica.2008.03.003",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_7_1"
+            },
+            {
+                "key": "e_1_3_3_8_1",
+                "unstructured": "Fraval P. J. C. Bader L. K. Man\u00e9 H. David-Benz J. P. Lamagat and O. D. Diagne. 2002. \u201cThe quest for integrated and sustainable water management in the Senegal River valley.\u201d In Proc. 5th Inter-Regional Conf. on Environment and Water 5\u20138. Ouagadougou Burkina Faso: EIER-ETSHER."
+            },
+            {
+                "DOI": "10.1016/j.enpol.2007.02.023",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_9_1"
+            },
+            {
+                "DOI": "10.1061/(ASCE)WR.1943-5452.0000117",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_10_1"
+            },
+            {
+                "DOI": "10.1061/(ASCE)WR.1943-5452.0000858",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_11_1"
+            },
+            {
+                "DOI": "10.1007/s10957-004-1842-z",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_12_1"
+            },
+            {
+                "DOI": "10.1002/2016WR019573",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_13_1"
+            },
+            {
+                "DOI": "10.1061/(ASCE)WR.1943-5452.0000936",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_14_1"
+            },
+            {
+                "DOI": "10.1061/(ASCE)WR.1943-5452.0000527",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_15_1"
+            },
+            {
+                "DOI": "10.1007/BF01582895",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_17_1"
+            },
+            {
+                "DOI": "10.1016/j.orl.2008.01.013",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_18_1"
+            },
+            {
+                "key": "e_1_3_3_19_1",
+                "unstructured": "Raso L. J.-C. Bader and M. Leblanc. 2014a. \u201cDesigned overflow for flood recession agriculture against flow control for hydroelectric production in an African context.\u201d In Proc. Int. Conf. on Hydroinformatics. CUNY Academic Works. New York: City Univ. of New York."
+            },
+            {
+                "DOI": "10.1016/j.wre.2018.08.001",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_20_1"
+            },
+            {
+                "DOI": "10.1061/(ASCE)WR.1943-5452.0000746",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_21_1"
+            },
+            {
+                "DOI": "10.1016/j.advwatres.2014.06.009",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_22_1"
+            },
+            {
+                "DOI": "10.1016/j.ejor.2010.08.007",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_23_1"
+            },
+            {
+                "author": "Shapiro A.",
+                "key": "e_1_3_3_24_1",
+                "volume-title": "Stochastic programming",
+                "year": "2003"
+            },
+            {
+                "author": "Soncini-Sessa R.",
+                "key": "e_1_3_3_25_1",
+                "volume-title": "Integrated and participatory water resources management",
+                "year": "2007"
+            },
+            {
+                "DOI": "10.1029/WR020i011p01499",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_26_1"
+            },
+            {
+                "DOI": "10.1061/(ASCE)WR.1943-5452.0000335",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_27_1"
+            },
+            {
+                "DOI": "10.1029/2008WR007024",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_28_1"
+            },
+            {
+                "DOI": "10.1080/07900620220135085",
+                "doi-asserted-by": "publisher",
+                "key": "e_1_3_3_29_1"
+            }
+        ],
+        "reference-count": 27,
+        "references-count": 27,
+        "relation": {
+            "cites": []
+        },
+        "score": 26.54226,
+        "short-container-title": [
+            "J. Water Resour. Plann. Manage."
+        ],
+        "source": "Crossref",
+        "subject": [
+            "Geography, Planning and Development",
+            "Civil and Structural Engineering",
+            "Management, Monitoring, Policy and Law",
+            "Water Science and Technology"
+        ],
+        "title": [
+            "Reservoir Operation Optimized for Hydropower Production Reduces Conflict with Traditional Water Uses in the Senegal River"
+        ],
+        "type": "journal-article",
+        "update-policy": "http://dx.doi.org/10.1061/do.news.20190416.0001",
+        "volume": "146"
+    }
+]
