@@ -131,3 +131,4 @@ scholia/
 scholarly/
 .idea/
 wikidata_raw.zip
+*.csv#
