@@ -1,18 +1,16 @@
 from __future__ import print_function
 
+import csv
 import json
 import logging
 import os
 import sys
 import time
-import csv
 
+from Levenshtein import ratio
 from colorama import Fore, Style
-from Levenshtein import ratio, matching_blocks, editops
 
-import futurewater.crossref as crossref_api
 import futurewater.wikidata as wikidata_api
-from futurewater.disambiguation import disambiguate
 from futurewater.util import format_author
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library
@@ -25,7 +23,6 @@ stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
 
-
 def load_crossref_data(author_file, resources_folder, crossref_folder="crossref"):
     input_path = os.path.join(resources_folder, crossref_folder, author_file)
     if not os.path.isfile(input_path):
@@ -36,7 +33,6 @@ def load_crossref_data(author_file, resources_folder, crossref_folder="crossref"
         for a in aux:
             a['source'] = crossref_folder
         return aux
-
 
 
 def load_google_data(author_file, resources_folder, scholarly_folder="scholarly"):
@@ -73,6 +69,7 @@ def get_wikidata_author_id(author_name, wikidata):
                     return author_wikidata_id
     return None
 
+
 def get_wikidata_detailed_publications(wikidata_lst):
     detailed_wikidata_lst = []
     for wikidata_summary in wikidata_lst:
@@ -90,6 +87,7 @@ def get_wikidata_detailed_publications(wikidata_lst):
             detailed_wikidata_lst.append(entity)
     return detailed_wikidata_lst
 
+
 def publications_info(author_name, test=False):
     logger.info('Processing' + Fore.YELLOW + f' {author_name}' + Style.RESET_ALL)
 
@@ -100,7 +98,6 @@ def publications_info(author_name, test=False):
     author_file = format_author(author_name)
     output_folder = os.path.join(resources_folder, "wikidata")
     cached = os.path.join(output_folder, author_file)
-
 
     publication_lst = merge_sources(
         load_google_data(author_file, resources_folder),
@@ -131,19 +128,11 @@ def publications_info(author_name, test=False):
         if not test:
             with open(cached, 'w') as fo:
                 json.dump(final_data, fo, indent=4, sort_keys=True)
-        # else:
-        #     logger.info(Fore.RED + f'Author {author_name} not available on Wikidata' + Style.RESET_ALL)
     else:
         logger.info(Fore.YELLOW + '\talready on cache' + Style.RESET_ALL)
 
 
 def main(throttling_delay=3):
-    # publications_info('Ali Ameli', None, test=False) # OK
-    # publications_info('Alice Guimaraes', None, test=False)
-    # publications_info('Lucy Rodina', None, test=False)
-    # publications_info('Jordi Honey-Rosés', test=True)
-    # publications_info('Jordi Honey-Rosés', test=True)
-    # publications_info('Jordi Honey-Rosés', test=True)
     # publications_info('Jordi Honey-Rosés', test=True)
 
     _input = os.path.join(
@@ -165,9 +154,6 @@ def main(throttling_delay=3):
         except Exception:
             logger.error(Fore.RED + f'Error fetching data for {author_name}' + Style.RESET_ALL)
             logging.exception("message")
-
-    # TODO: find how to update/insert cluster members missing data into wikidata
-
 
 if __name__ == '__main__':
     main()

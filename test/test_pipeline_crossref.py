@@ -1,18 +1,15 @@
 from __future__ import print_function
 
+import csv
 import json
 import logging
 import os
 import sys
-import time
-import csv
 
 from colorama import Fore, Style
+from futurewater.util import format_author
 
 import futurewater.crossref as crossref_api
-import futurewater.wikidata as wikidata_api
-from futurewater.disambiguation import disambiguate
-from futurewater.util import format_author
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library
 logging.getLogger("requests").setLevel(logging.WARNING)
@@ -22,9 +19,6 @@ logger = logging.getLogger()
 logger.level = logging.DEBUG
 stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
-
-
-
 
 
 def publications_info(author_name, wikidata_id, test=False):
@@ -50,19 +44,7 @@ def publications_info(author_name, wikidata_id, test=False):
             return json.load(fo)
 
 
-
-def main(throttling_delay=3):
-    # publications_info('Ali Ameli', test=True) # OK
-    # publications_info('Alice Guimaraes', test=True)
-    # publications_info('Jongho Lee', test=True)
-    # publications_info('Jordi Honey-Rosés', test=True)
-    # publications_info('Jordi Honey-Rosés', test=True)
-    # publications_info('Jordi Honey-Rosés', test=True)
-    # publications_info('Jordi Honey-Rosés', test=True)
-
-
-
-    # FIXME: uncomment as soon as I get it to work for a good portion of the cluster members
+def main():
     _input = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         '..', 'resources', 'cluster-members.csv'

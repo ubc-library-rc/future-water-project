@@ -1,17 +1,10 @@
 # Ryan Ziels, Civil Engineering
 # https://orcid.org/0000-0003-3705-6078
-
-
 # Ali Ameli, Earth, Ocean and Atmospheric Sciences
 # https://orcid.org/0000-0002-8173-887X
-
 # curl https://api.crossref.org/works?filter=has-orcid:true,orcid:0000-0002-8173-887X&mailto=msarthur@cs.ubc.ca | json_pp
 # curl https://www.wikidata.org/w/api.php\?search\=Ali+Ameli\&action\=wbsearchentities\&language\=en\&uselang\=en\&format\=json\&strictlanguage\=true\&_\=1616186158210  | json_pp
-# TODO: get publications after getting OCRID
-
-
 # https://api.crossref.org/works?query.author=ali+a.+ameli&mailto=msarthur@cs.ubc.ca&filter=from-pub-date:2014-03-03,until-pub-date:2020-03-19&sample=30
-
 from __future__ import print_function
 
 import logging
@@ -240,6 +233,7 @@ def get_publications(wikidata_id):
     else:
         return None
 
+
 def get_publication(DOI):
     query = f"""
         SELECT
@@ -294,9 +288,3 @@ def entity_to_name(entity):
             for label in labels.values():
                 return label['value']
     return None
-
-
-
-# better querry using DOI got from google scholar.
-#defaultView:Table
-

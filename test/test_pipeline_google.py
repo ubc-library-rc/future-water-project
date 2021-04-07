@@ -1,20 +1,14 @@
 from __future__ import print_function
 
-import json
+import csv
 import logging
 import os
 import sys
 import time
-import csv
 
 from colorama import Fore, Style
 
-import futurewater.crossref as crossref_api
-import futurewater.wikidata as wikidata_api
 import futurewater.google as google_api
-from futurewater.disambiguation import disambiguate
-from futurewater.util import format_author
-
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library
 logging.getLogger("requests").setLevel(logging.WARNING)
@@ -26,13 +20,7 @@ stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
 
-
-
-
 def main(throttling_delay=10):
-
-
-    # FIXME: uncomment as soon as I get it to work for a good portion of the cluster members
     _input = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         '..', 'resources', 'cluster-members.csv'
@@ -60,8 +48,6 @@ def main(throttling_delay=10):
 
     has_data = list(filter(lambda k: k, all))
     logger.info(f"{str(len(has_data))} out of {str(len(all))}")
-
-
 
 
 if __name__ == '__main__':

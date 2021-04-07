@@ -1,16 +1,13 @@
-from scholarly import scholarly, ProxyGenerator
-from time import sleep
-from urllib.error import HTTPError
-from urllib.parse import quote_plus, urlencode
-from urllib.request import urlopen, Request
-import logging
 import json
+import logging
 import os
-from colorama import Fore, Back, Style
-from Levenshtein import ratio, matching_blocks, editops
-from futurewater.util import format_author
-from futurewater.crossref import get_publication
+from time import sleep
 
+from colorama import Fore, Style
+from scholarly import scholarly, ProxyGenerator
+
+from futurewater.crossref import get_publication
+from futurewater.util import format_author
 
 MAX_RETRIES_ON_ERROR = 3
 
@@ -43,7 +40,6 @@ def get_schoolar_data(author_name, cache_folder="scholarly"):
             # Retrieve the author's data, fill-in, and print
             search_query = scholarly.search_author(f'{author_name} UBC')
             author = scholarly.fill(next(search_query))
-
 
             # Print the titles of the author's publications
             titles = [pub['bib']['title'] for pub in author['publications']]
@@ -80,5 +76,3 @@ def get_schoolar_data(author_name, cache_folder="scholarly"):
             from_cache = True
 
     return final_data, from_cache
-
-

@@ -1,21 +1,14 @@
 from __future__ import print_function
 
+import csv
 import json
 import logging
 import os
 import sys
-import time
-import csv
 
-from colorama import Fore, Style
-from Levenshtein import ratio, matching_blocks, editops
-
-import numpy as np
-import futurewater.crossref as crossref_api
-import futurewater.wikidata as wikidata_api
-from futurewater.disambiguation import disambiguate
-from futurewater.util import format_author, to_quickstatements_format
 from futurewater.keywords import get_publication_subject
+from futurewater.util import format_author, to_quickstatements_format
+from colorama import Fore, Style
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library
 logging.getLogger("requests").setLevel(logging.WARNING)
@@ -26,8 +19,8 @@ logger.level = logging.DEBUG
 stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
-def wikidata_import(author_name, test=False):
 
+def wikidata_import(author_name, test=False):
     resources_folder = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         "..", "resources"
@@ -46,22 +39,27 @@ def wikidata_import(author_name, test=False):
                 try:
                     if row['title']:
                         title = next(iter(row['title']))
-                        # Dictionary sorted by properties
-                        new_entry = dict(
-                            qid='', # empty because these are entries for missing wikidata
-                            Len=to_quickstatements_format(title),
-                            P31='Q13442814',  # instance of = scholarly article,
-                            P50=data['wikidata_id'] if data['wikidata_id'] else data['author'],  # author
-                            P356=row['DOI'], # DOI
-                            P921=get_publication_subject(author_name, row), # main subject,
-                            P1476 = to_quickstatements_format(title),  # title
-                        )
-                        result.append(new_entry)
+                        main_subject = get_publication_subject(author_name, row)  # main subject,
+                        if main_subject:
+                            # Dictionary sorted by properties
+                            new_entry = dict(
+                                qid='',  # empty because these are entries for missing wikidata
+                                Len=to_quickstatements_format(title),
+                                P31='Q13442814',  # instance of = scholarly article,
+                                P50=data['wikidata_id'] if data['wikidata_id'] else data['author'],  # author
+                                P356=row['DOI'],  # DOI
+                                P921=main_subject,  # main subject,
+                                P1476=to_quickstatements_format(title),  # title
+                            )
+                            result.append(new_entry)
+                        else:
+                            logger.error(Fore.RED + f' {title} ' + Style.RESET_ALL + 'has no matching keyword')
                 except Exception as ex:
                     logger.exception(ex)
                 # print(row)
 
     return result
+
 
 def write_output_file(data):
     if not data:
@@ -69,7 +67,7 @@ def write_output_file(data):
     keys = data[0].keys()
     _output = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
-        '..', 'resources', 'missing_wikidata_importts.csv'
+        '..', 'resources', 'missing_wikidata_imports.csv'
     )
 
     with open(_output, 'w', newline='')  as output_file:
@@ -99,8 +97,8 @@ def main():
         except Exception as ex:
             logger.exception(ex)
 
-    print(json.dumps(final_data, indent=4, sort_keys=True))
-    write_output_file(final_data)
+    # print(json.dumps(final_data, indent=4, sort_keys=True))
+    write_output_file(sorted(final_data, key=lambda k: k['P1476']))
 
 
 if __name__ == '__main__':

@@ -1,14 +1,13 @@
 from __future__ import print_function
 
-import logging
-
-import requests
 import json
+import logging
 from urllib.error import HTTPError
 from urllib.parse import quote_plus, urlencode
 from urllib.request import urlopen, Request
-from Levenshtein import ratio, matching_blocks, editops
 
+import requests
+from Levenshtein import ratio
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library
 logging.getLogger("requests").setLevel(logging.WARNING)
