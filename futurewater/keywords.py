@@ -10,8 +10,9 @@ with open(os.path.join(
     keywords = sorted(keywords)
 
 
-def get_publication_subject(author_name, publication_data):
-    title = next(iter(publication_data['title']))
+def get_publication_subject(author_name, publication_data, title=None):
+    if not title:
+        title = ""
     abstract = ""
     if "abstract" in publication_data:
         abstract = publication_data['abstract']
@@ -29,6 +30,10 @@ def get_publication_subject(author_name, publication_data):
 
     if matched_keywords:
         return next(iter(matched_keywords))
+
+    if subject:
+        return next(iter(subject))
+
     return None
 
 

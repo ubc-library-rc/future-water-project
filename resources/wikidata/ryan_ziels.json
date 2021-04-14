@@ -210,6 +210,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Microbial community adaptation influences long-chain fatty acid conversion during anaerobic codigestion of fats, oils, and grease with municipal sludge",
             "page": "372-382",
             "prefix": "10.1016",
             "published-print": {
@@ -999,6 +1000,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Long-chain fatty acid feeding frequency in anaerobic codigestion impacts syntrophic community structure and biokinetics",
             "page": "218-229",
             "prefix": "10.1016",
             "published-print": {
@@ -1826,6 +1828,7 @@
                 }
             ],
             "member": "297",
+            "original_title": "DNA-SIP based genome-centric metagenomics identifies key long-chain fatty acid-degrading populations in anaerobic digesters with different feeding frequencies",
             "page": "112-123",
             "prefix": "10.1038",
             "published-online": {
@@ -2978,6 +2981,7 @@
                 }
             ],
             "member": "286",
+            "original_title": "Monitoring the dynamics of syntrophic \u03b2-oxidizing bacteria during anaerobic degradation of oleic acid by quantitative PCR",
             "prefix": "10.1093",
             "published-online": {
                 "date-parts": [
@@ -3871,6 +3875,7 @@
                 }
             ],
             "member": "246",
+            "original_title": "Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing",
             "posted": {
                 "date-parts": [
                     [
@@ -4500,6 +4505,7 @@
                 }
             ],
             "member": "316",
+            "original_title": "Influence of Kinetic and Metabolic Selection on 17alpha-ethinylestradiol Biodegradation in Activated Sludge Wastewater Treatment Systems",
             "page": "6160-6167",
             "prefix": "10.1021",
             "published-online": {
@@ -5110,6 +5116,7 @@
                 }
             ],
             "member": "297",
+            "original_title": "Feasibility of OFMSW co-digestion with sewage sludge for increasing biogas production at wastewater treatment plants",
             "prefix": "10.1007",
             "published-online": {
                 "date-parts": [
@@ -5568,6 +5575,7 @@
                 ]
             },
             "member": "316",
+            "original_title": "Reducing cost and environmental impact of wastewater treatment with denitrifying methanotrophs, anammox, and mainstream anaerobic treatment",
             "prefix": "10.1021",
             "publisher": "American Chemical Society (ACS)",
             "reference-count": 0,
@@ -5676,6 +5684,7 @@
                 }
             ],
             "member": "246",
+            "original_title": "Elucidating syntrophic butyrate-degrading populations in anaerobic digesters using stable isotope-informed genome-resolved metagenomics",
             "posted": {
                 "date-parts": [
                     [
@@ -6338,6 +6347,7 @@
                 }
             ],
             "member": "278",
+            "original_title": "Biodegradation kinetics of 17\u03b1-ethinylestradiol in activated sludge treatment processes",
             "page": "637-646",
             "prefix": "10.1089",
             "published-print": {
@@ -6633,6 +6643,7 @@
                 }
             ],
             "member": "297",
+            "original_title": "High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing",
             "page": "165-169",
             "prefix": "10.1038",
             "published-online": {
@@ -7512,6 +7523,7 @@
                 }
             ],
             "member": "970",
+            "original_title": "Anaerobic codigester feeding pattern drives long-chain fatty acid bioconversion kinetics and syntrophic community structure",
             "page": "1186-1201",
             "prefix": "10.2175",
             "published-print": {
@@ -7695,6 +7707,7 @@
                 }
             ],
             "member": "970",
+            "original_title": "Importance of syntrophic long-chain fatty acid-degrading bacteria during anaerobic co-digestion of fats, oils, and grease with municipal wastewater sludge",
             "page": "6569-6575",
             "prefix": "10.2175",
             "published-print": {
@@ -7882,6 +7895,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Genome-resolved metagenomics links microbial dynamics to failure and recovery of a bioreactor removing nitrate and selenate from mine-influenced water",
             "page": "107297",
             "prefix": "10.1016",
             "published-print": {
@@ -8768,6 +8782,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Importance of sulfide interaction with iron as regulator of the microbial community in biogas reactors and its effect on methanogenesis, volatile fatty acids turnover, and \u2026",
             "page": "597-605",
             "prefix": "10.1016",
             "published-print": {

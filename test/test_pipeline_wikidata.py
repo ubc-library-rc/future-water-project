@@ -43,8 +43,9 @@ def load_google_data(author_file, resources_folder, scholarly_folder="scholarly"
     with open(input_path, 'r') as fo:
         data = json.load(fo)
         aux = [d['crossref'] for d in data if 'crossref' in d]
-        for a in aux:
+        for a, d in zip(aux, data):
             a['source'] = scholarly_folder
+            a['original_title'] = d['original_title']
         return aux
 
 

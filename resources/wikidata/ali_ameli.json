@@ -130,6 +130,7 @@
                 }
             ],
             "member": "3145",
+            "original_title": "Quantifying hydrologic connectivity of wetlands to surface water systems",
             "page": "1791-1808",
             "prefix": "10.5194",
             "published-online": {
@@ -773,6 +774,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Primary weathering rates, water transit times, and concentration\u2010discharge relations: A theoretical analysis for the critical zone",
             "page": "942-960",
             "prefix": "10.1029",
             "published-online": {
@@ -1885,6 +1887,7 @@
                 }
             ],
             "member": "311",
+            "original_title": "The exponential decline in saturated hydraulic conductivity with depth: a novel method for exploring its effect on water flow paths and transit time distribution",
             "page": "2438-2450",
             "prefix": "10.1002",
             "published-online": {
@@ -2756,6 +2759,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Are all runoff processes the same? Numerical experiments comparing a D arcy\u2010R ichards solver to an overland flow\u2010based approach for subsurface storm runoff simulation",
             "page": "10008-10028",
             "prefix": "10.1029",
             "published-online": {
@@ -3752,6 +3756,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Hillslope permeability architecture controls on subsurface transit time distribution and flow paths",
             "page": "17-30",
             "prefix": "10.1016",
             "published-print": {
@@ -4727,6 +4732,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Groundwater subsidy from headwaters to their parent water watershed: A combined field\u2010modeling approach",
             "page": "5110-5125",
             "prefix": "10.1029",
             "published-online": {
@@ -5291,6 +5297,7 @@
                 }
             ],
             "member": "297",
+            "original_title": "Estimating rates of wetland loss using power-law functions",
             "page": "109-120",
             "prefix": "10.1007",
             "published-online": {
@@ -5855,6 +5862,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Series solutions for saturated\u2013unsaturated flow in multi-layer unconfined aquifers",
             "page": "24-33",
             "prefix": "10.1016",
             "published-print": {
@@ -6362,6 +6370,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Semianalytical series solutions for three\u2010dimensional groundwater\u2010surface water interaction",
             "page": "3893-3906",
             "prefix": "10.1029",
             "published-online": {
@@ -7281,6 +7290,7 @@
                 }
             ],
             "member": "311",
+            "original_title": "Modeling connectivity of non\u2010floodplain wetlands: Insights, approaches, and recommendations",
             "page": "559-577",
             "prefix": "10.1111",
             "published-online": {
@@ -8080,6 +8090,7 @@
                 }
             ],
             "member": "945",
+            "original_title": "Semi-analytical 3D solution for assessing radial collector well pumping impacts on groundwater\u2013surface water interaction",
             "page": "17-26",
             "prefix": "10.2166",
             "published-online": {
@@ -8521,6 +8532,7 @@
                 }
             ],
             "member": "3145",
+            "original_title": "Catchment export of base cations: improved mineral dissolution kinetics influence the role of water transit time",
             "page": "231-244",
             "prefix": "10.5194",
             "published-online": {
@@ -8952,6 +8964,7 @@
                 }
             ],
             "member": "945",
+            "original_title": "Controls on subsurface transport of sorbing contaminant",
             "page": "1226-1239",
             "prefix": "10.2166",
             "published-online": {
@@ -9581,6 +9594,7 @@
                 }
             ],
             "member": "945",
+            "original_title": "Performance assessment of low-order versus high-order numerical schemes in the numerical simulation of aquifer",
             "page": "1104-1115",
             "prefix": "10.2166",
             "published-online": {
@@ -10229,6 +10243,7 @@
                 }
             ],
             "member": "297",
+            "original_title": "A comprehensive, multisource database for hydrometeorological modeling of 14,425 North American watersheds",
             "prefix": "10.1038",
             "published-online": {
                 "date-parts": [
@@ -10877,6 +10892,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Hydrologic connectivity of geographically isolated wetlands to surface water systems",
             "page": "190-206",
             "prefix": "10.1016",
             "published-print": {
@@ -13058,6 +13074,7 @@
                 }
             ],
             "member": "311",
+            "original_title": "The Maimai M8 experimental catchment database: Forty years of process\u2010based research on steep, wet hillslopes",
             "prefix": "10.1002",
             "published-online": {
                 "date-parts": [

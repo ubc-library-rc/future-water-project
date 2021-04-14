@@ -131,6 +131,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "Multiple model predictive control on a drainage canal system",
             "page": "531-540",
             "prefix": "10.1016",
             "published-print": {
@@ -402,6 +403,7 @@
                 }
             ],
             "member": "3145",
+            "original_title": "Why hydrological predictions should be evaluated using information theory",
             "page": "2545-2558",
             "prefix": "10.5194",
             "published-online": {
@@ -881,6 +883,7 @@
                 }
             ],
             "member": "301",
+            "original_title": "A philosophical basis for hydrological uncertainty",
             "page": "1666-1678",
             "prefix": "10.1080",
             "published-online": {
@@ -1610,6 +1613,7 @@
                 }
             ],
             "member": "3145",
+            "original_title": "Advancing catchment hydrology to deal with predictions under change",
             "page": "649-671",
             "prefix": "10.5194",
             "published-online": {
@@ -2893,6 +2897,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Geomorphic Signatures on Brutsaert Base Flow Recession Analysis: case study of 27 Swiss Catchments",
             "page": "5462-5472",
             "prefix": "10.1029",
             "published-online": {
@@ -3802,6 +3807,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Could electrical conductivity replace water level in rating curves for alpine streams?",
             "page": "343-351",
             "prefix": "10.1029",
             "published-online": {
@@ -4415,6 +4421,7 @@
                 }
             ],
             "member": "12",
+            "original_title": "Accounting for observational uncertainty in forecast verification: An information-theoretical view on forecasts, observations, and truth",
             "page": "2156-2162",
             "prefix": "10.1175",
             "published-online": {
@@ -4840,6 +4847,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Controls on the diurnal streamflow cycles in two subbasins of an alpine headwater catchment",
             "page": "3403-3418",
             "prefix": "10.1029",
             "published-online": {
@@ -5734,6 +5742,7 @@
                 }
             ],
             "member": "1968",
+            "original_title": "HydroZIP: using hydrological knowledge to compress hydrological data",
             "page": "1289-1310",
             "prefix": "10.3390",
             "published-online": {
@@ -6303,6 +6312,7 @@
                 }
             ],
             "member": "1968",
+            "original_title": "Soil Moisture & Snow Properties Determination with GNSS in Alpine Environments: Challenges, Status, and Perspectives",
             "page": "3516-3543",
             "prefix": "10.3390",
             "published-online": {
@@ -7724,6 +7734,7 @@
                 }
             ],
             "member": "78",
+            "original_title": "An information-theoretical perspective on weighted ensemble forecasts",
             "page": "177-190",
             "prefix": "10.1016",
             "published-print": {
@@ -8348,6 +8359,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Using the Wiimote as a sensor in water research",
             "prefix": "10.1029",
             "published-online": {
                 "date-parts": [
@@ -8537,6 +8549,7 @@
                 }
             ],
             "member": "263",
+            "original_title": "Linking water and energy objectives in lowland areas through the application of model predictive control",
             "prefix": "10.1109",
             "published-print": {
                 "date-parts": [
@@ -8764,6 +8777,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Debates: Does Information Theory Provide a New Paradigm for Earth Science? Sharper Predictions Using Occam's Digital Razor",
             "prefix": "10.1029",
             "published-online": {
                 "date-parts": [
@@ -9143,6 +9157,7 @@
                 }
             ],
             "member": "297",
+            "original_title": "Balancing Costs and Benefits in Selecting New Information: Efficient Monitoring Using Deterministic Hydro-economic Models",
             "page": "339-357",
             "prefix": "10.1007",
             "published-online": {
@@ -9856,6 +9871,7 @@
                 }
             ],
             "member": "1968",
+            "original_title": "Entropy Ensemble Filter: A Modified Bootstrap Aggregating (Bagging) Procedure to Improve Efficiency in Ensemble Model Simulation",
             "page": "520",
             "prefix": "10.3390",
             "published-online": {
@@ -10231,6 +10247,7 @@
                 }
             ],
             "member": "13",
+            "original_title": "Dependency and redundancy: How information theory untangles three variable interactions in environmental data",
             "page": "7143-7148",
             "prefix": "10.1029",
             "published-online": {
@@ -10526,6 +10543,7 @@
                 }
             ],
             "member": "1968",
+            "original_title": "Application of Entropy Ensemble Filter in Neural Network Forecasts of Tropical Pacific Sea Surface Temperatures",
             "page": "207",
             "prefix": "10.3390",
             "published-online": {
@@ -10913,6 +10931,7 @@
                 }
             ],
             "member": "297",
+            "original_title": "Toward a New Approach for Hydrological Modeling: A Tool for Sustainable Development in a Savanna Agro-System",
             "page": "85-98",
             "prefix": "10.1007",
             "published-online": {
@@ -11601,6 +11620,7 @@
                 }
             ],
             "member": "301",
+            "original_title": "Preface\u2014Special Issue: Facets of Uncertainty",
             "page": "1555-1556",
             "prefix": "10.1080",
             "published-online": {
@@ -11797,6 +11817,7 @@
                 ]
             },
             "member": "11545",
+            "original_title": "Extracting High Resolution Snow Distribution Information with Inexpensive Autonomous Cameras",
             "prefix": "10.29007",
             "publisher": "EasyChair",
             "reference-count": 0,
@@ -11932,6 +11953,7 @@
                 }
             ],
             "member": "3145",
+            "original_title": "Data compression to define information content of hydrological time series.",
             "page": "3171-3187",
             "prefix": "10.5194",
             "published-online": {
@@ -12370,6 +12392,7 @@
                 }
             ],
             "member": "12",
+            "original_title": "Kullback-Leibler divergence as a forecast skill score with classic reliability-resolution-uncertainty decomposition",
             "page": "3387-3399",
             "prefix": "10.1175",
             "published-online": {
@@ -12708,6 +12731,7 @@
                 }
             ],
             "member": "3145",
+            "original_title": "Objective Functions for Information-Content-Based Optimal Monitoring Network Design",
             "posted": {
                 "date-parts": [
                     [
@@ -12895,6 +12919,7 @@
                 }
             ],
             "member": "12",
+            "original_title": "Evaluating reliability and resolution of ensemble forecasts using information theory",
             "page": "1653-1660",
             "prefix": "10.1175",
             "published-print": {
@@ -13146,6 +13171,7 @@
                 }
             ],
             "member": "3145",
+            "original_title": "Interactive comment on \u201cWhy hydrological forecasts should be evaluated using information theory\u201d by SV Weijs et al.",
             "posted": {
                 "date-parts": [
                     [
@@ -13418,6 +13444,7 @@
             },
             "language": "en",
             "member": "78",
+            "original_title": "Extracting local information from crowds through betting markets",
             "prefix": "10.2139",
             "publisher": "Elsevier BV",
             "reference": [
@@ -13615,6 +13642,7 @@
                 }
             ],
             "member": "263",
+            "original_title": "Estimating Stream Surface Flow Velocities from Video Clips",
             "prefix": "10.1109",
             "published-print": {
                 "date-parts": [

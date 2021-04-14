@@ -1,0 +1,14 @@
+P1433   published in
+P1476   title
+P1545   series ordinal
+P2093   stated in
+P304    pages
+P31     instace of
+P356    DOI
+P433    issue
+P478    volume
+P50     author
+P577    publication date
+P813    retrieved
+P854    URL
+P921    main subject
