@@ -8,7 +8,8 @@
             "Ecology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "A SYSTEMATIC REVIEW AND NARRATIVE SYNTHESIS OF THE USE OF ENVIRONMENTAL SAMPLES FOR THE SURVEILLANCE OF AVIAN INFLUENZA VIRUSES IN WILD WATERBIRDS"
+        "P1476": "A SYSTEMATIC REVIEW AND NARRATIVE SYNTHESIS OF THE USE OF ENVIRONMENTAL SAMPLES FOR THE SURVEILLANCE OF AVIAN INFLUENZA VIRUSES IN WILD WATERBIRDS",
+        "P577": "2021-01-07T16:37:08Z"
     },
     {
         "Len": "Characterization of Legionella Species from Watersheds in British Columbia, Canada",
@@ -16,12 +17,13 @@
         "P50": "Natalie Prystajecky",
         "P356": "10.1128/msphere.00246-17",
         "P921": [
-            "British columbia",
+            "Watershed",
             "Environments",
             "Bacteria",
-            "Watershed"
+            "British columbia"
         ],
-        "P1476": "Characterization of Legionella Species from Watersheds in British Columbia, Canada"
+        "P1476": "Characterization of Legionella Species from Watersheds in British Columbia, Canada",
+        "P577": "2017-08-03T00:30:24Z"
     },
     {
         "Len": "Identification of fecal contamination sources in water using host-associated markers",
@@ -36,7 +38,8 @@
             "Microbiology",
             "General Medicine"
         ],
-        "P1476": "Identification of fecal contamination sources in water using host-associated markers"
+        "P1476": "Identification of fecal contamination sources in water using host-associated markers",
+        "P577": "2013-01-11T13:40:11Z"
     },
     {
         "Len": "Identifying host sources, human health risk and indicators of Cryptosporidium and Giardia in a Canadian watershed influenced by urban and rural activities",
@@ -50,7 +53,8 @@
             "Infectious Diseases",
             "Water Science and Technology"
         ],
-        "P1476": "Identifying host sources, human health risk and indicators of Cryptosporidium and Giardia in a Canadian watershed influenced by urban and rural activities"
+        "P1476": "Identifying host sources, human health risk and indicators of Cryptosporidium and Giardia in a Canadian watershed influenced by urban and rural activities",
+        "P577": "2012-06-20T18:27:05Z"
     },
     {
         "Len": "Neptune: a bioinformatics tool for rapid discovery of genomic variation in bacterial populations",
@@ -60,7 +64,8 @@
         "P921": [
             "Bacteria"
         ],
-        "P1476": "Neptune: a bioinformatics tool for rapid discovery of genomic variation in bacterial populations"
+        "P1476": "Neptune: a bioinformatics tool for rapid discovery of genomic variation in bacterial populations",
+        "P577": "2017-08-01T19:16:25Z"
     },
     {
         "Len": "Personalized Genetic Testing and Norovirus Susceptibility",
@@ -68,7 +73,8 @@
         "P50": "Natalie Prystajecky",
         "P356": "10.1155/2014/708579",
         "P921": null,
-        "P1476": "Personalized Genetic Testing and Norovirus Susceptibility"
+        "P1476": "Personalized Genetic Testing and Norovirus Susceptibility",
+        "P577": "2016-03-15T08:03:21Z"
     },
     {
         "Len": "TARGETED RESEQUENCING OF WETLAND SEDIMENT AS A TOOL FOR AVIAN INFLUENZA VIRUS SURVEILLANCE",
@@ -79,6 +85,7 @@
             "Ecology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "TARGETED RESEQUENCING OF WETLAND SEDIMENT AS A TOOL FOR AVIAN INFLUENZA VIRUS SURVEILLANCE"
+        "P1476": "TARGETED RESEQUENCING OF WETLAND SEDIMENT AS A TOOL FOR AVIAN INFLUENZA VIRUS SURVEILLANCE",
+        "P577": "2019-12-05T20:02:56Z"
     }
 ]

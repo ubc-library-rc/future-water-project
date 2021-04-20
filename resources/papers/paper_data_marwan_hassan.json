@@ -7,7 +7,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "10 Adjustment of the bed surface size distribution of gravel-bed rivers in response to cycled hydrographs"
+        "P1476": "10 Adjustment of the bed surface size distribution of gravel-bed rivers in response to cycled hydrographs",
+        "P577": "2007-12-01T08:48:38Z"
     },
     {
         "Len": "18 Sediment storage and transport in coarse bed streams: scale considerations",
@@ -17,7 +18,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "18 Sediment storage and transport in coarse bed streams: scale considerations"
+        "P1476": "18 Sediment storage and transport in coarse bed streams: scale considerations",
+        "P577": "2007-12-01T08:48:38Z"
     },
     {
         "Len": "2 Salmon-driven bed load transport and bed morphology in mountain 3 streams",
@@ -28,7 +30,8 @@
             "General Earth and Planetary Sciences",
             "Geophysics"
         ],
-        "P1476": "2 Salmon-driven bed load transport and bed morphology in mountain 3 streams"
+        "P1476": "2 Salmon-driven bed load transport and bed morphology in mountain 3 streams",
+        "P577": "2008-02-21T16:08:43Z"
     },
     {
         "Len": "A conceptual model for the growth, persistence, and blooming behavior of the benthic mat-forming diatom Didymosphenia geminata",
@@ -36,7 +39,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2011jg001891",
         "P921": null,
-        "P1476": "A conceptual model for the growth, persistence, and blooming behavior of the benthic mat-forming diatom Didymosphenia geminata"
+        "P1476": "A conceptual model for the growth, persistence, and blooming behavior of the benthic mat-forming diatom Didymosphenia geminata",
+        "P577": "2012-04-18T07:54:07Z"
     },
     {
         "Len": "A decadal\u2010scale numerical model for wandering, cobble\u2010bedded rivers subject to disturbance",
@@ -48,7 +52,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "A decadal\u2010scale numerical model for wandering, cobble\u2010bedded rivers subject to disturbance"
+        "P1476": "A decadal\u2010scale numerical model for wandering, cobble\u2010bedded rivers subject to disturbance",
+        "P577": "2019-12-12T22:38:52Z"
     },
     {
         "Len": "A lake sediment-based proxy of floods in the Rocky Mountain Front Ranges, Canada",
@@ -59,7 +64,8 @@
             "Earth-Surface Processes",
             "Aquatic Science"
         ],
-        "P1476": "A lake sediment-based proxy of floods in the Rocky Mountain Front Ranges, Canada"
+        "P1476": "A lake sediment-based proxy of floods in the Rocky Mountain Front Ranges, Canada",
+        "P577": "2010-12-15T15:08:28Z"
     },
     {
         "Len": "A model based on Hirano-Exner equations for two-dimensional transient flows over heterogeneous erodible beds",
@@ -67,7 +73,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/j.advwatres.2015.10.013",
         "P921": null,
-        "P1476": "A model based on Hirano-Exner equations for two-dimensional transient flows over heterogeneous erodible beds"
+        "P1476": "A model based on Hirano-Exner equations for two-dimensional transient flows over heterogeneous erodible beds",
+        "P577": "2015-11-10T11:39:00Z"
     },
     {
         "Len": "A network model for prediction and diagnosis of sediment dynamics at the watershed scale",
@@ -77,7 +84,8 @@
         "P921": [
             "Watershed"
         ],
-        "P1476": "A network model for prediction and diagnosis of sediment dynamics at the watershed scale"
+        "P1476": "A network model for prediction and diagnosis of sediment dynamics at the watershed scale",
+        "P577": "2012-10-09T04:22:10Z"
     },
     {
         "Len": "A reduced-complexity model for sediment transport and step-pool morphology",
@@ -88,7 +96,8 @@
             "Earth-Surface Processes",
             "Geophysics"
         ],
-        "P1476": "A reduced-complexity model for sediment transport and step-pool morphology"
+        "P1476": "A reduced-complexity model for sediment transport and step-pool morphology",
+        "P577": "2016-07-20T13:33:38Z"
     },
     {
         "Len": "Abrupt drainage basin reorganization following a Pleistocene river capture",
@@ -100,7 +109,8 @@
             "General Physics and Astronomy",
             "General Chemistry"
         ],
-        "P1476": "Abrupt drainage basin reorganization following a Pleistocene river capture"
+        "P1476": "Abrupt drainage basin reorganization following a Pleistocene river capture",
+        "P577": "2018-09-10T09:59:52Z"
     },
     {
         "Len": "Asher P. Schick (1931\u20132002)",
@@ -110,7 +120,8 @@
         "P921": [
             "General Earth and Planetary Sciences"
         ],
-        "P1476": "Asher P. Schick (1931\u20132002)"
+        "P1476": "Asher P. Schick (1931\u20132002)",
+        "P577": "2006-10-19T17:34:45Z"
     },
     {
         "Len": "BEDFLOW: integrating river morphodynamics in the Sillaro River across spatial and temporal scales",
@@ -118,11 +129,12 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/egusphere-egu2020-10800",
         "P921": [
+            "Environmental",
             "Streams",
-            "Rivers",
-            "Environmental"
+            "Rivers"
         ],
-        "P1476": "BEDFLOW: integrating river morphodynamics in the Sillaro River across spatial and temporal scales"
+        "P1476": "BEDFLOW: integrating river morphodynamics in the Sillaro River across spatial and temporal scales",
+        "P577": "2020-03-09T21:42:26Z"
     },
     {
         "Len": "Back to Einstein: Burial\u2010Induced Three\u2010Range Diffusion in Fluvial Sediment Transport",
@@ -133,7 +145,8 @@
             "General Earth and Planetary Sciences",
             "Geophysics"
         ],
-        "P1476": "Back to Einstein: Burial\u2010Induced Three\u2010Range Diffusion in Fluvial Sediment Transport"
+        "P1476": "Back to Einstein: Burial\u2010Induced Three\u2010Range Diffusion in Fluvial Sediment Transport",
+        "P577": "2020-07-09T03:48:57Z"
     },
     {
         "Len": "Back to Einstein: burial-induced three range diffusion in fluvial sediment transport",
@@ -143,7 +156,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Back to Einstein: burial-induced three range diffusion in fluvial sediment transport"
+        "P1476": "Back to Einstein: burial-induced three range diffusion in fluvial sediment transport",
+        "P577": "2020-02-13T13:48:51Z"
     },
     {
         "Len": "Bar structure in an arid ephemeral stream",
@@ -154,7 +168,8 @@
             "Stratigraphy",
             "Geology"
         ],
-        "P1476": "Bar structure in an arid ephemeral stream"
+        "P1476": "Bar structure in an arid ephemeral stream",
+        "P577": "2009-08-16T08:12:53Z"
     },
     {
         "Len": "Bed material and bed load movement in two ephemeral streams",
@@ -164,7 +179,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Bed material and bed load movement in two ephemeral streams"
+        "P1476": "Bed material and bed load movement in two ephemeral streams",
+        "P577": "2009-04-14T12:46:28Z"
     },
     {
         "Len": "Bed surface bed profile adjustments to a series of water pulses in gravel bed rivers",
@@ -174,7 +190,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Bed surface bed profile adjustments to a series of water pulses in gravel bed rivers"
+        "P1476": "Bed surface bed profile adjustments to a series of water pulses in gravel bed rivers",
+        "P577": "2014-09-25T15:20:19Z"
     },
     {
         "Len": "Bedload transport in gravel bed rivers",
@@ -184,7 +201,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Bedload transport in gravel bed rivers"
+        "P1476": "Bedload transport in gravel bed rivers",
+        "P577": "2017-05-06T05:55:36Z"
     },
     {
         "Len": "Bio-climate affects Hillslope and Fluvial Sediment Grain size along the Chilean Coastal Cordillera",
@@ -194,7 +212,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Bio-climate affects Hillslope and Fluvial Sediment Grain size along the Chilean Coastal Cordillera"
+        "P1476": "Bio-climate affects Hillslope and Fluvial Sediment Grain size along the Chilean Coastal Cordillera",
+        "P577": "2021-03-20T20:50:48Z"
     },
     {
         "Len": "Calculating the explicit probability of entrainment based on inertial acceleration measurements",
@@ -206,7 +225,8 @@
             "Civil and Structural Engineering",
             "Water Science and Technology"
         ],
-        "P1476": "Calculating the explicit probability of entrainment based on inertial acceleration measurements"
+        "P1476": "Calculating the explicit probability of entrainment based on inertial acceleration measurements",
+        "P577": "2016-11-04T15:00:59Z"
     },
     {
         "Len": "Can magic sand cause massive degradation of a gravel-bed river at the decadal scale? Shi\u2011ting River, China",
@@ -216,7 +236,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Can magic sand cause massive degradation of a gravel-bed river at the decadal scale? Shi\u2011ting River, China"
+        "P1476": "Can magic sand cause massive degradation of a gravel-bed river at the decadal scale? Shi\u2011ting River, China",
+        "P577": "2018-10-30T07:55:36Z"
     },
     {
         "Len": "Channel adjustments to a succession of water pulses in gravel bed rivers",
@@ -226,7 +247,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Channel adjustments to a succession of water pulses in gravel bed rivers"
+        "P1476": "Channel adjustments to a succession of water pulses in gravel bed rivers",
+        "P577": "2015-10-21T08:46:52Z"
     },
     {
         "Len": "Channel response and recovery to changes in sediment supply",
@@ -234,7 +256,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/9781119952497.ch33",
         "P921": null,
-        "P1476": "Channel response and recovery to changes in sediment supply"
+        "P1476": "Channel response and recovery to changes in sediment supply",
+        "P577": "2012-02-17T07:50:06Z"
     },
     {
         "Len": "Characteristics of gravel bars in ephemeral streams",
@@ -244,7 +267,8 @@
         "P921": [
             "Geology"
         ],
-        "P1476": "Characteristics of gravel bars in ephemeral streams"
+        "P1476": "Characteristics of gravel bars in ephemeral streams",
+        "P577": "2005-04-11T22:47:49Z"
     },
     {
         "Len": "Characterization of morphological units in a small, forested stream using close-range remotely piloted aircraft imagery",
@@ -255,7 +279,8 @@
             "Earth-Surface Processes",
             "Geophysics"
         ],
-        "P1476": "Characterization of morphological units in a small, forested stream using close-range remotely piloted aircraft imagery"
+        "P1476": "Characterization of morphological units in a small, forested stream using close-range remotely piloted aircraft imagery",
+        "P577": "2020-11-04T06:13:09Z"
     },
     {
         "Len": "Collisional Langevin approach to bed load sediment velocity distributions",
@@ -263,7 +288,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/egusphere-egu21-8148",
         "P921": null,
-        "P1476": "Collisional Langevin approach to bed load sediment velocity distributions"
+        "P1476": "Collisional Langevin approach to bed load sediment velocity distributions",
+        "P577": "2021-03-04T04:22:22Z"
     },
     {
         "Len": "Colluvial sediment dynamics in mountain drainage basins",
@@ -276,7 +302,8 @@
             "Geochemistry and Petrology",
             "Geophysics"
         ],
-        "P1476": "Colluvial sediment dynamics in mountain drainage basins"
+        "P1476": "Colluvial sediment dynamics in mountain drainage basins",
+        "P577": "2009-05-30T04:23:46Z"
     },
     {
         "Len": "Complex mass wasting response of drainage basins to forest management in coastal British Columbia",
@@ -287,7 +314,8 @@
             "British columbia",
             "Forest management"
         ],
-        "P1476": "Complex mass wasting response of drainage basins to forest management in coastal British Columbia"
+        "P1476": "Complex mass wasting response of drainage basins to forest management in coastal British Columbia",
+        "P577": "2002-11-04T20:06:14Z"
     },
     {
         "Len": "Composition and Chemistry-D11307-Influence of small-and large-scale variables on the chemical and isotopic compositions of urban rainwater, as illustrated by a case study in \u2026",
@@ -309,7 +337,8 @@
             "Oceanography",
             "Water Science and Technology"
         ],
-        "P1476": "Composition and Chemistry-D11307-Influence of small-and large-scale variables on the chemical and isotopic compositions of urban rainwater, as illustrated by a case study in \u2026"
+        "P1476": "Composition and Chemistry-D11307-Influence of small-and large-scale variables on the chemical and isotopic compositions of urban rainwater, as illustrated by a case study in \u2026",
+        "P577": "2005-06-07T16:36:54Z"
     },
     {
         "Len": "Controls on the chemical and isotopic compositions of urban stormwater in a semiarid zone",
@@ -319,7 +348,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Controls on the chemical and isotopic compositions of urban stormwater in a semiarid zone"
+        "P1476": "Controls on the chemical and isotopic compositions of urban stormwater in a semiarid zone",
+        "P577": "2004-04-26T09:21:14Z"
     },
     {
         "Len": "Co\u2010evolution of coarse grain structuring and bed roughness in response to episodic sediment supply in an experimental aggrading channel",
@@ -331,7 +361,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Co\u2010evolution of coarse grain structuring and bed roughness in response to episodic sediment supply in an experimental aggrading channel"
+        "P1476": "Co\u2010evolution of coarse grain structuring and bed roughness in response to episodic sediment supply in an experimental aggrading channel",
+        "P577": "2019-12-20T15:10:58Z"
     },
     {
         "Len": "Debris flow initiation and sediment recharge in gullies",
@@ -339,7 +370,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/j.geomorph.2009.02.021",
         "P921": null,
-        "P1476": "Debris flow initiation and sediment recharge in gullies"
+        "P1476": "Debris flow initiation and sediment recharge in gullies",
+        "P577": "2009-02-28T09:30:51Z"
     },
     {
         "Len": "Development and application of a large\u2010scale, physically based, distributed suspended sediment transport model on the Fraser River Basin, British Columbia, Canada",
@@ -347,10 +379,11 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2017jf004578",
         "P921": [
-            "British columbia",
-            "Sediment transport"
+            "Sediment transport",
+            "British columbia"
         ],
-        "P1476": "Development and application of a large\u2010scale, physically based, distributed suspended sediment transport model on the Fraser River Basin, British Columbia, Canada"
+        "P1476": "Development and application of a large\u2010scale, physically based, distributed suspended sediment transport model on the Fraser River Basin, British Columbia, Canada",
+        "P577": "2018-09-19T13:07:39Z"
     },
     {
         "Len": "Displacement characteristics of coarse fluvial bed sediment",
@@ -358,7 +391,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2012jf002374",
         "P921": null,
-        "P1476": "Displacement characteristics of coarse fluvial bed sediment"
+        "P1476": "Displacement characteristics of coarse fluvial bed sediment",
+        "P577": "2012-12-07T09:14:33Z"
     },
     {
         "Len": "Distance of movement of coarse particles in gravel bed streams",
@@ -368,7 +402,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Distance of movement of coarse particles in gravel bed streams"
+        "P1476": "Distance of movement of coarse particles in gravel bed streams",
+        "P577": "2004-02-04T05:54:21Z"
     },
     {
         "Len": "Does small\u2010bodied salmon spawning activity enhance streambed mobility?",
@@ -376,7 +411,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2015wr017079",
         "P921": null,
-        "P1476": "Does small\u2010bodied salmon spawning activity enhance streambed mobility?"
+        "P1476": "Does small\u2010bodied salmon spawning activity enhance streambed mobility?",
+        "P577": "2015-08-21T08:32:17Z"
     },
     {
         "Len": "Does variable channel morphology lead to dynamic salmon habitat?",
@@ -388,7 +424,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Does variable channel morphology lead to dynamic salmon habitat?"
+        "P1476": "Does variable channel morphology lead to dynamic salmon habitat?",
+        "P577": "2019-08-28T22:01:19Z"
     },
     {
         "Len": "Drag forces on large cylinders",
@@ -396,7 +433,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/rra.2868",
         "P921": null,
-        "P1476": "Drag forces on large cylinders"
+        "P1476": "Drag forces on large cylinders",
+        "P577": "2015-01-19T04:34:56Z"
     },
     {
         "Len": "Drainage basin dynamics and morphology",
@@ -407,7 +445,8 @@
             "Environmental Engineering",
             "Ocean Engineering"
         ],
-        "P1476": "Drainage basin dynamics and morphology"
+        "P1476": "Drainage basin dynamics and morphology",
+        "P577": "2003-03-14T14:19:23Z"
     },
     {
         "Len": "EVOLUTION OF RIVER LONG-PROFILES, ORGANIZATION OF PROCESS DOMAINS AND DOWNSTREAM HYDRAULIC GEOMETRY IN GLACIATED DRAINAGE BASINS OF COASTAL BRITISH COLUMBIA",
@@ -429,7 +468,8 @@
             "Oceanography",
             "Water Science and Technology"
         ],
-        "P1476": "EVOLUTION OF RIVER LONG-PROFILES, ORGANIZATION OF PROCESS DOMAINS AND DOWNSTREAM HYDRAULIC GEOMETRY IN GLACIATED DRAINAGE BASINS OF COASTAL BRITISH COLUMBIA"
+        "P1476": "EVOLUTION OF RIVER LONG-PROFILES, ORGANIZATION OF PROCESS DOMAINS AND DOWNSTREAM HYDRAULIC GEOMETRY IN GLACIATED DRAINAGE BASINS OF COASTAL BRITISH COLUMBIA",
+        "P577": "2006-02-22T16:26:20Z"
     },
     {
         "Len": "Effect of stress history on sediment transport and channel adjustment in graded gravel-bed rivers",
@@ -438,11 +478,12 @@
         "P356": "10.5194/egusphere-egu21-6889",
         "P921": [
             "Channel morphology",
+            "Sediment transport",
             "Environmental",
-            "Rivers",
-            "Sediment transport"
+            "Rivers"
         ],
-        "P1476": "Effect of stress history on sediment transport and channel adjustment in graded gravel-bed rivers"
+        "P1476": "Effect of stress history on sediment transport and channel adjustment in graded gravel-bed rivers",
+        "P577": "2021-03-04T03:19:29Z"
     },
     {
         "Len": "Effective discharge in small formerly glaciated mountain streams of British Columbia: Limitations and implications",
@@ -452,7 +493,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Effective discharge in small formerly glaciated mountain streams of British Columbia: Limitations and implications"
+        "P1476": "Effective discharge in small formerly glaciated mountain streams of British Columbia: Limitations and implications",
+        "P577": "2014-05-05T23:53:48Z"
     },
     {
         "Len": "Effects of glacial retreat on proglacial streams and riparian zones in the Coast and North Cascade Mountains",
@@ -464,7 +506,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Effects of glacial retreat on proglacial streams and riparian zones in the Coast and North Cascade Mountains"
+        "P1476": "Effects of glacial retreat on proglacial streams and riparian zones in the Coast and North Cascade Mountains",
+        "P577": "2013-06-11T15:07:28Z"
     },
     {
         "Len": "Einstein conjecture and resting-time statistics in the bed-load transport of monodispersed particles",
@@ -476,7 +519,8 @@
             "Mechanics of Materials",
             "Condensed Matter Physics"
         ],
-        "P1476": "Einstein conjecture and resting-time statistics in the bed-load transport of monodispersed particles"
+        "P1476": "Einstein conjecture and resting-time statistics in the bed-load transport of monodispersed particles",
+        "P577": "2019-08-14T12:51:33Z"
     },
     {
         "Len": "Erosion, Sedimentation, and Geomorphology-Sensitivity of bed load transport in Harris Creek: Seasonal and spatial variation over a cobble-gravel bar (Paper 2000WR900346)",
@@ -486,7 +530,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Erosion, Sedimentation, and Geomorphology-Sensitivity of bed load transport in Harris Creek: Seasonal and spatial variation over a cobble-gravel bar (Paper 2000WR900346)"
+        "P1476": "Erosion, Sedimentation, and Geomorphology-Sensitivity of bed load transport in Harris Creek: Seasonal and spatial variation over a cobble-gravel bar (Paper 2000WR900346)",
+        "P577": "2004-02-04T05:39:58Z"
     },
     {
         "Len": "Erosion, Sedimentation, and Geomorphology-Stabilizing self-organized structures in gravel-bed stream channels: Field and experimental observations (Paper 98WR00484)",
@@ -494,7 +539,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/98wr00484",
         "P921": null,
-        "P1476": "Erosion, Sedimentation, and Geomorphology-Stabilizing self-organized structures in gravel-bed stream channels: Field and experimental observations (Paper 98WR00484)"
+        "P1476": "Erosion, Sedimentation, and Geomorphology-Stabilizing self-organized structures in gravel-bed stream channels: Field and experimental observations (Paper 98WR00484)",
+        "P577": "2004-02-04T04:40:50Z"
     },
     {
         "Len": "Estimating suspended sediment concentrations in areas with limited hydrological data using a mixed\u2010effects model",
@@ -502,7 +548,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/hyp.8462",
         "P921": null,
-        "P1476": "Estimating suspended sediment concentrations in areas with limited hydrological data using a mixed\u2010effects model"
+        "P1476": "Estimating suspended sediment concentrations in areas with limited hydrological data using a mixed\u2010effects model",
+        "P577": "2012-01-11T17:21:26Z"
     },
     {
         "Len": "Experiment on morphological and hydraulic adjustments of step\u2010pool unit to flow increase",
@@ -514,7 +561,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Experiment on morphological and hydraulic adjustments of step\u2010pool unit to flow increase"
+        "P1476": "Experiment on morphological and hydraulic adjustments of step\u2010pool unit to flow increase",
+        "P577": "2019-08-23T02:25:51Z"
     },
     {
         "Len": "Experiment on temporal variation of bed load transport in response to changes in sediment supply in streams",
@@ -524,7 +572,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Experiment on temporal variation of bed load transport in response to changes in sediment supply in streams"
+        "P1476": "Experiment on temporal variation of bed load transport in response to changes in sediment supply in streams",
+        "P577": "2016-12-29T11:04:34Z"
     },
     {
         "Len": "Experimental Insights Into the Threshold of Motion in Alluvial Channels: Sediment Supply and Streambed State",
@@ -532,7 +581,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2020jf005736",
         "P921": null,
-        "P1476": "Experimental Insights Into the Threshold of Motion in Alluvial Channels: Sediment Supply and Streambed State"
+        "P1476": "Experimental Insights Into the Threshold of Motion in Alluvial Channels: Sediment Supply and Streambed State",
+        "P577": "2020-11-13T19:33:33Z"
     },
     {
         "Len": "Experimental study of sediment supply control on step formation, evolution, and stability",
@@ -543,7 +593,8 @@
             "Earth-Surface Processes",
             "Geophysics"
         ],
-        "P1476": "Experimental study of sediment supply control on step formation, evolution, and stability"
+        "P1476": "Experimental study of sediment supply control on step formation, evolution, and stability",
+        "P577": "2020-10-21T13:08:11Z"
     },
     {
         "Len": "Experimental study on the stability and failure of individual step-pool",
@@ -553,7 +604,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Experimental study on the stability and failure of individual step-pool"
+        "P1476": "Experimental study on the stability and failure of individual step-pool",
+        "P577": "2018-03-27T03:38:03Z"
     },
     {
         "Len": "Experiments on surface structure and partial sediment transport on a gravel bed",
@@ -563,7 +615,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Experiments on surface structure and partial sediment transport on a gravel bed"
+        "P1476": "Experiments on surface structure and partial sediment transport on a gravel bed",
+        "P577": "2004-02-04T19:34:48Z"
     },
     {
         "Len": "Fine particles in small steepland streams: physical, ecological and human connections",
@@ -573,7 +626,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Fine particles in small steepland streams: physical, ecological and human connections"
+        "P1476": "Fine particles in small steepland streams: physical, ecological and human connections",
+        "P577": "2008-08-26T15:13:28Z"
     },
     {
         "Len": "Flow routing for delineating supraglacial meltwater channel networks",
@@ -581,7 +635,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.3390/rs8120988",
         "P921": null,
-        "P1476": "Flow routing for delineating supraglacial meltwater channel networks"
+        "P1476": "Flow routing for delineating supraglacial meltwater channel networks",
+        "P577": "2016-12-02T15:36:37Z"
     },
     {
         "Len": "Fluvial adjustment of the Lower Jordan River to a drop in the Dead Sea level",
@@ -591,7 +646,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Fluvial adjustment of the Lower Jordan River to a drop in the Dead Sea level"
+        "P1476": "Fluvial adjustment of the Lower Jordan River to a drop in the Dead Sea level",
+        "P577": "2002-07-28T20:19:54Z"
     },
     {
         "Len": "Fluvial clastic sediment yield in Canada: scaled analysis",
@@ -601,7 +657,8 @@
         "P921": [
             "General Earth and Planetary Sciences"
         ],
-        "P1476": "Fluvial clastic sediment yield in Canada: scaled analysis"
+        "P1476": "Fluvial clastic sediment yield in Canada: scaled analysis",
+        "P577": "2011-04-23T22:51:21Z"
     },
     {
         "Len": "Fluvial response to changes in the magnitude and frequency of sediment supply in a 1-D model",
@@ -612,7 +669,8 @@
             "Earth-Surface Processes",
             "Geophysics"
         ],
-        "P1476": "Fluvial response to changes in the magnitude and frequency of sediment supply in a 1-D model"
+        "P1476": "Fluvial response to changes in the magnitude and frequency of sediment supply in a 1-D model",
+        "P577": "2018-11-14T13:53:59Z"
     },
     {
         "Len": "Frequency and magnitude of bedload transport in a mountain river",
@@ -624,7 +682,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Frequency and magnitude of bedload transport in a mountain river"
+        "P1476": "Frequency and magnitude of bedload transport in a mountain river",
+        "P577": "2005-11-30T18:21:43Z"
     },
     {
         "Len": "Geomorphic controls on tracer particle dispersion in gravel-bed rivers",
@@ -634,7 +693,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Geomorphic controls on tracer particle dispersion in gravel-bed rivers"
+        "P1476": "Geomorphic controls on tracer particle dispersion in gravel-bed rivers",
+        "P577": "2017-05-06T05:55:36Z"
     },
     {
         "Len": "Geomorphology of headwaters:  transition from hillslopes to channels",
@@ -646,7 +706,8 @@
             "Ecology",
             "Water Science and Technology"
         ],
-        "P1476": "Geomorphology of headwaters:  transition from hillslopes to channels"
+        "P1476": "Geomorphology of headwaters:  transition from hillslopes to channels",
+        "P577": "2007-06-09T01:18:21Z"
     },
     {
         "Len": "Glacially induced organization of channel\u2010reach morphology in mountain streams",
@@ -668,7 +729,8 @@
             "Oceanography",
             "Water Science and Technology"
         ],
-        "P1476": "Glacially induced organization of channel\u2010reach morphology in mountain streams"
+        "P1476": "Glacially induced organization of channel\u2010reach morphology in mountain streams",
+        "P577": "2007-08-07T20:07:23Z"
     },
     {
         "Len": "Grain Size\u2010Specific Engelund\u2010Hansen Type Relation for Bed Material Load in Sand\u2010bed Rivers, with Application to the Mississippi River",
@@ -678,7 +740,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Grain Size\u2010Specific Engelund\u2010Hansen Type Relation for Bed Material Load in Sand\u2010bed Rivers, with Application to the Mississippi River"
+        "P1476": "Grain Size\u2010Specific Engelund\u2010Hansen Type Relation for Bed Material Load in Sand\u2010bed Rivers, with Application to the Mississippi River",
+        "P577": "2020-12-19T11:23:20Z"
     },
     {
         "Len": "Hydrologic Predictions in a Changing Environment III",
@@ -687,10 +750,11 @@
         "P356": "10.5194/hessd-7-7779-2010",
         "P921": [
             "Hydrology",
-            "Soil",
-            "Modeling"
+            "Modeling",
+            "Soil"
         ],
-        "P1476": "Hydrologic Predictions in a Changing Environment III"
+        "P1476": "Hydrologic Predictions in a Changing Environment III",
+        "P577": "2010-10-05T12:36:54Z"
     },
     {
         "Len": "Identification of steps and pools from stream longitudinal profile data",
@@ -698,7 +762,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/j.geomorph.2008.04.009",
         "P921": null,
-        "P1476": "Identification of steps and pools from stream longitudinal profile data"
+        "P1476": "Identification of steps and pools from stream longitudinal profile data",
+        "P577": "2008-05-07T14:05:35Z"
     },
     {
         "Len": "Impact of wastewater discharge on the channel morphology of ephemeral streams",
@@ -710,7 +775,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Impact of wastewater discharge on the channel morphology of ephemeral streams"
+        "P1476": "Impact of wastewater discharge on the channel morphology of ephemeral streams",
+        "P577": "2002-08-25T16:24:03Z"
     },
     {
         "Len": "In memoriam Prof. Ross Mackay (1915-2014)",
@@ -718,7 +784,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.14430/arctic4464",
         "P921": null,
-        "P1476": "In memoriam Prof. Ross Mackay (1915-2014)"
+        "P1476": "In memoriam Prof. Ross Mackay (1915-2014)",
+        "P577": "2015-02-27T22:57:16Z"
     },
     {
         "Len": "Influence of Dams on Size-Specific Sediment Transport and Storage on the Elwha River, Washington",
@@ -728,7 +795,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Influence of Dams on Size-Specific Sediment Transport and Storage on the Elwha River, Washington"
+        "P1476": "Influence of Dams on Size-Specific Sediment Transport and Storage on the Elwha River, Washington",
+        "P577": "2009-03-12T21:34:26Z"
     },
     {
         "Len": "Influence of the sediment supply texture on morphological adjustments in gravel\u2010bed rivers",
@@ -738,7 +806,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Influence of the sediment supply texture on morphological adjustments in gravel\u2010bed rivers"
+        "P1476": "Influence of the sediment supply texture on morphological adjustments in gravel\u2010bed rivers",
+        "P577": "2014-10-16T09:05:14Z"
     },
     {
         "Len": "Inter-decadal patterns of total sediment yield from a montane catchment, south Coast Mountains, Canada",
@@ -748,7 +817,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Inter-decadal patterns of total sediment yield from a montane catchment, south Coast Mountains, Canada"
+        "P1476": "Inter-decadal patterns of total sediment yield from a montane catchment, south Coast Mountains, Canada",
+        "P577": "2010-01-12T09:59:28Z"
     },
     {
         "Len": "Interplay of Turbulent Flow and Various Sized Particles in Sediment Transport",
@@ -758,7 +828,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Interplay of Turbulent Flow and Various Sized Particles in Sediment Transport"
+        "P1476": "Interplay of Turbulent Flow and Various Sized Particles in Sediment Transport",
+        "P577": "2020-04-17T13:32:57Z"
     },
     {
         "Len": "Introduction to the special issue on sediment transport dynamics",
@@ -768,7 +839,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Introduction to the special issue on sediment transport dynamics"
+        "P1476": "Introduction to the special issue on sediment transport dynamics",
+        "P577": "2002-09-10T15:25:40Z"
     },
     {
         "Len": "Joint stochastic bedload transport and bed elevation model: Variance regulation and power law rests",
@@ -776,7 +848,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2019jf005259",
         "P921": null,
-        "P1476": "Joint stochastic bedload transport and bed elevation model: Variance regulation and power law rests"
+        "P1476": "Joint stochastic bedload transport and bed elevation model: Variance regulation and power law rests",
+        "P577": "2020-03-17T01:44:37Z"
     },
     {
         "Len": "Land use and climate change impacts on lake sedimentation rates in western Canada",
@@ -786,7 +859,8 @@
         "P921": [
             "Climate change"
         ],
-        "P1476": "Land use and climate change impacts on lake sedimentation rates in western Canada"
+        "P1476": "Land use and climate change impacts on lake sedimentation rates in western Canada",
+        "P577": "2014-03-08T00:17:03Z"
     },
     {
         "Len": "Landslide inventory in a rugged forested watershed: a comparison between air-photo and field survey data",
@@ -796,7 +870,8 @@
         "P921": [
             "Watershed"
         ],
-        "P1476": "Landslide inventory in a rugged forested watershed: a comparison between air-photo and field survey data"
+        "P1476": "Landslide inventory in a rugged forested watershed: a comparison between air-photo and field survey data",
+        "P577": "2003-01-10T18:08:14Z"
     },
     {
         "Len": "Lidar observations of ice crystals associated with noctilucent clouds at middle latitudes",
@@ -807,7 +882,8 @@
             "General Earth and Planetary Sciences",
             "Geophysics"
         ],
-        "P1476": "Lidar observations of ice crystals associated with noctilucent clouds at middle latitudes"
+        "P1476": "Lidar observations of ice crystals associated with noctilucent clouds at middle latitudes",
+        "P577": "2004-02-03T22:32:51Z"
     },
     {
         "Len": "Linking spatial patterns of bed surface texture, bed mobility, and channel hydraulics in a mountain stream to potential spawning substrate for small resident trout",
@@ -817,7 +893,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Linking spatial patterns of bed surface texture, bed mobility, and channel hydraulics in a mountain stream to potential spawning substrate for small resident trout"
+        "P1476": "Linking spatial patterns of bed surface texture, bed mobility, and channel hydraulics in a mountain stream to potential spawning substrate for small resident trout",
+        "P577": "2013-05-15T04:10:32Z"
     },
     {
         "Len": "Long-term temporal structure analysis of sediment fluxes in the Upper Changjiang (Yangtze River) using a wavelet transformation",
@@ -825,7 +902,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/egusphere-egu21-12666",
         "P921": null,
-        "P1476": "Long-term temporal structure analysis of sediment fluxes in the Upper Changjiang (Yangtze River) using a wavelet transformation"
+        "P1476": "Long-term temporal structure analysis of sediment fluxes in the Upper Changjiang (Yangtze River) using a wavelet transformation",
+        "P577": "2021-03-04T08:33:21Z"
     },
     {
         "Len": "MODELING THE EFFECT OF SEDIMENT SUPPLY ON CHANNEL WIDTH CHANGE ALONG ELWHA RIVER, WASHINGTON",
@@ -835,7 +913,8 @@
         "P921": [
             "Modeling"
         ],
-        "P1476": "MODELING THE EFFECT OF SEDIMENT SUPPLY ON CHANNEL WIDTH CHANGE ALONG ELWHA RIVER, WASHINGTON"
+        "P1476": "MODELING THE EFFECT OF SEDIMENT SUPPLY ON CHANNEL WIDTH CHANGE ALONG ELWHA RIVER, WASHINGTON",
+        "P577": "2017-11-30T21:55:26Z"
     },
     {
         "Len": "Maintenance of an obstruction-forced pool in a gravel-bed channel: streamflow, channel morphology, and sediment transport",
@@ -844,10 +923,11 @@
         "P356": "10.1016/s0928-2025(05)80016-1",
         "P921": [
             "Channel morphology",
-            "Streamflow",
-            "Sediment transport"
+            "Sediment transport",
+            "Streamflow"
         ],
-        "P1476": "Maintenance of an obstruction-forced pool in a gravel-bed channel: streamflow, channel morphology, and sediment transport"
+        "P1476": "Maintenance of an obstruction-forced pool in a gravel-bed channel: streamflow, channel morphology, and sediment transport",
+        "P577": "2007-09-07T21:16:03Z"
     },
     {
         "Len": "Mobility of bed material in Harris Creek",
@@ -855,7 +935,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2001wr000753",
         "P921": null,
-        "P1476": "Mobility of bed material in Harris Creek"
+        "P1476": "Mobility of bed material in Harris Creek",
+        "P577": "2002-12-02T14:38:55Z"
     },
     {
         "Len": "Model Description of the Reach Scale Channel Simulator",
@@ -863,7 +944,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.2172/6297252",
         "P921": null,
-        "P1476": "Model Description of the Reach Scale Channel Simulator"
+        "P1476": "Model Description of the Reach Scale Channel Simulator",
+        "P577": "2020-08-20T03:59:26Z"
     },
     {
         "Len": "Modeling temporal trends in bedload transport in gravel-bed streams using hierarchical mixed-effects models",
@@ -871,10 +953,11 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/j.geomorph.2014.05.019",
         "P921": [
-            "Streams",
-            "Modeling"
+            "Modeling",
+            "Streams"
         ],
-        "P1476": "Modeling temporal trends in bedload transport in gravel-bed streams using hierarchical mixed-effects models"
+        "P1476": "Modeling temporal trends in bedload transport in gravel-bed streams using hierarchical mixed-effects models",
+        "P577": "2014-05-29T07:00:55Z"
     },
     {
         "Len": "Modelling changes in suspended sediment from forest road surfaces in a coastal watershed of British Columbia",
@@ -884,7 +967,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Modelling changes in suspended sediment from forest road surfaces in a coastal watershed of British Columbia"
+        "P1476": "Modelling changes in suspended sediment from forest road surfaces in a coastal watershed of British Columbia",
+        "P577": "2013-07-24T13:41:57Z"
     },
     {
         "Len": "Modelling the effects of climatic and hydrological regime changes on the sediment dynamics of the Fraser River Basin, British Columbia, Canada",
@@ -894,7 +978,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Modelling the effects of climatic and hydrological regime changes on the sediment dynamics of the Fraser River Basin, British Columbia, Canada"
+        "P1476": "Modelling the effects of climatic and hydrological regime changes on the sediment dynamics of the Fraser River Basin, British Columbia, Canada",
+        "P577": "2018-11-01T09:19:00Z"
     },
     {
         "Len": "Morphodynamics of a width\u2010variable gravel bed stream: New insights on pool\u2010riffle formation from physical experiments",
@@ -902,7 +987,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2017jf004533",
         "P921": null,
-        "P1476": "Morphodynamics of a width\u2010variable gravel bed stream: New insights on pool\u2010riffle formation from physical experiments"
+        "P1476": "Morphodynamics of a width\u2010variable gravel bed stream: New insights on pool\u2010riffle formation from physical experiments",
+        "P577": "2018-09-28T01:59:40Z"
     },
     {
         "Len": "Morphometrics of China's Loess Plateau: The spatial legacy of tectonics, climate, and loess deposition history",
@@ -912,7 +998,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Morphometrics of China's Loess Plateau: The spatial legacy of tectonics, climate, and loess deposition history"
+        "P1476": "Morphometrics of China's Loess Plateau: The spatial legacy of tectonics, climate, and loess deposition history",
+        "P577": "2020-01-15T15:50:42Z"
     },
     {
         "Len": "Observations of desert flood bores",
@@ -924,7 +1011,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Observations of desert flood bores"
+        "P1476": "Observations of desert flood bores",
+        "P577": "2007-02-03T09:28:28Z"
     },
     {
         "Len": "On how sediment supply affects step formation, evolution and stability in steep streams: an experimental study",
@@ -932,12 +1020,13 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/esurf-2020-30",
         "P921": [
-            "Sediment transport",
             "Channel stability",
+            "Sediment transport",
             "Channel morphology",
             "Streams"
         ],
-        "P1476": "On how sediment supply affects step formation, evolution and stability in steep streams: an experimental study"
+        "P1476": "On how sediment supply affects step formation, evolution and stability in steep streams: an experimental study",
+        "P577": "2020-05-04T11:58:44Z"
     },
     {
         "Len": "On how spatial variations of channel width influence",
@@ -945,7 +1034,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2016gl069824",
         "P921": null,
-        "P1476": "On how spatial variations of channel width influence"
+        "P1476": "On how spatial variations of channel width influence",
+        "P577": "2016-06-14T07:32:03Z"
     },
     {
         "Len": "Palestinian water I: Resources, allocation and perception",
@@ -959,7 +1049,8 @@
             "General Social Sciences",
             "Water Science and Technology"
         ],
-        "P1476": "Palestinian water I: Resources, allocation and perception"
+        "P1476": "Palestinian water I: Resources, allocation and perception",
+        "P577": "2010-02-03T02:09:31Z"
     },
     {
         "Len": "Palestinian water II: climate change and land use",
@@ -973,7 +1064,8 @@
             "General Social Sciences",
             "Water Science and Technology"
         ],
-        "P1476": "Palestinian water II: climate change and land use"
+        "P1476": "Palestinian water II: climate change and land use",
+        "P577": "2010-02-03T02:09:31Z"
     },
     {
         "Len": "Palestinian water: resources, use, conservation, climate change, and land use",
@@ -983,7 +1075,8 @@
         "P921": [
             "Climate change"
         ],
-        "P1476": "Palestinian water: resources, use, conservation, climate change, and land use"
+        "P1476": "Palestinian water: resources, use, conservation, climate change, and land use",
+        "P577": "2012-11-01T18:19:27Z"
     },
     {
         "Len": "Particle Tracing in Geomorphology Posters",
@@ -991,7 +1084,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/9781118648551.ch14",
         "P921": null,
-        "P1476": "Particle Tracing in Geomorphology Posters"
+        "P1476": "Particle Tracing in Geomorphology Posters",
+        "P577": "2016-04-23T10:49:21Z"
     },
     {
         "Len": "Patterns, puzzles and people: implementing hydrologic synthesis",
@@ -1001,7 +1095,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Patterns, puzzles and people: implementing hydrologic synthesis"
+        "P1476": "Patterns, puzzles and people: implementing hydrologic synthesis",
+        "P577": "2011-07-28T08:58:26Z"
     },
     {
         "Len": "Physical effects of streambed periphyton on particle deposition and flow hydraulics",
@@ -1011,7 +1106,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Physical effects of streambed periphyton on particle deposition and flow hydraulics"
+        "P1476": "Physical effects of streambed periphyton on particle deposition and flow hydraulics",
+        "P577": "2010-09-18T08:40:22Z"
     },
     {
         "Len": "Pool\u2010riffle adjustment due to changes in flow and sediment supply",
@@ -1021,7 +1117,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Pool\u2010riffle adjustment due to changes in flow and sediment supply"
+        "P1476": "Pool\u2010riffle adjustment due to changes in flow and sediment supply",
+        "P577": "2021-01-16T21:14:50Z"
     },
     {
         "Len": "Pool\u2010riffle sedimentation and surface texture trends in a gravel bed stream",
@@ -1029,7 +1126,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2015wr017840",
         "P921": null,
-        "P1476": "Pool\u2010riffle sedimentation and surface texture trends in a gravel bed stream"
+        "P1476": "Pool\u2010riffle sedimentation and surface texture trends in a gravel bed stream",
+        "P577": "2015-10-12T22:16:57Z"
     },
     {
         "Len": "Prediction and forecast of Suspended Sediment Concentration (SSC) on the Upper Yangtze basin",
@@ -1037,7 +1135,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2017jf004240",
         "P921": null,
-        "P1476": "Prediction and forecast of Suspended Sediment Concentration (SSC) on the Upper Yangtze basin"
+        "P1476": "Prediction and forecast of Suspended Sediment Concentration (SSC) on the Upper Yangtze basin",
+        "P577": "2018-06-20T12:59:41Z"
     },
     {
         "Len": "Predictive Modeling and Mapping of Fish Distributions in Small Streams of the Canadian Rocky Mountain Foothills",
@@ -1048,7 +1147,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Predictive Modeling and Mapping of Fish Distributions in Small Streams of the Canadian Rocky Mountain Foothills"
+        "P1476": "Predictive Modeling and Mapping of Fish Distributions in Small Streams of the Canadian Rocky Mountain Foothills",
+        "P577": "2008-03-03T20:04:08Z"
     },
     {
         "Len": "Principles of bedload transport of non-cohesive sediment in open-channels",
@@ -1056,7 +1156,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1007/978-3-319-17719-9_13",
         "P921": null,
-        "P1476": "Principles of bedload transport of non-cohesive sediment in open-channels"
+        "P1476": "Principles of bedload transport of non-cohesive sediment in open-channels",
+        "P577": "2015-06-30T04:15:30Z"
     },
     {
         "Len": "Promise, performance and current limitations of a magnetic Bedload Movement Detector",
@@ -1068,7 +1169,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Promise, performance and current limitations of a magnetic Bedload Movement Detector"
+        "P1476": "Promise, performance and current limitations of a magnetic Bedload Movement Detector",
+        "P577": "2009-04-02T10:37:18Z"
     },
     {
         "Len": "Rapid and objective characterization of channel morphology in a small, forested stream",
@@ -1079,7 +1181,8 @@
             "Channel morphology",
             "Streams"
         ],
-        "P1476": "Rapid and objective characterization of channel morphology in a small, forested stream"
+        "P1476": "Rapid and objective characterization of channel morphology in a small, forested stream",
+        "P577": "2020-05-11T06:42:34Z"
     },
     {
         "Len": "Reach\u2010scale contributions of road\u2010surface sediment to the Honna River, Haida Gwaii, BC",
@@ -1087,7 +1190,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/hyp.10874",
         "P921": null,
-        "P1476": "Reach\u2010scale contributions of road\u2010surface sediment to the Honna River, Haida Gwaii, BC"
+        "P1476": "Reach\u2010scale contributions of road\u2010surface sediment to the Honna River, Haida Gwaii, BC",
+        "P577": "2016-04-10T18:23:31Z"
     },
     {
         "Len": "Recent (1999\u20132003) Canadian research on contemporary processes of river erosion and sedimentation, and river mechanics",
@@ -1097,7 +1201,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Recent (1999\u20132003) Canadian research on contemporary processes of river erosion and sedimentation, and river mechanics"
+        "P1476": "Recent (1999\u20132003) Canadian research on contemporary processes of river erosion and sedimentation, and river mechanics",
+        "P577": "2005-01-13T15:47:13Z"
     },
     {
         "Len": "Relationship between suspended sediment load, channel geometry and land area increment in the Yellow River Delta",
@@ -1105,7 +1210,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/j.catena.2006.01.003",
         "P921": null,
-        "P1476": "Relationship between suspended sediment load, channel geometry and land area increment in the Yellow River Delta"
+        "P1476": "Relationship between suspended sediment load, channel geometry and land area increment in the Yellow River Delta",
+        "P577": "2006-03-30T12:52:14Z"
     },
     {
         "Len": "Response of In\u2010Stream Wood to Riparian Timber Harvesting: Field Observations and Long\u2010Term Projections",
@@ -1115,7 +1221,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Response of In\u2010Stream Wood to Riparian Timber Harvesting: Field Observations and Long\u2010Term Projections"
+        "P1476": "Response of In\u2010Stream Wood to Riparian Timber Harvesting: Field Observations and Long\u2010Term Projections",
+        "P577": "2020-06-22T10:24:02Z"
     },
     {
         "Len": "River Restoration Design Framework",
@@ -1125,7 +1232,8 @@
         "P921": [
             "Restoration"
         ],
-        "P1476": "River Restoration Design Framework"
+        "P1476": "River Restoration Design Framework",
+        "P577": "2018-07-02T13:28:43Z"
     },
     {
         "Len": "River restoration",
@@ -1135,7 +1243,8 @@
         "P921": [
             "Restoration"
         ],
-        "P1476": "River restoration"
+        "P1476": "River restoration",
+        "P577": "2009-04-21T07:28:10Z"
     },
     {
         "Len": "Rough Correlations: Meta\u2010Analysis of Roughness Measures in Gravel Bed Rivers",
@@ -1145,7 +1254,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Rough Correlations: Meta\u2010Analysis of Roughness Measures in Gravel Bed Rivers"
+        "P1476": "Rough Correlations: Meta\u2010Analysis of Roughness Measures in Gravel Bed Rivers",
+        "P577": "2020-07-17T21:40:12Z"
     },
     {
         "Len": "SEDIMENT TRANSPORT AND CHANNEL MORPHOLOGY OF SMALL, FORESTED STREAMS1",
@@ -1157,7 +1267,8 @@
             "Ecology",
             "Water Science and Technology"
         ],
-        "P1476": "SEDIMENT TRANSPORT AND CHANNEL MORPHOLOGY OF SMALL, FORESTED STREAMS1"
+        "P1476": "SEDIMENT TRANSPORT AND CHANNEL MORPHOLOGY OF SMALL, FORESTED STREAMS1",
+        "P577": "2007-06-09T01:18:21Z"
     },
     {
         "Len": "SPATIAL AND TEMPORAL DYNAMICS OF WOOD IN HEADWATER STREAMS OF THE PACIFIC NORTHWEST1",
@@ -1169,7 +1280,8 @@
             "Ecology",
             "Water Science and Technology"
         ],
-        "P1476": "SPATIAL AND TEMPORAL DYNAMICS OF WOOD IN HEADWATER STREAMS OF THE PACIFIC NORTHWEST1"
+        "P1476": "SPATIAL AND TEMPORAL DYNAMICS OF WOOD IN HEADWATER STREAMS OF THE PACIFIC NORTHWEST1",
+        "P577": "2007-06-09T01:18:21Z"
     },
     {
         "Len": "SUSPENDED SEDIMENT DYNAMICS IN SMALL FOREST STREAMS OF THE PACIFIC NORTHWEST1",
@@ -1181,7 +1293,8 @@
             "Ecology",
             "Water Science and Technology"
         ],
-        "P1476": "SUSPENDED SEDIMENT DYNAMICS IN SMALL FOREST STREAMS OF THE PACIFIC NORTHWEST1"
+        "P1476": "SUSPENDED SEDIMENT DYNAMICS IN SMALL FOREST STREAMS OF THE PACIFIC NORTHWEST1",
+        "P577": "2007-06-09T01:18:21Z"
     },
     {
         "Len": "SUSPENDED SEDIMENT DYNAMICS IN SMALL, FOREST",
@@ -1189,7 +1302,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1007/springerreference_225999",
         "P921": null,
-        "P1476": "SUSPENDED SEDIMENT DYNAMICS IN SMALL, FOREST"
+        "P1476": "SUSPENDED SEDIMENT DYNAMICS IN SMALL, FOREST",
+        "P577": "2012-04-05T10:35:36Z"
     },
     {
         "Len": "Salmon as geomorphic agents and ecosystem engineers in gravel-bed rivers: the effect of fish and floods on sediment mobility and habitat suitability",
@@ -1200,7 +1314,8 @@
             "Fish",
             "Rivers"
         ],
-        "P1476": "Salmon as geomorphic agents and ecosystem engineers in gravel-bed rivers: the effect of fish and floods on sediment mobility and habitat suitability"
+        "P1476": "Salmon as geomorphic agents and ecosystem engineers in gravel-bed rivers: the effect of fish and floods on sediment mobility and habitat suitability",
+        "P577": "2011-12-05T12:44:35Z"
     },
     {
         "Len": "Salmon-driven bedload transport in small streams",
@@ -1210,7 +1325,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Salmon-driven bedload transport in small streams"
+        "P1476": "Salmon-driven bedload transport in small streams",
+        "P577": "2011-02-22T21:01:43Z"
     },
     {
         "Len": "Sampling variability in estimates of flow characteristics in coarse\u2010bed channels: Effects of sample size",
@@ -1220,7 +1336,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Sampling variability in estimates of flow characteristics in coarse\u2010bed channels: Effects of sample size"
+        "P1476": "Sampling variability in estimates of flow characteristics in coarse\u2010bed channels: Effects of sample size",
+        "P577": "2016-02-25T04:38:10Z"
     },
     {
         "Len": "Scale\u2010dependent interactions between wood and channel dynamics: Modeling jam formation and sediment storage in gravel\u2010bed streams",
@@ -1228,10 +1345,11 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2013jf002917",
         "P921": [
-            "Streams",
-            "Modeling"
+            "Modeling",
+            "Streams"
         ],
-        "P1476": "Scale\u2010dependent interactions between wood and channel dynamics: Modeling jam formation and sediment storage in gravel\u2010bed streams"
+        "P1476": "Scale\u2010dependent interactions between wood and channel dynamics: Modeling jam formation and sediment storage in gravel\u2010bed streams",
+        "P577": "2013-11-14T22:56:36Z"
     },
     {
         "Len": "Scour, fill, and burial depth of coarse material in gravel bed streams",
@@ -1241,7 +1359,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Scour, fill, and burial depth of coarse material in gravel bed streams"
+        "P1476": "Scour, fill, and burial depth of coarse material in gravel bed streams",
+        "P577": "2007-02-03T08:41:00Z"
     },
     {
         "Len": "Sediment Transport Dynamics-Editorial",
@@ -1251,7 +1370,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Sediment Transport Dynamics-Editorial"
+        "P1476": "Sediment Transport Dynamics-Editorial",
+        "P577": "2020-05-04T10:01:16Z"
     },
     {
         "Len": "Sediment Transport Dynamics-Pore-Water Pressure Effects on the Detachment of Cohesive Streambeds: Seepage Forces and Matric Suction",
@@ -1261,7 +1381,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Sediment Transport Dynamics-Pore-Water Pressure Effects on the Detachment of Cohesive Streambeds: Seepage Forces and Matric Suction"
+        "P1476": "Sediment Transport Dynamics-Pore-Water Pressure Effects on the Detachment of Cohesive Streambeds: Seepage Forces and Matric Suction",
+        "P577": "2002-09-10T15:25:40Z"
     },
     {
         "Len": "Sediment Transport and Channel Morphology Implications for Fish Habitat",
@@ -1269,11 +1390,12 @@
         "P50": "Marwan Hassan",
         "P356": "10.1201/9781315120584-17",
         "P921": [
-            "Fish",
             "Channel morphology",
-            "Sediment transport"
+            "Sediment transport",
+            "Fish"
         ],
-        "P1476": "Sediment Transport and Channel Morphology Implications for Fish Habitat"
+        "P1476": "Sediment Transport and Channel Morphology Implications for Fish Habitat",
+        "P577": "2017-10-24T09:55:22Z"
     },
     {
         "Len": "Sediment mobility in fish bearing streams: the influence of floods and spawning salmon",
@@ -1285,7 +1407,8 @@
             "Ecology",
             "Water Science and Technology"
         ],
-        "P1476": "Sediment mobility in fish bearing streams: the influence of floods and spawning salmon"
+        "P1476": "Sediment mobility in fish bearing streams: the influence of floods and spawning salmon",
+        "P577": "2007-06-09T00:00:41Z"
     },
     {
         "Len": "Sediment residence time distributions: Theory and application from bed elevation measurements",
@@ -1293,7 +1416,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/jgrf.20151",
         "P921": null,
-        "P1476": "Sediment residence time distributions: Theory and application from bed elevation measurements"
+        "P1476": "Sediment residence time distributions: Theory and application from bed elevation measurements",
+        "P577": "2013-10-12T01:48:06Z"
     },
     {
         "Len": "Sediment storage, partial transport, and the evolution of an experimental gravel bed under changing sediment supply regimes",
@@ -1303,7 +1427,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Sediment storage, partial transport, and the evolution of an experimental gravel bed under changing sediment supply regimes"
+        "P1476": "Sediment storage, partial transport, and the evolution of an experimental gravel bed under changing sediment supply regimes",
+        "P577": "2019-01-07T07:20:56Z"
     },
     {
         "Len": "Sediment transport and Channe l Morphology",
@@ -1313,7 +1438,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Sediment transport and Channe l Morphology"
+        "P1476": "Sediment transport and Channe l Morphology",
+        "P577": "2015-04-08T08:48:01Z"
     },
     {
         "Len": "Sediment transport at low rate in gravel-bed rivers",
@@ -1321,10 +1447,11 @@
         "P50": "Marwan Hassan",
         "P356": "10.1007/978-94-017-0347-5_36",
         "P921": [
-            "Rivers",
-            "Sediment transport"
+            "Sediment transport",
+            "Rivers"
         ],
-        "P1476": "Sediment transport at low rate in gravel-bed rivers"
+        "P1476": "Sediment transport at low rate in gravel-bed rivers",
+        "P577": "2013-04-30T17:30:54Z"
     },
     {
         "Len": "Sensitivity of stoichiometric ratios in the Mississippi River to hydrologic variability",
@@ -1332,7 +1459,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2013jg002585",
         "P921": null,
-        "P1476": "Sensitivity of stoichiometric ratios in the Mississippi River to hydrologic variability"
+        "P1476": "Sensitivity of stoichiometric ratios in the Mississippi River to hydrologic variability",
+        "P577": "2014-05-11T01:54:35Z"
     },
     {
         "Len": "Simulated wood budgets in two mountain streams",
@@ -1342,7 +1470,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Simulated wood budgets in two mountain streams"
+        "P1476": "Simulated wood budgets in two mountain streams",
+        "P577": "2016-02-15T07:09:00Z"
     },
     {
         "Len": "Simulation of individual particle movement in a gravel streambed",
@@ -1354,7 +1483,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Simulation of individual particle movement in a gravel streambed"
+        "P1476": "Simulation of individual particle movement in a gravel streambed",
+        "P577": "2002-08-25T16:35:44Z"
     },
     {
         "Len": "Size and distance of travel of unconstrained clasts on a streambed",
@@ -1362,7 +1492,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/91wr02523",
         "P921": null,
-        "P1476": "Size and distance of travel of unconstrained clasts on a streambed"
+        "P1476": "Size and distance of travel of unconstrained clasts on a streambed",
+        "P577": "2004-02-04T05:35:52Z"
     },
     {
         "Len": "Spatial and Temporal Patterns of Sediment Transport in a Small Stream",
@@ -1372,7 +1503,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Spatial and Temporal Patterns of Sediment Transport in a Small Stream"
+        "P1476": "Spatial and Temporal Patterns of Sediment Transport in a Small Stream",
+        "P577": "2019-03-18T16:59:39Z"
     },
     {
         "Len": "Spatial and temporal patterns of sediment storage over 45 years in Carnation Creek, BC, a previously glaciated mountain catchment",
@@ -1384,7 +1516,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Spatial and temporal patterns of sediment storage over 45 years in Carnation Creek, BC, a previously glaciated mountain catchment"
+        "P1476": "Spatial and temporal patterns of sediment storage over 45 years in Carnation Creek, BC, a previously glaciated mountain catchment",
+        "P577": "2019-02-02T21:08:41Z"
     },
     {
         "Len": "Spatial and temporal variation of in\u2010reach suspended sediment dynamics along the mainstem of Changjiang (Yangtze River), China",
@@ -1392,7 +1525,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2010wr009228",
         "P921": null,
-        "P1476": "Spatial and temporal variation of in\u2010reach suspended sediment dynamics along the mainstem of Changjiang (Yangtze River), China"
+        "P1476": "Spatial and temporal variation of in\u2010reach suspended sediment dynamics along the mainstem of Changjiang (Yangtze River), China",
+        "P577": "2010-11-23T21:01:30Z"
     },
     {
         "Len": "Spatial and temporal variation of sediment yield in the landscape: Example of Huanghe (Yellow River)",
@@ -1400,7 +1534,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2008gl033428",
         "P921": null,
-        "P1476": "Spatial and temporal variation of sediment yield in the landscape: Example of Huanghe (Yellow River)"
+        "P1476": "Spatial and temporal variation of sediment yield in the landscape: Example of Huanghe (Yellow River)",
+        "P577": "2008-03-17T21:13:32Z"
     },
     {
         "Len": "Spatial linkages between geomorphic and hydraulic conditions and invertebrate drift characteristics in a small mountain stream",
@@ -1411,7 +1546,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Spatial linkages between geomorphic and hydraulic conditions and invertebrate drift characteristics in a small mountain stream"
+        "P1476": "Spatial linkages between geomorphic and hydraulic conditions and invertebrate drift characteristics in a small mountain stream",
+        "P577": "2018-01-18T22:35:11Z"
     },
     {
         "Len": "Spatial organization of process domains in headwater drainage basins of a glaciated foothills region with complex longitudinal profiles",
@@ -1421,7 +1557,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Spatial organization of process domains in headwater drainage basins of a glaciated foothills region with complex longitudinal profiles"
+        "P1476": "Spatial organization of process domains in headwater drainage basins of a glaciated foothills region with complex longitudinal profiles",
+        "P577": "2011-05-06T20:00:59Z"
     },
     {
         "Len": "Statistical charactersitics of fluvial displacements of individual particles",
@@ -1435,7 +1572,8 @@
             "Electronic, Optical and Magnetic Materials",
             "Statistical and Nonlinear Physics"
         ],
-        "P1476": "Statistical charactersitics of fluvial displacements of individual particles"
+        "P1476": "Statistical charactersitics of fluvial displacements of individual particles",
+        "P577": "2005-02-05T08:00:11Z"
     },
     {
         "Len": "Step-pool channel features",
@@ -1443,7 +1581,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/b978-0-12-818234-5.00004-3",
         "P921": null,
-        "P1476": "Step-pool channel features"
+        "P1476": "Step-pool channel features",
+        "P577": "2020-12-03T22:37:01Z"
     },
     {
         "Len": "Step\u2010pool stability: Testing the jammed state hypothesis",
@@ -1451,7 +1590,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2009jf001365",
         "P921": null,
-        "P1476": "Step\u2010pool stability: Testing the jammed state hypothesis"
+        "P1476": "Step\u2010pool stability: Testing the jammed state hypothesis",
+        "P577": "2010-04-16T20:24:34Z"
     },
     {
         "Len": "Suspended sediment balance for the mainstem of Changjiang (Yangtze River) in the period 1964\u20131985",
@@ -1461,7 +1601,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Suspended sediment balance for the mainstem of Changjiang (Yangtze River) in the period 1964\u20131985"
+        "P1476": "Suspended sediment balance for the mainstem of Changjiang (Yangtze River) in the period 1964\u20131985",
+        "P577": "2011-01-19T11:27:59Z"
     },
     {
         "Len": "Suspended sediment dynamics at high and low flows in an agricultural watershed",
@@ -1471,7 +1612,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Suspended sediment dynamics at high and low flows in an agricultural watershed"
+        "P1476": "Suspended sediment dynamics at high and low flows in an agricultural watershed",
+        "P577": "2007-09-17T10:16:29Z"
     },
     {
         "Len": "Temporal pattern and memory in sediment transport in a step-pool channel: an experimental study",
@@ -1481,7 +1623,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "Temporal pattern and memory in sediment transport in a step-pool channel: an experimental study"
+        "P1476": "Temporal pattern and memory in sediment transport in a step-pool channel: an experimental study",
+        "P577": "2015-11-18T21:27:55Z"
     },
     {
         "Len": "The effect of episodic sediment supply on bedload variability and sediment mobility",
@@ -1491,7 +1634,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "The effect of episodic sediment supply on bedload variability and sediment mobility"
+        "P1476": "The effect of episodic sediment supply on bedload variability and sediment mobility",
+        "P577": "2018-08-30T20:20:51Z"
     },
     {
         "Len": "The effect of hydraulic regime on vertical sorting in gravel-bed rivers",
@@ -1501,7 +1645,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "The effect of hydraulic regime on vertical sorting in gravel-bed rivers"
+        "P1476": "The effect of hydraulic regime on vertical sorting in gravel-bed rivers",
+        "P577": "2006-09-13T20:13:21Z"
     },
     {
         "Len": "The effects of discharge and slope on hyporheic flow in step\u2010pool morphologies",
@@ -1511,7 +1656,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "The effects of discharge and slope on hyporheic flow in step\u2010pool morphologies"
+        "P1476": "The effects of discharge and slope on hyporheic flow in step\u2010pool morphologies",
+        "P577": "2014-01-16T20:30:51Z"
     },
     {
         "Len": "The impact of urbanization on temporal changes in sediment transport in a gravel bed channel in Southern Ontario, Canada",
@@ -1521,7 +1667,8 @@
         "P921": [
             "Sediment transport"
         ],
-        "P1476": "The impact of urbanization on temporal changes in sediment transport in a gravel bed channel in Southern Ontario, Canada"
+        "P1476": "The impact of urbanization on temporal changes in sediment transport in a gravel bed channel in Southern Ontario, Canada",
+        "P577": "2017-09-25T15:39:32Z"
     },
     {
         "Len": "The influence of channel morphology on bedload path lengths: Insights from a survival process model",
@@ -1533,7 +1680,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "The influence of channel morphology on bedload path lengths: Insights from a survival process model"
+        "P1476": "The influence of channel morphology on bedload path lengths: Insights from a survival process model",
+        "P577": "2020-07-04T01:41:08Z"
     },
     {
         "Len": "The influence of microform bed roughness elements on flow and sediment transport in gravel bed rivers",
@@ -1541,10 +1689,11 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/esp.3290150807",
         "P921": [
-            "Rivers",
-            "Sediment transport"
+            "Sediment transport",
+            "Rivers"
         ],
-        "P1476": "The influence of microform bed roughness elements on flow and sediment transport in gravel bed rivers"
+        "P1476": "The influence of microform bed roughness elements on flow and sediment transport in gravel bed rivers",
+        "P577": "2007-02-03T08:47:38Z"
     },
     {
         "Len": "The influence of microform bed roughness elements on flow and sediment transport in gravel bed rivers: a reply",
@@ -1556,7 +1705,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "The influence of microform bed roughness elements on flow and sediment transport in gravel bed rivers: a reply"
+        "P1476": "The influence of microform bed roughness elements on flow and sediment transport in gravel bed rivers: a reply",
+        "P577": "2007-02-03T03:53:05Z"
     },
     {
         "Len": "The origin of fine sediment determines the observations of suspended sediment fluxes under unsteady flow conditions",
@@ -1566,7 +1716,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "The origin of fine sediment determines the observations of suspended sediment fluxes under unsteady flow conditions"
+        "P1476": "The origin of fine sediment determines the observations of suspended sediment fluxes under unsteady flow conditions",
+        "P577": "2018-07-07T07:14:01Z"
     },
     {
         "Len": "The relative stability of salmon redds and unspawned streambeds",
@@ -1574,7 +1725,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2015wr016908",
         "P921": null,
-        "P1476": "The relative stability of salmon redds and unspawned streambeds"
+        "P1476": "The relative stability of salmon redds and unspawned streambeds",
+        "P577": "2015-07-14T14:55:02Z"
     },
     {
         "Len": "The role of channel morphology on the mobility and dispersion of bed sediment in a small gravel\u2010bed stream",
@@ -1584,7 +1736,8 @@
         "P921": [
             "Channel morphology"
         ],
-        "P1476": "The role of channel morphology on the mobility and dispersion of bed sediment in a small gravel\u2010bed stream"
+        "P1476": "The role of channel morphology on the mobility and dispersion of bed sediment in a small gravel\u2010bed stream",
+        "P577": "2016-05-26T04:07:20Z"
     },
     {
         "Len": "The transport of gravel in an ephemeral sandbed river",
@@ -1596,7 +1749,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "The transport of gravel in an ephemeral sandbed river"
+        "P1476": "The transport of gravel in an ephemeral sandbed river",
+        "P577": "2002-09-10T18:13:32Z"
     },
     {
         "Len": "Three-dimensional resolution of bedload transport with binocular computer vision",
@@ -1604,7 +1758,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.21203/rs.3.rs-19923/v1",
         "P921": null,
-        "P1476": "Three-dimensional resolution of bedload transport with binocular computer vision"
+        "P1476": "Three-dimensional resolution of bedload transport with binocular computer vision",
+        "P577": "2020-04-02T15:43:38Z"
     },
     {
         "Len": "Toward a practical method for estimating sediment\u2010transport rates in gravel\u2010bed rivers",
@@ -1614,7 +1769,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Toward a practical method for estimating sediment\u2010transport rates in gravel\u2010bed rivers"
+        "P1476": "Toward a practical method for estimating sediment\u2010transport rates in gravel\u2010bed rivers",
+        "P577": "2002-09-10T15:25:40Z"
     },
     {
         "Len": "Tracers for sediment movement",
@@ -1622,7 +1778,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1007/springerreference_76609",
         "P921": null,
-        "P1476": "Tracers for sediment movement"
+        "P1476": "Tracers for sediment movement",
+        "P577": "2012-01-20T13:22:25Z"
     },
     {
         "Len": "Transport and dispersion of coarse bed material, Nahal Hebron",
@@ -1630,7 +1787,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.3133/ofr63118",
         "P921": null,
-        "P1476": "Transport and dispersion of coarse bed material, Nahal Hebron"
+        "P1476": "Transport and dispersion of coarse bed material, Nahal Hebron",
+        "P577": "2018-08-15T18:23:39Z"
     },
     {
         "Len": "Turbulent flow over an evolving gravel bed",
@@ -1638,7 +1796,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.2208/prohe1975.33.481",
         "P921": null,
-        "P1476": "Turbulent flow over an evolving gravel bed"
+        "P1476": "Turbulent flow over an evolving gravel bed",
+        "P577": "2011-08-16T03:41:15Z"
     },
     {
         "Len": "Upland gravel-bed rivers with low sediment transport",
@@ -1646,10 +1805,11 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/s0928-2025(05)80015-x",
         "P921": [
-            "Rivers",
-            "Sediment transport"
+            "Sediment transport",
+            "Rivers"
         ],
-        "P1476": "Upland gravel-bed rivers with low sediment transport"
+        "P1476": "Upland gravel-bed rivers with low sediment transport",
+        "P577": "2007-09-08T01:16:03Z"
     },
     {
         "Len": "Use of tracers in fluvial geomorphology",
@@ -1657,7 +1817,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/0470868333.ch14",
         "P921": null,
-        "P1476": "Use of tracers in fluvial geomorphology"
+        "P1476": "Use of tracers in fluvial geomorphology",
+        "P577": "2005-09-29T11:46:35Z"
     },
     {
         "Len": "Using LiDAR to characterize logjams in lowland rivers",
@@ -1667,7 +1828,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Using LiDAR to characterize logjams in lowland rivers"
+        "P1476": "Using LiDAR to characterize logjams in lowland rivers",
+        "P577": "2015-07-03T08:17:04Z"
     },
     {
         "Len": "Variable hillslope\u2010channel coupling and channel characteristics of forested mountain streams in glaciated landscapes",
@@ -1677,7 +1839,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Variable hillslope\u2010channel coupling and channel characteristics of forested mountain streams in glaciated landscapes"
+        "P1476": "Variable hillslope\u2010channel coupling and channel characteristics of forested mountain streams in glaciated landscapes",
+        "P577": "2018-10-11T09:52:55Z"
     },
     {
         "Len": "Vertical exchange of coarse bedload in desert streams",
@@ -1689,7 +1852,8 @@
             "Ocean Engineering",
             "Water Science and Technology"
         ],
-        "P1476": "Vertical exchange of coarse bedload in desert streams"
+        "P1476": "Vertical exchange of coarse bedload in desert streams",
+        "P577": "2008-04-30T18:11:13Z"
     },
     {
         "Len": "Vertical mixing of coarse particles in gravel bed rivers:  a kinematic model",
@@ -1699,7 +1863,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Vertical mixing of coarse particles in gravel bed rivers:  a kinematic model"
+        "P1476": "Vertical mixing of coarse particles in gravel bed rivers:  a kinematic model",
+        "P577": "2004-02-04T05:31:37Z"
     },
     {
         "Len": "Video\u2010based gravel transport measurements with a flume mounted light table",
@@ -1707,7 +1872,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/esp.1675",
         "P921": null,
-        "P1476": "Video\u2010based gravel transport measurements with a flume mounted light table"
+        "P1476": "Video\u2010based gravel transport measurements with a flume mounted light table",
+        "P577": "2008-05-13T17:17:11Z"
     },
     {
         "Len": "Virtual rate and mean distance of travel of individual clasts in gravel\u2010bed channels",
@@ -1715,7 +1881,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/esp.3290170607",
         "P921": null,
-        "P1476": "Virtual rate and mean distance of travel of individual clasts in gravel\u2010bed channels"
+        "P1476": "Virtual rate and mean distance of travel of individual clasts in gravel\u2010bed channels",
+        "P577": "2007-02-03T09:29:59Z"
     },
     {
         "Len": "What are the contemporary sources of sediment in the Mississippi River?",
@@ -1723,7 +1890,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2017gl074046",
         "P921": null,
-        "P1476": "What are the contemporary sources of sediment in the Mississippi River?"
+        "P1476": "What are the contemporary sources of sediment in the Mississippi River?",
+        "P577": "2017-08-29T23:30:20Z"
     },
     {
         "Len": "What controls the disequilibrium state of gravel\u2010bed rivers?",
@@ -1735,7 +1903,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "What controls the disequilibrium state of gravel\u2010bed rivers?"
+        "P1476": "What controls the disequilibrium state of gravel\u2010bed rivers?",
+        "P577": "2019-06-29T18:10:16Z"
     },
     {
         "Len": "What is Hidden in Hiding Functions? The Influence of Packing on Size-Selective Transport",
@@ -1743,7 +1912,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1130/abs/2016am-285670",
         "P921": null,
-        "P1476": "What is Hidden in Hiding Functions? The Influence of Packing on Size-Selective Transport"
+        "P1476": "What is Hidden in Hiding Functions? The Influence of Packing on Size-Selective Transport",
+        "P577": "2016-10-20T22:06:14Z"
     },
     {
         "Len": "Width variations control the development of grain structuring in steep step\u2010pool dominated streams: insight from flume experiments",
@@ -1755,7 +1925,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Width variations control the development of grain structuring in steep step\u2010pool dominated streams: insight from flume experiments"
+        "P1476": "Width variations control the development of grain structuring in steep step\u2010pool dominated streams: insight from flume experiments",
+        "P577": "2020-01-17T19:52:53Z"
     },
     {
         "Len": "Wood Load, Jam Formation and Sediment Storage in a Gravel-Bed Stream",
@@ -1763,7 +1934,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2012jf002385",
         "P921": null,
-        "P1476": "Wood Load, Jam Formation and Sediment Storage in a Gravel-Bed Stream"
+        "P1476": "Wood Load, Jam Formation and Sediment Storage in a Gravel-Bed Stream",
+        "P577": "2012-10-05T08:17:12Z"
     },
     {
         "Len": "Wood dynamics in upland streams under different disturbance regimes",
@@ -1773,7 +1945,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Wood dynamics in upland streams under different disturbance regimes"
+        "P1476": "Wood dynamics in upland streams under different disturbance regimes",
+        "P577": "2012-10-26T08:26:47Z"
     },
     {
         "Len": "drainage basin dynamics",
@@ -1781,6 +1954,7 @@
         "P50": "Marwan Hassan",
         "P356": "10.1007/springerreference_43118",
         "P921": null,
-        "P1476": "drainage basin dynamics"
+        "P1476": "drainage basin dynamics",
+        "P577": "2011-08-24T11:24:44Z"
     }
 ]

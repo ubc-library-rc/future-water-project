@@ -7,7 +7,8 @@
         "P921": [
             "Uncertainty"
         ],
-        "P1476": "A philosophical basis for hydrological uncertainty"
+        "P1476": "A philosophical basis for hydrological uncertainty",
+        "P577": "2016-04-27T09:58:26Z"
     },
     {
         "Len": "Accounting for observational uncertainty in forecast verification: An information-theoretical view on forecasts, observations, and truth",
@@ -17,7 +18,8 @@
         "P921": [
             "Atmospheric Science"
         ],
-        "P1476": "Accounting for observational uncertainty in forecast verification: An information-theoretical view on forecasts, observations, and truth"
+        "P1476": "Accounting for observational uncertainty in forecast verification: An information-theoretical view on forecasts, observations, and truth",
+        "P577": "2011-03-11T16:15:00Z"
     },
     {
         "Len": "Advancing catchment hydrology to deal with predictions under change",
@@ -28,7 +30,8 @@
             "Hydrology",
             "Catchment hydrology"
         ],
-        "P1476": "Advancing catchment hydrology to deal with predictions under change"
+        "P1476": "Advancing catchment hydrology to deal with predictions under change",
+        "P577": "2014-02-19T07:36:18Z"
     },
     {
         "Len": "An information-theoretical perspective on weighted ensemble forecasts",
@@ -38,7 +41,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "An information-theoretical perspective on weighted ensemble forecasts"
+        "P1476": "An information-theoretical perspective on weighted ensemble forecasts",
+        "P577": "2013-06-27T11:47:10Z"
     },
     {
         "Len": "Application of Entropy Ensemble Filter in Neural Network Forecasts of Tropical Pacific Sea Surface Temperatures",
@@ -48,7 +52,8 @@
         "P921": [
             "General Physics and Astronomy"
         ],
-        "P1476": "Application of Entropy Ensemble Filter in Neural Network Forecasts of Tropical Pacific Sea Surface Temperatures"
+        "P1476": "Application of Entropy Ensemble Filter in Neural Network Forecasts of Tropical Pacific Sea Surface Temperatures",
+        "P577": "2018-03-20T10:57:11Z"
     },
     {
         "Len": "Balancing Costs and Benefits in Selecting New Information: Efficient Monitoring Using Deterministic Hydro-economic Models",
@@ -59,7 +64,8 @@
             "Civil and Structural Engineering",
             "Water Science and Technology"
         ],
-        "P1476": "Balancing Costs and Benefits in Selecting New Information: Efficient Monitoring Using Deterministic Hydro-economic Models"
+        "P1476": "Balancing Costs and Benefits in Selecting New Information: Efficient Monitoring Using Deterministic Hydro-economic Models",
+        "P577": "2017-10-07T10:01:03Z"
     },
     {
         "Len": "Controls on the diurnal streamflow cycles in two subbasins of an alpine headwater catchment",
@@ -69,7 +75,8 @@
         "P921": [
             "Streamflow"
         ],
-        "P1476": "Controls on the diurnal streamflow cycles in two subbasins of an alpine headwater catchment"
+        "P1476": "Controls on the diurnal streamflow cycles in two subbasins of an alpine headwater catchment",
+        "P577": "2015-04-17T05:03:04Z"
     },
     {
         "Len": "Could electrical conductivity replace water level in rating curves for alpine streams?",
@@ -79,7 +86,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Could electrical conductivity replace water level in rating curves for alpine streams?"
+        "P1476": "Could electrical conductivity replace water level in rating curves for alpine streams?",
+        "P577": "2012-12-03T13:40:41Z"
     },
     {
         "Len": "Data compression to define information content of hydrological time series.",
@@ -87,10 +95,11 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-17-3171-2013",
         "P921": [
-            "Information theory",
-            "Uncertainty"
+            "Uncertainty",
+            "Information theory"
         ],
-        "P1476": "Data compression to define information content of hydrological time series."
+        "P1476": "Data compression to define information content of hydrological time series.",
+        "P577": "2013-08-06T13:03:20Z"
     },
     {
         "Len": "Debates: Does Information Theory Provide a New Paradigm for Earth Science? Sharper Predictions Using Occam's Digital Razor",
@@ -100,7 +109,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Debates: Does Information Theory Provide a New Paradigm for Earth Science? Sharper Predictions Using Occam's Digital Razor"
+        "P1476": "Debates: Does Information Theory Provide a New Paradigm for Earth Science? Sharper Predictions Using Occam's Digital Razor",
+        "P577": "2020-03-02T07:49:17Z"
     },
     {
         "Len": "Dependency and redundancy: How information theory untangles three variable interactions in environmental data",
@@ -110,7 +120,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Dependency and redundancy: How information theory untangles three variable interactions in environmental data"
+        "P1476": "Dependency and redundancy: How information theory untangles three variable interactions in environmental data",
+        "P577": "2018-09-24T20:18:14Z"
     },
     {
         "Len": "Entropy Ensemble Filter: A Modified Bootstrap Aggregating (Bagging) Procedure to Improve Efficiency in Ensemble Model Simulation",
@@ -118,7 +129,8 @@
         "P50": "Steven Weijs",
         "P356": "10.3390/e19100520",
         "P921": null,
-        "P1476": "Entropy Ensemble Filter: A Modified Bootstrap Aggregating (Bagging) Procedure to Improve Efficiency in Ensemble Model Simulation"
+        "P1476": "Entropy Ensemble Filter: A Modified Bootstrap Aggregating (Bagging) Procedure to Improve Efficiency in Ensemble Model Simulation",
+        "P577": "2017-09-28T15:22:44Z"
     },
     {
         "Len": "Estimating Stream Surface Flow Velocities from Video Clips",
@@ -126,7 +138,8 @@
         "P50": "Steven Weijs",
         "P356": "10.1109/icip.2015.7351509",
         "P921": null,
-        "P1476": "Estimating Stream Surface Flow Velocities from Video Clips"
+        "P1476": "Estimating Stream Surface Flow Velocities from Video Clips",
+        "P577": "2015-12-13T06:34:48Z"
     },
     {
         "Len": "Evaluating reliability and resolution of ensemble forecasts using information theory",
@@ -136,7 +149,8 @@
         "P921": [
             "Atmospheric Science"
         ],
-        "P1476": "Evaluating reliability and resolution of ensemble forecasts using information theory"
+        "P1476": "Evaluating reliability and resolution of ensemble forecasts using information theory",
+        "P577": "2002-07-27T12:34:27Z"
     },
     {
         "Len": "Extracting High Resolution Snow Distribution Information with Inexpensive Autonomous Cameras",
@@ -144,7 +158,8 @@
         "P50": "Steven Weijs",
         "P356": "10.29007/93gh",
         "P921": null,
-        "P1476": "Extracting High Resolution Snow Distribution Information with Inexpensive Autonomous Cameras"
+        "P1476": "Extracting High Resolution Snow Distribution Information with Inexpensive Autonomous Cameras",
+        "P577": "2018-09-20T22:10:10Z"
     },
     {
         "Len": "Extracting local information from crowds through betting markets",
@@ -152,7 +167,8 @@
         "P50": "Steven Weijs",
         "P356": "10.2139/ssrn.1719046",
         "P921": null,
-        "P1476": "Extracting local information from crowds through betting markets"
+        "P1476": "Extracting local information from crowds through betting markets",
+        "P577": "2012-01-05T12:54:50Z"
     },
     {
         "Len": "Geomorphic Signatures on Brutsaert Base Flow Recession Analysis: case study of 27 Swiss Catchments",
@@ -162,7 +178,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Geomorphic Signatures on Brutsaert Base Flow Recession Analysis: case study of 27 Swiss Catchments"
+        "P1476": "Geomorphic Signatures on Brutsaert Base Flow Recession Analysis: case study of 27 Swiss Catchments",
+        "P577": "2013-07-20T13:09:08Z"
     },
     {
         "Len": "HydroZIP: using hydrological knowledge to compress hydrological data",
@@ -172,7 +189,8 @@
         "P921": [
             "General Physics and Astronomy"
         ],
-        "P1476": "HydroZIP: using hydrological knowledge to compress hydrological data"
+        "P1476": "HydroZIP: using hydrological knowledge to compress hydrological data",
+        "P577": "2013-04-10T15:52:27Z"
     },
     {
         "Len": "Interactive comment on \u201cWhy hydrological forecasts should be evaluated using information theory\u201d by SV Weijs et al.",
@@ -180,11 +198,12 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hessd-7-4657-2010",
         "P921": [
-            "Information theory",
+            "Hydrology",
             "Uncertainty",
-            "Hydrology"
+            "Information theory"
         ],
-        "P1476": "Interactive comment on \u201cWhy hydrological forecasts should be evaluated using information theory\u201d by SV Weijs et al."
+        "P1476": "Interactive comment on \u201cWhy hydrological forecasts should be evaluated using information theory\u201d by SV Weijs et al.",
+        "P577": "2010-07-16T14:09:12Z"
     },
     {
         "Len": "Kullback-Leibler divergence as a forecast skill score with classic reliability-resolution-uncertainty decomposition",
@@ -194,7 +213,8 @@
         "P921": [
             "Atmospheric Science"
         ],
-        "P1476": "Kullback-Leibler divergence as a forecast skill score with classic reliability-resolution-uncertainty decomposition"
+        "P1476": "Kullback-Leibler divergence as a forecast skill score with classic reliability-resolution-uncertainty decomposition",
+        "P577": "2010-04-27T16:07:04Z"
     },
     {
         "Len": "Linking water and energy objectives in lowland areas through the application of model predictive control",
@@ -202,7 +222,8 @@
         "P50": "Steven Weijs",
         "P356": "10.1109/cca.2010.5611147",
         "P921": null,
-        "P1476": "Linking water and energy objectives in lowland areas through the application of model predictive control"
+        "P1476": "Linking water and energy objectives in lowland areas through the application of model predictive control",
+        "P577": "2010-11-10T16:36:04Z"
     },
     {
         "Len": "Multiple model predictive control on a drainage canal system",
@@ -210,7 +231,8 @@
         "P50": "Steven Weijs",
         "P356": "10.1016/j.conengprac.2007.06.002",
         "P921": null,
-        "P1476": "Multiple model predictive control on a drainage canal system"
+        "P1476": "Multiple model predictive control on a drainage canal system",
+        "P577": "2007-08-28T11:27:52Z"
     },
     {
         "Len": "Objective Functions for Information-Content-Based Optimal Monitoring Network Design",
@@ -218,7 +240,8 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-2020-148",
         "P921": null,
-        "P1476": "Objective Functions for Information-Content-Based Optimal Monitoring Network Design"
+        "P1476": "Objective Functions for Information-Content-Based Optimal Monitoring Network Design",
+        "P577": "2020-04-17T06:53:01Z"
     },
     {
         "Len": "Preface\u2014Special Issue: Facets of Uncertainty",
@@ -228,7 +251,8 @@
         "P921": [
             "Uncertainty"
         ],
-        "P1476": "Preface\u2014Special Issue: Facets of Uncertainty"
+        "P1476": "Preface\u2014Special Issue: Facets of Uncertainty",
+        "P577": "2016-05-24T14:14:59Z"
     },
     {
         "Len": "Reservoir Operation Optimized for Hydropower Production Reduces Conflict with Traditional Water Uses in the Senegal River",
@@ -241,7 +265,8 @@
             "Management, Monitoring, Policy and Law",
             "Water Science and Technology"
         ],
-        "P1476": "Reservoir Operation Optimized for Hydropower Production Reduces Conflict with Traditional Water Uses in the Senegal River"
+        "P1476": "Reservoir Operation Optimized for Hydropower Production Reduces Conflict with Traditional Water Uses in the Senegal River",
+        "P577": "2020-02-08T15:30:52Z"
     },
     {
         "Len": "Soil Moisture & Snow Properties Determination with GNSS in Alpine Environments: Challenges, Status, and Perspectives",
@@ -251,7 +276,8 @@
         "P921": [
             "General Earth and Planetary Sciences"
         ],
-        "P1476": "Soil Moisture & Snow Properties Determination with GNSS in Alpine Environments: Challenges, Status, and Perspectives"
+        "P1476": "Soil Moisture & Snow Properties Determination with GNSS in Alpine Environments: Challenges, Status, and Perspectives",
+        "P577": "2013-07-19T12:12:52Z"
     },
     {
         "Len": "Toward a New Approach for Hydrological Modeling: A Tool for Sustainable Development in a Savanna Agro-System",
@@ -259,10 +285,11 @@
         "P50": "Steven Weijs",
         "P356": "10.1007/978-3-319-00639-0_8",
         "P921": [
-            "Sustainable development",
-            "Modeling"
+            "Modeling",
+            "Sustainable development"
         ],
-        "P1476": "Toward a New Approach for Hydrological Modeling: A Tool for Sustainable Development in a Savanna Agro-System"
+        "P1476": "Toward a New Approach for Hydrological Modeling: A Tool for Sustainable Development in a Savanna Agro-System",
+        "P577": "2013-07-31T12:57:26Z"
     },
     {
         "Len": "Using the Wiimote as a sensor in water research",
@@ -270,7 +297,8 @@
         "P50": "Steven Weijs",
         "P356": "10.1029/2010wr009350",
         "P921": null,
-        "P1476": "Using the Wiimote as a sensor in water research"
+        "P1476": "Using the Wiimote as a sensor in water research",
+        "P577": "2010-11-30T21:00:34Z"
     },
     {
         "Len": "Why hydrological predictions should be evaluated using information theory",
@@ -278,10 +306,11 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-14-2545-2010",
         "P921": [
-            "Information theory",
+            "Hydrology",
             "Uncertainty",
-            "Hydrology"
+            "Information theory"
         ],
-        "P1476": "Why hydrological predictions should be evaluated using information theory"
+        "P1476": "Why hydrological predictions should be evaluated using information theory",
+        "P577": "2010-12-13T13:21:19Z"
     }
 ]

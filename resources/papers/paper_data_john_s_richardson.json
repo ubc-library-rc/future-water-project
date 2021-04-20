@@ -10,7 +10,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Water Science and Technology"
         ],
-        "P1476": "A cross-continental comparison of stream invertebrate community assembly to assess convergence in forested headwater streams"
+        "P1476": "A cross-continental comparison of stream invertebrate community assembly to assess convergence in forested headwater streams",
+        "P577": "2013-09-05T14:57:50Z"
     },
     {
         "Len": "A healthy Fraser River? How will we know when we achieve this state?",
@@ -20,7 +21,8 @@
         "P921": [
             "Pollution"
         ],
-        "P1476": "A healthy Fraser River? How will we know when we achieve this state?"
+        "P1476": "A healthy Fraser River? How will we know when we achieve this state?",
+        "P577": "2004-11-27T22:37:17Z"
     },
     {
         "Len": "A model-based comparison of organic matter dynamics between riparian-forested and open-canopy streams",
@@ -28,11 +30,12 @@
         "P50": "Q56794616",
         "P356": "10.2478/remc-2014-0001",
         "P921": [
-            "Agriculture",
             "Climate change",
+            "Agriculture",
             "Streams"
         ],
-        "P1476": "A model-based comparison of organic matter dynamics between riparian-forested and open-canopy streams"
+        "P1476": "A model-based comparison of organic matter dynamics between riparian-forested and open-canopy streams",
+        "P577": "2014-06-05T20:03:55Z"
     },
     {
         "Len": "A test of the umbrella species approach in restored floodplain ponds",
@@ -42,7 +45,8 @@
         "P921": [
             "Ecology"
         ],
-        "P1476": "A test of the umbrella species approach in restored floodplain ponds"
+        "P1476": "A test of the umbrella species approach in restored floodplain ponds",
+        "P577": "2014-03-07T13:17:54Z"
     },
     {
         "Len": "Abstracts from the 2009 Joint Annual Meeting of the Society for Northwestern Vertebrate Biology and Washington Chapter of the Wildlife Society, Held at Skamania Lodge \u2026",
@@ -53,7 +57,8 @@
             "General Earth and Planetary Sciences",
             "General Environmental Science"
         ],
-        "P1476": "Abstracts from the 2009 Joint Annual Meeting of the Society for Northwestern Vertebrate Biology and Washington Chapter of the Wildlife Society, Held at Skamania Lodge \u2026"
+        "P1476": "Abstracts from the 2009 Joint Annual Meeting of the Society for Northwestern Vertebrate Biology and Washington Chapter of the Wildlife Society, Held at Skamania Lodge \u2026",
+        "P577": "2009-08-14T21:51:24Z"
     },
     {
         "Len": "Agonistic behaviours and movement in the signal crayfish, Pacifastacus leniusculus: can dominance interactions influence crayfish size-class distributions in streams?",
@@ -64,7 +69,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Agonistic behaviours and movement in the signal crayfish, Pacifastacus leniusculus: can dominance interactions influence crayfish size-class distributions in streams?"
+        "P1476": "Agonistic behaviours and movement in the signal crayfish, Pacifastacus leniusculus: can dominance interactions influence crayfish size-class distributions in streams?",
+        "P577": "2006-12-08T15:52:08Z"
     },
     {
         "Len": "An experimental test of the effects of food resources and hydraulic refuge on patch colonization by stream macroinvertebrates during spates",
@@ -75,7 +81,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "An experimental test of the effects of food resources and hydraulic refuge on patch colonization by stream macroinvertebrates during spates"
+        "P1476": "An experimental test of the effects of food resources and hydraulic refuge on patch colonization by stream macroinvertebrates during spates",
+        "P577": "2005-12-20T16:45:49Z"
     },
     {
         "Len": "Aquatic Insects",
@@ -87,7 +94,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Aquatic Insects"
+        "P1476": "Aquatic Insects",
+        "P577": "2008-09-30T17:58:04Z"
     },
     {
         "Len": "Aquatic arthropods and forestry: effects of large-scale land use on aquatic systems in Nearctic temperate regions1",
@@ -101,7 +109,8 @@
             "Molecular Biology",
             "Structural Biology"
         ],
-        "P1476": "Aquatic arthropods and forestry: effects of large-scale land use on aquatic systems in Nearctic temperate regions1"
+        "P1476": "Aquatic arthropods and forestry: effects of large-scale land use on aquatic systems in Nearctic temperate regions1",
+        "P577": "2009-04-15T11:27:03Z"
     },
     {
         "Len": "Artificial light as a disturbance to light\u2010na\u00efve streams",
@@ -111,7 +120,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Artificial light as a disturbance to light\u2010na\u00efve streams"
+        "P1476": "Artificial light as a disturbance to light\u2010na\u00efve streams",
+        "P577": "2014-08-14T06:08:03Z"
     },
     {
         "Len": "Assessing the functional importance of large\u2010bodied invertebrates in experimental headwater streams",
@@ -121,7 +131,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Assessing the functional importance of large\u2010bodied invertebrates in experimental headwater streams"
+        "P1476": "Assessing the functional importance of large\u2010bodied invertebrates in experimental headwater streams",
+        "P577": "2010-12-06T16:07:27Z"
     },
     {
         "Len": "Assessing the long-term ecological effects of riparian management practices on headwater streams in a coastal temperate rainforest",
@@ -131,7 +142,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Assessing the long-term ecological effects of riparian management practices on headwater streams in a coastal temperate rainforest"
+        "P1476": "Assessing the long-term ecological effects of riparian management practices on headwater streams in a coastal temperate rainforest",
+        "P577": "2016-10-26T05:36:18Z"
     },
     {
         "Len": "Assessing the value of the umbrella\u2010species concept for conservation planning with meta\u2010analysis",
@@ -143,7 +155,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Nature and Landscape Conservation"
         ],
-        "P1476": "Assessing the value of the umbrella\u2010species concept for conservation planning with meta\u2010analysis"
+        "P1476": "Assessing the value of the umbrella\u2010species concept for conservation planning with meta\u2010analysis",
+        "P577": "2010-11-17T16:31:08Z"
     },
     {
         "Len": "BRITISH MYCOLOGICAL SOCIETY",
@@ -154,7 +167,8 @@
             "General Earth and Planetary Sciences",
             "General Environmental Science"
         ],
-        "P1476": "BRITISH MYCOLOGICAL SOCIETY"
+        "P1476": "BRITISH MYCOLOGICAL SOCIETY",
+        "P577": "2009-09-23T13:49:36Z"
     },
     {
         "Len": "Benthic assemblage variation among channel units in high-gradient streams on Vancouver Island, British Columbia",
@@ -165,7 +179,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Benthic assemblage variation among channel units in high-gradient streams on Vancouver Island, British Columbia"
+        "P1476": "Benthic assemblage variation among channel units in high-gradient streams on Vancouver Island, British Columbia",
+        "P577": "2006-07-19T19:08:54Z"
     },
     {
         "Len": "Biodiversity\u2010ecosystem function research: Insights gained from streams",
@@ -177,7 +192,8 @@
             "Water Science and Technology",
             "Environmental Chemistry"
         ],
-        "P1476": "Biodiversity\u2010ecosystem function research: Insights gained from streams"
+        "P1476": "Biodiversity\u2010ecosystem function research: Insights gained from streams",
+        "P577": "2009-06-16T09:23:08Z"
     },
     {
         "Len": "Biogeochemical properties of fine particulate organic matter as an indicator of local and catchment impacts on forested streams",
@@ -187,7 +203,8 @@
         "P921": [
             "Ecology"
         ],
-        "P1476": "Biogeochemical properties of fine particulate organic matter as an indicator of local and catchment impacts on forested streams"
+        "P1476": "Biogeochemical properties of fine particulate organic matter as an indicator of local and catchment impacts on forested streams",
+        "P577": "2011-07-19T18:13:08Z"
     },
     {
         "Len": "Biological diversity in headwater streams",
@@ -200,7 +217,8 @@
             "Biochemistry",
             "Water Science and Technology"
         ],
-        "P1476": "Biological diversity in headwater streams"
+        "P1476": "Biological diversity in headwater streams",
+        "P577": "2019-02-22T08:49:44Z"
     },
     {
         "Len": "Biosystematics of eocosmoecus, a new nearctic caddisfly genus (Trichoptera: Limnephilidae, Dicosmoecinae)",
@@ -211,7 +229,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Biosystematics of eocosmoecus, a new nearctic caddisfly genus (Trichoptera: Limnephilidae, Dicosmoecinae)"
+        "P1476": "Biosystematics of eocosmoecus, a new nearctic caddisfly genus (Trichoptera: Limnephilidae, Dicosmoecinae)",
+        "P577": "2006-05-08T06:26:43Z"
     },
     {
         "Len": "Catchment\u2010scale effects of forestry practices on benthic invertebrate communities in Pacific coastal streams",
@@ -221,7 +240,8 @@
         "P921": [
             "Ecology"
         ],
-        "P1476": "Catchment\u2010scale effects of forestry practices on benthic invertebrate communities in Pacific coastal streams"
+        "P1476": "Catchment\u2010scale effects of forestry practices on benthic invertebrate communities in Pacific coastal streams",
+        "P577": "2009-10-10T14:18:19Z"
     },
     {
         "Len": "Causes and consequences of invertebrate drift in running waters: from individuals to populations and trophic fluxes",
@@ -232,7 +252,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Causes and consequences of invertebrate drift in running waters: from individuals to populations and trophic fluxes"
+        "P1476": "Causes and consequences of invertebrate drift in running waters: from individuals to populations and trophic fluxes",
+        "P577": "2016-02-01T14:31:33Z"
     },
     {
         "Len": "Changes in the productivity base and fish populations of the lower Fraser River (Canada) associated with historical changes in human occupation",
@@ -242,7 +263,8 @@
         "P921": [
             "Fish"
         ],
-        "P1476": "Changes in the productivity base and fish populations of the lower Fraser River (Canada) associated with historical changes in human occupation"
+        "P1476": "Changes in the productivity base and fish populations of the lower Fraser River (Canada) associated with historical changes in human occupation",
+        "P577": "2013-07-24T21:25:11Z"
     },
     {
         "Len": "Channel and landscape dynamics in the alluvial forest mosaic of the Carmanah River valley, British Columbia, Canada",
@@ -252,7 +274,8 @@
         "P921": [
             "Earth-Surface Processes"
         ],
-        "P1476": "Channel and landscape dynamics in the alluvial forest mosaic of the Carmanah River valley, British Columbia, Canada"
+        "P1476": "Channel and landscape dynamics in the alluvial forest mosaic of the Carmanah River valley, British Columbia, Canada",
+        "P577": "2013-04-17T09:33:07Z"
     },
     {
         "Len": "Characteristics, main impacts, and stewardship of natural and artificial freshwater environments: consequences for biodiversity conservation",
@@ -265,7 +288,8 @@
             "Biochemistry",
             "Water Science and Technology"
         ],
-        "P1476": "Characteristics, main impacts, and stewardship of natural and artificial freshwater environments: consequences for biodiversity conservation"
+        "P1476": "Characteristics, main impacts, and stewardship of natural and artificial freshwater environments: consequences for biodiversity conservation",
+        "P577": "2020-01-17T12:39:02Z"
     },
     {
         "Len": "Chlorinated organic contaminants in benthic organisms of the lower Fraser River near Agassiz, British Columbia",
@@ -275,7 +299,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Chlorinated organic contaminants in benthic organisms of the lower Fraser River near Agassiz, British Columbia"
+        "P1476": "Chlorinated organic contaminants in benthic organisms of the lower Fraser River near Agassiz, British Columbia",
+        "P577": "2019-03-16T06:59:09Z"
     },
     {
         "Len": "Chlorpyrifos interacts with other agricultural stressors to alter stream communities in laboratory microcosms",
@@ -285,7 +310,8 @@
         "P921": [
             "Ecology"
         ],
-        "P1476": "Chlorpyrifos interacts with other agricultural stressors to alter stream communities in laboratory microcosms"
+        "P1476": "Chlorpyrifos interacts with other agricultural stressors to alter stream communities in laboratory microcosms",
+        "P577": "2017-10-10T13:52:40Z"
     },
     {
         "Len": "Coarse particulate detritus dynamics in small, montane streams Southwestern British Columbia",
@@ -296,7 +322,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Coarse particulate detritus dynamics in small, montane streams Southwestern British Columbia"
+        "P1476": "Coarse particulate detritus dynamics in small, montane streams Southwestern British Columbia",
+        "P577": "2008-06-16T15:41:10Z"
     },
     {
         "Len": "Coarse particulate organic matter dynamics in small streams: towards linking function to physical structure",
@@ -306,7 +333,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Coarse particulate organic matter dynamics in small streams: towards linking function to physical structure"
+        "P1476": "Coarse particulate organic matter dynamics in small streams: towards linking function to physical structure",
+        "P577": "2009-07-31T09:16:54Z"
     },
     {
         "Len": "Communities of aquatic insects of old-growth and clearcut coastal headwater streams of varying flow persistence",
@@ -318,7 +346,8 @@
             "Forestry",
             "Global and Planetary Change"
         ],
-        "P1476": "Communities of aquatic insects of old-growth and clearcut coastal headwater streams of varying flow persistence"
+        "P1476": "Communities of aquatic insects of old-growth and clearcut coastal headwater streams of varying flow persistence",
+        "P577": "2003-08-08T20:00:35Z"
     },
     {
         "Len": "Community responses to experimental food depletion: resource tracking by stream invertebrates",
@@ -328,7 +357,8 @@
         "P921": [
             "Invertebrates"
         ],
-        "P1476": "Community responses to experimental food depletion: resource tracking by stream invertebrates"
+        "P1476": "Community responses to experimental food depletion: resource tracking by stream invertebrates",
+        "P577": "2014-12-22T22:17:06Z"
     },
     {
         "Len": "Comparisons of the colonisation by invertebrates of three species of wood, alder leaves, and plastic \u201cleaves\u201d in a temperate stream",
@@ -339,7 +369,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Comparisons of the colonisation by invertebrates of three species of wood, alder leaves, and plastic \u201cleaves\u201d in a temperate stream"
+        "P1476": "Comparisons of the colonisation by invertebrates of three species of wood, alder leaves, and plastic \u201cleaves\u201d in a temperate stream",
+        "P577": "2007-12-03T10:23:47Z"
     },
     {
         "Len": "Competitive displacement alters top-down effects on carbon dioxide concentrations in a freshwater ecosystem",
@@ -349,7 +380,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Competitive displacement alters top-down effects on carbon dioxide concentrations in a freshwater ecosystem"
+        "P1476": "Competitive displacement alters top-down effects on carbon dioxide concentrations in a freshwater ecosystem",
+        "P577": "2014-01-07T04:22:08Z"
     },
     {
         "Len": "Complex interactions of light, nutrients and consumer density in a stream periphyton\u2013grazer (tailed frog tadpoles) system",
@@ -360,7 +392,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Complex interactions of light, nutrients and consumer density in a stream periphyton\u2013grazer (tailed frog tadpoles) system"
+        "P1476": "Complex interactions of light, nutrients and consumer density in a stream periphyton\u2013grazer (tailed frog tadpoles) system",
+        "P577": "2005-11-02T09:49:24Z"
     },
     {
         "Len": "Conservation in heavily urbanized biodiverse regions requires urgent management action and attention to governance",
@@ -368,7 +401,8 @@
         "P50": "Q56794616",
         "P356": "10.1111/csp2.310",
         "P921": null,
-        "P1476": "Conservation in heavily urbanized biodiverse regions requires urgent management action and attention to governance"
+        "P1476": "Conservation in heavily urbanized biodiverse regions requires urgent management action and attention to governance",
+        "P577": "2020-11-26T13:24:03Z"
     },
     {
         "Len": "Consumer responses to resource patch size and architecture: leaf packs in streams",
@@ -380,7 +414,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Consumer responses to resource patch size and architecture: leaf packs in streams"
+        "P1476": "Consumer responses to resource patch size and architecture: leaf packs in streams",
+        "P577": "2019-03-16T01:14:22Z"
     },
     {
         "Len": "Contrasting effects of cross-ecosystem subsidies and predation on benthic invertebrates in two Pacific coastal streams",
@@ -391,7 +426,8 @@
             "Invertebrates",
             "Streams"
         ],
-        "P1476": "Contrasting effects of cross-ecosystem subsidies and predation on benthic invertebrates in two Pacific coastal streams"
+        "P1476": "Contrasting effects of cross-ecosystem subsidies and predation on benthic invertebrates in two Pacific coastal streams",
+        "P577": "2010-08-07T20:23:09Z"
     },
     {
         "Len": "Current and historical drivers of landscape genetic structure differ in core and peripheral salamander populations",
@@ -403,7 +439,8 @@
             "General Agricultural and Biological Sciences",
             "General Medicine"
         ],
-        "P1476": "Current and historical drivers of landscape genetic structure differ in core and peripheral salamander populations"
+        "P1476": "Current and historical drivers of landscape genetic structure differ in core and peripheral salamander populations",
+        "P577": "2012-05-10T20:59:14Z"
     },
     {
         "Len": "Cutting edge: A comparison of contemporary practices of riparian buffer retention around small streams in Canada, Finland, and Sweden",
@@ -413,7 +450,8 @@
         "P921": [
             "Water Science and Technology"
         ],
-        "P1476": "Cutting edge: A comparison of contemporary practices of riparian buffer retention around small streams in Canada, Finland, and Sweden"
+        "P1476": "Cutting edge: A comparison of contemporary practices of riparian buffer retention around small streams in Canada, Finland, and Sweden",
+        "P577": "2020-09-16T21:03:40Z"
     },
     {
         "Len": "Decadal\u2010scale changes in suspended wood after riparian recruitment in managed stands in headwater streams of coastal British Columbia, Canada",
@@ -425,7 +463,8 @@
             "Earth and Planetary Sciences (miscellaneous)",
             "Geography, Planning and Development"
         ],
-        "P1476": "Decadal\u2010scale changes in suspended wood after riparian recruitment in managed stands in headwater streams of coastal British Columbia, Canada"
+        "P1476": "Decadal\u2010scale changes in suspended wood after riparian recruitment in managed stands in headwater streams of coastal British Columbia, Canada",
+        "P577": "2020-03-18T21:37:14Z"
     },
     {
         "Len": "Decomposition rates of purple loosestrife (Lythrum salicaria) and Lyngbyei\u2019s sedge (Carex lyngbyei) in the Fraser River Estuary",
@@ -433,7 +472,8 @@
         "P50": "Q56794616",
         "P356": "10.2307/1352723",
         "P921": null,
-        "P1476": "Decomposition rates of purple loosestrife (Lythrum salicaria) and Lyngbyei\u2019s sedge (Carex lyngbyei) in the Fraser River Estuary"
+        "P1476": "Decomposition rates of purple loosestrife (Lythrum salicaria) and Lyngbyei\u2019s sedge (Carex lyngbyei) in the Fraser River Estuary",
+        "P577": "2006-04-13T10:10:31Z"
     },
     {
         "Len": "Detritus processing, ecosystem engineering and benthic diversity: a test of predator\u2013omnivore interference",
@@ -444,7 +484,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Detritus processing, ecosystem engineering and benthic diversity: a test of predator\u2013omnivore interference"
+        "P1476": "Detritus processing, ecosystem engineering and benthic diversity: a test of predator\u2013omnivore interference",
+        "P577": "2004-06-16T09:21:21Z"
     },
     {
         "Len": "Dietary responses of tidal flat macrobenthos to reduction of benthic microalgae: a test for potential use of allochthonous organic matter",
@@ -456,7 +497,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Dietary responses of tidal flat macrobenthos to reduction of benthic microalgae: a test for potential use of allochthonous organic matter"
+        "P1476": "Dietary responses of tidal flat macrobenthos to reduction of benthic microalgae: a test for potential use of allochthonous organic matter",
+        "P577": "2009-05-14T13:52:18Z"
     },
     {
         "Len": "Dietary variations of predaceous caddisfly larvae (Trichoptera: Rhyacophilidae, Polycentropodidae and Arctopsychidae) from British Columbian streams",
@@ -468,7 +510,8 @@
             "Pollution",
             "General Environmental Science"
         ],
-        "P1476": "Dietary variations of predaceous caddisfly larvae (Trichoptera: Rhyacophilidae, Polycentropodidae and Arctopsychidae) from British Columbian streams"
+        "P1476": "Dietary variations of predaceous caddisfly larvae (Trichoptera: Rhyacophilidae, Polycentropodidae and Arctopsychidae) from British Columbian streams",
+        "P577": "2011-01-17T02:27:44Z"
     },
     {
         "Len": "Direct and indirect effects of sediment pulse duration on stream invertebrate assemblages and rainbow trout (Oncorhynchus mykiss) growth and survival",
@@ -479,7 +522,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Direct and indirect effects of sediment pulse duration on stream invertebrate assemblages and rainbow trout (Oncorhynchus mykiss) growth and survival"
+        "P1476": "Direct and indirect effects of sediment pulse duration on stream invertebrate assemblages and rainbow trout (Oncorhynchus mykiss) growth and survival",
+        "P577": "2011-04-24T23:13:47Z"
     },
     {
         "Len": "Distribution pattern of coniferous seedlings after a partial harvest along a creek in a Canadian Pacific northwest forest",
@@ -489,7 +533,8 @@
         "P921": [
             "Forestry"
         ],
-        "P1476": "Distribution pattern of coniferous seedlings after a partial harvest along a creek in a Canadian Pacific northwest forest"
+        "P1476": "Distribution pattern of coniferous seedlings after a partial harvest along a creek in a Canadian Pacific northwest forest",
+        "P577": "2015-02-03T12:22:10Z"
     },
     {
         "Len": "Do riparian buffer strips mitigate the impacts of clearcutting on small mammals?",
@@ -500,7 +545,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Nature and Landscape Conservation"
         ],
-        "P1476": "Do riparian buffer strips mitigate the impacts of clearcutting on small mammals?"
+        "P1476": "Do riparian buffer strips mitigate the impacts of clearcutting on small mammals?",
+        "P577": "2003-04-04T23:03:10Z"
     },
     {
         "Len": "Do riparian zones qualify as critical habitat for endangered freshwater fishes?",
@@ -511,7 +557,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Do riparian zones qualify as critical habitat for endangered freshwater fishes?"
+        "P1476": "Do riparian zones qualify as critical habitat for endangered freshwater fishes?",
+        "P577": "2010-07-07T19:47:52Z"
     },
     {
         "Len": "Does leaf litter from invasive plants contribute the same support of a stream ecosystem function as native vegetation?",
@@ -519,7 +566,8 @@
         "P50": "Q56794616",
         "P356": "10.1002/ecs2.1779",
         "P921": null,
-        "P1476": "Does leaf litter from invasive plants contribute the same support of a stream ecosystem function as native vegetation?"
+        "P1476": "Does leaf litter from invasive plants contribute the same support of a stream ecosystem function as native vegetation?",
+        "P577": "2017-04-10T13:32:39Z"
     },
     {
         "Len": "Does trophic position of the omnivorous signal crayfish (Pacifastacus leniusculus) in a stream food web vary with life history stage or density?",
@@ -530,7 +578,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Does trophic position of the omnivorous signal crayfish (Pacifastacus leniusculus) in a stream food web vary with life history stage or density?"
+        "P1476": "Does trophic position of the omnivorous signal crayfish (Pacifastacus leniusculus) in a stream food web vary with life history stage or density?",
+        "P577": "2005-11-21T20:55:17Z"
     },
     {
         "Len": "Does water velocity influence optimal escape behaviors in stream insects?",
@@ -541,7 +590,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Does water velocity influence optimal escape behaviors in stream insects?"
+        "P1476": "Does water velocity influence optimal escape behaviors in stream insects?",
+        "P577": "2009-12-18T02:13:02Z"
     },
     {
         "Len": "Drivers, impacts, mechanisms and adaptation in insect invasions",
@@ -551,7 +601,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Drivers, impacts, mechanisms and adaptation in insect invasions"
+        "P1476": "Drivers, impacts, mechanisms and adaptation in insect invasions",
+        "P577": "2016-02-26T08:51:20Z"
     },
     {
         "Len": "Drought may amplify the impacts of salt pollution in pond ecosystems: an experimental exploration",
@@ -563,7 +614,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Drought may amplify the impacts of salt pollution in pond ecosystems: an experimental exploration"
+        "P1476": "Drought may amplify the impacts of salt pollution in pond ecosystems: an experimental exploration",
+        "P577": "2020-08-01T01:05:25Z"
     },
     {
         "Len": "Ecological Linkages Between Headwaters and Downstream Ecosystems: Transport of Organic Matter, Invertebrates, and Wood Down Headwater Channels1",
@@ -575,7 +627,8 @@
             "Ecology",
             "Water Science and Technology"
         ],
-        "P1476": "Ecological Linkages Between Headwaters and Downstream Ecosystems: Transport of Organic Matter, Invertebrates, and Wood Down Headwater Channels1"
+        "P1476": "Ecological Linkages Between Headwaters and Downstream Ecosystems: Transport of Organic Matter, Invertebrates, and Wood Down Headwater Channels1",
+        "P577": "2010-08-05T05:27:00Z"
     },
     {
         "Len": "Ecological neighborhoods: scaling environmental patterns",
@@ -585,7 +638,8 @@
         "P921": [
             "Environmental"
         ],
-        "P1476": "Ecological neighborhoods: scaling environmental patterns"
+        "P1476": "Ecological neighborhoods: scaling environmental patterns",
+        "P577": "2006-11-16T17:56:53Z"
     },
     {
         "Len": "Effects of Nonylphenol on Tail Resorption and Metamorphic Staging in Rana catesbeiana Tadpoles",
@@ -595,7 +649,8 @@
         "P921": [
             "Endocrinology"
         ],
-        "P1476": "Effects of Nonylphenol on Tail Resorption and Metamorphic Staging in Rana catesbeiana Tadpoles"
+        "P1476": "Effects of Nonylphenol on Tail Resorption and Metamorphic Staging in Rana catesbeiana Tadpoles",
+        "P577": "2005-02-10T19:49:14Z"
     },
     {
         "Len": "Effects of food and cover on the growth, survival, and movement of cutthroat trout (Oncorhynchus clarki) in coastal streams",
@@ -606,7 +661,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of food and cover on the growth, survival, and movement of cutthroat trout (Oncorhynchus clarki) in coastal streams"
+        "P1476": "Effects of food and cover on the growth, survival, and movement of cutthroat trout (Oncorhynchus clarki) in coastal streams",
+        "P577": "2002-10-01T20:05:45Z"
     },
     {
         "Len": "Effects of landuse intensification on stream basal resources and invertebrate communities",
@@ -614,7 +670,8 @@
         "P50": "Q56794616",
         "P356": "10.1086/693457",
         "P921": null,
-        "P1476": "Effects of landuse intensification on stream basal resources and invertebrate communities"
+        "P1476": "Effects of landuse intensification on stream basal resources and invertebrate communities",
+        "P577": "2017-06-28T17:06:05Z"
     },
     {
         "Len": "Effects of light and nutrients on grazer-periphyton interactions",
@@ -622,7 +679,8 @@
         "P50": "Q56794616",
         "P356": "10.1080/03680770.2001.11901911",
         "P921": null,
-        "P1476": "Effects of light and nutrients on grazer-periphyton interactions"
+        "P1476": "Effects of light and nutrients on grazer-periphyton interactions",
+        "P577": "2017-12-01T16:10:31Z"
     },
     {
         "Len": "Effects of logging second-growth forests on headwater populations of coastal cutthroat trout: A 6-year, multistream, before-and-after field experiment",
@@ -633,7 +691,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of logging second-growth forests on headwater populations of coastal cutthroat trout: A 6-year, multistream, before-and-after field experiment"
+        "P1476": "Effects of logging second-growth forests on headwater populations of coastal cutthroat trout: A 6-year, multistream, before-and-after field experiment",
+        "P577": "2007-02-02T17:26:37Z"
     },
     {
         "Len": "Effects of ontogenetic stage and density on the ecological role of the signal crayfish (Pacifastacus leniusculus) in a coastal Pacific stream",
@@ -644,7 +703,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of ontogenetic stage and density on the ecological role of the signal crayfish (Pacifastacus leniusculus) in a coastal Pacific stream"
+        "P1476": "Effects of ontogenetic stage and density on the ecological role of the signal crayfish (Pacifastacus leniusculus) in a coastal Pacific stream",
+        "P577": "2009-03-09T15:00:39Z"
     },
     {
         "Len": "Effects of pH and dilution on African clawed frog (Xenopus laevis) sperm motility",
@@ -655,7 +715,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of pH and dilution on African clawed frog (Xenopus laevis) sperm motility"
+        "P1476": "Effects of pH and dilution on African clawed frog (Xenopus laevis) sperm motility",
+        "P577": "2004-06-22T17:55:16Z"
     },
     {
         "Len": "Effects of riparian forest harvest on streams: a meta\u2010analysis",
@@ -665,7 +726,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Effects of riparian forest harvest on streams: a meta\u2010analysis"
+        "P1476": "Effects of riparian forest harvest on streams: a meta\u2010analysis",
+        "P577": "2014-09-01T16:31:07Z"
     },
     {
         "Len": "Effects of seston quality on the growth of a lake-outlet filter feeder",
@@ -675,7 +737,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of seston quality on the growth of a lake-outlet filter feeder"
+        "P1476": "Effects of seston quality on the growth of a lake-outlet filter feeder",
+        "P577": "2006-11-16T12:51:44Z"
     },
     {
         "Len": "Effects of small rivers on chemical properties of sediment and diets for primary consumers in estuarine tidal flats",
@@ -687,7 +750,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of small rivers on chemical properties of sediment and diets for primary consumers in estuarine tidal flats"
+        "P1476": "Effects of small rivers on chemical properties of sediment and diets for primary consumers in estuarine tidal flats",
+        "P577": "2008-01-09T09:45:16Z"
     },
     {
         "Len": "Effects of the bacterial insecticide Bacillus thuringiensis var. kurstaki (Btk) on a stream benthic community",
@@ -698,7 +762,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of the bacterial insecticide Bacillus thuringiensis var. kurstaki (Btk) on a stream benthic community"
+        "P1476": "Effects of the bacterial insecticide Bacillus thuringiensis var. kurstaki (Btk) on a stream benthic community",
+        "P577": "2008-06-24T18:39:29Z"
     },
     {
         "Len": "Effects of tributary size on the resource supply and physical habitat at tributary junctions along two mainstem rivers",
@@ -709,7 +774,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Effects of tributary size on the resource supply and physical habitat at tributary junctions along two mainstem rivers"
+        "P1476": "Effects of tributary size on the resource supply and physical habitat at tributary junctions along two mainstem rivers",
+        "P577": "2020-05-01T21:33:56Z"
     },
     {
         "Len": "Emulation of natural disturbance (END) for riparian forest management: synthesis and recommendations",
@@ -719,7 +785,8 @@
         "P921": [
             "Forest management"
         ],
-        "P1476": "Emulation of natural disturbance (END) for riparian forest management: synthesis and recommendations"
+        "P1476": "Emulation of natural disturbance (END) for riparian forest management: synthesis and recommendations",
+        "P577": "2012-01-24T18:35:38Z"
     },
     {
         "Len": "Establishing light as a causal mechanism structuring stream communities in response to experimental manipulation of riparian buffer width",
@@ -730,7 +797,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Establishing light as a causal mechanism structuring stream communities in response to experimental manipulation of riparian buffer width"
+        "P1476": "Establishing light as a causal mechanism structuring stream communities in response to experimental manipulation of riparian buffer width",
+        "P577": "2005-04-08T21:13:00Z"
     },
     {
         "Len": "Evidence for ecosystem engineering in a lentic habitat by tadpoles of the western toad",
@@ -743,7 +811,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Water Science and Technology"
         ],
-        "P1476": "Evidence for ecosystem engineering in a lentic habitat by tadpoles of the western toad"
+        "P1476": "Evidence for ecosystem engineering in a lentic habitat by tadpoles of the western toad",
+        "P577": "2010-06-17T05:05:24Z"
     },
     {
         "Len": "Expanding resilience comparisons to address management needs: a response to Ingrisch and Bahn",
@@ -753,7 +822,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Expanding resilience comparisons to address management needs: a response to Ingrisch and Bahn"
+        "P1476": "Expanding resilience comparisons to address management needs: a response to Ingrisch and Bahn",
+        "P577": "2018-07-20T00:31:44Z"
     },
     {
         "Len": "Experimental increases and reductions of light to streams: effects on periphyton and macroinvertebrate assemblages in a coniferous forest landscape",
@@ -765,7 +835,8 @@
             "Pollution",
             "General Environmental Science"
         ],
-        "P1476": "Experimental increases and reductions of light to streams: effects on periphyton and macroinvertebrate assemblages in a coniferous forest landscape"
+        "P1476": "Experimental increases and reductions of light to streams: effects on periphyton and macroinvertebrate assemblages in a coniferous forest landscape",
+        "P577": "2010-06-25T16:06:12Z"
     },
     {
         "Len": "Experimental test of water, nutrients, and microclimate on leaf litter mass loss in headwater riparian forests",
@@ -773,7 +844,8 @@
         "P50": "Q56794616",
         "P356": "10.1002/ecs2.2478",
         "P921": null,
-        "P1476": "Experimental test of water, nutrients, and microclimate on leaf litter mass loss in headwater riparian forests"
+        "P1476": "Experimental test of water, nutrients, and microclimate on leaf litter mass loss in headwater riparian forests",
+        "P577": "2018-10-22T21:58:02Z"
     },
     {
         "Len": "Fine sediment on leaves: shredder removal of sediment does not enhance fungal colonisation",
@@ -786,7 +858,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Water Science and Technology"
         ],
-        "P1476": "Fine sediment on leaves: shredder removal of sediment does not enhance fungal colonisation"
+        "P1476": "Fine sediment on leaves: shredder removal of sediment does not enhance fungal colonisation",
+        "P577": "2011-12-27T11:44:35Z"
     },
     {
         "Len": "Fish communities of the lower Fraser River (Canada) and a 21-year contrast",
@@ -797,7 +870,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Fish communities of the lower Fraser River (Canada) and a 21-year contrast"
+        "P1476": "Fish communities of the lower Fraser River (Canada) and a 21-year contrast",
+        "P577": "2002-12-22T10:54:50Z"
     },
     {
         "Len": "Flow refugia for benthic macroinvertebrates during flooding of a large river",
@@ -808,7 +882,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Flow refugia for benthic macroinvertebrates during flooding of a large river"
+        "P1476": "Flow refugia for benthic macroinvertebrates during flooding of a large river",
+        "P577": "2006-05-08T06:46:08Z"
     },
     {
         "Len": "Flow\u2010substrate interactions create and mediate leaf litter resource patches in streams",
@@ -818,7 +893,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Flow\u2010substrate interactions create and mediate leaf litter resource patches in streams"
+        "P1476": "Flow\u2010substrate interactions create and mediate leaf litter resource patches in streams",
+        "P577": "2006-02-10T15:29:41Z"
     },
     {
         "Len": "Fluvial and epilithic organic matter dynamics in headwater streams of southwestern British Columbia, Canada",
@@ -826,10 +902,11 @@
         "P50": "Q56794616",
         "P356": "10.1127/archiv-hydrobiol/149/2000/109",
         "P921": [
-            "British columbia",
-            "Streams"
+            "Streams",
+            "British columbia"
         ],
-        "P1476": "Fluvial and epilithic organic matter dynamics in headwater streams of southwestern British Columbia, Canada"
+        "P1476": "Fluvial and epilithic organic matter dynamics in headwater streams of southwestern British Columbia, Canada",
+        "P577": "2016-06-17T14:11:08Z"
     },
     {
         "Len": "Food, microhabitat, or both? Macroinvertebrate use of leaf accumulations in a montane stream",
@@ -839,7 +916,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Food, microhabitat, or both? Macroinvertebrate use of leaf accumulations in a montane stream"
+        "P1476": "Food, microhabitat, or both? Macroinvertebrate use of leaf accumulations in a montane stream",
+        "P577": "2006-05-30T05:17:08Z"
     },
     {
         "Len": "Forest management impacts on greenhouse gas fluxes from riparian soils along headwater streams",
@@ -851,7 +929,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Environmental Chemistry"
         ],
-        "P1476": "Forest management impacts on greenhouse gas fluxes from riparian soils along headwater streams"
+        "P1476": "Forest management impacts on greenhouse gas fluxes from riparian soils along headwater streams",
+        "P577": "2021-03-26T20:09:41Z"
     },
     {
         "Len": "Getting quantitative about consequences of cross-ecosystem resource subsidies on recipient consumers",
@@ -862,7 +941,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Getting quantitative about consequences of cross-ecosystem resource subsidies on recipient consumers"
+        "P1476": "Getting quantitative about consequences of cross-ecosystem resource subsidies on recipient consumers",
+        "P577": "2016-08-09T21:43:42Z"
     },
     {
         "Len": "Growth and development rates in a riparian spider are altered by asynchrony between the timing and amount of a resource subsidy",
@@ -872,7 +952,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Growth and development rates in a riparian spider are altered by asynchrony between the timing and amount of a resource subsidy"
+        "P1476": "Growth and development rates in a riparian spider are altered by asynchrony between the timing and amount of a resource subsidy",
+        "P577": "2008-02-19T08:22:33Z"
     },
     {
         "Len": "Habitat-specific production of aquatic and terrestrial invertebrate drift in small forest streams: implications for drift-feeding fish",
@@ -883,7 +964,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Habitat-specific production of aquatic and terrestrial invertebrate drift in small forest streams: implications for drift-feeding fish"
+        "P1476": "Habitat-specific production of aquatic and terrestrial invertebrate drift in small forest streams: implications for drift-feeding fish",
+        "P577": "2017-01-10T22:34:19Z"
     },
     {
         "Len": "How did fixed-width buffers become standard practice for protecting freshwaters and their riparian areas from forest harvest practices?",
@@ -893,7 +975,8 @@
         "P921": [
             "Riparian areas"
         ],
-        "P1476": "How did fixed-width buffers become standard practice for protecting freshwaters and their riparian areas from forest harvest practices?"
+        "P1476": "How did fixed-width buffers become standard practice for protecting freshwaters and their riparian areas from forest harvest practices?",
+        "P577": "2012-01-24T18:35:38Z"
     },
     {
         "Len": "Hydrological drought and the role of refugia in an endangered riffle-dwelling fish, Nooksack dace (Rhinichthys cataractae ssp.)",
@@ -904,7 +987,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Hydrological drought and the role of refugia in an endangered riffle-dwelling fish, Nooksack dace (Rhinichthys cataractae ssp.)"
+        "P1476": "Hydrological drought and the role of refugia in an endangered riffle-dwelling fish, Nooksack dace (Rhinichthys cataractae ssp.)",
+        "P577": "2014-06-27T21:33:47Z"
     },
     {
         "Len": "Impact of sediment and nutrient inputs on growth and survival of tadpoles of the Western Toad",
@@ -914,7 +998,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Impact of sediment and nutrient inputs on growth and survival of tadpoles of the Western Toad"
+        "P1476": "Impact of sediment and nutrient inputs on growth and survival of tadpoles of the Western Toad",
+        "P577": "2008-11-06T09:36:02Z"
     },
     {
         "Len": "Impacts of marine-derived nutrients on stream ecosystem",
@@ -928,7 +1013,8 @@
             "General Environmental Science",
             "General Medicine"
         ],
-        "P1476": "Impacts of marine-derived nutrients on stream ecosystem"
+        "P1476": "Impacts of marine-derived nutrients on stream ecosystem",
+        "P577": "2003-10-07T19:17:18Z"
     },
     {
         "Len": "Implications of seasonal variation for biomonitoring with predictive models in the Fraser River catchment, British Columbia",
@@ -939,7 +1025,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Implications of seasonal variation for biomonitoring with predictive models in the Fraser River catchment, British Columbia"
+        "P1476": "Implications of seasonal variation for biomonitoring with predictive models in the Fraser River catchment, British Columbia",
+        "P577": "2011-04-24T23:11:04Z"
     },
     {
         "Len": "Importance of riparian zone: effects of resource availability at land-water interface",
@@ -950,7 +1037,8 @@
             "Riparian areas",
             "Climate change"
         ],
-        "P1476": "Importance of riparian zone: effects of resource availability at land-water interface"
+        "P1476": "Importance of riparian zone: effects of resource availability at land-water interface",
+        "P577": "2016-04-25T10:00:43Z"
     },
     {
         "Len": "Importance of scale, land\u2010use, and stream network properties for riparian plant communities along an urban gradient",
@@ -958,7 +1046,8 @@
         "P50": "Q56794616",
         "P356": "10.1111/fwb.13244",
         "P921": null,
-        "P1476": "Importance of scale, land\u2010use, and stream network properties for riparian plant communities along an urban gradient"
+        "P1476": "Importance of scale, land\u2010use, and stream network properties for riparian plant communities along an urban gradient",
+        "P577": "2019-01-04T19:02:42Z"
     },
     {
         "Len": "Indirect effects of detritus manipulations in a montane stream",
@@ -969,7 +1058,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Indirect effects of detritus manipulations in a montane stream"
+        "P1476": "Indirect effects of detritus manipulations in a montane stream",
+        "P577": "2008-05-06T16:18:31Z"
     },
     {
         "Len": "Influence of moisture, nutrients, and distance from stream on early-stage mass loss of western red cedar leaf litter in headwater riparian forests",
@@ -981,7 +1071,8 @@
             "Forestry",
             "Global and Planetary Change"
         ],
-        "P1476": "Influence of moisture, nutrients, and distance from stream on early-stage mass loss of western red cedar leaf litter in headwater riparian forests"
+        "P1476": "Influence of moisture, nutrients, and distance from stream on early-stage mass loss of western red cedar leaf litter in headwater riparian forests",
+        "P577": "2020-06-22T21:36:31Z"
     },
     {
         "Len": "Interactions among Nutrients, Periphyton, and Invertebrate and Vertebrate (Ascaphus truei) Grazers in Experimental Channels",
@@ -993,7 +1084,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Interactions among Nutrients, Periphyton, and Invertebrate and Vertebrate (Ascaphus truei) Grazers in Experimental Channels"
+        "P1476": "Interactions among Nutrients, Periphyton, and Invertebrate and Vertebrate (Ascaphus truei) Grazers in Experimental Channels",
+        "P577": "2006-07-18T15:54:43Z"
     },
     {
         "Len": "Interactive field site visits can help students translate scientific studies into contextual understanding",
@@ -1001,7 +1093,8 @@
         "P50": "Q56794616",
         "P356": "10.1080/03632415.2012.696016",
         "P921": null,
-        "P1476": "Interactive field site visits can help students translate scientific studies into contextual understanding"
+        "P1476": "Interactive field site visits can help students translate scientific studies into contextual understanding",
+        "P577": "2012-07-13T10:06:32Z"
     },
     {
         "Len": "Introduction and a theoretical basis for using disturbance by forest management activities to sustain aquatic ecosystems",
@@ -1011,7 +1104,8 @@
         "P921": [
             "Forest management"
         ],
-        "P1476": "Introduction and a theoretical basis for using disturbance by forest management activities to sustain aquatic ecosystems"
+        "P1476": "Introduction and a theoretical basis for using disturbance by forest management activities to sustain aquatic ecosystems",
+        "P577": "2012-01-24T18:35:38Z"
     },
     {
         "Len": "Invertebrate feeding and emergence timing vary among streams along a gradient of riparian forest composition",
@@ -1021,7 +1115,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Invertebrate feeding and emergence timing vary among streams along a gradient of riparian forest composition"
+        "P1476": "Invertebrate feeding and emergence timing vary among streams along a gradient of riparian forest composition",
+        "P577": "2012-02-10T06:20:40Z"
     },
     {
         "Len": "Lake outlets and the distribution of filter feeders: an assessment of hypotheses",
@@ -1029,7 +1124,8 @@
         "P50": "Q56794616",
         "P356": "10.2307/3545503",
         "P921": null,
-        "P1476": "Lake outlets and the distribution of filter feeders: an assessment of hypotheses"
+        "P1476": "Lake outlets and the distribution of filter feeders: an assessment of hypotheses",
+        "P577": "2006-11-16T18:07:51Z"
     },
     {
         "Len": "Leaf quality influences invertebrate colonization and drift in a temperate rainforest stream",
@@ -1040,7 +1136,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Leaf quality influences invertebrate colonization and drift in a temperate rainforest stream"
+        "P1476": "Leaf quality influences invertebrate colonization and drift in a temperate rainforest stream",
+        "P577": "2012-10-12T02:10:56Z"
     },
     {
         "Len": "Leaf-litter leachate and light interactively enhance accrual of stream biofilms",
@@ -1052,7 +1149,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Leaf-litter leachate and light interactively enhance accrual of stream biofilms"
+        "P1476": "Leaf-litter leachate and light interactively enhance accrual of stream biofilms",
+        "P577": "2014-07-22T22:03:46Z"
     },
     {
         "Len": "Life history phenology and sediment size association of the dragonfly Cordulegaster dorsalis (Odonata: Cordulegastridae) in an ephemeral habitat in southwestern British Columbia",
@@ -1060,10 +1158,11 @@
         "P50": "Q56794616",
         "P356": "10.22621/cfn.v120i3.327",
         "P921": [
-            "British columbia",
-            "Streams"
+            "Streams",
+            "British columbia"
         ],
-        "P1476": "Life history phenology and sediment size association of the dragonfly Cordulegaster dorsalis (Odonata: Cordulegastridae) in an ephemeral habitat in southwestern British Columbia"
+        "P1476": "Life history phenology and sediment size association of the dragonfly Cordulegaster dorsalis (Odonata: Cordulegastridae) in an ephemeral habitat in southwestern British Columbia",
+        "P577": "2017-01-12T18:24:17Z"
     },
     {
         "Len": "Limits to Productivity in Streams",
@@ -1073,7 +1172,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Limits to Productivity in Streams"
+        "P1476": "Limits to Productivity in Streams",
+        "P577": "2012-02-18T01:11:54Z"
     },
     {
         "Len": "Litter breakdown and invertebrate association with three types of leaves in a temperate rainforest stream",
@@ -1083,7 +1183,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Litter breakdown and invertebrate association with three types of leaves in a temperate rainforest stream"
+        "P1476": "Litter breakdown and invertebrate association with three types of leaves in a temperate rainforest stream",
+        "P577": "2004-03-15T22:34:13Z"
     },
     {
         "Len": "Litter decomposition can detect effects of high and moderate levels of forest disturbance on stream condition",
@@ -1091,7 +1192,8 @@
         "P50": "Q56794616",
         "P356": "10.1016/j.foreco.2010.03.022",
         "P921": null,
-        "P1476": "Litter decomposition can detect effects of high and moderate levels of forest disturbance on stream condition"
+        "P1476": "Litter decomposition can detect effects of high and moderate levels of forest disturbance on stream condition",
+        "P577": "2010-04-19T08:58:09Z"
     },
     {
         "Len": "Macroinvertebrate community structure along gradients of hydraulic and sedimentary conditions in a large gravel\u2010bed river",
@@ -1101,7 +1203,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Macroinvertebrate community structure along gradients of hydraulic and sedimentary conditions in a large gravel\u2010bed river"
+        "P1476": "Macroinvertebrate community structure along gradients of hydraulic and sedimentary conditions in a large gravel\u2010bed river",
+        "P577": "2003-03-11T21:25:05Z"
     },
     {
         "Len": "Management perspectives on Aqua incognita: Connectivity and cumulative effects of small natural and artificial streams in boreal forests",
@@ -1111,7 +1214,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Management perspectives on Aqua incognita: Connectivity and cumulative effects of small natural and artificial streams in boreal forests"
+        "P1476": "Management perspectives on Aqua incognita: Connectivity and cumulative effects of small natural and artificial streams in boreal forests",
+        "P577": "2017-07-20T08:38:56Z"
     },
     {
         "Len": "Measuring function and structure of urban headwater streams with citizen scientists",
@@ -1121,7 +1225,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Measuring function and structure of urban headwater streams with citizen scientists"
+        "P1476": "Measuring function and structure of urban headwater streams with citizen scientists",
+        "P577": "2019-04-22T17:45:23Z"
     },
     {
         "Len": "Meta\u2010analysis: trophic level, habitat, and productivity shape the food web effects of resource subsidies",
@@ -1129,7 +1234,8 @@
         "P50": "Q56794616",
         "P356": "10.1890/0012-9658(2007)88[140:mtlhap]2.0.co;2",
         "P921": null,
-        "P1476": "Meta\u2010analysis: trophic level, habitat, and productivity shape the food web effects of resource subsidies"
+        "P1476": "Meta\u2010analysis: trophic level, habitat, and productivity shape the food web effects of resource subsidies",
+        "P577": "2007-06-04T23:38:04Z"
     },
     {
         "Len": "Microbial utilization of dissolved organic carbon leached from riparian litterfall",
@@ -1140,7 +1246,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Microbial utilization of dissolved organic carbon leached from riparian litterfall"
+        "P1476": "Microbial utilization of dissolved organic carbon leached from riparian litterfall",
+        "P577": "2002-11-04T19:06:05Z"
     },
     {
         "Len": "Modeling the role of stage-structured agonistic interactions in ontogenetic habitat shifts",
@@ -1150,7 +1257,8 @@
         "P921": [
             "Modeling"
         ],
-        "P1476": "Modeling the role of stage-structured agonistic interactions in ontogenetic habitat shifts"
+        "P1476": "Modeling the role of stage-structured agonistic interactions in ontogenetic habitat shifts",
+        "P577": "2012-11-02T05:34:17Z"
     },
     {
         "Len": "Modelling biophysical controls on stream organic matter standing stocks under a range of forest harvesting impacts",
@@ -1160,7 +1268,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Modelling biophysical controls on stream organic matter standing stocks under a range of forest harvesting impacts"
+        "P1476": "Modelling biophysical controls on stream organic matter standing stocks under a range of forest harvesting impacts",
+        "P577": "2019-09-16T15:00:48Z"
     },
     {
         "Len": "Modelling organic matter dynamics in headwater streams of south-western British Columbia, Canada",
@@ -1170,7 +1279,8 @@
         "P921": [
             "Ecological Modelling"
         ],
-        "P1476": "Modelling organic matter dynamics in headwater streams of south-western British Columbia, Canada"
+        "P1476": "Modelling organic matter dynamics in headwater streams of south-western British Columbia, Canada",
+        "P577": "2004-12-15T20:20:06Z"
     },
     {
         "Len": "Moderate nutrient enrichment affects algal and detritus pathways differently in a temperate rainforest stream",
@@ -1178,7 +1288,8 @@
         "P50": "Q56794616",
         "P356": "10.1007/s00027-017-0543-2",
         "P921": null,
-        "P1476": "Moderate nutrient enrichment affects algal and detritus pathways differently in a temperate rainforest stream"
+        "P1476": "Moderate nutrient enrichment affects algal and detritus pathways differently in a temperate rainforest stream",
+        "P577": "2017-05-13T12:57:06Z"
     },
     {
         "Len": "Movement behaviour of adult western toads in a fragmented, forest landscape",
@@ -1189,7 +1300,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Movement behaviour of adult western toads in a fragmented, forest landscape"
+        "P1476": "Movement behaviour of adult western toads in a fragmented, forest landscape",
+        "P577": "2009-12-21T15:02:57Z"
     },
     {
         "Len": "Movement patterns and relative abundance of coastal tailed frogs in clearcuts and mature forest stands",
@@ -1201,7 +1313,8 @@
             "Forestry",
             "Global and Planetary Change"
         ],
-        "P1476": "Movement patterns and relative abundance of coastal tailed frogs in clearcuts and mature forest stands"
+        "P1476": "Movement patterns and relative abundance of coastal tailed frogs in clearcuts and mature forest stands",
+        "P577": "2005-06-20T19:34:08Z"
     },
     {
         "Len": "Natural disturbance and forest management in riparian zones: comparison of effects at reach, catchment, and landscape scales",
@@ -1211,7 +1324,8 @@
         "P921": [
             "Forest management"
         ],
-        "P1476": "Natural disturbance and forest management in riparian zones: comparison of effects at reach, catchment, and landscape scales"
+        "P1476": "Natural disturbance and forest management in riparian zones: comparison of effects at reach, catchment, and landscape scales",
+        "P577": "2012-01-24T18:35:38Z"
     },
     {
         "Len": "New microsatellite markers for examining genetic variation in peripheral and core populations of the coastal giant salamander (Dicamptodon tenebrosus)",
@@ -1223,7 +1337,8 @@
             "General Agricultural and Biological Sciences",
             "General Medicine"
         ],
-        "P1476": "New microsatellite markers for examining genetic variation in peripheral and core populations of the coastal giant salamander (Dicamptodon tenebrosus)"
+        "P1476": "New microsatellite markers for examining genetic variation in peripheral and core populations of the coastal giant salamander (Dicamptodon tenebrosus)",
+        "P577": "2010-12-15T20:59:22Z"
     },
     {
         "Len": "Nonlinear variation of stream\u2013forest linkage along a stream\u2010size gradient: an assessment using biogeochemical proxies of in\u2010stream fine particulate organic matter",
@@ -1233,7 +1348,8 @@
         "P921": [
             "Ecology"
         ],
-        "P1476": "Nonlinear variation of stream\u2013forest linkage along a stream\u2010size gradient: an assessment using biogeochemical proxies of in\u2010stream fine particulate organic matter"
+        "P1476": "Nonlinear variation of stream\u2013forest linkage along a stream\u2010size gradient: an assessment using biogeochemical proxies of in\u2010stream fine particulate organic matter",
+        "P577": "2013-05-23T19:31:39Z"
     },
     {
         "Len": "Nutrients and sediment modify the impacts of a neonicotinoid insecticide on freshwater community structure and ecosystem functioning",
@@ -1246,7 +1362,8 @@
             "Pollution",
             "Environmental Chemistry"
         ],
-        "P1476": "Nutrients and sediment modify the impacts of a neonicotinoid insecticide on freshwater community structure and ecosystem functioning"
+        "P1476": "Nutrients and sediment modify the impacts of a neonicotinoid insecticide on freshwater community structure and ecosystem functioning",
+        "P577": "2019-07-11T05:57:32Z"
     },
     {
         "Len": "Organic matter inputs into headwater streams of southwestern British Columbia as a function of riparian reserves and time since harvesting",
@@ -1254,10 +1371,11 @@
         "P50": "Q56794616",
         "P356": "10.1016/j.foreco.2010.08.016",
         "P921": [
-            "British columbia",
-            "Streams"
+            "Streams",
+            "British columbia"
         ],
-        "P1476": "Organic matter inputs into headwater streams of southwestern British Columbia as a function of riparian reserves and time since harvesting"
+        "P1476": "Organic matter inputs into headwater streams of southwestern British Columbia as a function of riparian reserves and time since harvesting",
+        "P577": "2010-09-25T08:41:58Z"
     },
     {
         "Len": "Pacific coast rivers of Canada and Alaska",
@@ -1267,7 +1385,8 @@
         "P921": [
             "Rivers"
         ],
-        "P1476": "Pacific coast rivers of Canada and Alaska"
+        "P1476": "Pacific coast rivers of Canada and Alaska",
+        "P577": "2007-05-16T15:10:12Z"
     },
     {
         "Len": "Patchy resources in a heterogeneous environment: effects of leaf litter and forest cover on colonisation patterns of invertebrates in a British Columbian stream",
@@ -1277,7 +1396,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Patchy resources in a heterogeneous environment: effects of leaf litter and forest cover on colonisation patterns of invertebrates in a British Columbian stream"
+        "P1476": "Patchy resources in a heterogeneous environment: effects of leaf litter and forest cover on colonisation patterns of invertebrates in a British Columbian stream",
+        "P577": "2004-11-08T22:17:19Z"
     },
     {
         "Len": "Patterns of Geographic Variation in Adult Flight Phenology of Some Nearctic Trichoptera",
@@ -1285,7 +1405,8 @@
         "P50": "Q56794616",
         "P356": "10.1007/978-94-009-4043-7_39",
         "P921": null,
-        "P1476": "Patterns of Geographic Variation in Adult Flight Phenology of Some Nearctic Trichoptera"
+        "P1476": "Patterns of Geographic Variation in Adult Flight Phenology of Some Nearctic Trichoptera",
+        "P577": "2011-10-18T23:48:33Z"
     },
     {
         "Len": "Phenology and ecology of some Trichoptera in a low-gradient boreal stream",
@@ -1296,7 +1417,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Phenology and ecology of some Trichoptera in a low-gradient boreal stream"
+        "P1476": "Phenology and ecology of some Trichoptera in a low-gradient boreal stream",
+        "P577": "2006-05-08T06:20:52Z"
     },
     {
         "Len": "Predation risk and competition effects on the life-history characteristics of larval Oregon spotted frog and larval red-legged frog",
@@ -1304,7 +1426,8 @@
         "P50": "Q56794616",
         "P356": "10.1007/s00442-002-0981-x",
         "P921": null,
-        "P1476": "Predation risk and competition effects on the life-history characteristics of larval Oregon spotted frog and larval red-legged frog"
+        "P1476": "Predation risk and competition effects on the life-history characteristics of larval Oregon spotted frog and larval red-legged frog",
+        "P577": "2003-02-13T05:27:25Z"
     },
     {
         "Len": "Predator-induced reduction of freshwater carbon dioxide emissions",
@@ -1314,7 +1437,8 @@
         "P921": [
             "General Earth and Planetary Sciences"
         ],
-        "P1476": "Predator-induced reduction of freshwater carbon dioxide emissions"
+        "P1476": "Predator-induced reduction of freshwater carbon dioxide emissions",
+        "P577": "2013-02-15T11:07:02Z"
     },
     {
         "Len": "Prevalence of the chytrid fungus (Batrachochytrium dendrobatidis) in Western Toads in southwestern British Columbia, Canada",
@@ -1325,7 +1449,8 @@
             "General Earth and Planetary Sciences",
             "General Environmental Science"
         ],
-        "P1476": "Prevalence of the chytrid fungus (Batrachochytrium dendrobatidis) in Western Toads in southwestern British Columbia, Canada"
+        "P1476": "Prevalence of the chytrid fungus (Batrachochytrium dendrobatidis) in Western Toads in southwestern British Columbia, Canada",
+        "P577": "2009-04-09T13:22:30Z"
     },
     {
         "Len": "Prey selection and distribution of a predaceous, net-spinning caddisfly, Neureclipsis bimaculata (Polycentropodidae)",
@@ -1336,7 +1461,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Prey selection and distribution of a predaceous, net-spinning caddisfly, Neureclipsis bimaculata (Polycentropodidae)"
+        "P1476": "Prey selection and distribution of a predaceous, net-spinning caddisfly, Neureclipsis bimaculata (Polycentropodidae)",
+        "P577": "2009-12-21T18:52:09Z"
     },
     {
         "Len": "Principles for ensuring healthy and productive freshwater ecosystems that support sustainable fisheries",
@@ -1346,7 +1472,8 @@
         "P921": [
             "General Environmental Science"
         ],
-        "P1476": "Principles for ensuring healthy and productive freshwater ecosystems that support sustainable fisheries"
+        "P1476": "Principles for ensuring healthy and productive freshwater ecosystems that support sustainable fisheries",
+        "P577": "2013-10-29T23:51:24Z"
     },
     {
         "Len": "Processing of Aquatic Invertebrates Colonizing Decomposing Litter",
@@ -1356,7 +1483,8 @@
         "P921": [
             "Invertebrates"
         ],
-        "P1476": "Processing of Aquatic Invertebrates Colonizing Decomposing Litter"
+        "P1476": "Processing of Aquatic Invertebrates Colonizing Decomposing Litter",
+        "P577": "2020-07-30T17:26:56Z"
     },
     {
         "Len": "Programme Committee Members",
@@ -1364,7 +1492,8 @@
         "P50": "Q56794616",
         "P356": "10.1109/iccpct.2014.7055068",
         "P921": null,
-        "P1476": "Programme Committee Members"
+        "P1476": "Programme Committee Members",
+        "P577": "2015-03-10T21:40:40Z"
     },
     {
         "Len": "Progress towards understanding the structure, function, and ecological significance of small stream channels and their riparian zones",
@@ -1376,7 +1505,8 @@
             "Forestry",
             "Global and Planetary Change"
         ],
-        "P1476": "Progress towards understanding the structure, function, and ecological significance of small stream channels and their riparian zones"
+        "P1476": "Progress towards understanding the structure, function, and ecological significance of small stream channels and their riparian zones",
+        "P577": "2003-08-08T20:00:35Z"
     },
     {
         "Len": "RIPARIAN COMMUNITIES ASSOCIATED WITH PACIFIC NORTHWEST HEADWATER STREAMS: ASSEMBLAGES, PROCESSES, AND UNIQUENESS1",
@@ -1388,7 +1518,8 @@
             "Ecology",
             "Water Science and Technology"
         ],
-        "P1476": "RIPARIAN COMMUNITIES ASSOCIATED WITH PACIFIC NORTHWEST HEADWATER STREAMS: ASSEMBLAGES, PROCESSES, AND UNIQUENESS1"
+        "P1476": "RIPARIAN COMMUNITIES ASSOCIATED WITH PACIFIC NORTHWEST HEADWATER STREAMS: ASSEMBLAGES, PROCESSES, AND UNIQUENESS1",
+        "P577": "2007-06-09T01:18:21Z"
     },
     {
         "Len": "Relations of interannual differences in stream litter breakdown with discharge: Bioassessment implications",
@@ -1396,7 +1527,8 @@
         "P50": "Q56794616",
         "P356": "10.1002/ecs2.2423",
         "P921": null,
-        "P1476": "Relations of interannual differences in stream litter breakdown with discharge: Bioassessment implications"
+        "P1476": "Relations of interannual differences in stream litter breakdown with discharge: Bioassessment implications",
+        "P577": "2018-09-17T19:26:51Z"
     },
     {
         "Len": "Relative abundance and movement of the carabid beetle Scaphinotus angusticollis in managed coniferous riparian forests of southwestern British Columbia",
@@ -1408,7 +1540,8 @@
             "Forestry",
             "Global and Planetary Change"
         ],
-        "P1476": "Relative abundance and movement of the carabid beetle Scaphinotus angusticollis in managed coniferous riparian forests of southwestern British Columbia"
+        "P1476": "Relative abundance and movement of the carabid beetle Scaphinotus angusticollis in managed coniferous riparian forests of southwestern British Columbia",
+        "P577": "2010-05-04T19:46:01Z"
     },
     {
         "Len": "Resource subsidies across the land\u2013freshwater interface and responses in recipient communities",
@@ -1420,7 +1553,8 @@
             "Water Science and Technology",
             "Environmental Chemistry"
         ],
-        "P1476": "Resource subsidies across the land\u2013freshwater interface and responses in recipient communities"
+        "P1476": "Resource subsidies across the land\u2013freshwater interface and responses in recipient communities",
+        "P577": "2009-07-06T05:33:27Z"
     },
     {
         "Len": "Resource subsidy flows across freshwater\u2013terrestrial boundaries and influence on processes linking adjacent ecosystems",
@@ -1433,7 +1567,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Resource subsidy flows across freshwater\u2013terrestrial boundaries and influence on processes linking adjacent ecosystems"
+        "P1476": "Resource subsidy flows across freshwater\u2013terrestrial boundaries and influence on processes linking adjacent ecosystems",
+        "P577": "2014-03-13T21:06:46Z"
     },
     {
         "Len": "Responses of a macroinvertebrate community from a pristine, southern British Columbia, Canada, stream to metals in experimental mesocosms",
@@ -1444,7 +1579,8 @@
             "Health, Toxicology and Mutagenesis",
             "Environmental Chemistry"
         ],
-        "P1476": "Responses of a macroinvertebrate community from a pristine, southern British Columbia, Canada, stream to metals in experimental mesocosms"
+        "P1476": "Responses of a macroinvertebrate community from a pristine, southern British Columbia, Canada, stream to metals in experimental mesocosms",
+        "P577": "2010-03-17T07:52:37Z"
     },
     {
         "Len": "Responses of invertebrates and algae of a boreal coniferous forest stream to experimental manipulation of leaf litter inputs and shading",
@@ -1454,7 +1590,8 @@
         "P921": [
             "Invertebrates"
         ],
-        "P1476": "Responses of invertebrates and algae of a boreal coniferous forest stream to experimental manipulation of leaf litter inputs and shading"
+        "P1476": "Responses of invertebrates and algae of a boreal coniferous forest stream to experimental manipulation of leaf litter inputs and shading",
+        "P577": "2004-05-05T12:34:03Z"
     },
     {
         "Len": "Responses of organic matter and macroinvertebrates to placements of boulder clusters in a small stream of southwestern British Columbia, Canada",
@@ -1465,7 +1602,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Responses of organic matter and macroinvertebrates to placements of boulder clusters in a small stream of southwestern British Columbia, Canada"
+        "P1476": "Responses of organic matter and macroinvertebrates to placements of boulder clusters in a small stream of southwestern British Columbia, Canada",
+        "P577": "2003-06-17T17:36:01Z"
     },
     {
         "Len": "Responses of periphyton and insect consumers to experimental manipulation of riparian buffer width along headwater streams in forested landscapes",
@@ -1475,7 +1613,8 @@
         "P921": [
             "Ecology"
         ],
-        "P1476": "Responses of periphyton and insect consumers to experimental manipulation of riparian buffer width along headwater streams in forested landscapes"
+        "P1476": "Responses of periphyton and insect consumers to experimental manipulation of riparian buffer width along headwater streams in forested landscapes",
+        "P577": "2003-12-15T11:55:46Z"
     },
     {
         "Len": "Retention, breakdown, and biological utilisation of deciduous tree leaves in an estuarine tidal flat of southwestern British Columbia, Canada",
@@ -1486,7 +1625,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Retention, breakdown, and biological utilisation of deciduous tree leaves in an estuarine tidal flat of southwestern British Columbia, Canada"
+        "P1476": "Retention, breakdown, and biological utilisation of deciduous tree leaves in an estuarine tidal flat of southwestern British Columbia, Canada",
+        "P577": "2008-03-03T20:03:59Z"
     },
     {
         "Len": "Revision and synopsis of the caddisfly genus Dicosmoecus (Trichoptera: Limnephilidae; Dicosmoecinae)",
@@ -1498,7 +1638,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Revision and synopsis of the caddisfly genus Dicosmoecus (Trichoptera: Limnephilidae; Dicosmoecinae)"
+        "P1476": "Revision and synopsis of the caddisfly genus Dicosmoecus (Trichoptera: Limnephilidae; Dicosmoecinae)",
+        "P577": "2008-09-30T21:58:48Z"
     },
     {
         "Len": "Revision of the Onocosmoecus unicolor group (Trichoptera: Limnephilidae, Dicosmoecinae)",
@@ -1509,7 +1650,8 @@
             "Insect Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Revision of the Onocosmoecus unicolor group (Trichoptera: Limnephilidae, Dicosmoecinae)"
+        "P1476": "Revision of the Onocosmoecus unicolor group (Trichoptera: Limnephilidae, Dicosmoecinae)",
+        "P577": "2008-04-17T22:29:21Z"
     },
     {
         "Len": "Riparian canopy type and management history control forest-to-stream plant litter fluxes",
@@ -1521,7 +1663,8 @@
             "Forestry",
             "Global and Planetary Change"
         ],
-        "P1476": "Riparian canopy type and management history control forest-to-stream plant litter fluxes"
+        "P1476": "Riparian canopy type and management history control forest-to-stream plant litter fluxes",
+        "P577": "2011-07-26T13:48:35Z"
     },
     {
         "Len": "Riparian forest harvesting and its influence on benthic communities of small streams of sub-boreal British Columbia",
@@ -1533,7 +1676,8 @@
             "Forestry",
             "Global and Planetary Change"
         ],
-        "P1476": "Riparian forest harvesting and its influence on benthic communities of small streams of sub-boreal British Columbia"
+        "P1476": "Riparian forest harvesting and its influence on benthic communities of small streams of sub-boreal British Columbia",
+        "P577": "2007-07-31T17:37:55Z"
     },
     {
         "Len": "Risk-sensitive foraging by juvenile signal crayfish (Pacifastacus leniusculus)",
@@ -1544,7 +1688,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Risk-sensitive foraging by juvenile signal crayfish (Pacifastacus leniusculus)"
+        "P1476": "Risk-sensitive foraging by juvenile signal crayfish (Pacifastacus leniusculus)",
+        "P577": "2007-05-08T18:06:15Z"
     },
     {
         "Len": "Seasonal Changes of Benthic Macroinvertebrate Communites in Southwestern British Columbia",
@@ -1556,7 +1701,8 @@
             "Pollution",
             "General Environmental Science"
         ],
-        "P1476": "Seasonal Changes of Benthic Macroinvertebrate Communites in Southwestern British Columbia"
+        "P1476": "Seasonal Changes of Benthic Macroinvertebrate Communites in Southwestern British Columbia",
+        "P577": "2013-06-21T08:52:22Z"
     },
     {
         "Len": "Seasonal food limitation of detritivorous insects in a montane stream",
@@ -1566,7 +1712,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Seasonal food limitation of detritivorous insects in a montane stream"
+        "P1476": "Seasonal food limitation of detritivorous insects in a montane stream",
+        "P577": "2006-05-09T10:53:59Z"
     },
     {
         "Len": "Sediment addition reduces the importance of predation on ecosystem functions in experimental stream channels",
@@ -1577,7 +1724,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Sediment addition reduces the importance of predation on ecosystem functions in experimental stream channels"
+        "P1476": "Sediment addition reduces the importance of predation on ecosystem functions in experimental stream channels",
+        "P577": "2016-06-17T00:36:19Z"
     },
     {
         "Len": "Setting conservation targets for freshwater ecosystems in forested catchments",
@@ -1585,7 +1733,8 @@
         "P50": "Q56794616",
         "P356": "10.1017/cbo9781139175388.013",
         "P921": null,
-        "P1476": "Setting conservation targets for freshwater ecosystems in forested catchments"
+        "P1476": "Setting conservation targets for freshwater ecosystems in forested catchments",
+        "P577": "2012-06-19T17:49:55Z"
     },
     {
         "Len": "Shoreline vegetation change in upstream and downstream reaches of three temperate streams dammed for hydroelectric generation in British Columbia.",
@@ -1597,7 +1746,8 @@
             "Management, Monitoring, Policy and Law",
             "Nature and Landscape Conservation"
         ],
-        "P1476": "Shoreline vegetation change in upstream and downstream reaches of three temperate streams dammed for hydroelectric generation in British Columbia."
+        "P1476": "Shoreline vegetation change in upstream and downstream reaches of three temperate streams dammed for hydroelectric generation in British Columbia.",
+        "P577": "2009-01-30T09:51:42Z"
     },
     {
         "Len": "Shredder-collector facilitation in stream detrital food webs: is there enough evidence?",
@@ -1607,7 +1757,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Shredder-collector facilitation in stream detrital food webs: is there enough evidence?"
+        "P1476": "Shredder-collector facilitation in stream detrital food webs: is there enough evidence?",
+        "P577": "2006-11-16T18:17:02Z"
     },
     {
         "Len": "Small stonefly predators affect microbenthic and meiobenthic communities in stream leaf packs",
@@ -1617,7 +1768,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Small stonefly predators affect microbenthic and meiobenthic communities in stream leaf packs"
+        "P1476": "Small stonefly predators affect microbenthic and meiobenthic communities in stream leaf packs",
+        "P577": "2015-06-22T08:26:55Z"
     },
     {
         "Len": "Some conceptual and operational considerations when measuring \u2018resilience\u2019: a response to Hodgson et al.",
@@ -1625,7 +1777,8 @@
         "P50": "Q56794616",
         "P356": "10.1016/j.tree.2015.10.005",
         "P921": null,
-        "P1476": "Some conceptual and operational considerations when measuring \u2018resilience\u2019: a response to Hodgson et al."
+        "P1476": "Some conceptual and operational considerations when measuring \u2018resilience\u2019: a response to Hodgson et al.",
+        "P577": "2015-11-19T13:46:13Z"
     },
     {
         "Len": "Spatial autocorrelation and fish production in freshwaters: a comment on Randall et al. (1995)1",
@@ -1636,7 +1789,8 @@
             "Aquatic Science",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Spatial autocorrelation and fish production in freshwaters: a comment on Randall et al. (1995)1"
+        "P1476": "Spatial autocorrelation and fish production in freshwaters: a comment on Randall et al. (1995)1",
+        "P577": "2011-04-24T22:46:24Z"
     },
     {
         "Len": "Species traits and channel architecture mediate flow disturbance impacts on invertebrate drift",
@@ -1646,7 +1800,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Species traits and channel architecture mediate flow disturbance impacts on invertebrate drift"
+        "P1476": "Species traits and channel architecture mediate flow disturbance impacts on invertebrate drift",
+        "P577": "2016-11-24T04:16:42Z"
     },
     {
         "Len": "Spiders and subsidies: results from the riparian zone of a coastal temperate rainforest",
@@ -1657,7 +1812,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Spiders and subsidies: results from the riparian zone of a coastal temperate rainforest"
+        "P1476": "Spiders and subsidies: results from the riparian zone of a coastal temperate rainforest",
+        "P577": "2007-05-19T19:32:11Z"
     },
     {
         "Len": "Stage-specific interactions between dominant consumers within a small stream ecosystem: direct and indirect consequences",
@@ -1665,7 +1821,8 @@
         "P50": "Q56794616",
         "P356": "10.1899/12-078.1",
         "P921": null,
-        "P1476": "Stage-specific interactions between dominant consumers within a small stream ecosystem: direct and indirect consequences"
+        "P1476": "Stage-specific interactions between dominant consumers within a small stream ecosystem: direct and indirect consequences",
+        "P577": "2013-01-28T14:05:08Z"
     },
     {
         "Len": "Stream Ecology",
@@ -1673,7 +1830,8 @@
         "P50": "Q56794616",
         "P356": "10.1201/9781420031676-11",
         "P921": null,
-        "P1476": "Stream Ecology"
+        "P1476": "Stream Ecology",
+        "P577": "2020-12-22T21:58:35Z"
     },
     {
         "Len": "Stream periphyton and benthic insect responses to additions of treated acid mine drainage in a continuous\u2010flow on\u2010site Mesocosm",
@@ -1684,7 +1842,8 @@
             "Health, Toxicology and Mutagenesis",
             "Environmental Chemistry"
         ],
-        "P1476": "Stream periphyton and benthic insect responses to additions of treated acid mine drainage in a continuous\u2010flow on\u2010site Mesocosm"
+        "P1476": "Stream periphyton and benthic insect responses to additions of treated acid mine drainage in a continuous\u2010flow on\u2010site Mesocosm",
+        "P577": "2010-03-16T22:08:30Z"
     },
     {
         "Len": "Stronger effects of litter origin on the processing of conifer than broadleaf leaves: A test of home\u2010field advantage of stream litter breakdown",
@@ -1694,7 +1853,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Stronger effects of litter origin on the processing of conifer than broadleaf leaves: A test of home\u2010field advantage of stream litter breakdown"
+        "P1476": "Stronger effects of litter origin on the processing of conifer than broadleaf leaves: A test of home\u2010field advantage of stream litter breakdown",
+        "P577": "2019-07-19T14:59:42Z"
     },
     {
         "Len": "Terrestrial invertebrates in the riparian zone: mechanisms underlying their unique diversity",
@@ -1704,7 +1864,8 @@
         "P921": [
             "General Agricultural and Biological Sciences"
         ],
-        "P1476": "Terrestrial invertebrates in the riparian zone: mechanisms underlying their unique diversity"
+        "P1476": "Terrestrial invertebrates in the riparian zone: mechanisms underlying their unique diversity",
+        "P577": "2017-06-16T11:09:37Z"
     },
     {
         "Len": "The effect of seston on the life history, growth, and distribution of Neureclipsis bimaculata (Trichoptera: Polycentropodidae) in a boreal river",
@@ -1715,7 +1876,8 @@
             "Animal Science and Zoology",
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "The effect of seston on the life history, growth, and distribution of Neureclipsis bimaculata (Trichoptera: Polycentropodidae) in a boreal river"
+        "P1476": "The effect of seston on the life history, growth, and distribution of Neureclipsis bimaculata (Trichoptera: Polycentropodidae) in a boreal river",
+        "P577": "2010-01-07T15:18:41Z"
     },
     {
         "Len": "The influence of artificial light on stream and riparian ecosystems: questions, challenges, and perspectives",
@@ -1723,7 +1885,8 @@
         "P50": "Q56794616",
         "P356": "10.1890/es11-00241.1",
         "P921": null,
-        "P1476": "The influence of artificial light on stream and riparian ecosystems: questions, challenges, and perspectives"
+        "P1476": "The influence of artificial light on stream and riparian ecosystems: questions, challenges, and perspectives",
+        "P577": "2011-11-16T10:52:21Z"
     },
     {
         "Len": "The role of stoneflies in enhancing growth of trout: a test of the importance of predator-predator facilitation within a stream community",
@@ -1733,7 +1896,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "The role of stoneflies in enhancing growth of trout: a test of the importance of predator-predator facilitation within a stream community"
+        "P1476": "The role of stoneflies in enhancing growth of trout: a test of the importance of predator-predator facilitation within a stream community",
+        "P577": "2006-11-16T18:24:07Z"
     },
     {
         "Len": "Transport and settlement of organic matter in small streams",
@@ -1743,7 +1907,8 @@
         "P921": [
             "Aquatic Science"
         ],
-        "P1476": "Transport and settlement of organic matter in small streams"
+        "P1476": "Transport and settlement of organic matter in small streams",
+        "P577": "2009-07-31T08:32:50Z"
     },
     {
         "Len": "Trophic interactions between insects and stream-associated amphibians in steep, cobble-bottom streams of the Pacific Coast of North America",
@@ -1754,7 +1919,8 @@
             "Amphibians",
             "Streams"
         ],
-        "P1476": "Trophic interactions between insects and stream-associated amphibians in steep, cobble-bottom streams of the Pacific Coast of North America"
+        "P1476": "Trophic interactions between insects and stream-associated amphibians in steep, cobble-bottom streams of the Pacific Coast of North America",
+        "P577": "2012-04-10T11:09:50Z"
     },
     {
         "Len": "Trophic interception: how a boundary\u2010foraging organism influences cross\u2010ecosystem fluxes",
@@ -1764,7 +1930,8 @@
         "P921": [
             "Ecology, Evolution, Behavior and Systematics"
         ],
-        "P1476": "Trophic interception: how a boundary\u2010foraging organism influences cross\u2010ecosystem fluxes"
+        "P1476": "Trophic interception: how a boundary\u2010foraging organism influences cross\u2010ecosystem fluxes",
+        "P577": "2007-12-03T05:04:37Z"
     },
     {
         "Len": "Trophic\u2010level dependent effects on CO2 emissions from experimental stream ecosystems",
@@ -1777,7 +1944,8 @@
             "General Environmental Science",
             "Environmental Chemistry"
         ],
-        "P1476": "Trophic\u2010level dependent effects on CO2 emissions from experimental stream ecosystems"
+        "P1476": "Trophic\u2010level dependent effects on CO2 emissions from experimental stream ecosystems",
+        "P577": "2014-02-07T04:48:34Z"
     },
     {
         "Len": "Understanding processes and downstream linkages of headwater streams",
@@ -1787,7 +1955,8 @@
         "P921": [
             "Streams"
         ],
-        "P1476": "Understanding processes and downstream linkages of headwater streams"
+        "P1476": "Understanding processes and downstream linkages of headwater streams",
+        "P577": "2006-07-13T15:09:35Z"
     },
     {
         "Len": "Unidirectional prey\u2013predator facilitation: apparent prey enhance predators' foraging success on cryptic prey",
@@ -1798,7 +1967,8 @@
             "Agricultural and Biological Sciences (miscellaneous)",
             "General Agricultural and Biological Sciences"
         ],
-        "P1476": "Unidirectional prey\u2013predator facilitation: apparent prey enhance predators' foraging success on cryptic prey"
+        "P1476": "Unidirectional prey\u2013predator facilitation: apparent prey enhance predators' foraging success on cryptic prey",
+        "P577": "2007-04-11T22:05:30Z"
     },
     {
         "Len": "Urgent plea for global protection of springs",
@@ -1810,7 +1980,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Nature and Landscape Conservation"
         ],
-        "P1476": "Urgent plea for global protection of springs"
+        "P1476": "Urgent plea for global protection of springs",
+        "P577": "2020-09-02T11:59:35Z"
     },
     {
         "Len": "WILDLIFE ECOLOGY AND MANAGEMENT",
@@ -1822,7 +1993,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Nature and Landscape Conservation"
         ],
-        "P1476": "WILDLIFE ECOLOGY AND MANAGEMENT"
+        "P1476": "WILDLIFE ECOLOGY AND MANAGEMENT",
+        "P577": "2007-03-01T20:57:37Z"
     },
     {
         "Len": "Warming alters food web-driven changes in the CO2 flux of experimental pond ecosystems",
@@ -1833,7 +2005,8 @@
             "Agricultural and Biological Sciences (miscellaneous)",
             "General Agricultural and Biological Sciences"
         ],
-        "P1476": "Warming alters food web-driven changes in the CO2 flux of experimental pond ecosystems"
+        "P1476": "Warming alters food web-driven changes in the CO2 flux of experimental pond ecosystems",
+        "P577": "2015-12-03T10:07:48Z"
     },
     {
         "Len": "Warming, eutrophication, and predator loss amplify subsidies between aquatic and terrestrial ecosystems",
@@ -1846,7 +2019,8 @@
             "General Environmental Science",
             "Environmental Chemistry"
         ],
-        "P1476": "Warming, eutrophication, and predator loss amplify subsidies between aquatic and terrestrial ecosystems"
+        "P1476": "Warming, eutrophication, and predator loss amplify subsidies between aquatic and terrestrial ecosystems",
+        "P577": "2011-09-05T11:59:37Z"
     },
     {
         "Len": "Watershed effects on chemical properties of sediment and primary consumption in estuarine tidal flats: importance of watershed size and food selectivity by macrobenthos",
@@ -1858,7 +2032,8 @@
             "Ecology, Evolution, Behavior and Systematics",
             "Environmental Chemistry"
         ],
-        "P1476": "Watershed effects on chemical properties of sediment and primary consumption in estuarine tidal flats: importance of watershed size and food selectivity by macrobenthos"
+        "P1476": "Watershed effects on chemical properties of sediment and primary consumption in estuarine tidal flats: importance of watershed size and food selectivity by macrobenthos",
+        "P577": "2010-03-01T20:14:42Z"
     },
     {
         "Len": "Watershed processes, human impacts, and process\u2010based restoration",
@@ -1866,9 +2041,10 @@
         "P50": "Q56794616",
         "P356": "10.1002/9781118406618.ch2",
         "P921": [
-            "Restoration",
-            "Watershed"
+            "Watershed",
+            "Restoration"
         ],
-        "P1476": "Watershed processes, human impacts, and process\u2010based restoration"
+        "P1476": "Watershed processes, human impacts, and process\u2010based restoration",
+        "P577": "2012-09-30T12:05:14Z"
     }
 ]

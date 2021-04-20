@@ -60,6 +60,10 @@ def wikidata_import(author_name, open_refine, test=False):
                     if not main_subject:
                         logger.error(Fore.RED + f' {title} ' + Style.RESET_ALL + 'has no matching keyword')
 
+                    created = None
+                    if 'created' in row and 'date-time' in row['created']:
+                        created = row['created']['date-time']
+
                     # Dictionary sorted by properties
                     new_entry = dict(
                         Len=to_quickstatements_format(title),
@@ -68,6 +72,7 @@ def wikidata_import(author_name, open_refine, test=False):
                         P356=row['DOI'],  # DOI
                         P921=main_subject,  # main subject,
                         P1476=to_quickstatements_format(title),  # title
+                        P577=created # publication date
                     )
                     result.append(new_entry)
                 except Exception as ex:
