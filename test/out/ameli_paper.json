@@ -1,0 +1,282 @@
+{
+	"wbcheckconstraints": {
+		"Q53465413": {
+			"claims": {
+				"P1433": [
+					{
+						"id": "Q53465413$71F41E19-AF5F-41E8-BA12-868716A237DC",
+						"mainsnak": {
+							"hash": "bb3e8d2ac2f25b9bae4a4bd43e390cf9c4c28cd8",
+							"results": []
+						}
+					}
+				],
+				"P1476": [
+					{
+						"id": "Q53465413$5133A898-2637-45EB-8CF6-0E1D751EB36B",
+						"mainsnak": {
+							"hash": "48ee6e54d07dde96b660d292331e639c08ae809a",
+							"results": []
+						}
+					}
+				],
+				"P2093": [
+					{
+						"id": "Q53465413$A398B20E-80F6-4558-B8AC-52C2E2DEBF2B",
+						"mainsnak": {
+							"hash": "059ca9684d81c890060ebcd087c4ebc90302e480",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$FE73B061-04CD-4687-998F-F47557FF0009",
+						"mainsnak": {
+							"hash": "1347fbdda191af6f66850568e1abd11801fdf581",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$3092AF40-E9E1-42AD-8113-51166EE38691",
+						"mainsnak": {
+							"hash": "3417a60d89d7807846dd698c3bddd22ddfe76c85",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$6C8FAFCA-FC52-4E2C-87E7-A7BFE671693C",
+						"mainsnak": {
+							"hash": "4631e840ab9dbaaf3daab13c695ebade691e7ef7",
+							"results": []
+						}
+					}
+				],
+				"P2860": [
+					{
+						"id": "Q53465413$872E662A-AC92-4B1D-B921-388A739BA60D",
+						"mainsnak": {
+							"hash": "01f7a3dc2f83292e10644bc9441b277ff5e93112",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$6AB7414B-6159-4259-A283-5146881A1714",
+						"mainsnak": {
+							"hash": "0a8e7f6e421947e24f014952f5a5f59a99683a8b",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$12A57767-C279-4495-BDF8-15EC5D9A9524",
+						"mainsnak": {
+							"hash": "1b1e022727cef3e6e366aab2acd0ed7fd104a046",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$5F2D6583-EAF7-470C-B3C8-B91E757157A9",
+						"mainsnak": {
+							"hash": "300625dfcff89a3e48f1a1928956407bb0d8fe46",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$594C26A4-12D5-4E0E-8643-BEA6E36FE21E",
+						"mainsnak": {
+							"hash": "454935c9feadb299dd45d2a796128d76462c4175",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$39409035-0043-436E-83E7-A3B82B1EDF0D",
+						"mainsnak": {
+							"hash": "526a17e3fba4bad2d5974209adeecfe87b159f7d",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$ABDE8AB0-388B-490B-A55E-B30F04ECE191",
+						"mainsnak": {
+							"hash": "5e598d90d5929cb128e003c855c2e987de136826",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$E11FA47B-C31C-494C-BC3E-928A7C442B39",
+						"mainsnak": {
+							"hash": "67e5ff2a716f70001d6a1ff452032097370f7f77",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$097C1046-CA6F-4230-8EDF-B36137CB32D1",
+						"mainsnak": {
+							"hash": "6909b61fc798eb7450e787e22a8d085d592a68b4",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$18AF0DF5-70C7-45C9-B9D2-5C568A60792A",
+						"mainsnak": {
+							"hash": "75e27b73d4a46db34e3c9d12a5eeed84af39e430",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$8F5BA690-58FE-4A72-828A-0DD5B4A0C40B",
+						"mainsnak": {
+							"hash": "818015f89dea5c43ec5dc7ee13547eedd6699b54",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$B11BA93E-993F-4DB6-B947-4B49CC229F6E",
+						"mainsnak": {
+							"hash": "9284e788a9820e3efeb882f89efe3c683753965e",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$432DA5D2-19EF-4C67-B5E6-A6592EA458C5",
+						"mainsnak": {
+							"hash": "9f4cb061183e52a56e128d6a94f2b86b7c76b016",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$76DFBB75-4624-4000-95E9-287BEC189CA6",
+						"mainsnak": {
+							"hash": "a24aa1d69ac2c4b64b031c38d3e99f933624c56e",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$2F2E752A-9178-49A1-AD95-05F65B057D48",
+						"mainsnak": {
+							"hash": "b4d43e9d0cce0eb77585c9c7120f2ae59d93e641",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$8F00F11B-22A9-4673-85B3-4AB2951D2E3E",
+						"mainsnak": {
+							"hash": "b817993ea188fac584dc64c728976399602f8489",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$E1475EBA-7DAC-45C5-8A0E-D54193251D66",
+						"mainsnak": {
+							"hash": "be704e0654435160a86e42b9770df9de9c012aa3",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$C2A08DE4-83AB-4066-93A1-C5DA256D0856",
+						"mainsnak": {
+							"hash": "c4182a57aa25b9df71ec48f409ea519cea4b238b",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$FB457B42-3B8E-43B2-9C0A-67DE8DC30DD7",
+						"mainsnak": {
+							"hash": "c457e3bc767f3a795a41862654fd15259412363b",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$66966058-018D-4F8D-BC12-4029EBE5E00C",
+						"mainsnak": {
+							"hash": "dff1b73bae208b7eee6b6af8233656b91fb04277",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$26817A87-63B0-4A5D-B1F8-F2B94CEC8E1E",
+						"mainsnak": {
+							"hash": "e5debbaeef798c8c4422100494aedde7ef07226a",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$5FB28141-D5B2-4573-9EF9-D54C3FA75DC9",
+						"mainsnak": {
+							"hash": "f4b4f3b759ac53138d1d0c5190f69949b6efe1df",
+							"results": []
+						}
+					}
+				],
+				"P304": [
+					{
+						"id": "Q53465413$2F33E61B-1FCC-4BC8-AB9D-A73184BA3D58",
+						"mainsnak": {
+							"hash": "8751f46283fea60d34705802aff8b8a118d56003",
+							"results": []
+						}
+					}
+				],
+				"P31": [
+					{
+						"id": "Q53465413$0F884084-1FDB-4F24-B988-538586CD6198",
+						"mainsnak": {
+							"hash": "29465f78f13add11b617f0de4ade56cd1122c19c",
+							"results": []
+						}
+					}
+				],
+				"P356": [
+					{
+						"id": "Q53465413$4EC9E872-9F82-429F-B94B-1C2634BAC396",
+						"mainsnak": {
+							"hash": "f16aa0674d0aac044a6e7c0b463888fcf5d0fbc6",
+							"results": []
+						}
+					}
+				],
+				"P433": [
+					{
+						"id": "Q53465413$A5E96EE0-EF12-4C9D-8091-95DFFB26F127",
+						"mainsnak": {
+							"hash": "962ed10012ef254020e2a8c8a6c8ba7647d35a12",
+							"results": []
+						}
+					}
+				],
+				"P478": [
+					{
+						"id": "Q53465413$92AB2B7C-4E8C-48EF-9415-748885B8F3E4",
+						"mainsnak": {
+							"hash": "e08f2b47ef56ed945d06c8c1f062ad02fa3b7277",
+							"results": []
+						}
+					}
+				],
+				"P50": [
+					{
+						"id": "Q53465413$D5ED767F-6352-43BE-8850-A1F05CA93874",
+						"mainsnak": {
+							"hash": "68b59aa52d8592de0f3c8145fa9ead7906bee54d",
+							"results": []
+						}
+					},
+					{
+						"id": "Q53465413$B7547B2B-94C6-4F5A-8A06-4E1B51629981",
+						"mainsnak": {
+							"hash": "fd30b86c2e76bf6a9194721f44864eac3438df41",
+							"results": []
+						}
+					}
+				],
+				"P577": [
+					{
+						"id": "Q53465413$BA2B39A5-F4F3-46BB-A38B-5A7581A40D70",
+						"mainsnak": {
+							"hash": "cee290982e3e3fe8a5ffe5c615b1b4ea1b31228d",
+							"results": []
+						}
+					}
+				]
+			}
+		}
+	}
+}

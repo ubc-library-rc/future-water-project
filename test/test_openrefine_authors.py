@@ -32,11 +32,10 @@ def wikidata_import(author_name, test=False):
         with open(cached) as fo:
             data = json.load(fo)
             new_entry = dict(
-                # empty because these are entries for missing wikidata
                 Len=data['author'],
                 P31='Q5',  # instance of = human
-                P106='Q1650915',  # ocuppation = researcher
-                P463='',  # member of = Future Water Cluster
+                P106='Q1650915',  # occupation = researcher
+                P463='Q106489997',  # member of = Future Water Cluster
                 P2561=data['author'],  # name
             )
             result.append(new_entry)

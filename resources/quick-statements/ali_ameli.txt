@@ -1,0 +1,90 @@
+Q97595647	Aen	"A comprehensive, multisource database for hydrometeorological modeling of 14,425 North American watersheds"
+Q97595647	P31	Q13442814
+Q97595647	P50	Q57582079
+Q97595647	P356	"10.1038/s41597-020-00583-2"
+Q97595647	P1476	en:"A comprehensive, multisource database for hydrometeorological modeling of 14,425 North American watersheds"
+Q106574842	Aen	"Are all runoff processes the same? Numerical experiments comparing a D arcy‐R ichards solver to an overland flow‐based approach for subsurface storm runoff simulation"
+Q106574842	P31	Q13442814
+Q106574842	P50	Q57582079
+Q106574842	P356	"10.1002/2015wr017199"
+Q106574842	P1476	en:"Are all runoff processes the same? Numerical experiments comparing a D arcy‐R ichards solver to an overland flow‐based approach for subsurface storm runoff simulation"
+Q106574843	Aen	"Catchment export of base cations: improved mineral dissolution kinetics influence the role of water transit time"
+Q106574843	P31	Q13442814
+Q106574843	P50	Q57582079
+Q106574843	P356	"10.5194/soil-6-231-2020"
+Q106574843	P1476	en:"Catchment export of base cations: improved mineral dissolution kinetics influence the role of water transit time"
+Q106574844	Aen	"Controls on subsurface transport of sorbing contaminant"
+Q106574844	P31	Q13442814
+Q106574844	P50	Q57582079
+Q106574844	P356	"10.2166/nh.2016.170"
+Q106574844	P1476	en:"Controls on subsurface transport of sorbing contaminant"
+Q106574845	Aen	"Estimating rates of wetland loss using power-law functions"
+Q106574845	P31	Q13442814
+Q106574845	P50	Q57582079
+Q106574845	P356	"10.1007/s13157-017-0960-y"
+Q106574845	P1476	en:"Estimating rates of wetland loss using power-law functions"
+Q106574846	Aen	"Groundwater subsidy from headwaters to their parent water watershed: A combined field‐modeling approach"
+Q106574846	P31	Q13442814
+Q106574846	P50	Q57582079
+Q106574846	P356	"10.1029/2017wr022356"
+Q106574846	P1476	en:"Groundwater subsidy from headwaters to their parent water watershed: A combined field‐modeling approach"
+Q57202727	Aen	"Hillslope permeability architecture controls on subsurface transit time distribution and flow paths"
+Q57202727	P31	Q13442814
+Q57202727	P50	Q57582079
+Q57202727	P356	"10.1016/j.jhydrol.2016.04.071"
+Q57202727	P1476	en:"Hillslope permeability architecture controls on subsurface transit time distribution and flow paths"
+Q106574847	Aen	"Hydrologic connectivity of geographically isolated wetlands to surface water systems"
+Q106574847	P31	Q13442814
+Q106574847	P50	Q57582079
+Q106574847	P356	"10.1016/j.envsoft.2013.12.004"
+Q106574847	P1476	en:"Hydrologic connectivity of geographically isolated wetlands to surface water systems"
+Q106574848	Aen	"Modeling connectivity of non‐floodplain wetlands: Insights, approaches, and recommendations"
+Q106574848	P31	Q13442814
+Q106574848	P50	Q57582079
+Q106574848	P356	"10.1111/1752-1688.12735"
+Q106574848	P1476	en:"Modeling connectivity of non‐floodplain wetlands: Insights, approaches, and recommendations"
+Q106574849	Aen	"Performance assessment of low-order versus high-order numerical schemes in the numerical simulation of aquifer"
+Q106574849	P31	Q13442814
+Q106574849	P50	Q57582079
+Q106574849	P356	"10.2166/nh.2016.148"
+Q106574849	P1476	en:"Performance assessment of low-order versus high-order numerical schemes in the numerical simulation of aquifer"
+Q53465413	Aen	"Primary weathering rates, water transit times, and concentration‐discharge relations: A theoretical analysis for the critical zone"
+Q53465413	P31	Q13442814
+Q53465413	P50	Q57582079
+Q53465413	P356	"10.1002/2016wr019448"
+Q53465413	P1476	en:"Primary weathering rates, water transit times, and concentration‐discharge relations: A theoretical analysis for the critical zone"
+Q57864448	Aen	"Quantifying hydrologic connectivity of wetlands to surface water systems"
+Q57864448	P31	Q13442814
+Q57864448	P50	Q57582079
+Q57864448	P356	"10.5194/hess-21-1791-2017"
+Q57864448	P1476	en:"Quantifying hydrologic connectivity of wetlands to surface water systems"
+CREATE
+LAST	Len	"Semi-analytical 3D solution for assessing radial collector well pumping impacts on groundwater–surface water interaction"
+LAST	P31	Q13442814
+LAST	P50	Q57582079
+LAST	P356	"10.2166/nh.2017.201"
+LAST	P1476	en:"Semi-analytical 3D solution for assessing radial collector well pumping impacts on groundwater–surface water interaction"
+CREATE
+LAST	Len	"Semianalytical series solutions for three‐dimensional groundwater‐surface water interaction"
+LAST	P31	Q13442814
+LAST	P50	Q57582079
+LAST	P356	"10.1002/2014wr015394"
+LAST	P1476	en:"Semianalytical series solutions for three‐dimensional groundwater‐surface water interaction"
+CREATE
+LAST	Len	"Series solutions for saturated–unsaturated flow in multi-layer unconfined aquifers"
+LAST	P31	Q13442814
+LAST	P50	Q57582079
+LAST	P356	"10.1016/j.advwatres.2013.07.004"
+LAST	P1476	en:"Series solutions for saturated–unsaturated flow in multi-layer unconfined aquifers"
+CREATE
+LAST	Len	"The Maimai M8 experimental catchment database: Forty years of process‐based research on steep, wet hillslopes"
+LAST	P31	Q13442814
+LAST	P50	Q57582079
+LAST	P356	"10.1002/hyp.14112"
+LAST	P1476	en:"The Maimai M8 experimental catchment database: Forty years of process‐based research on steep, wet hillslopes"
+CREATE
+LAST	Len	"The exponential decline in saturated hydraulic conductivity with depth: a novel method for exploring its effect on water flow paths and transit time distribution"
+LAST	P31	Q13442814
+LAST	P50	Q57582079
+LAST	P356	"10.1002/hyp.10777"
+LAST	P1476	en:"The exponential decline in saturated hydraulic conductivity with depth: a novel method for exploring its effect on water flow paths and transit time distribution"

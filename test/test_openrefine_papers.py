@@ -43,7 +43,7 @@ def wikidata_import(author_name, open_refine, test=False):
             elif data['wikidata_id']:
                 author = data['wikidata_id']
             else:
-                author = data['author'],  # author
+                author = data['author']  # author
 
             for row in data['missing_data']:
                 try:
@@ -62,7 +62,6 @@ def wikidata_import(author_name, open_refine, test=False):
 
                     # Dictionary sorted by properties
                     new_entry = dict(
-                        qid='',  # empty because these are entries for missing wikidata
                         Len=to_quickstatements_format(title),
                         P31='Q13442814',  # instance of = scholarly article,
                         P50=author, # author
@@ -77,16 +76,28 @@ def wikidata_import(author_name, open_refine, test=False):
     return result
 
 
-def write_output_file(data, author):
+def write_output_file(data, author, individual_files=True):
     if not data:
         return
     keys = data[0].keys()
     file_name = '_'.join(author.split()).lower().replace('.', '')
-    _output = os.path.join(
-        os.path.dirname(os.path.realpath(__file__)),
-        '..', 'resources', 'imports', f'open_refine_{file_name}.csv'
-    )
+    _output = os.path.join(os.path.dirname(os.path.realpath(__file__)),
+        '..', 'resources', 'papers')
 
+    _output = os.path.join(_output, f'paper_data_{file_name}.json')
+
+    with open(_output, "w") as outfile:
+        json.dump(data, outfile, indent=4)
+
+    for d in data:
+        d.pop("P921", None) # https://stackoverflow.com/questions/15411107/delete-a-dictionary-item-if-the-key-exists
+
+    _output = os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                           '..', 'resources', 'imports')
+    if individual_files:
+        _output = os.path.join(_output, 'authors')
+
+    _output = os.path.join(_output, f'open_refine_{file_name}.csv')
     with open(_output, 'w', newline='') as output_file:
         dict_writer = csv.DictWriter(output_file, keys, quoting=csv.QUOTE_ALL)
         dict_writer.writeheader()
@@ -105,27 +116,29 @@ def main():
         for row in _data:
             authors.append((row['Full Name'], row['wikidata']))
 
-    _input = os.path.join(
-        os.path.dirname(os.path.realpath(__file__)),
-        '..', 'resources', 'imports', 'open_refine_authors.csv'
-    )
 
-    open_refine = {}
-    with open(_input) as _f:
-        _data = csv.DictReader(_f)
-        for row in _data:
-            open_refine = row['qid']
-
+    final_data = []
+    idx = 0
     for author_name, wiki_id in authors:
         try:
-            openrefine_import = wikidata_import(author_name, open_refine)
+            openrefine_import = wikidata_import(author_name, dict())
             if openrefine_import:
+                final_data += openrefine_import
                 write_output_file(
                     sorted(openrefine_import, key=lambda k: k['P1476']),
                     author_name
                 )
         except Exception as ex:
             logger.exception(ex)
+        # idx += 1
+        # if idx >= 2:
+        #     break
+
+    write_output_file(
+        sorted(final_data, key=lambda k: k['P1476']),
+        'paper_list',
+        individual_files=False
+    )
 
 
 if __name__ == '__main__':

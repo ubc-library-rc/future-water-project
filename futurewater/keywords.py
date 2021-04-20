@@ -11,15 +11,15 @@ with open(os.path.join(
 
 
 def get_publication_subject(author_name, publication_data, title=None):
+    subject = []
+    if 'subject' in publication_data:
+        subject = publication_data['subject']
+        return subject
     if not title:
         title = ""
     abstract = ""
     if "abstract" in publication_data:
         abstract = publication_data['abstract']
-    subject = []
-    if 'subject' in publication_data:
-        subject = publication_data['subject']
-        subject = [k.lower().strip() for k in subject]
 
     matched_keywords = list()
     matched_keywords += match(keywords, subject)
@@ -29,10 +29,7 @@ def get_publication_subject(author_name, publication_data, title=None):
     matched_keywords = list(filter(lambda k: k is not None, matched_keywords))
 
     if matched_keywords:
-        return next(iter(matched_keywords))
-
-    if subject:
-        return next(iter(subject))
+        return list(set([m.capitalize() for m in matched_keywords]))
 
     return None
 

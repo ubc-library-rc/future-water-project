@@ -1,0 +1,194 @@
+[
+    {
+        "Len": "Application and refinement of fluorescence spectroscopy for organic matter characterization in drinking water",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1007/s11157-011-9243-x",
+        "P921": [
+            "Environmental Engineering",
+            "Waste Management and Disposal",
+            "Applied Microbiology and Biotechnology",
+            "Pollution"
+        ],
+        "P1476": "Application and refinement of fluorescence spectroscopy for organic matter characterization in drinking water"
+    },
+    {
+        "Len": "Applications of Principal Component Analysis of Fluorescence Excitation-emission Matrices for Characterization of Natural Organic Matter in Water Treatment",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.memsci.2011.05.013",
+        "P921": [
+            "Physical and Theoretical Chemistry",
+            "Filtration and Separation",
+            "General Materials Science",
+            "Biochemistry"
+        ],
+        "P1476": "Applications of Principal Component Analysis of Fluorescence Excitation-emission Matrices for Characterization of Natural Organic Matter in Water Treatment"
+    },
+    {
+        "Len": "Characterization of UF foulants and fouling mechanisms when applying low in-line coagulant pre-treatment",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.watres.2017.08.064",
+        "P921": [
+            "Ecological Modelling",
+            "Waste Management and Disposal",
+            "Pollution",
+            "Water Science and Technology"
+        ],
+        "P1476": "Characterization of UF foulants and fouling mechanisms when applying low in-line coagulant pre-treatment"
+    },
+    {
+        "Len": "Comparison of Dimensionality Reduction Techniques for Cross-Source Transfer of Fluorescence Contaminant Detection Models",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.chemosphere.2021.130064",
+        "P921": [
+            "General Chemistry",
+            "Environmental Chemistry",
+            "General Medicine"
+        ],
+        "P1476": "Comparison of Dimensionality Reduction Techniques for Cross-Source Transfer of Fluorescence Contaminant Detection Models"
+    },
+    {
+        "Len": "Comparison of three-dimensional fluorescence analysis methods for predicting formation of trihalomethanes and haloacetic acids",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.jes.2014.04.014",
+        "P921": null,
+        "P1476": "Comparison of three-dimensional fluorescence analysis methods for predicting formation of trihalomethanes and haloacetic acids"
+    },
+    {
+        "Len": "Continuous organic characterization for biological and membrane filter performance monitoring",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.5942/jawwa.2017.109.0031",
+        "P921": null,
+        "P1476": "Continuous organic characterization for biological and membrane filter performance monitoring"
+    },
+    {
+        "Len": "Contributions of spatial, temporal, and treatment impacts on natural organic matter character using fluorescence-based measures",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.2166/ws.2015.013",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Contributions of spatial, temporal, and treatment impacts on natural organic matter character using fluorescence-based measures"
+    },
+    {
+        "Len": "Fluorescence excitation emission matrices for rapid detection of polycyclic aromatic hydrocarbons and pesticides in surface waters",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1039/c8ew00821c",
+        "P921": [
+            "Water quality assessment"
+        ],
+        "P1476": "Fluorescence excitation emission matrices for rapid detection of polycyclic aromatic hydrocarbons and pesticides in surface waters"
+    },
+    {
+        "Len": "Fluorescence spectroscopy for monitoring reduction of natural organic matter and halogenated furanone precursors by biofiltration",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.chemosphere.2016.03.018",
+        "P921": null,
+        "P1476": "Fluorescence spectroscopy for monitoring reduction of natural organic matter and halogenated furanone precursors by biofiltration"
+    },
+    {
+        "Len": "Identifying the best coagulant for simultaneous water treatment objectives: Interactions of mononuclear and polynuclear aluminum species with different natural organic matter \u2026",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.jwpe.2020.101829",
+        "P921": [
+            "Water treatment"
+        ],
+        "P1476": "Identifying the best coagulant for simultaneous water treatment objectives: Interactions of mononuclear and polynuclear aluminum species with different natural organic matter \u2026"
+    },
+    {
+        "Len": "Impact of low coagulant dosages on protein fouling of ultrafiltration membranes",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.jwpe.2019.100801",
+        "P921": [
+            "Membranes"
+        ],
+        "P1476": "Impact of low coagulant dosages on protein fouling of ultrafiltration membranes"
+    },
+    {
+        "Len": "Impact of operational parameters on biofiltration performance: organic carbon removal and effluent turbidity",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.2166/ws.2016.093",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Impact of operational parameters on biofiltration performance: organic carbon removal and effluent turbidity"
+    },
+    {
+        "Len": "Integration of weather conditions for predicting microbial water quality using Bayesian belief networks",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.watres.2019.115349",
+        "P921": [
+            "Ecological Modelling",
+            "Waste Management and Disposal",
+            "Pollution",
+            "Water Science and Technology"
+        ],
+        "P1476": "Integration of weather conditions for predicting microbial water quality using Bayesian belief networks"
+    },
+    {
+        "Len": "Investigation of fluorescence methods for rapid detection of municipal wastewater impact on drinking water sources",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.saa.2016.07.031",
+        "P921": [
+            "Drinking water"
+        ],
+        "P1476": "Investigation of fluorescence methods for rapid detection of municipal wastewater impact on drinking water sources"
+    },
+    {
+        "Len": "Investigation of ozone and peroxone impacts on natural organic matter character and biofiltration performance using fluorescence spectroscopy",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.chemosphere.2016.12.118",
+        "P921": [
+            "Ozone"
+        ],
+        "P1476": "Investigation of ozone and peroxone impacts on natural organic matter character and biofiltration performance using fluorescence spectroscopy"
+    },
+    {
+        "Len": "Neural networks for dimensionality reduction of fluorescence spectra and prediction of drinking water disinfection by-products",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.watres.2018.02.052",
+        "P921": [
+            "Ecological Modelling",
+            "Waste Management and Disposal",
+            "Pollution",
+            "Water Science and Technology"
+        ],
+        "P1476": "Neural networks for dimensionality reduction of fluorescence spectra and prediction of drinking water disinfection by-products"
+    },
+    {
+        "Len": "Statistical significance testing of parallel pilot-scale coagulation optimization study to compare aluminum sulfate and polyaluminum chloride performance",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.2166/aqua.2014.158",
+        "P921": null,
+        "P1476": "Statistical significance testing of parallel pilot-scale coagulation optimization study to compare aluminum sulfate and polyaluminum chloride performance"
+    },
+    {
+        "Len": "Towards real-time detection of wastewater in surface waters using fluorescence spectroscopy",
+        "P31": "Q13442814",
+        "P50": "Nicolas Peleato",
+        "P356": "10.1016/j.jes.2019.06.002",
+        "P921": [
+            "Environmental Engineering",
+            "General Environmental Science",
+            "Environmental Chemistry",
+            "General Medicine"
+        ],
+        "P1476": "Towards real-time detection of wastewater in surface waters using fluorescence spectroscopy"
+    }
+]
