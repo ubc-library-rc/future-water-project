@@ -23,20 +23,8 @@ stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
 
-
-
 def main(throttling_delay=10):
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
-
-    files = []
-    # r=root, d=directories, f = files
-    for r, d, f in os.walk('/tmp/src/'):
-        for _d in d:
-                files.append(os.path.join(r, _d))
-
-    for f in files:
-        logger.info(f)
-
 
     _input = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),

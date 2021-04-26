@@ -9,6 +9,7 @@ import sys
 # adding path to run files from root when in docker container
 sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
 
+from colorama import Fore, Style
 from futurewater.util import format_author
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library
@@ -62,6 +63,8 @@ def write_output_file(data):
 
 
 def main():
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
+
     _input = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         '..', 'resources', 'cluster-members.csv'
@@ -86,4 +89,8 @@ def main():
 
 
 if __name__ == '__main__':
+    logger.info("Writing wikidata for every" + Fore.RED + " author " + Style.RESET_ALL + " in the cluster")
     main()
+    logger.info(">> Output at " + Fore.RED + "./resources/imports" + Style.RESET_ALL)
+    logger.info('-' * 10)
+    logger.info('-' * 10)

@@ -25,6 +25,8 @@ logger.addHandler(stream_handler)
 
 
 def publications_info(author_name, wikidata_id, test=False):
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
+
     if wikidata_id == "":
         wikidata_id = None
     output_folder = os.path.join(
@@ -82,4 +84,8 @@ def main():
 
 
 if __name__ == '__main__':
+    logger.info("Fetching resources from Crossref")
     main()
+    logger.info(">> Output at " + Fore.RED + "./resources/crossref" + Style.RESET_ALL)
+    logger.info('-' * 10)
+    logger.info('-' * 10)

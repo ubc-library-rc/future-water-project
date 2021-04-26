@@ -137,7 +137,7 @@ def publications_info(author_name, test=False):
 
 
 def main(throttling_delay=3):
-    # publications_info('Jordi Honey-Rosés', test=True)
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
     _input = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
@@ -159,5 +159,10 @@ def main(throttling_delay=3):
             logger.error(Fore.RED + f'Error fetching data for {author_name}' + Style.RESET_ALL)
             logging.exception("message")
 
+
 if __name__ == '__main__':
+    logger.info("Fetching resources from Wikidata")
     main()
+    logger.info(">> Output at " + Fore.RED + "./resources/wikidata" + Style.RESET_ALL)
+    logger.info('-' * 10)
+    logger.info('-' * 10)

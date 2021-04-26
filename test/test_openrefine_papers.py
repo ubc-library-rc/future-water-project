@@ -71,11 +71,11 @@ def wikidata_import(author_name, open_refine, test=False):
                     new_entry = dict(
                         Len=to_quickstatements_format(title),
                         P31='Q13442814',  # instance of = scholarly article,
-                        P50=author, # author
+                        P50=author,  # author
                         P356=row['DOI'],  # DOI
                         P921=main_subject,  # main subject,
                         P1476=to_quickstatements_format(title),  # title
-                        P577=created # publication date
+                        P577=created  # publication date
                     )
                     result.append(new_entry)
                 except Exception as ex:
@@ -90,7 +90,7 @@ def write_output_file(data, author, individual_files=True):
     keys = data[0].keys()
     file_name = '_'.join(author.split()).lower().replace('.', '')
     _output = os.path.join(os.path.dirname(os.path.realpath(__file__)),
-        '..', 'resources', 'papers')
+                           '..', 'resources', 'papers')
 
     _output = os.path.join(_output, f'paper_data_{file_name}.json')
 
@@ -98,7 +98,7 @@ def write_output_file(data, author, individual_files=True):
         json.dump(data, outfile, indent=4)
 
     for d in data:
-        d.pop("P921", None) # https://stackoverflow.com/questions/15411107/delete-a-dictionary-item-if-the-key-exists
+        d.pop("P921", None)  # https://stackoverflow.com/questions/15411107/delete-a-dictionary-item-if-the-key-exists
 
     _output = os.path.join(os.path.dirname(os.path.realpath(__file__)),
                            '..', 'resources', 'imports')
@@ -113,6 +113,8 @@ def write_output_file(data, author, individual_files=True):
 
 
 def main():
+    os.chdir(os.path.dirname(os.path.realpath(__file__)))
+
     _input = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         '..', 'resources', 'cluster-members.csv'
@@ -123,7 +125,6 @@ def main():
         _data = csv.DictReader(_f)
         for row in _data:
             authors.append((row['Full Name'], row['wikidata']))
-
 
     final_data = []
     idx = 0
@@ -150,4 +151,9 @@ def main():
 
 
 if __name__ == '__main__':
+    logger.info("Writing wikidata for every" + Fore.RED + " paper " + Style.RESET_ALL + " in the cluster")
     main()
+    logger.info(">> Output at " + Fore.RED + "./resources/imports" + Style.RESET_ALL)
+    logger.info(">> Output at " + Fore.RED + "./resources/papers" + Style.RESET_ALL)
+    logger.info('-' * 10)
+    logger.info('-' * 10)

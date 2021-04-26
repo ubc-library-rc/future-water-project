@@ -42,8 +42,14 @@ docker run --name=future-waters -v <your path>/resources:/tmp/src/resources libr
 
 For example, for the output path that I got, the volume path should read
 
+4. Change file permissions at output folder
 
-4. Important
+```shell
+sudo chown -R $USER:$USER resources
+```
+
+
+5. Important
 
 If there are updates on the python scripts, you must build a new image to reflect these changes on the container. Run:
 
@@ -55,7 +61,15 @@ docker rm libraryrc/future-waters
 Repeat steps `1.` to `3.` afterwards
 
 
+6. Helpful tips for development environment
 
+Remove last container, build and run new version in a single command
+
+```shell
+docker rm future-waters && \
+docker build -t libraryrc/future-waters . && \
+docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources libraryrc/future-waters
+```
 
 
 
