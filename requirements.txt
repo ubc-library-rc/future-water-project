@@ -1,2 +1,0 @@
-datacite==1.0.1
-crossref-commons==0.0.7

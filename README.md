@@ -1,18 +1,86 @@
 # future-water-project
 
 
+
+
+
+## Docker container instructions
+
+
+1. Build the base docker container running:
+
+
+```shell
+cd docker/base
+docker build -t libraryrc/future-waters .
+```
+
+
+2. Build the base docker container running:
+
+
+```shell
+docker build -t libraryrc/future-waters .
+```
+
+3. Run the container
+
+First get the path where you downloaded the project
+
+```shell
+pwd
+```
+
+The output will be something similar to  `/home/msarthur/Workspace/future-water-project`
+
+Update the path in the volume argument in the command below. `-v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources`
+
+
+```shell
+docker run --name=future-waters -v <your path>/resources:/tmp/src/resources libraryrc/future-waters
+```
+
+For example, for the output path that I got, the volume path should read
+
+
+4. Important
+
+If there are updates on the python scripts, you must build a new image to reflect these changes on the container. Run:
+
+
+```shell
+docker rm libraryrc/future-waters
+```
+
+Repeat steps `1.` to `3.` afterwards
+
+
+
+
+
+
+
+
+
+
+Write a docker container!
+
+
 Check if one main subject per line works
+-- doable, but there are still to many for manual lookup
 
 
 Use reference in member of to state from when to when
 
 If main topic does not work, think about how to use non-wiki data
+-- this is where I'm currently at
 
-Sponsor is not the best field because there are multiple grants and papers before the cluster was created
+~~Sponsor is not the best field because there are multiple grants and papers before the cluster was created~~
 
 Disconsider relative weight ofr the time being
 
 Do not infer a ubject if there is not one
+-- done
 
 
 Interesting visualization https://scholia.toolforge.org/authors/Q80,Q6135847,Q30085536
@@ -24,7 +92,7 @@ We want P859 sponsor, so we can leverage: https://scholia.toolforge.org/project/
 
 
 
-https://www.wikidata.org/wiki/Q57202727  --- will be edited
+https://www.wikidata.org/wiki/Q57202727  --- will be edited, successfully edited
 
 
 

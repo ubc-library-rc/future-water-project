@@ -6,6 +6,9 @@ import logging
 import os
 import sys
 
+# adding path to run files from root when in docker container
+sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
+
 from colorama import Fore, Style
 from futurewater.util import format_author
 

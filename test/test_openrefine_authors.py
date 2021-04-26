@@ -6,6 +6,9 @@ import logging
 import os
 import sys
 
+# adding path to run files from root when in docker container
+sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
+
 from futurewater.util import format_author
 
 # https://stackoverflow.com/questions/11029717/how-do-i-disable-log-messages-from-the-requests-library

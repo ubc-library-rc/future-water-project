@@ -10,6 +10,9 @@ import time
 from Levenshtein import ratio
 from colorama import Fore, Style
 
+# adding path to run files from root when in docker container
+sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
+
 import futurewater.wikidata as wikidata_api
 from futurewater.util import format_author
 
