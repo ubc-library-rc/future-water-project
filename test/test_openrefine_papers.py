@@ -124,11 +124,11 @@ def main():
     with open(_input) as _f:
         _data = csv.DictReader(_f)
         for row in _data:
-            authors.append((row['Full Name'], row['wikidata']))
+            authors.append(row['Full Name'])
 
     final_data = []
     idx = 0
-    for author_name, wiki_id in authors:
+    for author_name in authors:
         try:
             openrefine_import = wikidata_import(author_name, dict())
             if openrefine_import:

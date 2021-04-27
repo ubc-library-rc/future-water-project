@@ -1,7 +1,160 @@
 # future-water-project
 
 
+## Setup
 
+1. [Download and install docker](https://docs.docker.com/get-started/)
+1. [Download and install Python 3.7 or higher](https://www.python.org/downloads/)
+1. [Download and install OpenRefine](https://openrefine.org/download.html), preferrably the stable version --- OpenRefine 3.3
+
+___
+
+## Instructions
+
+
+### Fetching data on Wikidata, Crossref & Google Scholar
+
+All data produced and consumed by the scripts or scholia lives under `resources`
+
+Start by uploading the `cluster-members.csv` file to resources. The file must contain the full name of the researchers in the Future Waters Cluster. For example:
+
+![title](documentation/csv-example.png)
+
+
+Build the two docker images required for this project:
+
+1. Base image:
+
+```shell
+cd docker/base
+docker build -t libraryrc/future-waters .
+```
+___
+
+2. Script images:
+
+```shell
+docker build -t libraryrc/future-waters .
+```
+___
+
+3. Get your current working directory so that you can run the docker script pointing it to the shared `resources` folder
+
+First get the path where you downloaded the project
+
+```shell
+pwd
+```
+
+The output will be something similar to  
+
+```shell
+/home/msarthur/Workspace/future-water-project
+```
+
+Update the path in the volume argument in the command on step 4, accordingly.
+
+For example, for the previous output, the command `-v <your path>:/tmp/src/resources` should be updated to: 
+
+```shell
+-v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources
+```
+
+This is **very important** because all the output of the docker scripts will be written to the `resources` folder and you need a [shared volume](https://docs.docker.com/storage/volumes/) to pass data from your local machine to the docker container (and vice-versa).
+
+___
+
+
+4. Run the docker scripts
+
+Note that the scripts make heavy use of `caching` so that a cluster member is not processed more than once. If you ever need to reprocess someone, see [Clearing cache](##Clearing-cache).
+
+
+```shell
+docker run --name=future-waters -v <your path>/resources:/tmp/src/resources libraryrc/future-waters
+```
+___
+
+### Output
+
+The output will resemble the folder structure below:
+
+
+
+```
+resources
+├── crossref
+│   ├── ali_ameli.json
+│   ├── alice_guimaraes.json
+│   ├── ...
+│   └── valentina_radić.json
+├── imports
+│   ├── authors
+│   │   ├── open_refine_ali_ameli.csv
+│   │   ├── open_refine_alice_guimaraes.csv
+│   │   ├── ...
+│   │   └── open_refine_valentina_radić.csv
+│   ├── future-water-cluster.csv
+│   ├── open_refine_authors.csv
+│   ├── open_refine_paper_list.csv
+│   └── open_refine_paper_list.json
+├── papers
+│   ├── paper_data_ali_ameli.json
+│   ├── paper_data_alice_guimaraes.json
+│   ├── ...
+│   └── paper_data_valentina_radić.json
+├── quick-statements
+├── scholarly
+│   ├── ali_ameli.json
+│   ├── alice_guimaraes.json
+│   ├── ...
+│   └── valentina_radić.json
+└── wikidata
+    ├── ali_ameli.json
+    ├── alice_guimaraes.json
+    ├── ...
+    └── valentina_radić.json
+
+```
+
+It may look complex at first glance, but you do not need to worry too much about it. 
+The most important data should be under `imports` and `papers`.
+
+* `imports` --- produces `.csv` files with the authors that need to be uploaded to Wikidata as well as their papers. The papers are available either in `open_refine_paper_list.csv`, which contains the whole list of papers or in `imports/author` which contains the list of papers per cluster member
+
+* `papers` --- produces `.json` files with additional data that will be used to produce the cluster visualizations
+
+___
+
+
+Other files explained by folder:
+
+
+* `scholarly` --- produces `.json` files with data obtained from the Google scholar API, namely [scholarly](https://pypi.org/project/scholarly/). As mentioned in the documentation, *Google scholar does not like bots* and to avoid being blocked, we make use of [Tor](https://www.torproject.org/about/history/), as [recommended by the documentation](https://scholarly.readthedocs.io/en/latest/quickstart.html#using-proxies);
+
+    * Usage of Tor should be seamless as all of its logic is encapsulated under the Docker container;
+
+    * Is Tor usage legal? We are using Tor because it masks our IP via usage of [onion routing](https://en.wikipedia.org/wiki/Onion_routing) and thus, we can't be blocked by Google scholar. The same could have been achieved using a series of VPNs to get IPs all over the world. So yes, for the purposes of finding data online, we are not doing anything illegal.
+
+* `crossref` --- produces `.json` files with data obtained from the [Crossref REST API](https://www.crossref.org/education/retrieve-metadata/rest-api/);
+
+    * One thing critical about Crossref is that some of its data does not accurately match our input data. This is a known problem discussed in the [Open Access project](https://github.com/OpenAPC/openapc-de);
+    
+    * We adapt the Open Access project python [disambiguation script](https://github.com/OpenAPC/openapc-de/blob/master/python/import_dois.py) to avoid this problem;
+
+    * This uses [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance) for authors and publications' name comparison, so there will still be false positves on the data obtained by Crossref;
+
+* `wikidata` --- produces the `.json` data with all the papers of a cluster member. To this end, it obtains Wikidata through the [Wikidata query service](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service) and evaluates what is not already there bu checking the data available under `scholarly` and `crossref`;
+
+
+**Important**: Note that all the files are organized by author's names. 
+
+___
+
+
+## Clearing cache
+
+___
 
 
 ## Docker container instructions
@@ -72,16 +225,10 @@ docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project
 ```
 
 
+___
 
+## gibberish
 
-
-
-
-Write a docker container!
-
-
-Check if one main subject per line works
--- doable, but there are still to many for manual lookup
 
 
 Use reference in member of to state from when to when

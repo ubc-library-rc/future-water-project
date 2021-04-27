@@ -24,11 +24,11 @@ stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
 
-def publications_info(author_name, wikidata_id, test=False):
+def publications_info(author_name, test=False):
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
-    if wikidata_id == "":
-        wikidata_id = None
+
+    wikidata_id = None
     output_folder = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         "..", "resources", "crossref"
@@ -59,12 +59,12 @@ def main():
     with open(_input) as _f:
         _data = csv.DictReader(_f)
         for row in _data:
-            authors.append((row['Full Name'], row['wikidata']))
+            authors.append(row['Full Name'])
 
     all = []
-    for author_name, wiki_id in authors:
+    for author_name in authors:
         try:
-            data = publications_info(author_name, wikidata_id=wiki_id)
+            data = publications_info(author_name)
             all.append(data)
             if not data:
                 logger.info(Fore.RED + f'Could not find data for {author_name}' + Style.RESET_ALL)
