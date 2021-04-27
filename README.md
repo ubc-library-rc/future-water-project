@@ -21,24 +21,26 @@ Start by uploading the `cluster-members.csv` file to resources. The file must co
 ![title](documentation/csv-example.png)
 
 
-Build the two docker images required for this project:
+1. **Build the two docker images required for this project:**
 
-1. Base image:
+Base image:
 
 ```shell
 cd docker/base
 docker build -t libraryrc/future-waters .
 ```
-___
 
-2. Script images:
+
+Script images:
 
 ```shell
 docker build -t libraryrc/future-waters .
 ```
 ___
 
-3. Get your current working directory so that you can run the docker script pointing it to the shared `resources` folder
+2. **Find and update docker volume parameter**
+
+You need to get your current working directory so that you can run the docker script pointing it to the shared `resources` folder
 
 First get the path where you downloaded the project
 
@@ -52,7 +54,7 @@ The output will be something similar to
 /home/msarthur/Workspace/future-water-project
 ```
 
-Update the path in the volume argument in the command on step 4, accordingly.
+Update the path in the volume argument in the command on step 3, accordingly.
 
 For example, for the previous output, the command `-v <your path>:/tmp/src/resources` should be updated to: 
 
@@ -65,7 +67,7 @@ This is **very important** because all the output of the docker scripts will be 
 ___
 
 
-4. Run the docker scripts
+3. **Run the docker scripts**
 
 Note that the scripts make heavy use of `caching` so that a cluster member is not processed more than once. If you ever need to reprocess someone, see [Clearing cache](##Clearing-cache).
 
