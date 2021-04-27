@@ -77,7 +77,7 @@ def main():
 
     total = 0
     for a in has_data:
-        logger.info(f"{str(len(a))}")
+        # logger.info(f"{str(len(a))}")
         total += len(a)
 
     logger.error(Fore.RED + f'total of {total} publications fetched' + Style.RESET_ALL)

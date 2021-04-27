@@ -7,16 +7,14 @@ WORKDIR /tmp/src/
 
 # Setup TOR
 RUN ./setup_tor.sh
-
 EXPOSE 9001 9030 9051
-CMD ["tor", "-f", "/data/torrc"]
+RUN tor -f ./torrc &
+
+# RUN tail -f /var/log/tor/notices.log
 
 HEALTHCHECK --timeout=5s CMD echo quit | curl -sS telnet://localhost:9051
 
-RUN pwd
-
-RUN ls -l resources
+RUN chmod a+x docker.sh
 
 # Run container
-ENTRYPOINT [ "python3" ]
-CMD [ "test/test_pipeline_google.py" ]
+CMD ["./docker.sh"]

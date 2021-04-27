@@ -1,0 +1,166 @@
+[
+    {
+        "DOI": "10.17730/humo.63.3.gtywjfbpb8pgqn9j",
+        "ISSN": [
+            "0018-7259",
+            "1938-3525"
+        ],
+        "URL": "http://dx.doi.org/10.17730/humo.63.3.gtywjfbpb8pgqn9j",
+        "abstract": "<jats:p>This paper describes the informal system of property rights that characterizes the commercially valuable lobster fishery pursued in St. George\u2019s Bay, northeastern Nova Scotia, by the descendents of Scottish Gaels. In this setting, discrete family-defined but individually \u201cowned\u201d lobster fishing berths coexist cheek by jowl with a \u201ccommon ground\u201d fishery. The principles governing the berth system derive, in part, from a land-based system of usufruct rights termed \u201ckindnesses\u201d in 18th century Scotland. The historical, familial, and community attributes of the berth system are outlined, as are the characteristics of the coexistent common ground fishery. Lobster harvesters with berth rights and many without argue that the berth system, in and of itself, is an effective conservation mechanism. This contention is described and discussed in relation to historical evidence respecting local lobster landings and recruitment characteristics. The paper concludes by arguing, first of all, that regulatory authorities should pay far more attention to the role played by informal property rights systems in accomplishing the goals of conservation and good management. While fisheries of this type are typically described in the literature as common property systems, we argue that they are, in fact, mixed property systems\u2014a fact not adequately accounted for by existing regulatory policy or common property theory.</jats:p>",
+        "author": [
+            {
+                "affiliation": [
+                    {
+                        "name": "Okanagan University College, Kelowna and Penticton campuses, British Columbia"
+                    }
+                ],
+                "family": "Wagner",
+                "given": "John",
+                "sequence": "first"
+            },
+            {
+                "affiliation": [
+                    {
+                        "name": "Mount St. Vincent University, Halifax, Nova Scotia"
+                    }
+                ],
+                "family": "Davis",
+                "given": "Anthony",
+                "sequence": "additional"
+            }
+        ],
+        "container-title": [
+            "Human Organization"
+        ],
+        "content-domain": {
+            "crossmark-restriction": false,
+            "domain": []
+        },
+        "created": {
+            "date-parts": [
+                [
+                    2015,
+                    4,
+                    30
+                ]
+            ],
+            "date-time": "2015-04-30T15:39:48Z",
+            "timestamp": 1430408388000
+        },
+        "deposited": {
+            "date-parts": [
+                [
+                    2020,
+                    11,
+                    21
+                ]
+            ],
+            "date-time": "2020-11-21T04:59:02Z",
+            "timestamp": 1605934742000
+        },
+        "indexed": {
+            "date-parts": [
+                [
+                    2020,
+                    11,
+                    21
+                ]
+            ],
+            "date-time": "2020-11-21T18:24:54Z",
+            "timestamp": 1605983094262
+        },
+        "is-referenced-by-count": 10,
+        "issn-type": [
+            {
+                "type": "print",
+                "value": "0018-7259"
+            },
+            {
+                "type": "electronic",
+                "value": "1938-3525"
+            }
+        ],
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    2004,
+                    9,
+                    1
+                ]
+            ]
+        },
+        "journal-issue": {
+            "issue": "3",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2005,
+                        6,
+                        24
+                    ]
+                ]
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2004,
+                        9,
+                        1
+                    ]
+                ]
+            }
+        },
+        "language": "en",
+        "link": [
+            {
+                "URL": "http://meridian.allenpress.com/human-organization/article-pdf/63/3/320/1727653/humo_63_3_gtywjfbpb8pgqn9j.pdf",
+                "content-type": "application/pdf",
+                "content-version": "vor",
+                "intended-application": "syndication"
+            },
+            {
+                "URL": "http://meridian.allenpress.com/human-organization/article-pdf/63/3/320/1727653/humo_63_3_gtywjfbpb8pgqn9j.pdf",
+                "content-type": "unspecified",
+                "content-version": "vor",
+                "intended-application": "similarity-checking"
+            }
+        ],
+        "member": "7216",
+        "page": "320-333",
+        "prefix": "10.17730",
+        "published-online": {
+            "date-parts": [
+                [
+                    2005,
+                    6,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2004,
+                    9,
+                    1
+                ]
+            ]
+        },
+        "publisher": "Society for Applied Anthropology",
+        "reference-count": 27,
+        "references-count": 27,
+        "score": 26.486563,
+        "source": "Crossref",
+        "subject": [
+            "Arts and Humanities (miscellaneous)",
+            "General Social Sciences",
+            "Anthropology"
+        ],
+        "title": [
+            "Property as a Social Relation: Rights of \u201cKindness\u201d and the Social Organization of Lobster Fishing among Northeastern Nova Scotian Scottish Gaels"
+        ],
+        "type": "journal-article",
+        "volume": "63"
+    }
+]
