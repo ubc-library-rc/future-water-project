@@ -9,7 +9,8 @@
             "Water Science and Technology"
         ],
         "P1476": "A multi-season investigation of glacier surface roughness lengths through in situ and remote observation.",
-        "P577": "2019-04-02T05:22:42Z"
+        "P1433": "The Cryosphere",
+        "P577": "2019-04-02"
     },
     {
         "Len": "Analysis of scaling methods in deriving future volume evolutions of valley glaciers",
@@ -20,7 +21,8 @@
             "Glacier"
         ],
         "P1476": "Analysis of scaling methods in deriving future volume evolutions of valley glaciers",
-        "P577": "2008-11-27T02:14:00Z"
+        "P1433": "Journal of Glaciology",
+        "P577": "2008-11-27"
     },
     {
         "Len": "Application of entropy ensemble filter in neural network forecasts of Tropical Pacific Sea Surface temperatures",
@@ -31,7 +33,8 @@
             "General Physics and Astronomy"
         ],
         "P1476": "Application of entropy ensemble filter in neural network forecasts of Tropical Pacific Sea Surface temperatures",
-        "P577": "2018-03-20T10:57:11Z"
+        "P1433": "Entropy",
+        "P577": "2018-03-20"
     },
     {
         "Len": "Estimating winter balance and its uncertainty from direct measurements of snow depth and density on alpine glaciers",
@@ -42,7 +45,8 @@
             "Earth-Surface Processes"
         ],
         "P1476": "Estimating winter balance and its uncertainty from direct measurements of snow depth and density on alpine glaciers",
-        "P577": "2018-09-26T05:45:46Z"
+        "P1433": "Journal of Glaciology",
+        "P577": "2018-09-26"
     },
     {
         "Len": "Evaluation of IPCC Models\u2019 Performance in Simulating Late-Twentieth-Century Climatologies and Weather Patterns over North America",
@@ -53,7 +57,8 @@
             "Atmospheric Science"
         ],
         "P1476": "Evaluation of IPCC Models\u2019 Performance in Simulating Late-Twentieth-Century Climatologies and Weather Patterns over North America",
-        "P577": "2011-05-24T15:06:20Z"
+        "P1433": "Journal of Climate",
+        "P577": "2011-05-24"
     },
     {
         "Len": "Evaluation of different methods to model near-surface turbulent fluxes for a mountain glacier in the Cariboo Mountains, BC, Canada",
@@ -65,7 +70,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Evaluation of different methods to model near-surface turbulent fluxes for a mountain glacier in the Cariboo Mountains, BC, Canada",
-        "P577": "2017-12-12T18:41:09Z"
+        "P1433": "The Cryosphere",
+        "P577": "2017-12-12"
     },
     {
         "Len": "Future changes in autumn atmospheric river events in British Columbia, Canada, as projected by CMIP5 global climate models",
@@ -76,7 +82,8 @@
             "British columbia"
         ],
         "P1476": "Future changes in autumn atmospheric river events in British Columbia, Canada, as projected by CMIP5 global climate models",
-        "P577": "2015-08-15T22:19:08Z"
+        "P1433": "Journal of Geophysical Research: Atmospheres",
+        "P577": "2015-08-15"
     },
     {
         "Len": "Future sea-level rise from tidewater and ice-shelf tributary glaciers of the Antarctic Peninsula",
@@ -90,7 +97,8 @@
             "Geophysics"
         ],
         "P1476": "Future sea-level rise from tidewater and ice-shelf tributary glaciers of the Antarctic Peninsula",
-        "P577": "2016-08-25T19:12:20Z"
+        "P1433": "Earth and Planetary Science Letters",
+        "P577": "2016-08-25"
     },
     {
         "Len": "Glacier Retreat and Pacific Salmon",
@@ -101,7 +109,8 @@
             "General Agricultural and Biological Sciences"
         ],
         "P1476": "Glacier Retreat and Pacific Salmon",
-        "P577": "2020-01-29T12:14:50Z"
+        "P1433": "BioScience",
+        "P577": "2020-01-29"
     },
     {
         "Len": "GlacierMIP\u2013A model intercomparison of global-scale glacier mass-balance models and projections",
@@ -112,7 +121,8 @@
             "Earth-Surface Processes"
         ],
         "P1476": "GlacierMIP\u2013A model intercomparison of global-scale glacier mass-balance models and projections",
-        "P577": "2019-05-16T07:46:21Z"
+        "P1433": "Journal of Glaciology",
+        "P577": "2019-05-16"
     },
     {
         "Len": "Glaciers in the Earth\u2019s hydrological cycle: assessments of glacier mass and runoff changes on global and regional scales",
@@ -123,7 +133,8 @@
             "Glacier"
         ],
         "P1476": "Glaciers in the Earth\u2019s hydrological cycle: assessments of glacier mass and runoff changes on global and regional scales",
-        "P577": "2014-05-02T05:18:38Z"
+        "P1433": "The Earth's Hydrological Cycle",
+        "P577": "2014-05-02"
     },
     {
         "Len": "Global glacier changes: a revised assessment of committed mass losses and sampling uncertainties",
@@ -135,7 +146,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Global glacier changes: a revised assessment of committed mass losses and sampling uncertainties",
-        "P577": "2013-10-02T06:23:22Z"
+        "P1433": "The Cryosphere",
+        "P577": "2013-10-02"
     },
     {
         "Len": "Global glacier retreat: a revised assessment of committed mass losses and sampling uncertainties",
@@ -146,7 +158,8 @@
             "Glacier"
         ],
         "P1476": "Global glacier retreat: a revised assessment of committed mass losses and sampling uncertainties",
-        "P577": "2013-05-07T11:28:00Z"
+        "P1433": "Copernicus GmbH",
+        "P577": "2013-05-07"
     },
     {
         "Len": "Global response of glacier runoff to twenty-first century climate change",
@@ -154,11 +167,12 @@
         "P50": "Valentina Radi\u0107",
         "P356": "10.1002/2013jf002931",
         "P921": [
-            "Glacier",
-            "Climate change"
+            "Climate change",
+            "Glacier"
         ],
         "P1476": "Global response of glacier runoff to twenty-first century climate change",
-        "P577": "2014-02-12T12:35:04Z"
+        "P1433": "Journal of Geophysical Research: Earth Surface",
+        "P577": "2014-02-12"
     },
     {
         "Len": "How sensitive are mountain glaciers to climate change? Insights from a block model",
@@ -169,7 +183,8 @@
             "Earth-Surface Processes"
         ],
         "P1476": "How sensitive are mountain glaciers to climate change? Insights from a block model",
-        "P577": "2018-03-08T13:40:34Z"
+        "P1433": "Journal of Glaciology",
+        "P577": "2018-03-08"
     },
     {
         "Len": "Ice Volume and Subglacial Topography for Western Canadian Glaciers from Mass Balance Fields, Thinning Rates, and a Bed Stress Model",
@@ -180,7 +195,8 @@
             "Atmospheric Science"
         ],
         "P1476": "Ice Volume and Subglacial Topography for Western Canadian Glaciers from Mass Balance Fields, Thinning Rates, and a Bed Stress Model",
-        "P577": "2012-12-22T01:49:24Z"
+        "P1433": "Journal of Climate",
+        "P577": "2012-12-22"
     },
     {
         "Len": "Impact of global warming on the rise of volcanic plumes and implications for future volcanic aerosol forcing",
@@ -189,7 +205,8 @@
         "P356": "10.1002/2016jd025405",
         "P921": null,
         "P1476": "Impact of global warming on the rise of volcanic plumes and implications for future volcanic aerosol forcing",
-        "P577": "2016-11-16T20:50:23Z"
+        "P1433": "Journal of Geophysical Research: Atmospheres",
+        "P577": "2016-11-16"
     },
     {
         "Len": "Insights from self-organizing maps for predicting accessibility demand for healthcare infrastructure",
@@ -201,7 +218,8 @@
             "Machine learning"
         ],
         "P1476": "Insights from self-organizing maps for predicting accessibility demand for healthcare infrastructure",
-        "P577": "2018-10-28T00:22:33Z"
+        "P1433": "Center for Open Science",
+        "P577": "2018-10-28"
     },
     {
         "Len": "Modeling future glacier mass balance and volume changes using ERA\u201040 reanalysis and climate models: A sensitivity study at Storglaci\u00e4ren, Sweden",
@@ -224,7 +242,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Modeling future glacier mass balance and volume changes using ERA\u201040 reanalysis and climate models: A sensitivity study at Storglaci\u00e4ren, Sweden",
-        "P577": "2006-07-12T22:25:56Z"
+        "P1433": "Journal of Geophysical Research: Earth Surface",
+        "P577": "2006-07-12"
     },
     {
         "Len": "Modeling ice dynamic contributions to sea level rise from the Antarctic Peninsula",
@@ -232,11 +251,12 @@
         "P50": "Valentina Radi\u0107",
         "P356": "10.1002/2015jf003667",
         "P921": [
-            "Modeling",
-            "Sea level rise"
+            "Sea level rise",
+            "Modeling"
         ],
         "P1476": "Modeling ice dynamic contributions to sea level rise from the Antarctic Peninsula",
-        "P577": "2015-11-06T12:46:17Z"
+        "P1433": "Journal of Geophysical Research: Earth Surface",
+        "P577": "2015-11-06"
     },
     {
         "Len": "Mountain glaciers and ice caps around Antarctica make a large sea\u2010level rise contribution",
@@ -248,7 +268,8 @@
             "Geophysics"
         ],
         "P1476": "Mountain glaciers and ice caps around Antarctica make a large sea\u2010level rise contribution",
-        "P577": "2009-04-01T20:01:36Z"
+        "P1433": "Geophysical Research Letters",
+        "P577": "2009-04-01"
     },
     {
         "Len": "Partitioning the Uncertainty of Ensemble Projections of Global Glacier Mass Change",
@@ -260,7 +281,8 @@
             "Uncertainty"
         ],
         "P1476": "Partitioning the Uncertainty of Ensemble Projections of Global Glacier Mass Change",
-        "P577": "2020-04-25T05:45:26Z"
+        "P1433": "Earth's Future",
+        "P577": "2020-04-25"
     },
     {
         "Len": "Pool\u2010Riffle Adjustment Due to Changes in Flow and Sediment Supply",
@@ -271,7 +293,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Pool\u2010Riffle Adjustment Due to Changes in Flow and Sediment Supply",
-        "P577": "2021-01-16T21:14:50Z"
+        "P1433": "Water Resources Research",
+        "P577": "2021-01-16"
     },
     {
         "Len": "Pool\u2010riffle sedimentation and surface texture trends in a gravel bed stream",
@@ -280,7 +303,8 @@
         "P356": "10.1002/2015wr017840",
         "P921": null,
         "P1476": "Pool\u2010riffle sedimentation and surface texture trends in a gravel bed stream",
-        "P577": "2015-10-12T22:16:57Z"
+        "P1433": "Water Resources Research",
+        "P577": "2015-10-12"
     },
     {
         "Len": "Principal component analysis vs. self-organizing maps combined with hierarchical clustering for pattern recognition in volcano seismic spectra",
@@ -292,7 +316,8 @@
             "Geophysics"
         ],
         "P1476": "Principal component analysis vs. self-organizing maps combined with hierarchical clustering for pattern recognition in volcano seismic spectra",
-        "P577": "2016-04-28T18:48:16Z"
+        "P1433": "Journal of Volcanology and Geothermal Research",
+        "P577": "2016-04-28"
     },
     {
         "Len": "Projected deglaciation of western Canada in the twenty-first century",
@@ -301,7 +326,8 @@
         "P356": "10.1038/ngeo2407",
         "P921": null,
         "P1476": "Projected deglaciation of western Canada in the twenty-first century",
-        "P577": "2015-04-07T12:57:32Z"
+        "P1433": "Nature Geoscience",
+        "P577": "2015-04-07"
     },
     {
         "Len": "Regional and global projections of twenty-first century glacier mass changes in response to climate scenarios from global climate models",
@@ -312,7 +338,8 @@
             "Atmospheric Science"
         ],
         "P1476": "Regional and global projections of twenty-first century glacier mass changes in response to climate scenarios from global climate models",
-        "P577": "2013-04-01T06:13:22Z"
+        "P1433": "Climate Dynamics",
+        "P577": "2013-04-01"
     },
     {
         "Len": "Regional and global volumes of glaciers derived from statistical upscaling of glacier inventory data",
@@ -323,7 +350,8 @@
             "Glacier"
         ],
         "P1476": "Regional and global volumes of glaciers derived from statistical upscaling of glacier inventory data",
-        "P577": "2010-03-10T21:00:46Z"
+        "P1433": "Journal of Geophysical Research",
+        "P577": "2010-03-10"
     },
     {
         "Len": "Regionally differentiated contribution of mountain glaciers and ice caps to future sea-level rise, Nat. Geosci., 4, 91\u201394",
@@ -334,7 +362,8 @@
             "Glacier"
         ],
         "P1476": "Regionally differentiated contribution of mountain glaciers and ice caps to future sea-level rise, Nat. Geosci., 4, 91\u201394",
-        "P577": "2011-01-10T09:46:46Z"
+        "P1433": "Nature Geoscience",
+        "P577": "2011-01-10"
     },
     {
         "Len": "Significant total mass contained in small glaciers",
@@ -345,7 +374,8 @@
             "Glacier"
         ],
         "P1476": "Significant total mass contained in small glaciers",
-        "P577": "2012-02-17T14:48:54Z"
+        "P1433": "Copernicus GmbH",
+        "P577": "2012-02-17"
     },
     {
         "Len": "Spatial heterogeneity in glacier mass-balance sensitivity across High Mountain Asia",
@@ -359,7 +389,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Spatial heterogeneity in glacier mass-balance sensitivity across High Mountain Asia",
-        "P577": "2019-04-15T15:15:58Z"
+        "P1433": "Water",
+        "P577": "2019-04-15"
     },
     {
         "Len": "Surface energy balance closure and turbulent flux parameterization on a mid-latitude mountain glacier, purcell mountains, Canada",
@@ -370,7 +401,8 @@
             "Glacier"
         ],
         "P1476": "Surface energy balance closure and turbulent flux parameterization on a mid-latitude mountain glacier, purcell mountains, Canada",
-        "P577": "2017-09-01T08:12:08Z"
+        "P1433": "Frontiers in Earth Science",
+        "P577": "2017-09-01"
     },
     {
         "Len": "The Randolph Glacier Inventory: a globally complete inventory of glaciers",
@@ -381,7 +413,8 @@
             "Earth-Surface Processes"
         ],
         "P1476": "The Randolph Glacier Inventory: a globally complete inventory of glaciers",
-        "P577": "2014-05-06T11:13:27Z"
+        "P1433": "Journal of Glaciology",
+        "P577": "2014-05-06"
     },
     {
         "Len": "The multimillennial sea-level commitment of global warming",
@@ -392,7 +425,8 @@
             "Multidisciplinary"
         ],
         "P1476": "The multimillennial sea-level commitment of global warming",
-        "P577": "2013-07-16T01:07:37Z"
+        "P1433": "Proceedings of the National Academy of Sciences",
+        "P577": "2013-07-16"
     },
     {
         "Len": "The projected demise of Barnes Ice Cap: evidence of an unusually warm 21st century Arctic",
@@ -401,6 +435,7 @@
         "P356": "10.1002/2016gl072394",
         "P921": null,
         "P1476": "The projected demise of Barnes Ice Cap: evidence of an unusually warm 21st century Arctic",
-        "P577": "2017-03-20T14:02:54Z"
+        "P1433": "Geophysical Research Letters",
+        "P577": "2017-03-20"
     }
 ]

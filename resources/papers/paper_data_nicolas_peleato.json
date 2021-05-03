@@ -11,7 +11,8 @@
             "Pollution"
         ],
         "P1476": "Application and refinement of fluorescence spectroscopy for organic matter characterization in drinking water",
-        "P577": "2011-08-11T05:21:33Z"
+        "P1433": "Reviews in Environmental Science and Bio/Technology",
+        "P577": "2011-08-11"
     },
     {
         "Len": "Applications of Principal Component Analysis of Fluorescence Excitation-emission Matrices for Characterization of Natural Organic Matter in Water Treatment",
@@ -25,7 +26,8 @@
             "Biochemistry"
         ],
         "P1476": "Applications of Principal Component Analysis of Fluorescence Excitation-emission Matrices for Characterization of Natural Organic Matter in Water Treatment",
-        "P577": "2011-05-20T16:48:29Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2011-05-20"
     },
     {
         "Len": "Characterization of UF foulants and fouling mechanisms when applying low in-line coagulant pre-treatment",
@@ -39,7 +41,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Characterization of UF foulants and fouling mechanisms when applying low in-line coagulant pre-treatment",
-        "P577": "2017-08-30T14:45:32Z"
+        "P1433": "Water Research",
+        "P577": "2017-08-30"
     },
     {
         "Len": "Comparison of Dimensionality Reduction Techniques for Cross-Source Transfer of Fluorescence Contaminant Detection Models",
@@ -52,7 +55,8 @@
             "General Medicine"
         ],
         "P1476": "Comparison of Dimensionality Reduction Techniques for Cross-Source Transfer of Fluorescence Contaminant Detection Models",
-        "P577": "2021-02-22T22:35:23Z"
+        "P1433": "Chemosphere",
+        "P577": "2021-02-22"
     },
     {
         "Len": "Comparison of three-dimensional fluorescence analysis methods for predicting formation of trihalomethanes and haloacetic acids",
@@ -61,7 +65,8 @@
         "P356": "10.1016/j.jes.2014.04.014",
         "P921": null,
         "P1476": "Comparison of three-dimensional fluorescence analysis methods for predicting formation of trihalomethanes and haloacetic acids",
-        "P577": "2014-11-16T21:09:54Z"
+        "P1433": "Journal of Environmental Sciences",
+        "P577": "2014-11-16"
     },
     {
         "Len": "Continuous organic characterization for biological and membrane filter performance monitoring",
@@ -70,7 +75,8 @@
         "P356": "10.5942/jawwa.2017.109.0031",
         "P921": null,
         "P1476": "Continuous organic characterization for biological and membrane filter performance monitoring",
-        "P577": "2017-03-21T22:53:21Z"
+        "P1433": "Journal - American Water Works Association",
+        "P577": "2017-03-21"
     },
     {
         "Len": "Contributions of spatial, temporal, and treatment impacts on natural organic matter character using fluorescence-based measures",
@@ -81,7 +87,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Contributions of spatial, temporal, and treatment impacts on natural organic matter character using fluorescence-based measures",
-        "P577": "2015-06-18T11:07:57Z"
+        "P1433": "Water Supply",
+        "P577": "2015-06-18"
     },
     {
         "Len": "Fluorescence excitation emission matrices for rapid detection of polycyclic aromatic hydrocarbons and pesticides in surface waters",
@@ -92,7 +99,8 @@
             "Water quality assessment"
         ],
         "P1476": "Fluorescence excitation emission matrices for rapid detection of polycyclic aromatic hydrocarbons and pesticides in surface waters",
-        "P577": "2018-12-18T18:04:12Z"
+        "P1433": "Environmental Science: Water Research & Technology",
+        "P577": "2018-12-18"
     },
     {
         "Len": "Fluorescence spectroscopy for monitoring reduction of natural organic matter and halogenated furanone precursors by biofiltration",
@@ -101,7 +109,8 @@
         "P356": "10.1016/j.chemosphere.2016.03.018",
         "P921": null,
         "P1476": "Fluorescence spectroscopy for monitoring reduction of natural organic matter and halogenated furanone precursors by biofiltration",
-        "P577": "2016-03-24T18:46:04Z"
+        "P1433": "Chemosphere",
+        "P577": "2016-03-24"
     },
     {
         "Len": "Identifying the best coagulant for simultaneous water treatment objectives: Interactions of mononuclear and polynuclear aluminum species with different natural organic matter \u2026",
@@ -112,7 +121,8 @@
             "Water treatment"
         ],
         "P1476": "Identifying the best coagulant for simultaneous water treatment objectives: Interactions of mononuclear and polynuclear aluminum species with different natural organic matter \u2026",
-        "P577": "2020-12-09T08:08:43Z"
+        "P1433": "Journal of Water Process Engineering",
+        "P577": "2020-12-09"
     },
     {
         "Len": "Impact of low coagulant dosages on protein fouling of ultrafiltration membranes",
@@ -123,7 +133,8 @@
             "Membranes"
         ],
         "P1476": "Impact of low coagulant dosages on protein fouling of ultrafiltration membranes",
-        "P577": "2019-04-08T16:09:49Z"
+        "P1433": "Journal of Water Process Engineering",
+        "P577": "2019-04-08"
     },
     {
         "Len": "Impact of operational parameters on biofiltration performance: organic carbon removal and effluent turbidity",
@@ -134,7 +145,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Impact of operational parameters on biofiltration performance: organic carbon removal and effluent turbidity",
-        "P577": "2016-06-03T02:13:35Z"
+        "P1433": "Water Supply",
+        "P577": "2016-06-03"
     },
     {
         "Len": "Integration of weather conditions for predicting microbial water quality using Bayesian belief networks",
@@ -148,7 +160,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Integration of weather conditions for predicting microbial water quality using Bayesian belief networks",
-        "P577": "2019-11-28T10:31:51Z"
+        "P1433": "Water Research",
+        "P577": "2019-11-28"
     },
     {
         "Len": "Investigation of fluorescence methods for rapid detection of municipal wastewater impact on drinking water sources",
@@ -159,7 +172,8 @@
             "Drinking water"
         ],
         "P1476": "Investigation of fluorescence methods for rapid detection of municipal wastewater impact on drinking water sources",
-        "P577": "2016-07-18T22:48:45Z"
+        "P1433": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+        "P577": "2016-07-18"
     },
     {
         "Len": "Investigation of ozone and peroxone impacts on natural organic matter character and biofiltration performance using fluorescence spectroscopy",
@@ -170,7 +184,8 @@
             "Ozone"
         ],
         "P1476": "Investigation of ozone and peroxone impacts on natural organic matter character and biofiltration performance using fluorescence spectroscopy",
-        "P577": "2016-12-27T11:18:09Z"
+        "P1433": "Chemosphere",
+        "P577": "2016-12-27"
     },
     {
         "Len": "Neural networks for dimensionality reduction of fluorescence spectra and prediction of drinking water disinfection by-products",
@@ -184,7 +199,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Neural networks for dimensionality reduction of fluorescence spectra and prediction of drinking water disinfection by-products",
-        "P577": "2018-02-21T07:40:26Z"
+        "P1433": "Water Research",
+        "P577": "2018-02-21"
     },
     {
         "Len": "Statistical significance testing of parallel pilot-scale coagulation optimization study to compare aluminum sulfate and polyaluminum chloride performance",
@@ -193,7 +209,8 @@
         "P356": "10.2166/aqua.2014.158",
         "P921": null,
         "P1476": "Statistical significance testing of parallel pilot-scale coagulation optimization study to compare aluminum sulfate and polyaluminum chloride performance",
-        "P577": "2014-11-06T10:22:47Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2014-11-06"
     },
     {
         "Len": "Towards real-time detection of wastewater in surface waters using fluorescence spectroscopy",
@@ -207,6 +224,7 @@
             "General Medicine"
         ],
         "P1476": "Towards real-time detection of wastewater in surface waters using fluorescence spectroscopy",
-        "P577": "2019-06-12T22:37:36Z"
+        "P1433": "Journal of Environmental Sciences",
+        "P577": "2019-06-12"
     }
 ]

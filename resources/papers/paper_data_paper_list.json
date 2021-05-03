@@ -1480,6 +1480,14 @@
         "P577": "2019-08-03T21:11:07Z"
     },
     {
+        "Len": "Can snow persistence explain the spatial-temporal variabilities in streamflow hydrograph flashiness across snow-dominated regions?",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/egusphere-egu21-14084",
+        "P1476": "Can snow persistence explain the spatial-temporal variabilities in streamflow hydrograph flashiness across snow-dominated regions?",
+        "P577": "2021-03-04T09:36:32Z"
+    },
+    {
         "Len": "Canadian Drinking Water Policy: Jurisdictional Variation in the Context of Decentralized Water Governance",
         "P31": "Q13442814",
         "P50": "Leila\u00a0M. Harris",
@@ -6896,6 +6904,14 @@
         "P577": "2018-02-21T07:40:26Z"
     },
     {
+        "Len": "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un) gauged basins",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/egusphere-egu21-13070",
+        "P1476": "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un) gauged basins",
+        "P577": "2021-03-04T08:33:21Z"
+    },
+    {
         "Len": "New insights from the biogas microbiome by comprehensive genome-resolved metagenomics of nearly 1600 species originating from multiple anaerobic digesters",
         "P31": "Q13442814",
         "P50": "Q88314953",
@@ -8936,30 +8952,6 @@
         "P577": "2018-12-10T18:53:28Z"
     },
     {
-        "Len": "Scientific shortcomings in environmental impact statements internationally",
-        "P31": "Q13442814",
-        "P50": "Alice Guimaraes",
-        "P356": "10.7287/peerj.preprints.27409v1",
-        "P1476": "Scientific shortcomings in environmental impact statements internationally",
-        "P577": "2018-12-05T15:03:13Z"
-    },
-    {
-        "Len": "Scientific shortcomings in environmental impact statements internationally",
-        "P31": "Q13442814",
-        "P50": "Alice Guimaraes",
-        "P356": "10.7287/peerj.preprints.27409",
-        "P1476": "Scientific shortcomings in environmental impact statements internationally",
-        "P577": "2018-12-05T15:03:21Z"
-    },
-    {
-        "Len": "Scientific shortcomings in environmental impact statements internationally",
-        "P31": "Q13442814",
-        "P50": "Alice Guimaraes",
-        "P356": "10.1002/pan3.10081",
-        "P1476": "Scientific shortcomings in environmental impact statements internationally",
-        "P577": "2020-03-23T05:01:13Z"
-    },
-    {
         "Len": "Scour, fill, and burial depth of coarse material in gravel bed streams",
         "P31": "Q13442814",
         "P50": "Marwan Hassan",
@@ -10118,6 +10110,14 @@
         "P356": "10.1016/j.biortech.2012.05.069",
         "P1476": "The importance of fluid dynamics for MBR fouling mitigation",
         "P577": "2012-05-23T18:05:53Z"
+    },
+    {
+        "Len": "The importance of geology when estimating catchment-scale streamflow characteristics: Application of a new technique for hydrologic similarity and regionalization",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/egusphere-egu21-13979",
+        "P1476": "The importance of geology when estimating catchment-scale streamflow characteristics: Application of a new technique for hydrologic similarity and regionalization",
+        "P577": "2021-03-04T09:36:32Z"
     },
     {
         "Len": "The influence of artificial light on stream and riparian ecosystems: questions, challenges, and perspectives",

@@ -27,6 +27,7 @@ logger.addHandler(stream_handler)
 
 
 def load_crossref_data(author_file, resources_folder, crossref_folder="crossref"):
+    logger.info("\tFetching publications on " + Fore.YELLOW + 'Crossref' + Style.RESET_ALL)
     input_path = os.path.join(resources_folder, crossref_folder, author_file)
     if not os.path.isfile(input_path):
         return []
@@ -39,6 +40,7 @@ def load_crossref_data(author_file, resources_folder, crossref_folder="crossref"
 
 
 def load_google_data(author_file, resources_folder, scholarly_folder="scholarly"):
+    logger.info("\tFetching publications on " + Fore.YELLOW + 'Google Scholarly' + Style.RESET_ALL)
     input_path = os.path.join(resources_folder, scholarly_folder, author_file)
     if not os.path.isfile(input_path):
         return []
@@ -93,7 +95,7 @@ def get_wikidata_detailed_publications(wikidata_lst):
 
 
 def publications_info(author_name, test=False):
-    logger.info('Processing' + Fore.YELLOW + f' {author_name}' + Style.RESET_ALL)
+    logger.info('\nProcessing' + Fore.YELLOW + f' {author_name}' + Style.RESET_ALL)
 
     resources_folder = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
@@ -103,12 +105,11 @@ def publications_info(author_name, test=False):
     output_folder = os.path.join(resources_folder, "wikidata")
     cached = os.path.join(output_folder, author_file)
 
-    publication_lst = merge_sources(
-        load_google_data(author_file, resources_folder),
-        load_crossref_data(author_file, resources_folder)
-    )
-
     if not os.path.isfile(cached):
+        publication_lst = merge_sources(
+            load_google_data(author_file, resources_folder),
+            load_crossref_data(author_file, resources_folder)
+        )
         logger.info("\tFetching publications on " + Fore.YELLOW + 'Wikidata' + Style.RESET_ALL)
 
         in_wikidata, not_in_wikidata = [], []
@@ -132,8 +133,9 @@ def publications_info(author_name, test=False):
         if not test:
             with open(cached, 'w') as fo:
                 json.dump(final_data, fo, indent=4, sort_keys=True)
+        logger.info(Fore.YELLOW + '> done' + Style.RESET_ALL)
     else:
-        logger.info(Fore.YELLOW + '\talready on cache' + Style.RESET_ALL)
+        logger.info(Fore.YELLOW + '> already on cache' + Style.RESET_ALL)
 
 
 def main(throttling_delay=3):
@@ -163,6 +165,6 @@ def main(throttling_delay=3):
 if __name__ == '__main__':
     logger.info("Fetching resources from Wikidata")
     main()
-    logger.info(">> Output at " + Fore.RED + "./resources/wikidata" + Style.RESET_ALL)
+    logger.info("\n>> Output at " + Fore.RED + "./resources/wikidata" + Style.RESET_ALL)
     logger.info('-' * 10)
     logger.info('-' * 10)

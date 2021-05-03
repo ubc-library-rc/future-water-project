@@ -1,0 +1,255 @@
+[
+    {
+        "Len": "A comprehensive, multisource database for hydrometeorological modeling of 14,425 North American watersheds",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1038/s41597-020-00583-2",
+        "P921": [
+            "Statistics, Probability and Uncertainty",
+            "Statistics and Probability",
+            "Education",
+            "Library and Information Sciences",
+            "Information Systems",
+            "Computer Science Applications"
+        ],
+        "P1476": "A comprehensive, multisource database for hydrometeorological modeling of 14,425 North American watersheds",
+        "P1433": "Scientific Data",
+        "P577": "2020-07-20"
+    },
+    {
+        "Len": "Are all runoff processes the same? Numerical experiments comparing a D arcy\u2010R ichards solver to an overland flow\u2010based approach for subsurface storm runoff simulation",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1002/2015wr017199",
+        "P921": null,
+        "P1476": "Are all runoff processes the same? Numerical experiments comparing a D arcy\u2010R ichards solver to an overland flow\u2010based approach for subsurface storm runoff simulation",
+        "P1433": "Water Resources Research",
+        "P577": "2015-11-18"
+    },
+    {
+        "Len": "Can snow persistence explain the spatial-temporal variabilities in streamflow hydrograph flashiness across snow-dominated regions?",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/egusphere-egu21-14084",
+        "P921": [
+            "Streamflow",
+            "Watershed"
+        ],
+        "P1476": "Can snow persistence explain the spatial-temporal variabilities in streamflow hydrograph flashiness across snow-dominated regions?",
+        "P1433": "Copernicus GmbH",
+        "P577": "2021-03-04"
+    },
+    {
+        "Len": "Catchment export of base cations: improved mineral dissolution kinetics influence the role of water transit time",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/soil-6-231-2020",
+        "P921": [
+            "Soil",
+            "Modeling"
+        ],
+        "P1476": "Catchment export of base cations: improved mineral dissolution kinetics influence the role of water transit time",
+        "P1433": "SOIL",
+        "P577": "2020-06-03"
+    },
+    {
+        "Len": "Controls on subsurface transport of sorbing contaminant",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.2166/nh.2016.170",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Controls on subsurface transport of sorbing contaminant",
+        "P1433": "Hydrology Research",
+        "P577": "2016-09-18"
+    },
+    {
+        "Len": "Estimating rates of wetland loss using power-law functions",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1007/s13157-017-0960-y",
+        "P921": [
+            "Wetland"
+        ],
+        "P1476": "Estimating rates of wetland loss using power-law functions",
+        "P1433": "Wetlands",
+        "P577": "2017-10-23"
+    },
+    {
+        "Len": "Groundwater subsidy from headwaters to their parent water watershed: A combined field\u2010modeling approach",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1029/2017wr022356",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Groundwater subsidy from headwaters to their parent water watershed: A combined field\u2010modeling approach",
+        "P1433": "Water Resources Research",
+        "P577": "2018-07-02"
+    },
+    {
+        "Len": "Hillslope permeability architecture controls on subsurface transit time distribution and flow paths",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1016/j.jhydrol.2016.04.071",
+        "P921": null,
+        "P1476": "Hillslope permeability architecture controls on subsurface transit time distribution and flow paths",
+        "P1433": "Journal of Hydrology",
+        "P577": "2016-05-08"
+    },
+    {
+        "Len": "Hydrologic connectivity of geographically isolated wetlands to surface water systems",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1016/j.envsoft.2013.12.004",
+        "P921": [
+            "Ecological Modelling",
+            "Environmental Engineering",
+            "Software"
+        ],
+        "P1476": "Hydrologic connectivity of geographically isolated wetlands to surface water systems",
+        "P1433": "Environmental Modelling & Software",
+        "P577": "2014-01-03"
+    },
+    {
+        "Len": "Modeling connectivity of non\u2010floodplain wetlands: Insights, approaches, and recommendations",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1111/1752-1688.12735",
+        "P921": [
+            "Earth-Surface Processes",
+            "Ecology",
+            "Water Science and Technology"
+        ],
+        "P1476": "Modeling connectivity of non\u2010floodplain wetlands: Insights, approaches, and recommendations",
+        "P1433": "JAWRA Journal of the American Water Resources Association",
+        "P577": "2019-03-06"
+    },
+    {
+        "Len": "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un) gauged basins",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/egusphere-egu21-13070",
+        "P921": [
+            "Streamflow",
+            "Groundwater",
+            "Soil"
+        ],
+        "P1476": "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un) gauged basins",
+        "P1433": "Copernicus GmbH",
+        "P577": "2021-03-04"
+    },
+    {
+        "Len": "Performance assessment of low-order versus high-order numerical schemes in the numerical simulation of aquifer",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.2166/nh.2016.148",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Performance assessment of low-order versus high-order numerical schemes in the numerical simulation of aquifer",
+        "P1433": "Hydrology Research",
+        "P577": "2016-01-07"
+    },
+    {
+        "Len": "Primary weathering rates, water transit times, and concentration\u2010discharge relations: A theoretical analysis for the critical zone",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1002/2016wr019448",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Primary weathering rates, water transit times, and concentration\u2010discharge relations: A theoretical analysis for the critical zone",
+        "P1433": "Water Resources Research",
+        "P577": "2016-12-28"
+    },
+    {
+        "Len": "Quantifying hydrologic connectivity of wetlands to surface water systems",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/hess-21-1791-2017",
+        "P921": [
+            "Rivers",
+            "Wetland",
+            "Watershed",
+            "Modeling"
+        ],
+        "P1476": "Quantifying hydrologic connectivity of wetlands to surface water systems",
+        "P1433": "Hydrology and Earth System Sciences",
+        "P577": "2017-03-28"
+    },
+    {
+        "Len": "Semi-analytical 3D solution for assessing radial collector well pumping impacts on groundwater\u2013surface water interaction",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.2166/nh.2017.201",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Semi-analytical 3D solution for assessing radial collector well pumping impacts on groundwater\u2013surface water interaction",
+        "P1433": "Hydrology Research",
+        "P577": "2017-04-06"
+    },
+    {
+        "Len": "Semianalytical series solutions for three\u2010dimensional groundwater\u2010surface water interaction",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1002/2014wr015394",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Semianalytical series solutions for three\u2010dimensional groundwater\u2010surface water interaction",
+        "P1433": "Water Resources Research",
+        "P577": "2014-04-30"
+    },
+    {
+        "Len": "Series solutions for saturated\u2013unsaturated flow in multi-layer unconfined aquifers",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1016/j.advwatres.2013.07.004",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "Series solutions for saturated\u2013unsaturated flow in multi-layer unconfined aquifers",
+        "P1433": "Advances in Water Resources",
+        "P577": "2013-07-18"
+    },
+    {
+        "Len": "The Maimai M8 experimental catchment database: Forty years of process\u2010based research on steep, wet hillslopes",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1002/hyp.14112",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "The Maimai M8 experimental catchment database: Forty years of process\u2010based research on steep, wet hillslopes",
+        "P1433": "Hydrological Processes",
+        "P577": "2021-02-27"
+    },
+    {
+        "Len": "The exponential decline in saturated hydraulic conductivity with depth: a novel method for exploring its effect on water flow paths and transit time distribution",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.1002/hyp.10777",
+        "P921": [
+            "Water Science and Technology"
+        ],
+        "P1476": "The exponential decline in saturated hydraulic conductivity with depth: a novel method for exploring its effect on water flow paths and transit time distribution",
+        "P1433": "Hydrological Processes",
+        "P577": "2015-12-22"
+    },
+    {
+        "Len": "The importance of geology when estimating catchment-scale streamflow characteristics: Application of a new technique for hydrologic similarity and regionalization",
+        "P31": "Q13442814",
+        "P50": "Q57582079",
+        "P356": "10.5194/egusphere-egu21-13979",
+        "P921": [
+            "Climate change",
+            "Streamflow"
+        ],
+        "P1476": "The importance of geology when estimating catchment-scale streamflow characteristics: Application of a new technique for hydrologic similarity and regionalization",
+        "P1433": "Copernicus GmbH",
+        "P577": "2021-03-04"
+    }
+]

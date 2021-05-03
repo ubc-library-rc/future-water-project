@@ -89,8 +89,8 @@ def main():
 
 
 if __name__ == '__main__':
-    logger.info("Writing wikidata for every" + Fore.RED + " author " + Style.RESET_ALL + " in the cluster")
+    logger.info("\n\nWriting wikidata for every" + Fore.YELLOW + " author " + Style.RESET_ALL + " in the cluster")
     main()
-    logger.info(">> Output at " + Fore.RED + "./resources/imports" + Style.RESET_ALL)
+    logger.info(">> Output at " + Fore.RED + "./resources/imports/open_refine_authors.csv" + Style.RESET_ALL)
     logger.info('-' * 10)
     logger.info('-' * 10)

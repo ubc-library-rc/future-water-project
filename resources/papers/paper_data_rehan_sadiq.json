@@ -11,7 +11,8 @@
             "Biochemistry"
         ],
         "P1476": "3D printing-based integrated water quality sensing system",
-        "P577": "2017-06-08T14:26:09Z"
+        "P1433": "Sensors",
+        "P577": "2017-06-08"
     },
     {
         "Len": "A Bayesian belief approach to quality control of resin transfer molding process",
@@ -26,7 +27,8 @@
             "Computer Science Applications"
         ],
         "P1476": "A Bayesian belief approach to quality control of resin transfer molding process",
-        "P577": "2020-07-23T02:02:25Z"
+        "P1433": "The International Journal of Advanced Manufacturing Technology",
+        "P577": "2020-07-23"
     },
     {
         "Len": "A Comparison of Various Uncertainty Propagation Methods: An Example of Subsurface Contaminant Transport",
@@ -37,7 +39,8 @@
             "Uncertainty"
         ],
         "P1476": "A Comparison of Various Uncertainty Propagation Methods: An Example of Subsurface Contaminant Transport",
-        "P577": "2012-01-05T20:10:27Z"
+        "P1433": "Water Distribution Systems Analysis 2010",
+        "P577": "2012-01-05"
     },
     {
         "Len": "A New Method for Solving Single- and Multi-Objective Capacitated Solid Minimum Cost Flow Problems under Uncertainty",
@@ -50,7 +53,8 @@
             "Information Systems"
         ],
         "P1476": "A New Method for Solving Single- and Multi-Objective Capacitated Solid Minimum Cost Flow Problems under Uncertainty",
-        "P577": "2015-12-14T17:01:46Z"
+        "P1433": "Journal of Intelligent Systems",
+        "P577": "2015-12-14"
     },
     {
         "Len": "A PROBABILISTIC APPROACH TO ECOLOGICAL RISK ASSESSMENT: A CASE STUDY OF THERMAL DISCHARGES INTO LAKE WATER ENVIRONMENT",
@@ -59,7 +63,8 @@
         "P356": "10.2175/193864704790896252",
         "P921": null,
         "P1476": "A PROBABILISTIC APPROACH TO ECOLOGICAL RISK ASSESSMENT: A CASE STUDY OF THERMAL DISCHARGES INTO LAKE WATER ENVIRONMENT",
-        "P577": "2012-10-24T14:55:14Z"
+        "P1433": "Proceedings of the Water Environment Federation",
+        "P577": "2012-10-24"
     },
     {
         "Len": "A comparison of membership function shapes in a fuzzy-based fugacity model for disinfection byproducts in indoor swimming pools",
@@ -68,7 +73,8 @@
         "P356": "10.1007/s13198-014-0318-2",
         "P921": null,
         "P1476": "A comparison of membership function shapes in a fuzzy-based fugacity model for disinfection byproducts in indoor swimming pools",
-        "P577": "2014-12-05T05:21:28Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2014-12-05"
     },
     {
         "Len": "A comparison of various uncertainty models: An example of subsurface contaminant transport",
@@ -79,7 +85,8 @@
             "Uncertainty"
         ],
         "P1476": "A comparison of various uncertainty models: An example of subsurface contaminant transport",
-        "P577": "2011-10-14T13:39:40Z"
+        "P1433": "Journal of Hydro-environment Research",
+        "P577": "2011-10-14"
     },
     {
         "Len": "A decision support tool for water mains renewal for small to medium sized utilities: a risk index approach",
@@ -93,7 +100,8 @@
             "Water Science and Technology"
         ],
         "P1476": "A decision support tool for water mains renewal for small to medium sized utilities: a risk index approach",
-        "P577": "2014-06-25T15:46:28Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2014-06-25"
     },
     {
         "Len": "A fuzzy Bayesian belief network for safety assessment of oil and gas pipelines",
@@ -102,7 +110,8 @@
         "P356": "10.1080/15732479.2015.1053093",
         "P921": null,
         "P1476": "A fuzzy Bayesian belief network for safety assessment of oil and gas pipelines",
-        "P577": "2015-07-17T06:39:58Z"
+        "P1433": "Structure and Infrastructure Engineering",
+        "P577": "2015-07-17"
     },
     {
         "Len": "A fuzzy expert system for deterioration modeling of buried metallic pipes",
@@ -113,7 +122,8 @@
             "Modeling"
         ],
         "P1476": "A fuzzy expert system for deterioration modeling of buried metallic pipes",
-        "P577": "2004-11-08T16:27:50Z"
+        "P1433": "IEEE Annual Meeting of the Fuzzy Information, 2004. Processing NAFIPS '04.",
+        "P577": "2004-11-08"
     },
     {
         "Len": "A fuzzy rule-based approach for modelling effects of bench-scale microwave pre-treatment on solubilisation and anaerobic digestion of secondary sludge",
@@ -122,7 +132,8 @@
         "P356": "10.1504/ijee.2014.062156",
         "P921": null,
         "P1476": "A fuzzy rule-based approach for modelling effects of bench-scale microwave pre-treatment on solubilisation and anaerobic digestion of secondary sludge",
-        "P577": "2014-06-01T07:30:15Z"
+        "P1433": "International Journal of Environmental Engineering",
+        "P577": "2014-06-01"
     },
     {
         "Len": "A fuzzy rule-based approach for water quality assessment in the distribution network",
@@ -133,7 +144,8 @@
             "Water quality assessment"
         ],
         "P1476": "A fuzzy rule-based approach for water quality assessment in the distribution network",
-        "P577": "2013-10-01T18:39:42Z"
+        "P1433": "2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)",
+        "P577": "2013-10-01"
     },
     {
         "Len": "A fuzzy-based approach for characterization of uncertainties in emergy synthesis: an example of paved road system",
@@ -147,7 +159,8 @@
             "General Environmental Science"
         ],
         "P1476": "A fuzzy-based approach for characterization of uncertainties in emergy synthesis: an example of paved road system",
-        "P577": "2013-07-12T17:21:41Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2013-07-12"
     },
     {
         "Len": "A fuzzy-based methodology for an aggregative environmental risk assessment: a case study of drilling waste",
@@ -160,7 +173,8 @@
             "Software"
         ],
         "P1476": "A fuzzy-based methodology for an aggregative environmental risk assessment: a case study of drilling waste",
-        "P577": "2004-03-09T13:52:41Z"
+        "P1433": "Environmental Modelling & Software",
+        "P577": "2004-03-09"
     },
     {
         "Len": "A health-based life cycle impact assessment (LCIA) for cement manufacturing: a comparative study of China and Canada",
@@ -169,7 +183,8 @@
         "P356": "10.1007/s10098-016-1322-9",
         "P921": null,
         "P1476": "A health-based life cycle impact assessment (LCIA) for cement manufacturing: a comparative study of China and Canada",
-        "P577": "2017-01-02T13:12:01Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2017-01-02"
     },
     {
         "Len": "A method of measuring uncertainty for Z-number",
@@ -180,7 +195,8 @@
             "Uncertainty"
         ],
         "P1476": "A method of measuring uncertainty for Z-number",
-        "P577": "2018-09-03T18:26:01Z"
+        "P1433": "IEEE Transactions on Fuzzy Systems",
+        "P577": "2018-09-03"
     },
     {
         "Len": "A new closeness centrality measure via effective distance in complex networks",
@@ -194,7 +210,8 @@
             "Statistical and Nonlinear Physics"
         ],
         "P1476": "A new closeness centrality measure via effective distance in complex networks",
-        "P577": "2015-03-24T18:35:13Z"
+        "P1433": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+        "P577": "2015-03-24"
     },
     {
         "Len": "A new method in failure mode and effects analysis based on evidential reasoning",
@@ -207,7 +224,8 @@
             "General Computer Science"
         ],
         "P1476": "A new method in failure mode and effects analysis based on evidential reasoning",
-        "P577": "2019-08-12T19:28:28Z"
+        "P1433": "IEEE Access",
+        "P577": "2019-08-12"
     },
     {
         "Len": "A new method of mapping relations from data based on artificial neural network",
@@ -219,7 +237,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "A new method of mapping relations from data based on artificial neural network",
-        "P577": "2013-10-31T10:34:57Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2013-10-31"
     },
     {
         "Len": "A new method to construct co-author networks",
@@ -228,7 +247,8 @@
         "P356": "10.1016/j.physa.2014.10.006",
         "P921": null,
         "P1476": "A new method to construct co-author networks",
-        "P577": "2014-10-15T20:55:45Z"
+        "P1433": "Physica A: Statistical Mechanics and its Applications",
+        "P577": "2014-10-15"
     },
     {
         "Len": "A new method to determine basic probability assignment using core samples",
@@ -237,7 +257,8 @@
         "P356": "10.1016/j.knosys.2014.06.015",
         "P921": null,
         "P1476": "A new method to determine basic probability assignment using core samples",
-        "P577": "2014-07-09T04:46:04Z"
+        "P1433": "Knowledge-Based Systems",
+        "P577": "2014-07-09"
     },
     {
         "Len": "A new weighting factor in combining belief function",
@@ -250,7 +271,8 @@
             "General Medicine"
         ],
         "P1476": "A new weighting factor in combining belief function",
-        "P577": "2017-05-25T17:33:12Z"
+        "P1433": "PLOS ONE",
+        "P577": "2017-05-25"
     },
     {
         "Len": "A process-based LCA for selection of low-impact DBPs control strategy for indoor swimming pool operation",
@@ -264,7 +286,8 @@
             "General Environmental Science"
         ],
         "P1476": "A process-based LCA for selection of low-impact DBPs control strategy for indoor swimming pool operation",
-        "P577": "2020-05-25T12:29:37Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2020-05-25"
     },
     {
         "Len": "A review of drought indices",
@@ -273,7 +296,8 @@
         "P356": "10.1007/978-90-481-2500-5_5",
         "P921": null,
         "P1476": "A review of drought indices",
-        "P577": "2010-09-06T12:10:05Z"
+        "P1433": "Drought Assessment",
+        "P577": "2010-09-06"
     },
     {
         "Len": "A review of drought indices",
@@ -282,7 +306,8 @@
         "P356": "10.1139/a11-013",
         "P921": null,
         "P1476": "A review of drought indices",
-        "P577": "2011-09-13T13:44:41Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2011-09-13"
     },
     {
         "Len": "A review of multi-criteria decision-making methods for infrastructure management",
@@ -298,7 +323,8 @@
             "Building and Construction"
         ],
         "P1476": "A review of multi-criteria decision-making methods for infrastructure management",
-        "P577": "2013-05-29T09:24:16Z"
+        "P1433": "Structure and Infrastructure Engineering",
+        "P577": "2013-05-29"
     },
     {
         "Len": "A rough set-based quality function deployment (QFD) approach for environmental performance evaluation: a case of offshore oil and gas operations",
@@ -309,7 +335,8 @@
             "Environmental"
         ],
         "P1476": "A rough set-based quality function deployment (QFD) approach for environmental performance evaluation: a case of offshore oil and gas operations",
-        "P577": "2011-04-30T19:20:05Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2011-04-30"
     },
     {
         "Len": "AHP based life cycle sustainability assessment (LCSA) framework: a case study of six storey wood frame and concrete frame buildings in Vancouver",
@@ -324,7 +351,8 @@
             "Fluid Flow and Transfer Processes"
         ],
         "P1476": "AHP based life cycle sustainability assessment (LCSA) framework: a case study of six storey wood frame and concrete frame buildings in Vancouver",
-        "P577": "2014-06-11T11:51:58Z"
+        "P1433": "Journal of Environmental Planning and Management",
+        "P577": "2014-06-11"
     },
     {
         "Len": "Acute ecological risk associated with soot deposition: a Persian Gulf case study",
@@ -333,7 +361,8 @@
         "P356": "10.1016/s0029-8018(00)00053-6",
         "P921": null,
         "P1476": "Acute ecological risk associated with soot deposition: a Persian Gulf case study",
-        "P577": "2002-10-14T23:55:37Z"
+        "P1433": "Ocean Engineering",
+        "P577": "2002-10-14"
     },
     {
         "Len": "Adaptation and evaluation of the Canadian Council of Ministers of the Environment Water Quality Index (CCME WQI) for use as an effective tool to characterize drinking source \u2026",
@@ -347,7 +376,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Adaptation and evaluation of the Canadian Council of Ministers of the Environment Water Quality Index (CCME WQI) for use as an effective tool to characterize drinking source \u2026",
-        "P577": "2012-04-05T21:30:24Z"
+        "P1433": "Water Research",
+        "P577": "2012-04-05"
     },
     {
         "Len": "Aggregative risk analysis for water quality failure in distribution networks",
@@ -356,7 +386,8 @@
         "P356": "10.2166/aqua.2004.0020",
         "P921": null,
         "P1476": "Aggregative risk analysis for water quality failure in distribution networks",
-        "P577": "2018-05-18T11:18:13Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2018-05-18"
     },
     {
         "Len": "An Integrated Approach for Risk-based Life Cycle Assessment and Multi-criteria Decision-making: Selection, Design and Evaluation of Cleaner and Greener Processes",
@@ -368,7 +399,8 @@
             "Business and International Management"
         ],
         "P1476": "An Integrated Approach for Risk-based Life Cycle Assessment and Multi-criteria Decision-making: Selection, Design and Evaluation of Cleaner and Greener Processes",
-        "P577": "2007-01-15T19:48:46Z"
+        "P1433": "Business Process Management Journal",
+        "P577": "2007-01-15"
     },
     {
         "Len": "An aggregative fuzzy risk analysis for flood incident management",
@@ -380,7 +412,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "An aggregative fuzzy risk analysis for flood incident management",
-        "P577": "2011-04-19T14:00:26Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2011-04-19"
     },
     {
         "Len": "An evidential game theory framework in multi-criteria decision making process",
@@ -392,7 +425,8 @@
             "Computational Mathematics"
         ],
         "P1476": "An evidential game theory framework in multi-criteria decision making process",
-        "P577": "2014-08-07T08:46:34Z"
+        "P1433": "Applied Mathematics and Computation",
+        "P577": "2014-08-07"
     },
     {
         "Len": "An integrated approach to environmental decision-making for offshore oil and gas operations",
@@ -403,7 +437,8 @@
             "Environmental"
         ],
         "P1476": "An integrated approach to environmental decision-making for offshore oil and gas operations",
-        "P577": "2012-05-17T02:43:55Z"
+        "P1433": "Process Safety and Environmental Protection",
+        "P577": "2012-05-17"
     },
     {
         "Len": "An integrated chemical management methodology for hydraulic fracturing: A fuzzy-based indexing approach",
@@ -412,7 +447,8 @@
         "P356": "10.1016/j.jclepro.2018.03.192",
         "P921": null,
         "P1476": "An integrated chemical management methodology for hydraulic fracturing: A fuzzy-based indexing approach",
-        "P577": "2018-03-21T04:32:19Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2018-03-21"
     },
     {
         "Len": "An integrated hazard screening and indexing system for hydraulic fracturing chemical assessment",
@@ -426,7 +462,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "An integrated hazard screening and indexing system for hydraulic fracturing chemical assessment",
-        "P577": "2019-08-11T13:45:12Z"
+        "P1433": "Process Safety and Environmental Protection",
+        "P577": "2019-08-11"
     },
     {
         "Len": "An integrated performance assessment framework for water treatment plants",
@@ -437,7 +474,8 @@
             "Water treatment"
         ],
         "P1476": "An integrated performance assessment framework for water treatment plants",
-        "P577": "2011-12-13T17:45:14Z"
+        "P1433": "Water Research",
+        "P577": "2011-12-13"
     },
     {
         "Len": "An overview of air emission intensities and environmental performance of grey cement manufacturing in Canada",
@@ -450,7 +488,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "An overview of air emission intensities and environmental performance of grey cement manufacturing in Canada",
-        "P577": "2014-01-22T18:16:53Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2014-01-22"
     },
     {
         "Len": "An overview of construction and demolition waste management in Canada: a lifecycle analysis approach to sustainability",
@@ -459,7 +498,8 @@
         "P356": "10.1007/s10098-012-0481-6",
         "P921": null,
         "P1476": "An overview of construction and demolition waste management in Canada: a lifecycle analysis approach to sustainability",
-        "P577": "2012-03-24T12:23:57Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2012-03-24"
     },
     {
         "Len": "Analyzing energy options for small-scale off-grid communities: A Canadian case study",
@@ -473,7 +513,8 @@
             "General Environmental Science"
         ],
         "P1476": "Analyzing energy options for small-scale off-grid communities: A Canadian case study",
-        "P577": "2019-11-18T04:27:00Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2019-11-18"
     },
     {
         "Len": "Analyzing present and future availability of critical high-tech minerals in waste cellphones: A case study of India",
@@ -484,7 +525,8 @@
             "Waste Management and Disposal"
         ],
         "P1476": "Analyzing present and future availability of critical high-tech minerals in waste cellphones: A case study of India",
-        "P577": "2020-10-22T00:36:20Z"
+        "P1433": "Waste Management",
+        "P577": "2020-10-22"
     },
     {
         "Len": "Analyzing system safety and risks under uncertainty using a bow-tie diagram: An innovative approach",
@@ -495,7 +537,8 @@
             "Uncertainty"
         ],
         "P1476": "Analyzing system safety and risks under uncertainty using a bow-tie diagram: An innovative approach",
-        "P577": "2011-09-11T21:32:57Z"
+        "P1433": "Process Safety and Environmental Protection",
+        "P577": "2011-09-11"
     },
     {
         "Len": "Antifouling and Flux Enhancement of Reverse Osmosis Membrane by Grafting Poly (3-Sulfopropyl Methacrylate) Brushes",
@@ -506,7 +549,8 @@
             "General Materials Science"
         ],
         "P1476": "Antifouling and Flux Enhancement of Reverse Osmosis Membrane by Grafting Poly (3-Sulfopropyl Methacrylate) Brushes",
-        "P577": "2021-03-18T15:41:06Z"
+        "P1433": "Membranes",
+        "P577": "2021-03-18"
     },
     {
         "Len": "Application of data fusion in human health risk assessment for hydrocarbon mixtures on contaminated sites",
@@ -515,7 +559,8 @@
         "P356": "10.1016/j.tox.2012.11.010",
         "P921": null,
         "P1476": "Application of data fusion in human health risk assessment for hydrocarbon mixtures on contaminated sites",
-        "P577": "2012-12-04T15:46:50Z"
+        "P1433": "Toxicology",
+        "P577": "2012-12-04"
     },
     {
         "Len": "Application of decision support systems in water management",
@@ -526,7 +571,8 @@
             "General Environmental Science"
         ],
         "P1476": "Application of decision support systems in water management",
-        "P577": "2013-10-25T03:33:04Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2013-10-25"
     },
     {
         "Len": "Application of neuro-fuzzy based expert system in water quality assessment",
@@ -537,7 +583,8 @@
             "Water quality assessment"
         ],
         "P1476": "Application of neuro-fuzzy based expert system in water quality assessment",
-        "P577": "2014-12-08T14:47:01Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2014-12-08"
     },
     {
         "Len": "Are we ready for alternative fuel transportation systems in Canada: A regional vignette",
@@ -546,7 +593,8 @@
         "P356": "10.1016/j.jclepro.2017.08.078",
         "P921": null,
         "P1476": "Are we ready for alternative fuel transportation systems in Canada: A regional vignette",
-        "P577": "2017-08-14T22:50:05Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2017-08-14"
     },
     {
         "Len": "Article Title: Electric Vehicle Recharging Infrastructure Planning and Management in Urban Communities",
@@ -560,7 +608,8 @@
             "General Environmental Science"
         ],
         "P1476": "Article Title: Electric Vehicle Recharging Infrastructure Planning and Management in Urban Communities",
-        "P577": "2019-12-06T00:08:46Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2019-12-06"
     },
     {
         "Len": "Article title: Renewable energy integration into community energy systems: A case study of new urban residential development",
@@ -569,7 +618,8 @@
         "P356": "10.1016/j.jclepro.2016.10.067",
         "P921": null,
         "P1476": "Article title: Renewable energy integration into community energy systems: A case study of new urban residential development",
-        "P577": "2016-10-25T18:16:36Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2016-10-25"
     },
     {
         "Len": "Assessing regulatory violations of disinfection by-products in water distribution networks using a non-compliance potential index",
@@ -583,7 +633,8 @@
             "General Medicine"
         ],
         "P1476": "Assessing regulatory violations of disinfection by-products in water distribution networks using a non-compliance potential index",
-        "P577": "2016-04-21T20:12:21Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2016-04-21"
     },
     {
         "Len": "Assessment of different MOEAs for rehabilitation evaluation of urban stormwater drainage systems\u2013case study: eastern catchment of Tehran",
@@ -598,7 +649,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Assessment of different MOEAs for rehabilitation evaluation of urban stormwater drainage systems\u2013case study: eastern catchment of Tehran",
-        "P577": "2018-08-14T23:30:34Z"
+        "P1433": "Journal of Hydro-environment Research",
+        "P577": "2018-08-14"
     },
     {
         "Len": "Assessment of renewable energy-based strategies for net-zero energy communities: A planning model using multi-objective goal programming",
@@ -612,7 +664,8 @@
             "General Environmental Science"
         ],
         "P1476": "Assessment of renewable energy-based strategies for net-zero energy communities: A planning model using multi-objective goal programming",
-        "P577": "2020-07-12T06:26:27Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2020-07-12"
     },
     {
         "Len": "Assessment of water quality in distribution networks through the lens of disinfection by-product rules",
@@ -621,7 +674,8 @@
         "P356": "10.4314/wsa.v42i2.17",
         "P921": null,
         "P1476": "Assessment of water quality in distribution networks through the lens of disinfection by-product rules",
-        "P577": "2016-05-05T08:06:41Z"
+        "P1433": "Water SA",
+        "P577": "2016-05-05"
     },
     {
         "Len": "BIM-based life cycle environmental performance assessment of single-family houses: Renovation and reconstruction strategies for aging building stock in British Columbia",
@@ -635,7 +689,8 @@
             "General Environmental Science"
         ],
         "P1476": "BIM-based life cycle environmental performance assessment of single-family houses: Renovation and reconstruction strategies for aging building stock in British Columbia",
-        "P577": "2019-12-03T18:09:04Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2019-12-03"
     },
     {
         "Len": "Bayesian model averaging for the prediction of water main failure for small to large Canadian municipalities",
@@ -647,7 +702,8 @@
             "General Environmental Science"
         ],
         "P1476": "Bayesian model averaging for the prediction of water main failure for small to large Canadian municipalities",
-        "P577": "2015-12-23T22:37:17Z"
+        "P1433": "Canadian Journal of Civil Engineering",
+        "P577": "2015-12-23"
     },
     {
         "Len": "Benchmarking of Water, Energy, and Carbon Flows in Academic Buildings: A Fuzzy Clustering Approach",
@@ -660,7 +716,8 @@
             "Management, Monitoring, Policy and Law"
         ],
         "P1476": "Benchmarking of Water, Energy, and Carbon Flows in Academic Buildings: A Fuzzy Clustering Approach",
-        "P577": "2020-06-02T13:19:27Z"
+        "P1433": "Sustainability",
+        "P577": "2020-06-02"
     },
     {
         "Len": "Carbon capturing for emissions reduction at building level: A market assessment from a building management perspective",
@@ -674,7 +731,8 @@
             "General Environmental Science"
         ],
         "P1476": "Carbon capturing for emissions reduction at building level: A market assessment from a building management perspective",
-        "P577": "2021-02-10T21:30:05Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2021-02-10"
     },
     {
         "Len": "Characterizing hydraulic fracturing fluid greenness: application of a hazard-based index approach",
@@ -683,7 +741,8 @@
         "P356": "10.1007/s10098-015-1054-2",
         "P921": null,
         "P1476": "Characterizing hydraulic fracturing fluid greenness: application of a hazard-based index approach",
-        "P577": "2015-10-16T10:53:14Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2015-10-16"
     },
     {
         "Len": "Classification of heterotrophic plate counts (HPC) in a water distribution network: a fuzzy rule-based approach",
@@ -695,7 +754,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Classification of heterotrophic plate counts (HPC) in a water distribution network: a fuzzy rule-based approach",
-        "P577": "2012-02-07T18:32:13Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2012-02-07"
     },
     {
         "Len": "Climate change and drinking water quality: Predicting high trihalomethane occurrence in water utilities supplied by surface water",
@@ -708,7 +768,8 @@
             "Software"
         ],
         "P1476": "Climate change and drinking water quality: Predicting high trihalomethane occurrence in water utilities supplied by surface water",
-        "P577": "2019-07-16T06:32:08Z"
+        "P1433": "Environmental Modelling & Software",
+        "P577": "2019-07-16"
     },
     {
         "Len": "Climate conscious regional planning for fast-growing communities",
@@ -717,7 +778,8 @@
         "P356": "10.1016/j.jclepro.2017.07.092",
         "P921": null,
         "P1476": "Climate conscious regional planning for fast-growing communities",
-        "P577": "2017-07-14T18:45:52Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2017-07-14"
     },
     {
         "Len": "Clostridium difficile infection incidence prediction in hospitals (CDIIPH): a predictive model based on decision tree and fuzzy techniques",
@@ -732,7 +794,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Clostridium difficile infection incidence prediction in hospitals (CDIIPH): a predictive model based on decision tree and fuzzy techniques",
-        "P577": "2016-02-11T09:01:18Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2016-02-11"
     },
     {
         "Len": "Communicating human health risks associated with disinfection by-products in drinking water supplies: a fuzzy-based approach",
@@ -747,7 +810,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Communicating human health risks associated with disinfection by-products in drinking water supplies: a fuzzy-based approach",
-        "P577": "2006-08-08T18:52:47Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2006-08-08"
     },
     {
         "Len": "Community-level decentralized energy system planning under uncertainty: A comparison of mathematical models for strategy development",
@@ -762,7 +826,8 @@
             "Building and Construction"
         ],
         "P1476": "Community-level decentralized energy system planning under uncertainty: A comparison of mathematical models for strategy development",
-        "P577": "2020-12-13T13:55:17Z"
+        "P1433": "Applied Energy",
+        "P577": "2020-12-13"
     },
     {
         "Len": "Comparative life-cycle assessment of traditional and emerging oily sludge treatment approaches",
@@ -776,7 +841,8 @@
             "General Environmental Science"
         ],
         "P1476": "Comparative life-cycle assessment of traditional and emerging oily sludge treatment approaches",
-        "P577": "2019-12-14T07:30:19Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2019-12-14"
     },
     {
         "Len": "Comparative study of fuzzy evidential reasoning and fuzzy rule-based approaches: an illustration for water quality assessment in distribution networks",
@@ -787,7 +853,8 @@
             "Water quality assessment"
         ],
         "P1476": "Comparative study of fuzzy evidential reasoning and fuzzy rule-based approaches: an illustration for water quality assessment in distribution networks",
-        "P577": "2013-08-13T12:53:19Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2013-08-13"
     },
     {
         "Len": "Comparison of statistical models for predicting pipe failures: Illustrative example with the City of Calgary water main failure",
@@ -799,7 +866,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "Comparison of statistical models for predicting pipe failures: Illustrative example with the City of Calgary water main failure",
-        "P577": "2015-01-27T16:22:10Z"
+        "P1433": "Journal of Pipeline Systems Engineering and Practice",
+        "P577": "2015-01-27"
     },
     {
         "Len": "Comprehensive consideration of strategy updating promotes cooperation in the prisoner\u2019s dilemma game",
@@ -811,7 +879,8 @@
             "Condensed Matter Physics"
         ],
         "P1476": "Comprehensive consideration of strategy updating promotes cooperation in the prisoner\u2019s dilemma game",
-        "P577": "2014-02-25T23:17:45Z"
+        "P1433": "Physica A: Statistical Mechanics and its Applications",
+        "P577": "2014-02-25"
     },
     {
         "Len": "Condition Assessment of Buried Pipes Using Hierarchical Evidential Reasoning Model",
@@ -823,7 +892,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Condition Assessment of Buried Pipes Using Hierarchical Evidential Reasoning Model",
-        "P577": "2008-02-19T16:32:57Z"
+        "P1433": "Journal of Computing in Civil Engineering",
+        "P577": "2008-02-19"
     },
     {
         "Len": "Condition assessment for bridges: a hierarchical evidential reasoning (HER) framework",
@@ -839,7 +909,8 @@
             "Building and Construction"
         ],
         "P1476": "Condition assessment for bridges: a hierarchical evidential reasoning (HER) framework",
-        "P577": "2013-02-22T12:14:14Z"
+        "P1433": "Structure and Infrastructure Engineering",
+        "P577": "2013-02-22"
     },
     {
         "Len": "Condition assessment of water mains using fuzzy evidential reasoning",
@@ -848,7 +919,8 @@
         "P356": "10.1109/icsmc.2005.1571684",
         "P921": null,
         "P1476": "Condition assessment of water mains using fuzzy evidential reasoning",
-        "P577": "2006-01-18T23:42:54Z"
+        "P1433": "2005 IEEE International Conference on Systems, Man and Cybernetics",
+        "P577": "2006-01-18"
     },
     {
         "Len": "Considering Soil Parameters in Prediction of Remaining Service Life of Metallic Pipes: Bayesian Belief Network Model",
@@ -860,7 +932,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "Considering Soil Parameters in Prediction of Remaining Service Life of Metallic Pipes: Bayesian Belief Network Model",
-        "P577": "2015-12-31T17:34:45Z"
+        "P1433": "Journal of Pipeline Systems Engineering and Practice",
+        "P577": "2015-12-31"
     },
     {
         "Len": "Contaminant intrusion in water distribution networks: review and proposal of an integrated model for decision making",
@@ -871,7 +944,8 @@
             "General Environmental Science"
         ],
         "P1476": "Contaminant intrusion in water distribution networks: review and proposal of an integrated model for decision making",
-        "P577": "2015-03-18T22:27:43Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2015-03-18"
     },
     {
         "Len": "Conventional versus modular construction methods: A comparative cradle-to-gate LCA for residential buildings",
@@ -885,7 +959,8 @@
             "Building and Construction"
         ],
         "P1476": "Conventional versus modular construction methods: A comparative cradle-to-gate LCA for residential buildings",
-        "P577": "2019-09-30T16:18:53Z"
+        "P1433": "Energy and Buildings",
+        "P577": "2019-09-30"
     },
     {
         "Len": "Cost/comfort-oriented clustering-based extended time of use pricing",
@@ -899,7 +974,8 @@
             "Transportation"
         ],
         "P1476": "Cost/comfort-oriented clustering-based extended time of use pricing",
-        "P577": "2020-12-29T07:22:44Z"
+        "P1433": "Sustainable Cities and Society",
+        "P577": "2020-12-29"
     },
     {
         "Len": "Coupling Behavior-Based Intervention with Pro-Environmentalism. The Dynamics of Energy Usage, Crisis and Its Conservation",
@@ -910,7 +986,8 @@
             "Environmental"
         ],
         "P1476": "Coupling Behavior-Based Intervention with Pro-Environmentalism. The Dynamics of Energy Usage, Crisis and Its Conservation",
-        "P577": "2020-07-02T09:26:22Z"
+        "P1433": "Dynamics of Energy, Environment and Economy",
+        "P577": "2020-07-02"
     },
     {
         "Len": "D-CFPR: D numbers extended consistent fuzzy preference relations",
@@ -924,7 +1001,8 @@
             "Artificial Intelligence"
         ],
         "P1476": "D-CFPR: D numbers extended consistent fuzzy preference relations",
-        "P577": "2014-09-22T01:38:00Z"
+        "P1433": "Knowledge-Based Systems",
+        "P577": "2014-09-22"
     },
     {
         "Len": "Data fusion methods for human health risk assessment: review and application",
@@ -933,7 +1011,8 @@
         "P356": "10.1080/10807039.2012.746145",
         "P921": null,
         "P1476": "Data fusion methods for human health risk assessment: review and application",
-        "P577": "2012-11-12T12:35:42Z"
+        "P1433": "Human and Ecological Risk Assessment: An International Journal",
+        "P577": "2012-11-12"
     },
     {
         "Len": "Data fusion-based risk assessment framework: an example of benzene",
@@ -942,7 +1021,8 @@
         "P356": "10.1007/s13198-012-0136-3",
         "P921": null,
         "P1476": "Data fusion-based risk assessment framework: an example of benzene",
-        "P577": "2012-11-04T06:19:27Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2012-11-04"
     },
     {
         "Len": "Decision making under uncertainty\u2014An example for seismic risk management",
@@ -954,7 +1034,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Decision making under uncertainty\u2014An example for seismic risk management",
-        "P577": "2009-12-28T18:08:20Z"
+        "P1433": "Risk Analysis",
+        "P577": "2009-12-28"
     },
     {
         "Len": "Dempster-Shafer Theory for Handling Conflict in Hydrological Data: Case of Snow Water Equivalent",
@@ -966,7 +1047,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Dempster-Shafer Theory for Handling Conflict in Hydrological Data: Case of Snow Water Equivalent",
-        "P577": "2012-05-14T11:34:35Z"
+        "P1433": "Journal of Computing in Civil Engineering",
+        "P577": "2012-05-14"
     },
     {
         "Len": "Developing a level of service (LOS) index for operational management of public buildings",
@@ -975,7 +1057,8 @@
         "P356": "10.1016/j.scs.2017.06.015",
         "P921": null,
         "P1476": "Developing a level of service (LOS) index for operational management of public buildings",
-        "P577": "2017-06-27T17:16:25Z"
+        "P1433": "Sustainable Cities and Society",
+        "P577": "2017-06-27"
     },
     {
         "Len": "Developing a road performance index using a Bayesian belief network model",
@@ -984,7 +1067,8 @@
         "P356": "10.1016/j.jfranklin.2011.07.015",
         "P921": null,
         "P1476": "Developing a road performance index using a Bayesian belief network model",
-        "P577": "2011-08-19T04:59:14Z"
+        "P1433": "Journal of the Franklin Institute",
+        "P577": "2011-08-19"
     },
     {
         "Len": "Developing environmental indices using fuzzy numbers ordered weighted averaging (FN-OWA) operators",
@@ -995,7 +1079,8 @@
             "Environmental"
         ],
         "P1476": "Developing environmental indices using fuzzy numbers ordered weighted averaging (FN-OWA) operators",
-        "P577": "2007-06-14T12:15:34Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2007-06-14"
     },
     {
         "Len": "Developing environmental indices using fuzzy numbers power average (FN-PA) operator",
@@ -1007,7 +1092,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Developing environmental indices using fuzzy numbers power average (FN-PA) operator",
-        "P577": "2014-04-15T14:54:47Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2014-04-15"
     },
     {
         "Len": "Development of Consumer Perception Index for assessing greywater reuse potential in arid environments",
@@ -1020,7 +1106,8 @@
             "Climate change"
         ],
         "P1476": "Development of Consumer Perception Index for assessing greywater reuse potential in arid environments",
-        "P577": "2018-11-07T13:38:34Z"
+        "P1433": "Water SA",
+        "P577": "2018-11-07"
     },
     {
         "Len": "Development of a predictive model for Clostridium difficile infection incidence in hospitals using Gaussian mixture model and Dempster\u2013Shafer theory",
@@ -1029,7 +1116,8 @@
         "P356": "10.1007/s00477-017-1459-z",
         "P921": null,
         "P1476": "Development of a predictive model for Clostridium difficile infection incidence in hospitals using Gaussian mixture model and Dempster\u2013Shafer theory",
-        "P577": "2017-10-07T07:24:23Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2017-10-07"
     },
     {
         "Len": "Development of a stochastic framework to design/rehabilitate urban stormwater drainage systems based on a resilient approach",
@@ -1041,7 +1129,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Development of a stochastic framework to design/rehabilitate urban stormwater drainage systems based on a resilient approach",
-        "P577": "2018-01-15T16:38:17Z"
+        "P1433": "Urban Water Journal",
+        "P577": "2018-01-15"
     },
     {
         "Len": "Development, application, and sensitivity analysis of a water quality index for drinking water management in small systems",
@@ -1052,7 +1141,8 @@
             "Drinking water"
         ],
         "P1476": "Development, application, and sensitivity analysis of a water quality index for drinking water management in small systems",
-        "P577": "2015-10-12T16:14:36Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2015-10-12"
     },
     {
         "Len": "Disinfection by-products (DBPs) in drinking water and predictive models for their occurrence: a review",
@@ -1063,7 +1153,8 @@
             "Drinking water"
         ],
         "P1476": "Disinfection by-products (DBPs) in drinking water and predictive models for their occurrence: a review",
-        "P577": "2004-03-25T13:59:20Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2004-03-25"
     },
     {
         "Len": "Disinfection by-products in drinking water: occurrence, health issues",
@@ -1074,7 +1165,8 @@
             "Drinking water"
         ],
         "P1476": "Disinfection by-products in drinking water: occurrence, health issues",
-        "P577": "2009-07-24T01:32:20Z"
+        "P1433": "ACS Symposium Series",
+        "P577": "2009-07-24"
     },
     {
         "Len": "Disinfection byproducts in Canadian provinces: associated cancer risks and medical expenses",
@@ -1083,7 +1175,8 @@
         "P356": "10.1016/j.jhazmat.2011.01.085",
         "P921": null,
         "P1476": "Disinfection byproducts in Canadian provinces: associated cancer risks and medical expenses",
-        "P577": "2011-01-27T09:24:12Z"
+        "P1433": "Journal of Hazardous Materials",
+        "P577": "2011-01-27"
     },
     {
         "Len": "Distribution of arsenic and copper in sediment pore water: an ecological risk assessment case study for offshore drilling waste discharges",
@@ -1095,7 +1188,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Distribution of arsenic and copper in sediment pore water: an ecological risk assessment case study for offshore drilling waste discharges",
-        "P577": "2003-12-01T17:38:29Z"
+        "P1433": "Risk Analysis",
+        "P577": "2003-12-01"
     },
     {
         "Len": "Distribution of heavy metals in sediment pore water due to offshore discharges: an ecological risk assessment",
@@ -1108,7 +1202,8 @@
             "Software"
         ],
         "P1476": "Distribution of heavy metals in sediment pore water due to offshore discharges: an ecological risk assessment",
-        "P577": "2003-04-30T22:23:46Z"
+        "P1433": "Environmental Modelling & Software",
+        "P577": "2003-04-30"
     },
     {
         "Len": "Drinking Water Treatments for Arsenic and Manganese Removal and Health Risk Assessment in White Rock, Canada",
@@ -1122,7 +1217,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Drinking Water Treatments for Arsenic and Manganese Removal and Health Risk Assessment in White Rock, Canada",
-        "P577": "2019-12-20T21:02:38Z"
+        "P1433": "Exposure and Health",
+        "P577": "2019-12-20"
     },
     {
         "Len": "Drinking water infrastructure assessment: the national research council of canada perspective",
@@ -1133,7 +1229,8 @@
             "Drinking water"
         ],
         "P1476": "Drinking water infrastructure assessment: the national research council of canada perspective",
-        "P577": "2009-07-27T16:32:34Z"
+        "P1433": "World Environmental and Water Resources Congress 2009",
+        "P577": "2009-07-27"
     },
     {
         "Len": "Drinking water management and governance in Canada: an innovative Plan-Do-Check-Act (PDCA) framework for a safe drinking water supply",
@@ -1146,7 +1243,8 @@
             "Pollution"
         ],
         "P1476": "Drinking water management and governance in Canada: an innovative Plan-Do-Check-Act (PDCA) framework for a safe drinking water supply",
-        "P577": "2017-04-19T11:46:35Z"
+        "P1433": "Environmental Management",
+        "P577": "2017-04-19"
     },
     {
         "Len": "Drinking water quality assessment in distribution networks: A water footprint approach",
@@ -1160,7 +1258,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Drinking water quality assessment in distribution networks: A water footprint approach",
-        "P577": "2021-02-16T03:54:46Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2021-02-16"
     },
     {
         "Len": "Drinking-water management in Canadian provinces and territories: a review and comparison of management approaches for ensuring safe drinking water",
@@ -1173,7 +1272,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Drinking-water management in Canadian provinces and territories: a review and comparison of management approaches for ensuring safe drinking water",
-        "P577": "2018-01-11T01:22:09Z"
+        "P1433": "Water Policy",
+        "P577": "2018-01-11"
     },
     {
         "Len": "Ecological risk assessment of accidental release of flowback water: A conceptual framework",
@@ -1186,7 +1286,8 @@
             "Health, Toxicology and Mutagenesis"
         ],
         "P1476": "Ecological risk assessment of accidental release of flowback water: A conceptual framework",
-        "P577": "2017-10-06T20:35:16Z"
+        "P1433": "Human and Ecological Risk Assessment: An International Journal",
+        "P577": "2017-10-06"
     },
     {
         "Len": "Ecological risk assessment of acid rock drainage under uncertainty: The fugacity approach",
@@ -1197,7 +1298,8 @@
             "Uncertainty"
         ],
         "P1476": "Ecological risk assessment of acid rock drainage under uncertainty: The fugacity approach",
-        "P577": "2015-09-29T22:53:26Z"
+        "P1433": "Environmental Technology & Innovation",
+        "P577": "2015-09-29"
     },
     {
         "Len": "Economic and Energy Efficiency of Net-Zero Water Communities: System Dynamics Analysis",
@@ -1206,7 +1308,8 @@
         "P356": "10.1061/jswbay.0000854",
         "P921": null,
         "P1476": "Economic and Energy Efficiency of Net-Zero Water Communities: System Dynamics Analysis",
-        "P577": "2018-04-20T07:33:32Z"
+        "P1433": "Journal of Sustainable Water in the Built Environment",
+        "P577": "2018-04-20"
     },
     {
         "Len": "Economic evaluation of building energy retrofits: A fuzzy based approach",
@@ -1215,7 +1318,8 @@
         "P356": "10.1016/j.enbuild.2017.01.031",
         "P921": null,
         "P1476": "Economic evaluation of building energy retrofits: A fuzzy based approach",
-        "P577": "2017-01-12T19:16:50Z"
+        "P1433": "Energy and Buildings",
+        "P577": "2017-01-12"
     },
     {
         "Len": "Effect of regulations and treatment technologies on water distribution infrastructure",
@@ -1224,7 +1328,8 @@
         "P356": "10.1002/j.1551-8833.2009.tb09860.x",
         "P921": null,
         "P1476": "Effect of regulations and treatment technologies on water distribution infrastructure",
-        "P577": "2018-02-23T00:41:23Z"
+        "P1433": "Journal - American Water Works Association",
+        "P577": "2018-02-23"
     },
     {
         "Len": "Effects of bottleneck blockage on the resilience of an urban stormwater drainage system",
@@ -1235,7 +1340,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Effects of bottleneck blockage on the resilience of an urban stormwater drainage system",
-        "P577": "2019-11-08T10:32:26Z"
+        "P1433": "Hydrological Sciences Journal",
+        "P577": "2019-11-08"
     },
     {
         "Len": "Emergy-based life cycle assessment (Em-LCA) for sustainability appraisal of infrastructure systems: a case study on paved roads",
@@ -1248,7 +1354,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Emergy-based life cycle assessment (Em-LCA) for sustainability appraisal of infrastructure systems: a case study on paved roads",
-        "P577": "2013-04-12T16:15:34Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2013-04-12"
     },
     {
         "Len": "Emergy-based life cycle assessment (Em-LCA) of multi-unit and single-family residential buildings in Canada",
@@ -1259,7 +1366,8 @@
             "Life cycle assessment"
         ],
         "P1476": "Emergy-based life cycle assessment (Em-LCA) of multi-unit and single-family residential buildings in Canada",
-        "P577": "2014-10-03T23:11:03Z"
+        "P1433": "International Journal of Sustainable Built Environment",
+        "P577": "2014-10-03"
     },
     {
         "Len": "Empirical models to predict disinfection by-products (DBPs) in drinking water",
@@ -1270,7 +1378,8 @@
             "Drinking water"
         ],
         "P1476": "Empirical models to predict disinfection by-products (DBPs) in drinking water",
-        "P577": "2011-03-07T23:05:56Z"
+        "P1433": "Encyclopedia of Environmental Health",
+        "P577": "2011-03-07"
     },
     {
         "Len": "Energetic, environmental and economic performance of electric vehicles: Experimental evaluation",
@@ -1281,7 +1390,8 @@
             "Environmental"
         ],
         "P1476": "Energetic, environmental and economic performance of electric vehicles: Experimental evaluation",
-        "P577": "2014-12-23T06:46:21Z"
+        "P1433": "Transportation Research Part D: Transport and Environment",
+        "P577": "2014-12-23"
     },
     {
         "Len": "Energy Efficiency and Global Warming Potential in the Residential Sector: Comparative Evaluation of Canada and Saudi Arabia",
@@ -1295,7 +1405,8 @@
             "Building and Construction"
         ],
         "P1476": "Energy Efficiency and Global Warming Potential in the Residential Sector: Comparative Evaluation of Canada and Saudi Arabia",
-        "P577": "2017-04-28T12:00:02Z"
+        "P1433": "Journal of Architectural Engineering",
+        "P577": "2017-04-28"
     },
     {
         "Len": "Energy Performance Assessment Framework for Residential Buildings in Saudi Arabia",
@@ -1308,7 +1419,8 @@
             "Management, Monitoring, Policy and Law"
         ],
         "P1476": "Energy Performance Assessment Framework for Residential Buildings in Saudi Arabia",
-        "P577": "2021-02-19T14:06:10Z"
+        "P1433": "Sustainability",
+        "P577": "2021-02-19"
     },
     {
         "Len": "Energy rating system for climate conscious operation of multi-unit residential buildings",
@@ -1321,7 +1433,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Energy rating system for climate conscious operation of multi-unit residential buildings",
-        "P577": "2018-03-01T08:49:01Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2018-03-01"
     },
     {
         "Len": "Enhanced fuzzy evidential reasoning using an optimization approach for water quality monitoring",
@@ -1330,7 +1443,8 @@
         "P356": "10.1109/ifsa-nafips.2013.6608561",
         "P921": null,
         "P1476": "Enhanced fuzzy evidential reasoning using an optimization approach for water quality monitoring",
-        "P577": "2013-10-01T18:39:42Z"
+        "P1433": "2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)",
+        "P577": "2013-10-01"
     },
     {
         "Len": "Environmental and economic aspects of production and utilization of RDF as alternative fuel in cement plants: A case study of Metro Vancouver Waste Management",
@@ -1342,7 +1456,8 @@
             "Waste Management and Disposal"
         ],
         "P1476": "Environmental and economic aspects of production and utilization of RDF as alternative fuel in cement plants: A case study of Metro Vancouver Waste Management",
-        "P577": "2013-11-06T23:15:45Z"
+        "P1433": "Resources, Conservation and Recycling",
+        "P577": "2013-11-06"
     },
     {
         "Len": "Environmental assessment under uncertainty using Dempster\u2013Shafer theory and Z-numbers",
@@ -1350,11 +1465,12 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/s12652-019-01228-y",
         "P921": [
-            "Uncertainty",
-            "Environmental"
+            "Environmental",
+            "Uncertainty"
         ],
         "P1476": "Environmental assessment under uncertainty using Dempster\u2013Shafer theory and Z-numbers",
-        "P577": "2019-02-06T10:29:58Z"
+        "P1433": "Journal of Ambient Intelligence and Humanized Computing",
+        "P577": "2019-02-06"
     },
     {
         "Len": "Environmental decision-making under uncertainty using intuitionistic fuzzy analytic hierarchy process (IF-AHP)",
@@ -1362,11 +1478,12 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/s00477-007-0197-z",
         "P921": [
-            "Uncertainty",
-            "Environmental"
+            "Environmental",
+            "Uncertainty"
         ],
         "P1476": "Environmental decision-making under uncertainty using intuitionistic fuzzy analytic hierarchy process (IF-AHP)",
-        "P577": "2007-11-27T07:42:32Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2007-11-27"
     },
     {
         "Len": "Environmental risk assessment of acid rock drainage under uncertainty: the probability bounds and PHREEQC approach",
@@ -1374,11 +1491,12 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1016/j.jhazmat.2015.07.022",
         "P921": [
-            "Uncertainty",
-            "Environmental"
+            "Environmental",
+            "Uncertainty"
         ],
         "P1476": "Environmental risk assessment of acid rock drainage under uncertainty: the probability bounds and PHREEQC approach",
-        "P577": "2015-07-18T00:02:24Z"
+        "P1433": "Journal of Hazardous Materials",
+        "P577": "2015-07-18"
     },
     {
         "Len": "Estimating risk of contaminant intrusion in distribution networks using fuzzy rule-based modeling",
@@ -1390,7 +1508,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "Estimating risk of contaminant intrusion in distribution networks using fuzzy rule-based modeling",
-        "P577": "2006-07-17T19:22:01Z"
+        "P1433": "Civil Engineering and Environmental Systems",
+        "P577": "2006-07-17"
     },
     {
         "Len": "Evaluating leakage potential in water distribution systems: a fuzzy-based methodology",
@@ -1404,7 +1523,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Evaluating leakage potential in water distribution systems: a fuzzy-based methodology",
-        "P577": "2015-12-15T08:42:11Z"
+        "P1433": "Journal of Water Supply: Research and Technology - Aqua",
+        "P577": "2015-12-15"
     },
     {
         "Len": "Evaluating motivation of construction workers: A comparison of fuzzy rule-based model with the traditional expectancy theory",
@@ -1416,7 +1536,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "Evaluating motivation of construction workers: A comparison of fuzzy rule-based model with the traditional expectancy theory",
-        "P577": "2016-07-12T13:18:29Z"
+        "P1433": "JOURNAL OF CIVIL ENGINEERING AND MANAGEMENT",
+        "P577": "2016-07-12"
     },
     {
         "Len": "Evaluating offshore technologies for produced water management using GreenPro-I\u2014a risk-based life cycle analysis for green and clean process selection and \u2026",
@@ -1428,7 +1549,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Evaluating offshore technologies for produced water management using GreenPro-I\u2014a risk-based life cycle analysis for green and clean process selection and \u2026",
-        "P577": "2005-01-09T03:16:39Z"
+        "P1433": "Computers & Chemical Engineering",
+        "P577": "2005-01-09"
     },
     {
         "Len": "Evaluating risk of water mains failure using a Bayesian belief network model",
@@ -1441,7 +1563,8 @@
             "Information Systems and Management"
         ],
         "P1476": "Evaluating risk of water mains failure using a Bayesian belief network model",
-        "P577": "2014-07-02T06:30:02Z"
+        "P1433": "European Journal of Operational Research",
+        "P577": "2014-07-02"
     },
     {
         "Len": "Evaluating water quality failure potential in water distribution systems: a fuzzy-TOPSIS-OWA-based methodology",
@@ -1453,7 +1576,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Evaluating water quality failure potential in water distribution systems: a fuzzy-TOPSIS-OWA-based methodology",
-        "P577": "2013-02-01T16:27:25Z"
+        "P1433": "Water Resources Management",
+        "P577": "2013-02-01"
     },
     {
         "Len": "Evaluating water reuse applications under uncertainty: generalized intuitionistic fuzzy-based approach",
@@ -1468,7 +1592,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Evaluating water reuse applications under uncertainty: generalized intuitionistic fuzzy-based approach",
-        "P577": "2017-08-20T08:07:38Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2017-08-20"
     },
     {
         "Len": "Evaluation of available indices for inherently safer design options",
@@ -1480,7 +1605,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Evaluation of available indices for inherently safer design options",
-        "P577": "2004-04-16T21:09:01Z"
+        "P1433": "Process Safety Progress",
+        "P577": "2004-04-16"
     },
     {
         "Len": "Evaluation of data driven models for pipe burst prediction in urban water distribution systems",
@@ -1492,7 +1618,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Evaluation of data driven models for pipe burst prediction in urban water distribution systems",
-        "P577": "2019-07-08T04:50:40Z"
+        "P1433": "Urban Water Journal",
+        "P577": "2019-07-08"
     },
     {
         "Len": "Evaluation of financial incentives for green buildings in Canadian landscape",
@@ -1503,7 +1630,8 @@
             "Renewable Energy, Sustainability and the Environment"
         ],
         "P1476": "Evaluation of financial incentives for green buildings in Canadian landscape",
-        "P577": "2020-08-24T03:06:03Z"
+        "P1433": "Renewable and Sustainable Energy Reviews",
+        "P577": "2020-08-24"
     },
     {
         "Len": "Evaluation of generic types of drilling fluid using a risk-based analytic hierarchy process",
@@ -1516,7 +1644,8 @@
             "Pollution"
         ],
         "P1476": "Evaluation of generic types of drilling fluid using a risk-based analytic hierarchy process",
-        "P577": "2004-01-24T00:28:02Z"
+        "P1433": "Environmental Management",
+        "P577": "2004-01-24"
     },
     {
         "Len": "Evaluation of slurry settling rate using fuzzy rule-based modeling",
@@ -1528,7 +1657,8 @@
             "Earth and Planetary Sciences (miscellaneous)"
         ],
         "P1476": "Evaluation of slurry settling rate using fuzzy rule-based modeling",
-        "P577": "2006-09-29T06:09:56Z"
+        "P1433": "Acta Geotechnica",
+        "P577": "2006-09-29"
     },
     {
         "Len": "Evaluation of source water protection strategies: a fuzzy-based model",
@@ -1542,7 +1672,8 @@
             "General Medicine"
         ],
         "P1476": "Evaluation of source water protection strategies: a fuzzy-based model",
-        "P577": "2013-03-28T07:45:35Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2013-03-28"
     },
     {
         "Len": "Evidential cognitive maps",
@@ -1551,7 +1682,8 @@
         "P356": "10.1016/j.knosys.2012.04.007",
         "P921": null,
         "P1476": "Evidential cognitive maps",
-        "P577": "2012-04-12T19:18:45Z"
+        "P1433": "Knowledge-Based Systems",
+        "P577": "2012-04-12"
     },
     {
         "Len": "Evidential reasoning using extended fuzzy Dempster\u2013Shafer theory for handling various facets of information deficiency",
@@ -1565,7 +1697,8 @@
             "Artificial Intelligence"
         ],
         "P1476": "Evidential reasoning using extended fuzzy Dempster\u2013Shafer theory for handling various facets of information deficiency",
-        "P577": "2011-05-31T19:40:57Z"
+        "P1433": "International Journal of Intelligent Systems",
+        "P577": "2011-05-31"
     },
     {
         "Len": "Experimental Investigations and CFD Modeling of Contaminant Intrusion in a Water Network during Transient Events",
@@ -1579,7 +1712,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Experimental Investigations and CFD Modeling of Contaminant Intrusion in a Water Network during Transient Events",
-        "P577": "2019-07-11T15:28:28Z"
+        "P1433": "Water",
+        "P577": "2019-07-11"
     },
     {
         "Len": "Expert Knowledge Base in Integrated Maintenance Models for Engineering Plants",
@@ -1588,7 +1722,8 @@
         "P356": "10.1007/978-3-319-32229-2_36",
         "P921": null,
         "P1476": "Expert Knowledge Base in Integrated Maintenance Models for Engineering Plants",
-        "P577": "2016-05-25T09:49:49Z"
+        "P1433": "Recent Developments and New Direction in Soft-Computing Foundations and Applications",
+        "P577": "2016-05-25"
     },
     {
         "Len": "Exploring the Relationship between Soil Properties and Deterioration of Metallic Pipes Using Predictive Data Mining Methods",
@@ -1600,7 +1735,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Exploring the Relationship between Soil Properties and Deterioration of Metallic Pipes Using Predictive Data Mining Methods",
-        "P577": "2009-07-18T22:00:22Z"
+        "P1433": "Journal of Computing in Civil Engineering",
+        "P577": "2009-07-18"
     },
     {
         "Len": "Exposure to Crystalline Silica Inhalation Among Construction Workers: A Probabilistic Risk Analysis",
@@ -1609,7 +1745,8 @@
         "P356": "10.1080/10807039.2012.707931",
         "P921": null,
         "P1476": "Exposure to Crystalline Silica Inhalation Among Construction Workers: A Probabilistic Risk Analysis",
-        "P577": "2012-09-28T00:40:40Z"
+        "P1433": "Human and Ecological Risk Assessment: An International Journal",
+        "P577": "2012-09-28"
     },
     {
         "Len": "Fabrication and testing of a miniaturised water quality monitoring ph and conductivity sensors",
@@ -1618,7 +1755,8 @@
         "P356": "10.1016/j.snb.2013.12.002",
         "P921": null,
         "P1476": "Fabrication and testing of a miniaturised water quality monitoring ph and conductivity sensors",
-        "P577": "2013-12-08T13:46:08Z"
+        "P1433": "Sensors and Actuators B: Chemical",
+        "P577": "2013-12-08"
     },
     {
         "Len": "Fate of drilling waste discharges and ecological risk assessment in the Egyptian Red Sea: an aquivalence-based fuzzy analysis",
@@ -1627,7 +1765,8 @@
         "P356": "10.1007/s00477-012-0574-0",
         "P921": null,
         "P1476": "Fate of drilling waste discharges and ecological risk assessment in the Egyptian Red Sea: an aquivalence-based fuzzy analysis",
-        "P577": "2012-02-23T17:17:26Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2012-02-23"
     },
     {
         "Len": "Fate of drilling wastes in the marine environment",
@@ -1636,7 +1775,8 @@
         "P356": "10.1016/s0098-3004(99)00135-1",
         "P921": null,
         "P1476": "Fate of drilling wastes in the marine environment",
-        "P577": "2002-07-26T02:01:24Z"
+        "P1433": "Computers & Geosciences",
+        "P577": "2002-07-26"
     },
     {
         "Len": "Fault and event tree analyses for process systems risk analysis: uncertainty handling formulations",
@@ -1648,7 +1788,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Fault and event tree analyses for process systems risk analysis: uncertainty handling formulations",
-        "P577": "2010-08-21T15:42:27Z"
+        "P1433": "Risk Analysis",
+        "P577": "2010-08-21"
     },
     {
         "Len": "Fault tree analysis based on TOPSIS and triangular fuzzy number",
@@ -1657,7 +1798,8 @@
         "P356": "10.1007/s13198-014-0323-5",
         "P921": null,
         "P1476": "Fault tree analysis based on TOPSIS and triangular fuzzy number",
-        "P577": "2014-12-03T13:29:08Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2014-12-03"
     },
     {
         "Len": "Fit-for-purpose wastewater treatment: Conceptualization to development of decision support tool (I)",
@@ -1669,7 +1811,8 @@
             "Decision support"
         ],
         "P1476": "Fit-for-purpose wastewater treatment: Conceptualization to development of decision support tool (I)",
-        "P577": "2017-07-27T18:19:32Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2017-07-27"
     },
     {
         "Len": "Fit-for-purpose wastewater treatment: Testing to implementation of decision support tool (II)",
@@ -1683,7 +1826,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Fit-for-purpose wastewater treatment: Testing to implementation of decision support tool (II)",
-        "P577": "2017-07-27T18:20:49Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2017-07-27"
     },
     {
         "Len": "Framework for continuous performance improvement in small drinking water systems",
@@ -1694,7 +1838,8 @@
             "Drinking water"
         ],
         "P1476": "Framework for continuous performance improvement in small drinking water systems",
-        "P577": "2016-08-15T16:13:54Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2016-08-15"
     },
     {
         "Len": "Framework for cost-effective prediction of unregulated disinfection by-products in drinking water distribution using differential free chlorine",
@@ -1706,7 +1851,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Framework for cost-effective prediction of unregulated disinfection by-products in drinking water distribution using differential free chlorine",
-        "P577": "2018-08-01T11:32:25Z"
+        "P1433": "Environmental Science: Water Research & Technology",
+        "P577": "2018-08-01"
     },
     {
         "Len": "Framework for optimizing chlorine dose in small-to medium-sized water distribution systems: a case of a residential neighbourhood in Lahore, Pakistan",
@@ -1715,7 +1861,8 @@
         "P356": "10.4314/wsa.v41i5.4",
         "P921": null,
         "P1476": "Framework for optimizing chlorine dose in small-to medium-sized water distribution systems: a case of a residential neighbourhood in Lahore, Pakistan",
-        "P577": "2015-11-05T09:46:57Z"
+        "P1433": "Water SA",
+        "P577": "2015-11-05"
     },
     {
         "Len": "Framework for prioritizing infrastructure user expectations using Quality Function Deployment (QFD)",
@@ -1724,7 +1871,8 @@
         "P356": "10.1016/j.ijsbe.2017.02.002",
         "P921": null,
         "P1476": "Framework for prioritizing infrastructure user expectations using Quality Function Deployment (QFD)",
-        "P577": "2017-03-28T06:46:21Z"
+        "P1433": "International Journal of Sustainable Built Environment",
+        "P577": "2017-03-28"
     },
     {
         "Len": "Fuzzy Logic Expert System for Assessing Corrosion of Cast/Ductile Iron Water Mains using Soil Properties",
@@ -1738,7 +1886,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Fuzzy Logic Expert System for Assessing Corrosion of Cast/Ductile Iron Water Mains using Soil Properties",
-        "P577": "2005-10-27T11:12:44Z"
+        "P1433": "Computer-Aided Civil and Infrastructure Engineering",
+        "P577": "2005-10-27"
     },
     {
         "Len": "Fuzzy clustering analysis of hydraulic fracturing additives for environmental and human health risk mitigation",
@@ -1751,7 +1900,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Fuzzy clustering analysis of hydraulic fracturing additives for environmental and human health risk mitigation",
-        "P577": "2018-10-15T10:53:58Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2018-10-15"
     },
     {
         "Len": "Fuzzy cognitive maps for decision support to maintain water quality in ageing water mains",
@@ -1762,7 +1912,8 @@
             "Decision support"
         ],
         "P1476": "Fuzzy cognitive maps for decision support to maintain water quality in ageing water mains",
-        "P577": "2013-07-25T19:25:55Z"
+        "P1433": "2013 25th Chinese Control and Decision Conference (CCDC)",
+        "P577": "2013-07-25"
     },
     {
         "Len": "Fuzzy cognitive maps in systems risk analysis: a comprehensive review",
@@ -1773,7 +1924,8 @@
             "Modeling"
         ],
         "P1476": "Fuzzy cognitive maps in systems risk analysis: a comprehensive review",
-        "P577": "2020-11-25T23:02:31Z"
+        "P1433": "Complex & Intelligent Systems",
+        "P577": "2020-11-25"
     },
     {
         "Len": "Fuzzy fault tree analysis of hydraulic fracturing flowback water storage failure",
@@ -1784,7 +1936,8 @@
             "Energy Engineering and Power Technology"
         ],
         "P1476": "Fuzzy fault tree analysis of hydraulic fracturing flowback water storage failure",
-        "P577": "2019-10-23T00:51:35Z"
+        "P1433": "Journal of Natural Gas Science and Engineering",
+        "P577": "2019-10-23"
     },
     {
         "Len": "Fuzzy physiologically based pharmacokinetic (PBPK) model of chloroform in swimming pools",
@@ -1793,7 +1946,8 @@
         "P356": "10.1007/978-3-319-75408-6_38",
         "P921": null,
         "P1476": "Fuzzy physiologically based pharmacokinetic (PBPK) model of chloroform in swimming pools",
-        "P577": "2018-05-28T14:27:08Z"
+        "P1433": "Recent Developments and the New Direction in Soft-Computing Foundations and Applications",
+        "P577": "2018-05-28"
     },
     {
         "Len": "Fuzzy synthetic evaluation of disinfection by-products\u2014a risk-based indexing system",
@@ -1802,7 +1956,8 @@
         "P356": "10.1016/j.jenvman.2004.04.014",
         "P921": null,
         "P1476": "Fuzzy synthetic evaluation of disinfection by-products\u2014a risk-based indexing system",
-        "P577": "2004-08-05T08:22:06Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2004-08-05"
     },
     {
         "Len": "Fuzzy-based fugacity model for propagating uncertainty in assessing swimmer exposures to disinfection byproducts",
@@ -1813,7 +1968,8 @@
             "Uncertainty"
         ],
         "P1476": "Fuzzy-based fugacity model for propagating uncertainty in assessing swimmer exposures to disinfection byproducts",
-        "P577": "2012-09-07T19:57:39Z"
+        "P1433": "2012 Annual Meeting of the North American Fuzzy Information Processing Society (NAFIPS)",
+        "P577": "2012-09-07"
     },
     {
         "Len": "Fuzzy-based method to evaluate soil corrosivity for prediction of water main deterioration",
@@ -1824,7 +1980,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "Fuzzy-based method to evaluate soil corrosivity for prediction of water main deterioration",
-        "P577": "2004-11-16T14:12:01Z"
+        "P1433": "Journal of Infrastructure Systems",
+        "P577": "2004-11-16"
     },
     {
         "Len": "GIS-based vulnerability analysis of the United States to COVID-19 occurrence",
@@ -1838,7 +1995,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "GIS-based vulnerability analysis of the United States to COVID-19 occurrence",
-        "P577": "2021-02-20T07:57:24Z"
+        "P1433": "Journal of Risk Research",
+        "P577": "2021-02-20"
     },
     {
         "Len": "Generalized fuzzy cognitive maps: a new extension of fuzzy cognitive maps",
@@ -1850,7 +2008,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Generalized fuzzy cognitive maps: a new extension of fuzzy cognitive maps",
-        "P577": "2016-03-22T02:51:39Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2016-03-22"
     },
     {
         "Len": "Generating Z-number based on OWA weights using maximum entropy",
@@ -1864,7 +2023,8 @@
             "Artificial Intelligence"
         ],
         "P1476": "Generating Z-number based on OWA weights using maximum entropy",
-        "P577": "2018-05-07T13:26:19Z"
+        "P1433": "International Journal of Intelligent Systems",
+        "P577": "2018-05-07"
     },
     {
         "Len": "Green blasting policy: simultaneous forecast of vertical and horizontal distribution of dust emissions using artificial causality-weighted neural network",
@@ -1878,7 +2038,8 @@
             "General Environmental Science"
         ],
         "P1476": "Green blasting policy: simultaneous forecast of vertical and horizontal distribution of dust emissions using artificial causality-weighted neural network",
-        "P577": "2020-10-07T06:26:03Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2020-10-07"
     },
     {
         "Len": "GreenPro-I: a risk-based life cycle assessment and decision-making methodology for process plant design",
@@ -1891,7 +2052,8 @@
             "Software"
         ],
         "P1476": "GreenPro-I: a risk-based life cycle assessment and decision-making methodology for process plant design",
-        "P577": "2002-10-07T19:24:03Z"
+        "P1433": "Environmental Modelling & Software",
+        "P577": "2002-10-07"
     },
     {
         "Len": "HEALTH2: A Holistic Environmental Assessment Lay Tool for Home Health",
@@ -1903,7 +2065,8 @@
             "General Environmental Science"
         ],
         "P1476": "HEALTH2: A Holistic Environmental Assessment Lay Tool for Home Health",
-        "P577": "2015-02-18T22:34:50Z"
+        "P1433": "Canadian Journal of Civil Engineering",
+        "P577": "2015-02-18"
     },
     {
         "Len": "Handling and updating uncertain information in bow-tie analysis",
@@ -1912,7 +2075,8 @@
         "P356": "10.1016/j.jlp.2011.06.018",
         "P921": null,
         "P1476": "Handling and updating uncertain information in bow-tie analysis",
-        "P577": "2011-06-26T03:38:33Z"
+        "P1433": "Journal of Loss Prevention in the Process Industries",
+        "P577": "2011-06-26"
     },
     {
         "Len": "Handling data uncertainties in event tree analysis",
@@ -1926,7 +2090,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Handling data uncertainties in event tree analysis",
-        "P577": "2009-08-19T04:33:18Z"
+        "P1433": "Process Safety and Environmental Protection",
+        "P577": "2009-08-19"
     },
     {
         "Len": "Handling incomplete and missing data in water network database using imputation methods",
@@ -1935,7 +2100,8 @@
         "P356": "10.1080/23789689.2019.1600960",
         "P921": null,
         "P1476": "Handling incomplete and missing data in water network database using imputation methods",
-        "P577": "2019-04-24T10:49:31Z"
+        "P1433": "Sustainable and Resilient Infrastructure",
+        "P577": "2019-04-24"
     },
     {
         "Len": "Hazard assessment of hydraulic fracturing chemicals using an indexing method",
@@ -1949,7 +2115,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Hazard assessment of hydraulic fracturing chemicals using an indexing method",
-        "P577": "2017-11-29T14:09:12Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2017-11-29"
     },
     {
         "Len": "Heavy metals risk assessment in drinking water: an integrated probabilistic-fuzzy approach",
@@ -1963,7 +2130,8 @@
             "General Medicine"
         ],
         "P1476": "Heavy metals risk assessment in drinking water: an integrated probabilistic-fuzzy approach",
-        "P577": "2019-09-12T09:22:17Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2019-09-12"
     },
     {
         "Len": "Human health assessment for remediation technologies (HEART): a multi-criteria decision analysis tool",
@@ -1975,7 +2143,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Human health assessment for remediation technologies (HEART): a multi-criteria decision analysis tool",
-        "P577": "2016-02-02T12:24:28Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2016-02-02"
     },
     {
         "Len": "Human health risk-based life cycle assessment of drinking water treatment for heavy metal (loids) removal",
@@ -1989,7 +2158,8 @@
             "General Environmental Science"
         ],
         "P1476": "Human health risk-based life cycle assessment of drinking water treatment for heavy metal (loids) removal",
-        "P577": "2020-05-11T14:45:12Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2020-05-11"
     },
     {
         "Len": "IMPAKT: Oil and Gas Pipeline Integrity Management Program Assessment",
@@ -2001,7 +2171,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "IMPAKT: Oil and Gas Pipeline Integrity Management Program Assessment",
-        "P577": "2018-05-26T10:02:46Z"
+        "P1433": "Journal of Pipeline Systems Engineering and Practice",
+        "P577": "2018-05-26"
     },
     {
         "Len": "Impact of catchment geophysical characteristics and climate on the regional variability of dissolved organic carbon (DOC) in surface water",
@@ -2015,7 +2186,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Impact of catchment geophysical characteristics and climate on the regional variability of dissolved organic carbon (DOC) in surface water",
-        "P577": "2014-06-07T01:16:41Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2014-06-07"
     },
     {
         "Len": "Impact of human operational factors on drinking water quality in small systems: an exploratory analysis",
@@ -2026,7 +2198,8 @@
             "Drinking water"
         ],
         "P1476": "Impact of human operational factors on drinking water quality in small systems: an exploratory analysis",
-        "P577": "2016-06-03T04:07:27Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2016-06-03"
     },
     {
         "Len": "Impact of raw water quality and climate factors on the variability of drinking water quality in small systems",
@@ -2038,7 +2211,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Impact of raw water quality and climate factors on the variability of drinking water quality in small systems",
-        "P577": "2016-04-07T06:15:07Z"
+        "P1433": "Water Resources Management",
+        "P577": "2016-04-07"
     },
     {
         "Len": "Impact of roles assignation on heterogeneous populations in evolutionary dictator game",
@@ -2047,7 +2221,8 @@
         "P356": "10.1038/srep06937",
         "P921": null,
         "P1476": "Impact of roles assignation on heterogeneous populations in evolutionary dictator game",
-        "P577": "2014-11-07T10:26:47Z"
+        "P1433": "Scientific Reports",
+        "P577": "2014-11-07"
     },
     {
         "Len": "Impacts of Water Quality on the Spatiotemporal Susceptibility of Water Distribution Systems",
@@ -2060,7 +2235,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Impacts of Water Quality on the Spatiotemporal Susceptibility of Water Distribution Systems",
-        "P577": "2019-03-25T17:51:11Z"
+        "P1433": "CLEAN \u2013 Soil, Air, Water",
+        "P577": "2019-03-25"
     },
     {
         "Len": "Impacts of neighborhood densification on water-energy-carbon nexus: investigating water distribution and residential landscaping system",
@@ -2069,7 +2245,8 @@
         "P356": "10.1016/j.jclepro.2017.04.113",
         "P921": null,
         "P1476": "Impacts of neighborhood densification on water-energy-carbon nexus: investigating water distribution and residential landscaping system",
-        "P577": "2017-04-19T06:46:24Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2017-04-19"
     },
     {
         "Len": "Improving the capital deployment efficiency: An infrastructure investment planning process in transportation project",
@@ -2081,7 +2258,8 @@
             "Transportation"
         ],
         "P1476": "Improving the capital deployment efficiency: An infrastructure investment planning process in transportation project",
-        "P577": "2021-03-11T03:50:43Z"
+        "P1433": "Research in Transportation Economics",
+        "P577": "2021-03-11"
     },
     {
         "Len": "Improving the energy efficiency of the existing building stock: A critical review of commercial and institutional buildings",
@@ -2090,7 +2268,8 @@
         "P356": "10.1016/j.rser.2015.09.084",
         "P921": null,
         "P1476": "Improving the energy efficiency of the existing building stock: A critical review of commercial and institutional buildings",
-        "P577": "2015-11-10T23:16:04Z"
+        "P1433": "Renewable and Sustainable Energy Reviews",
+        "P577": "2015-11-10"
     },
     {
         "Len": "Infrastructure at the crossroads-beyond sustainability",
@@ -2099,7 +2278,8 @@
         "P356": "10.3389/frsc.2020.593908",
         "P921": null,
         "P1476": "Infrastructure at the crossroads-beyond sustainability",
-        "P577": "2020-10-20T05:42:37Z"
+        "P1433": "Frontiers in Sustainable Cities",
+        "P577": "2020-10-20"
     },
     {
         "Len": "Inspection and maintenance of oil & gas pipelines: a review of policies",
@@ -2108,7 +2288,8 @@
         "P356": "10.1080/15732479.2016.1187632",
         "P921": null,
         "P1476": "Inspection and maintenance of oil & gas pipelines: a review of policies",
-        "P577": "2016-06-17T13:21:12Z"
+        "P1433": "Structure and Infrastructure Engineering",
+        "P577": "2016-06-17"
     },
     {
         "Len": "Integrated decision support system for prognostic and diagnostic analyses of water distribution system failures",
@@ -2119,7 +2300,8 @@
             "Decision support"
         ],
         "P1476": "Integrated decision support system for prognostic and diagnostic analyses of water distribution system failures",
-        "P577": "2016-04-14T08:02:57Z"
+        "P1433": "Water Resources Management",
+        "P577": "2016-04-14"
     },
     {
         "Len": "Integrated level of service index for buried water infrastructure: Selection and development of performance indicators",
@@ -2133,7 +2315,8 @@
             "Transportation"
         ],
         "P1476": "Integrated level of service index for buried water infrastructure: Selection and development of performance indicators",
-        "P577": "2021-02-23T11:26:28Z"
+        "P1433": "Sustainable Cities and Society",
+        "P577": "2021-02-23"
     },
     {
         "Len": "Integrated planning framework for urban stormwater management: one water approach",
@@ -2142,7 +2325,8 @@
         "P356": "10.1080/23789689.2020.1871542",
         "P921": null,
         "P1476": "Integrated planning framework for urban stormwater management: one water approach",
-        "P577": "2021-01-21T06:18:11Z"
+        "P1433": "Sustainable and Resilient Infrastructure",
+        "P577": "2021-01-21"
     },
     {
         "Len": "Integrating Bayesian Linear Regression with Ordered Weighted Averaging: Uncertainty Analysis for Predicting Water Main Failures",
@@ -2153,7 +2337,8 @@
             "Uncertainty"
         ],
         "P1476": "Integrating Bayesian Linear Regression with Ordered Weighted Averaging: Uncertainty Analysis for Predicting Water Main Failures",
-        "P577": "2015-04-08T15:05:53Z"
+        "P1433": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering",
+        "P577": "2015-04-08"
     },
     {
         "Len": "Integrating failure prediction models for water mains: Bayesian belief network based data fusion",
@@ -2162,7 +2347,8 @@
         "P356": "10.1016/j.knosys.2015.05.002",
         "P921": null,
         "P1476": "Integrating failure prediction models for water mains: Bayesian belief network based data fusion",
-        "P577": "2015-05-09T07:28:49Z"
+        "P1433": "Knowledge-Based Systems",
+        "P577": "2015-05-09"
     },
     {
         "Len": "Integrating indicators for performance assessment of small water utilities using ordered weighted averaging (OWA) operators",
@@ -2171,7 +2357,8 @@
         "P356": "10.1016/j.eswa.2009.12.027",
         "P921": null,
         "P1476": "Integrating indicators for performance assessment of small water utilities using ordered weighted averaging (OWA) operators",
-        "P577": "2009-12-17T14:21:34Z"
+        "P1433": "Expert Systems with Applications",
+        "P577": "2009-12-17"
     },
     {
         "Len": "Intentional contamination of water distribution networks: developing indicators for sensitivity and vulnerability assessments",
@@ -2180,7 +2367,8 @@
         "P356": "10.1007/s00477-017-1415-y",
         "P921": null,
         "P1476": "Intentional contamination of water distribution networks: developing indicators for sensitivity and vulnerability assessments",
-        "P577": "2017-04-18T11:06:25Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2017-04-18"
     },
     {
         "Len": "Inter-University sustainability benchmarking for Canadian higher education institutions: Water, energy, and carbon flows for technical-level decision-making",
@@ -2193,7 +2381,8 @@
             "Management, Monitoring, Policy and Law"
         ],
         "P1476": "Inter-University sustainability benchmarking for Canadian higher education institutions: Water, energy, and carbon flows for technical-level decision-making",
-        "P577": "2019-05-09T12:19:59Z"
+        "P1433": "Sustainability",
+        "P577": "2019-05-09"
     },
     {
         "Len": "Inter-Utility Performance Benchmarking Model for Small-to-Medium-Sized Water Utilities: Aggregated Performance Indices",
@@ -2207,7 +2396,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Inter-Utility Performance Benchmarking Model for Small-to-Medium-Sized Water Utilities: Aggregated Performance Indices",
-        "P577": "2015-06-22T15:27:37Z"
+        "P1433": "Journal of Water Resources Planning and Management",
+        "P577": "2015-06-22"
     },
     {
         "Len": "International Journal of System Assurance Engineering and Management",
@@ -2219,7 +2409,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "International Journal of System Assurance Engineering and Management",
-        "P577": "2013-05-25T04:22:27Z"
+        "P1433": "Springer Science and Business Media LLC",
+        "P577": "2013-05-25"
     },
     {
         "Len": "Interpreting drinking water quality in the distribution system using Dempster\u2013Shafer theory of evidence",
@@ -2232,7 +2423,8 @@
             "General Medicine"
         ],
         "P1476": "Interpreting drinking water quality in the distribution system using Dempster\u2013Shafer theory of evidence",
-        "P577": "2005-01-19T12:29:53Z"
+        "P1433": "Chemosphere",
+        "P577": "2005-01-19"
     },
     {
         "Len": "Interval belief structure rule-based system using extended fuzzy Dempster-Shafer inference",
@@ -2241,7 +2433,8 @@
         "P356": "10.1109/icsmc.2011.6084122",
         "P921": null,
         "P1476": "Interval belief structure rule-based system using extended fuzzy Dempster-Shafer inference",
-        "P577": "2011-11-23T16:53:12Z"
+        "P1433": "2011 IEEE International Conference on Systems, Man, and Cybernetics",
+        "P577": "2011-11-23"
     },
     {
         "Len": "Intra-utility performance management model (In-UPM) for the sustainability of small to medium sized water utilities: Conceptualization to development",
@@ -2250,7 +2443,8 @@
         "P356": "10.1016/j.jclepro.2016.06.003",
         "P921": null,
         "P1476": "Intra-utility performance management model (In-UPM) for the sustainability of small to medium sized water utilities: Conceptualization to development",
-        "P577": "2016-06-04T23:13:49Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2016-06-04"
     },
     {
         "Len": "Investigating evidential reasoning for the interpretation of microbial water quality in a distribution network",
@@ -2265,7 +2459,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Investigating evidential reasoning for the interpretation of microbial water quality in a distribution network",
-        "P577": "2006-03-08T10:39:11Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2006-03-08"
     },
     {
         "Len": "Investigating the effects of design and management factors on DBPs levels in indoor aquatic centres",
@@ -2274,7 +2469,8 @@
         "P356": "10.1016/j.scitotenv.2018.09.172",
         "P921": null,
         "P1476": "Investigating the effects of design and management factors on DBPs levels in indoor aquatic centres",
-        "P577": "2018-09-17T16:21:17Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2018-09-17"
     },
     {
         "Len": "Investigating the impacts of plausible Canadian policies and their supporting mechanisms on export-based regional air pollution in China: A cement manufacturing case study",
@@ -2283,11 +2479,12 @@
         "P356": "10.1139/facets-2017-0109",
         "P921": [
             "Policy",
-            "Environmental",
-            "Climate change"
+            "Climate change",
+            "Environmental"
         ],
         "P1476": "Investigating the impacts of plausible Canadian policies and their supporting mechanisms on export-based regional air pollution in China: A cement manufacturing case study",
-        "P577": "2018-10-11T10:00:59Z"
+        "P1433": "FACETS",
+        "P577": "2018-10-11"
     },
     {
         "Len": "Investigating the impacts of urban densification on buried water infrastructure through DPSIR framework",
@@ -2301,7 +2498,8 @@
             "General Environmental Science"
         ],
         "P1476": "Investigating the impacts of urban densification on buried water infrastructure through DPSIR framework",
-        "P577": "2020-03-05T22:40:58Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2020-03-05"
     },
     {
         "Len": "Investigating the public health risks of low impact developments at residential, neighbourhood, and municipal levels",
@@ -2315,7 +2513,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Investigating the public health risks of low impact developments at residential, neighbourhood, and municipal levels",
-        "P577": "2020-07-06T15:10:58Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2020-07-06"
     },
     {
         "Len": "Investigating unregulated disinfection byproduct reduction efficiencies in drinking waters using zirconium oxychloride, a novel coagulant",
@@ -2326,7 +2525,8 @@
             "Drinking water"
         ],
         "P1476": "Investigating unregulated disinfection byproduct reduction efficiencies in drinking waters using zirconium oxychloride, a novel coagulant",
-        "P577": "2020-07-11T00:17:16Z"
+        "P1433": "Journal of Water Process Engineering",
+        "P577": "2020-07-11"
     },
     {
         "Len": "Landmine detection using an autonomous terrain\u2010scanning robot",
@@ -2339,7 +2539,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Landmine detection using an autonomous terrain\u2010scanning robot",
-        "P577": "2005-06-01T00:02:59Z"
+        "P1433": "Industrial Robot: An International Journal",
+        "P577": "2005-06-01"
     },
     {
         "Len": "Leakage detection and location in water distribution systems using a fuzzy-based methodology",
@@ -2348,7 +2549,8 @@
         "P356": "10.1080/1573062x.2011.617829",
         "P921": null,
         "P1476": "Leakage detection and location in water distribution systems using a fuzzy-based methodology",
-        "P577": "2011-10-18T03:10:00Z"
+        "P1433": "Urban Water Journal",
+        "P577": "2011-10-18"
     },
     {
         "Len": "Life Cycle Thinking\u2013Based Selection of Building Facades",
@@ -2362,7 +2564,8 @@
             "Building and Construction"
         ],
         "P1476": "Life Cycle Thinking\u2013Based Selection of Building Facades",
-        "P577": "2018-09-18T15:49:37Z"
+        "P1433": "Journal of Architectural Engineering",
+        "P577": "2018-09-18"
     },
     {
         "Len": "Life cycle assessment of low-temperature thermal desorption-based technologies for drill cuttings treatment",
@@ -2377,7 +2580,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Life cycle assessment of low-temperature thermal desorption-based technologies for drill cuttings treatment",
-        "P577": "2020-09-02T16:21:43Z"
+        "P1433": "Journal of Hazardous Materials",
+        "P577": "2020-09-02"
     },
     {
         "Len": "Life cycle assessment of residential buildings: a case study in Canada",
@@ -2391,7 +2595,8 @@
             "Building and Construction"
         ],
         "P1476": "Life cycle assessment of residential buildings: a case study in Canada",
-        "P577": "2020-04-06T02:58:56Z"
+        "P1433": "Energy and Buildings",
+        "P577": "2020-04-06"
     },
     {
         "Len": "Life cycle cost analysis for recycling high-tech minerals from waste mobile phones in China",
@@ -2405,7 +2610,8 @@
             "General Environmental Science"
         ],
         "P1476": "Life cycle cost analysis for recycling high-tech minerals from waste mobile phones in China",
-        "P577": "2019-12-04T13:28:24Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2019-12-04"
     },
     {
         "Len": "Life cycle greenhouse gas footprint of shale gas: a probabilistic approach",
@@ -2420,7 +2626,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Life cycle greenhouse gas footprint of shale gas: a probabilistic approach",
-        "P577": "2014-04-10T13:55:14Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2014-04-10"
     },
     {
         "Len": "Life cycle iNdeX (LInX): a new indexing procedure for process and product design and decision-making",
@@ -2434,7 +2641,8 @@
             "General Environmental Science"
         ],
         "P1476": "Life cycle iNdeX (LInX): a new indexing procedure for process and product design and decision-making",
-        "P577": "2003-03-04T16:04:10Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2003-03-04"
     },
     {
         "Len": "Life cycle sustainability assessment (LCSA) for selection of sewer pipe materials",
@@ -2443,7 +2651,8 @@
         "P356": "10.1007/s10098-014-0849-x",
         "P921": null,
         "P1476": "Life cycle sustainability assessment (LCSA) for selection of sewer pipe materials",
-        "P577": "2014-09-18T20:53:45Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2014-09-18"
     },
     {
         "Len": "Low-temperature thermal desorption and secure landfill for oil-based drill cuttings management: Pollution control, human health risk, and probabilistic cost assessment",
@@ -2458,7 +2667,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Low-temperature thermal desorption and secure landfill for oil-based drill cuttings management: Pollution control, human health risk, and probabilistic cost assessment",
-        "P577": "2020-11-14T12:40:07Z"
+        "P1433": "Journal of Hazardous Materials",
+        "P577": "2020-11-14"
     },
     {
         "Len": "Machine learning approaches to predict coagulant dosage in water treatment plants",
@@ -2470,7 +2680,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Machine learning approaches to predict coagulant dosage in water treatment plants",
-        "P577": "2013-05-17T10:52:44Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2013-05-17"
     },
     {
         "Len": "Management of Civil Infrastructure Systems: QFD-Based Approach",
@@ -2481,7 +2692,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "Management of Civil Infrastructure Systems: QFD-Based Approach",
-        "P577": "2013-02-21T13:54:15Z"
+        "P1433": "Journal of Infrastructure Systems",
+        "P577": "2013-02-21"
     },
     {
         "Len": "Management of failure risk in large-diameter buried pipes using fuzzy-based techniques",
@@ -2490,7 +2702,8 @@
         "P356": "10.2166/aqua.2006.075",
         "P921": null,
         "P1476": "Management of failure risk in large-diameter buried pipes using fuzzy-based techniques",
-        "P577": "2015-12-15T08:43:34Z"
+        "P1433": "Journal of Water Supply: Research and Technology - Aqua",
+        "P577": "2015-12-15"
     },
     {
         "Len": "Managing water main breaks in distribution networks\u2013\u2013A risk-based decision making",
@@ -2502,7 +2715,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Managing water main breaks in distribution networks\u2013\u2013A risk-based decision making",
-        "P577": "2019-07-13T14:40:54Z"
+        "P1433": "Reliability Engineering & System Safety",
+        "P577": "2019-07-13"
     },
     {
         "Len": "Mapping safety culture attributes with integrity management program to achieve assessment goals: A framework for oil and gas pipelines industry",
@@ -2511,7 +2725,8 @@
         "P356": "10.1016/j.jsr.2018.12.010",
         "P921": null,
         "P1476": "Mapping safety culture attributes with integrity management program to achieve assessment goals: A framework for oil and gas pipelines industry",
-        "P577": "2018-12-28T22:59:26Z"
+        "P1433": "Journal of Safety Research",
+        "P577": "2018-12-28"
     },
     {
         "Len": "Marine water quality assessment of synthetic-based drilling waste discharges",
@@ -2523,7 +2738,8 @@
             "General Environmental Science"
         ],
         "P1476": "Marine water quality assessment of synthetic-based drilling waste discharges",
-        "P577": "2003-09-18T22:32:58Z"
+        "P1433": "International Journal of Environmental Studies",
+        "P577": "2003-09-18"
     },
     {
         "Len": "Mattress",
@@ -2532,7 +2748,8 @@
         "P356": "10.1163/1574-9347_bnp_e726670",
         "P921": null,
         "P1476": "Mattress",
-        "P577": "2014-08-18T06:52:15Z"
+        "P1433": "Brill\u2019s New Pauly",
+        "P577": "2014-08-18"
     },
     {
         "Len": "Microbial quality of reclaimed water for urban reuses: Probabilistic risk-based investigation and recommendations",
@@ -2541,7 +2758,8 @@
         "P356": "10.1016/j.scitotenv.2016.10.105",
         "P921": null,
         "P1476": "Microbial quality of reclaimed water for urban reuses: Probabilistic risk-based investigation and recommendations",
-        "P577": "2016-10-28T11:00:14Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2016-10-28"
     },
     {
         "Len": "Minimizing the impacts of contaminant intrusion in small water distribution networks through booster chlorination optimization",
@@ -2550,7 +2768,8 @@
         "P356": "10.1007/s00477-017-1440-x",
         "P921": null,
         "P1476": "Minimizing the impacts of contaminant intrusion in small water distribution networks through booster chlorination optimization",
-        "P577": "2017-08-01T19:48:34Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2017-08-01"
     },
     {
         "Len": "Modeling DBPs formation in drinking water in residential plumbing pipes and hot water tanks",
@@ -2564,7 +2783,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Modeling DBPs formation in drinking water in residential plumbing pipes and hot water tanks",
-        "P577": "2010-08-12T08:39:13Z"
+        "P1433": "Water Research",
+        "P577": "2010-08-12"
     },
     {
         "Len": "Modeling contaminant intrusion in water distribution networks based on D numbers",
@@ -2577,7 +2797,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Modeling contaminant intrusion in water distribution networks based on D numbers",
-        "P577": "2010-07-20T09:01:52Z"
+        "P1433": "Expert Systems with Applications",
+        "P577": "2010-07-20"
     },
     {
         "Len": "Modeling exposure period for solar disinfection (SODIS) under varying turbidity and cloud cover conditions",
@@ -2590,7 +2811,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Modeling exposure period for solar disinfection (SODIS) under varying turbidity and cloud cover conditions",
-        "P577": "2013-10-03T13:23:20Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2013-10-03"
     },
     {
         "Len": "Modeling failure risk in buried pipes using fuzzy Markov deterioration process",
@@ -2601,7 +2823,8 @@
             "Modeling"
         ],
         "P1476": "Modeling failure risk in buried pipes using fuzzy Markov deterioration process",
-        "P577": "2004-11-17T15:18:16Z"
+        "P1433": "Pipeline Engineering and Construction",
+        "P577": "2004-11-17"
     },
     {
         "Len": "Modeling hydraulics and water quality in distribution networks: a review of existing mathematical techniques and software",
@@ -2612,7 +2835,8 @@
             "Modeling"
         ],
         "P1476": "Modeling hydraulics and water quality in distribution networks: a review of existing mathematical techniques and software",
-        "P577": "2021-02-21T23:33:06Z"
+        "P1433": "Water Engineering Modeling and Mathematic Tools",
+        "P577": "2021-02-21"
     },
     {
         "Len": "Modeling of heterotrophic bacteria in a water distribution system",
@@ -2626,7 +2850,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Modeling of heterotrophic bacteria in a water distribution system",
-        "P577": "2008-12-05T15:22:23Z"
+        "P1433": "Water Research",
+        "P577": "2008-12-05"
     },
     {
         "Len": "Modeling pipe deterioration using soil properties-an application of fuzzy logic expert system",
@@ -2634,11 +2859,12 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1061/40745(146)73",
         "P921": [
-            "Modeling",
-            "Soil"
+            "Soil",
+            "Modeling"
         ],
         "P1476": "Modeling pipe deterioration using soil properties-an application of fuzzy logic expert system",
-        "P577": "2004-11-17T15:18:16Z"
+        "P1433": "Pipeline Engineering and Construction",
+        "P577": "2004-11-17"
     },
     {
         "Len": "Modeling the deterioration of buried infrastructure as a fuzzy Markov process. Submitted for publication to",
@@ -2649,7 +2875,8 @@
             "Modeling"
         ],
         "P1476": "Modeling the deterioration of buried infrastructure as a fuzzy Markov process. Submitted for publication to",
-        "P577": "2015-12-15T08:44:07Z"
+        "P1433": "Journal of Water Supply: Research and Technology - Aqua",
+        "P577": "2015-12-15"
     },
     {
         "Len": "Modelling the potential for water quality failures in distribution networks: framework (I)",
@@ -2663,7 +2890,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Modelling the potential for water quality failures in distribution networks: framework (I)",
-        "P577": "2013-04-16T09:48:29Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2013-04-16"
     },
     {
         "Len": "Modelling the regional variability of the probability of high trihalomethane occurrence in municipal drinking water",
@@ -2674,7 +2902,8 @@
             "Drinking water"
         ],
         "P1476": "Modelling the regional variability of the probability of high trihalomethane occurrence in municipal drinking water",
-        "P577": "2015-11-12T12:44:19Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2015-11-12"
     },
     {
         "Len": "Multi-level information fusion for spatiotemporal monitoring in water distribution networks",
@@ -2683,7 +2912,8 @@
         "P356": "10.1016/j.eswa.2014.11.014",
         "P921": null,
         "P1476": "Multi-level information fusion for spatiotemporal monitoring in water distribution networks",
-        "P577": "2014-12-01T01:46:36Z"
+        "P1433": "Expert Systems with Applications",
+        "P577": "2014-12-01"
     },
     {
         "Len": "Multi-objective transient peak shaving optimization of a gas pipeline system under demand uncertainty",
@@ -2695,7 +2925,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Multi-objective transient peak shaving optimization of a gas pipeline system under demand uncertainty",
-        "P577": "2021-02-16T04:24:32Z"
+        "P1433": "Computers & Chemical Engineering",
+        "P577": "2021-02-16"
     },
     {
         "Len": "Multi-period maintenance planning for public buildings: A risk based approach for climate conscious operation",
@@ -2709,7 +2940,8 @@
             "General Environmental Science"
         ],
         "P1476": "Multi-period maintenance planning for public buildings: A risk based approach for climate conscious operation",
-        "P577": "2017-09-18T19:28:09Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2017-09-18"
     },
     {
         "Len": "Multicriteria information fusion using a fuzzy evidential rule-based framework",
@@ -2718,7 +2950,8 @@
         "P356": "10.1109/icsmc.2012.6378014",
         "P921": null,
         "P1476": "Multicriteria information fusion using a fuzzy evidential rule-based framework",
-        "P577": "2012-12-18T21:52:04Z"
+        "P1433": "2012 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+        "P577": "2012-12-18"
     },
     {
         "Len": "Multilevel performance management framework for small to medium sized water utilities in Canada",
@@ -2730,7 +2963,8 @@
             "General Environmental Science"
         ],
         "P1476": "Multilevel performance management framework for small to medium sized water utilities in Canada",
-        "P577": "2015-08-17T21:36:05Z"
+        "P1433": "Canadian Journal of Civil Engineering",
+        "P577": "2015-08-17"
     },
     {
         "Len": "Multimedia fate of oil spills in a marine environment\u2014An integrated modelling approach",
@@ -2744,7 +2978,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Multimedia fate of oil spills in a marine environment\u2014An integrated modelling approach",
-        "P577": "2009-09-24T13:53:21Z"
+        "P1433": "Process Safety and Environmental Protection",
+        "P577": "2009-09-24"
     },
     {
         "Len": "Multiple stakeholders in multi-criteria decision-making in the context of municipal solid waste management: a review",
@@ -2753,7 +2988,8 @@
         "P356": "10.1016/j.wasman.2014.09.010",
         "P921": null,
         "P1476": "Multiple stakeholders in multi-criteria decision-making in the context of municipal solid waste management: a review",
-        "P577": "2014-10-07T18:29:31Z"
+        "P1433": "Waste Management",
+        "P577": "2014-10-07"
     },
     {
         "Len": "Networked fuzzy belief rule-based system for spatiotemporal monitoring",
@@ -2762,7 +2998,8 @@
         "P356": "10.1109/ifsa-nafips.2013.6608519",
         "P921": null,
         "P1476": "Networked fuzzy belief rule-based system for spatiotemporal monitoring",
-        "P577": "2013-10-01T18:39:42Z"
+        "P1433": "2013 Joint IFSA World Congress and NAFIPS Annual Meeting (IFSA/NAFIPS)",
+        "P577": "2013-10-01"
     },
     {
         "Len": "Numerical Study on Stress Concentration Factors at Splice Welds of Structural Steel Pipes",
@@ -2771,7 +3008,8 @@
         "P356": "10.4043/25072-ms",
         "P921": null,
         "P1476": "Numerical Study on Stress Concentration Factors at Splice Welds of Structural Steel Pipes",
-        "P577": "2015-02-25T17:14:04Z"
+        "P1433": "All Days",
+        "P577": "2015-02-25"
     },
     {
         "Len": "Occupant-based energy upgrades selection for Canadian residential buildings based on field energy data and calibrated simulations",
@@ -2785,7 +3023,8 @@
             "General Environmental Science"
         ],
         "P1476": "Occupant-based energy upgrades selection for Canadian residential buildings based on field energy data and calibrated simulations",
-        "P577": "2020-06-16T03:30:48Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2020-06-16"
     },
     {
         "Len": "Offshore Drilling Waste Discharge: Egyptian Environmental Regulations",
@@ -2796,7 +3035,8 @@
             "Environmental"
         ],
         "P1476": "Offshore Drilling Waste Discharge: Egyptian Environmental Regulations",
-        "P577": "2012-11-11T08:03:00Z"
+        "P1433": "All Days",
+        "P577": "2012-11-11"
     },
     {
         "Len": "On the issue of incomplete and missing water-quality data in mine site databases: comparing three imputation methods",
@@ -2805,7 +3045,8 @@
         "P356": "10.1007/s10230-014-0322-4",
         "P921": null,
         "P1476": "On the issue of incomplete and missing water-quality data in mine site databases: comparing three imputation methods",
-        "P577": "2014-12-13T05:55:57Z"
+        "P1433": "Mine Water and the Environment",
+        "P577": "2014-12-13"
     },
     {
         "Len": "Online drinking water quality monitoring: review on available and emerging technologies",
@@ -2819,7 +3060,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Online drinking water quality monitoring: review on available and emerging technologies",
-        "P577": "2013-09-06T12:17:37Z"
+        "P1433": "Critical Reviews in Environmental Science and Technology",
+        "P577": "2013-09-06"
     },
     {
         "Len": "Online monitoring of drinking water quality in a distribution network: a selection procedure for suitable water quality parameters and sensor devices",
@@ -2830,7 +3072,8 @@
             "Drinking water"
         ],
         "P1476": "Online monitoring of drinking water quality in a distribution network: a selection procedure for suitable water quality parameters and sensor devices",
-        "P577": "2012-10-30T12:34:23Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2012-10-30"
     },
     {
         "Len": "Opportunities and challenges in energy demand reduction for Canadian residential sector: A review",
@@ -2841,7 +3084,8 @@
             "Renewable Energy, Sustainability and the Environment"
         ],
         "P1476": "Opportunities and challenges in energy demand reduction for Canadian residential sector: A review",
-        "P577": "2017-07-11T09:00:54Z"
+        "P1433": "Renewable and Sustainable Energy Reviews",
+        "P577": "2017-07-11"
     },
     {
         "Len": "Optimal renewable energy supply choices for net-zero ready buildings: A life cycle thinking approach under uncertainty",
@@ -2855,7 +3099,8 @@
             "Building and Construction"
         ],
         "P1476": "Optimal renewable energy supply choices for net-zero ready buildings: A life cycle thinking approach under uncertainty",
-        "P577": "2019-07-17T15:51:22Z"
+        "P1433": "Energy and Buildings",
+        "P577": "2019-07-17"
     },
     {
         "Len": "Optimization of chlorination boosters in drinking water distribution network for Al-Khobar City in Saudi Arabia",
@@ -2866,7 +3111,8 @@
             "Drinking water"
         ],
         "P1476": "Optimization of chlorination boosters in drinking water distribution network for Al-Khobar City in Saudi Arabia",
-        "P577": "2016-07-07T11:03:44Z"
+        "P1433": "Arabian Journal of Geosciences",
+        "P577": "2016-07-07"
     },
     {
         "Len": "Optimization of hydraulic fracturing wastewater management alternatives: A hybrid multi-objective linear programming model",
@@ -2880,7 +3126,8 @@
             "General Environmental Science"
         ],
         "P1476": "Optimization of hydraulic fracturing wastewater management alternatives: A hybrid multi-objective linear programming model",
-        "P577": "2020-11-05T13:43:56Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2020-11-05"
     },
     {
         "Len": "Optimization of integrated fuzzy decision tree and regression models for selection of oil spill response method in the Arctic",
@@ -2894,7 +3141,8 @@
             "Artificial Intelligence"
         ],
         "P1476": "Optimization of integrated fuzzy decision tree and regression models for selection of oil spill response method in the Arctic",
-        "P577": "2020-12-18T14:54:09Z"
+        "P1433": "Knowledge-Based Systems",
+        "P577": "2020-12-18"
     },
     {
         "Len": "Optimizing Locations for Chlorine Booster Stations in Small Water Distribution Networks",
@@ -2908,7 +3156,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Optimizing Locations for Chlorine Booster Stations in Small Water Distribution Networks",
-        "P577": "2017-03-17T14:34:04Z"
+        "P1433": "Journal of Water Resources Planning and Management",
+        "P577": "2017-03-17"
     },
     {
         "Len": "Optimizing booster chlorination in water distribution networks: a water quality index approach",
@@ -2922,7 +3171,8 @@
             "General Medicine"
         ],
         "P1476": "Optimizing booster chlorination in water distribution networks: a water quality index approach",
-        "P577": "2013-03-26T01:43:56Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2013-03-26"
     },
     {
         "Len": "Optimizing residential density based on water\u2013energy\u2013carbon nexus using UTilit\u00e9s Additives (UTA) method",
@@ -2931,7 +3181,8 @@
         "P356": "10.1007/s10098-018-1506-6",
         "P921": null,
         "P1476": "Optimizing residential density based on water\u2013energy\u2013carbon nexus using UTilit\u00e9s Additives (UTA) method",
-        "P577": "2018-02-19T08:47:06Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2018-02-19"
     },
     {
         "Len": "Ordered visibility graph weighted averaging aggregation operator: A methodology based on network analysis",
@@ -2943,7 +3194,8 @@
             "General Computer Science"
         ],
         "P1476": "Ordered visibility graph weighted averaging aggregation operator: A methodology based on network analysis",
-        "P577": "2015-07-05T11:41:28Z"
+        "P1433": "Computers & Industrial Engineering",
+        "P577": "2015-07-05"
     },
     {
         "Len": "Path toward net-zero buildings: a natural capital assessment framework",
@@ -2952,7 +3204,8 @@
         "P356": "10.1007/s10098-017-1469-z",
         "P921": null,
         "P1476": "Path toward net-zero buildings: a natural capital assessment framework",
-        "P577": "2017-11-27T14:05:25Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2017-11-27"
     },
     {
         "Len": "Performance Assessment Framework for Small Water Systems: Case Study in British Columbia",
@@ -2966,7 +3219,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Performance Assessment Framework for Small Water Systems: Case Study in British Columbia",
-        "P577": "2020-09-25T11:50:26Z"
+        "P1433": "Journal of Water Resources Planning and Management",
+        "P577": "2020-09-25"
     },
     {
         "Len": "Performance Assessment Model for Municipal Solid Waste Management systems: Development and Implementation",
@@ -2977,7 +3231,8 @@
             "Modeling"
         ],
         "P1476": "Performance Assessment Model for Municipal Solid Waste Management systems: Development and Implementation",
-        "P577": "2019-02-12T08:18:20Z"
+        "P1433": "Environments",
+        "P577": "2019-02-12"
     },
     {
         "Len": "Performance benchmarking model for sustainability of aquatic centres in cold regions: Development and implementation",
@@ -2986,7 +3241,8 @@
         "P356": "10.1016/j.spc.2020.12.020",
         "P921": null,
         "P1476": "Performance benchmarking model for sustainability of aquatic centres in cold regions: Development and implementation",
-        "P577": "2020-12-17T07:43:20Z"
+        "P1433": "Sustainable Production and Consumption",
+        "P577": "2020-12-17"
     },
     {
         "Len": "Performance evaluation of employees using Bayesian belief network model",
@@ -2995,7 +3251,8 @@
         "P356": "10.1080/17509653.2017.1312583",
         "P921": null,
         "P1476": "Performance evaluation of employees using Bayesian belief network model",
-        "P577": "2017-05-12T12:15:11Z"
+        "P1433": "International Journal of Management Science and Engineering Management",
+        "P577": "2017-05-12"
     },
     {
         "Len": "Performance evaluation of slow sand filters: a probabilistic approach",
@@ -3008,7 +3265,8 @@
             "Software"
         ],
         "P1476": "Performance evaluation of slow sand filters: a probabilistic approach",
-        "P577": "2003-10-28T00:35:57Z"
+        "P1433": "Environmental Modelling & Software",
+        "P577": "2003-10-28"
     },
     {
         "Len": "Performance indicators for aquatic centres in Canada: Identification and selection using fuzzy based methods",
@@ -3022,7 +3280,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Performance indicators for aquatic centres in Canada: Identification and selection using fuzzy based methods",
-        "P577": "2020-08-15T14:19:28Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2020-08-15"
     },
     {
         "Len": "Performance indicators for municipal solid waste management systems in Saudi Arabia: selection and ranking using fuzzy AHP and PROMETHEE II",
@@ -3034,7 +3293,8 @@
             "General Environmental Science"
         ],
         "P1476": "Performance indicators for municipal solid waste management systems in Saudi Arabia: selection and ranking using fuzzy AHP and PROMETHEE II",
-        "P577": "2019-08-01T23:04:16Z"
+        "P1433": "Arabian Journal of Geosciences",
+        "P577": "2019-08-01"
     },
     {
         "Len": "Performance indicators for small- and medium-sized water supply systems: a review",
@@ -3045,7 +3305,8 @@
             "General Environmental Science"
         ],
         "P1476": "Performance indicators for small- and medium-sized water supply systems: a review",
-        "P577": "2013-07-24T23:46:19Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2013-07-24"
     },
     {
         "Len": "Performance management of small water treatment plant operations: a decision support system",
@@ -3057,7 +3318,8 @@
             "Decision support"
         ],
         "P1476": "Performance management of small water treatment plant operations: a decision support system",
-        "P577": "2017-04-04T19:46:30Z"
+        "P1433": "Water and Environment Journal",
+        "P577": "2017-04-04"
     },
     {
         "Len": "Performance of low-impact development best management practices: a critical review",
@@ -3068,7 +3330,8 @@
             "General Environmental Science"
         ],
         "P1476": "Performance of low-impact development best management practices: a critical review",
-        "P577": "2018-09-11T21:41:28Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2018-09-11"
     },
     {
         "Len": "Planning for sustainable stakeholder engagement based on the assessment of conflicting interests in projects",
@@ -3082,7 +3345,8 @@
             "General Environmental Science"
         ],
         "P1476": "Planning for sustainable stakeholder engagement based on the assessment of conflicting interests in projects",
-        "P577": "2019-09-15T06:23:31Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2019-09-15"
     },
     {
         "Len": "Planning of cement plants for environmentally friendly production: a fuzzy-weighted stochastic multi-objective model",
@@ -3095,7 +3359,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Planning of cement plants for environmentally friendly production: a fuzzy-weighted stochastic multi-objective model",
-        "P577": "2019-09-22T07:02:26Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2019-09-22"
     },
     {
         "Len": "Possibilistic approach for consideration of uncertainties to estimate structural capacity of ageing cast iron water mains",
@@ -3107,7 +3372,8 @@
             "General Environmental Science"
         ],
         "P1476": "Possibilistic approach for consideration of uncertainties to estimate structural capacity of ageing cast iron water mains",
-        "P577": "2006-10-24T17:26:15Z"
+        "P1433": "Canadian Journal of Civil Engineering",
+        "P577": "2006-10-24"
     },
     {
         "Len": "Preamble",
@@ -3116,7 +3382,8 @@
         "P356": "10.1093/law/9780198703969.003.0002",
         "P921": null,
         "P1476": "Preamble",
-        "P577": "2017-06-12T09:42:00Z"
+        "P1433": "Diplomatic Law",
+        "P577": "2017-06-12"
     },
     {
         "Len": "Predicting copper concentrations in acid mine drainage: a comparative analysis of five machine learning techniques",
@@ -3128,7 +3395,8 @@
             "Machine learning"
         ],
         "P1476": "Predicting copper concentrations in acid mine drainage: a comparative analysis of five machine learning techniques",
-        "P577": "2012-09-15T08:59:39Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2012-09-15"
     },
     {
         "Len": "Predicting risk of water quality failures in distribution networks under uncertainties using fault-tree analysis",
@@ -3140,7 +3408,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Predicting risk of water quality failures in distribution networks under uncertainties using fault-tree analysis",
-        "P577": "2008-11-19T17:11:33Z"
+        "P1433": "Urban Water Journal",
+        "P577": "2008-11-19"
     },
     {
         "Len": "Predicting the potential of contaminant intrusion in water distribution systems",
@@ -3152,7 +3421,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Predicting the potential of contaminant intrusion in water distribution systems",
-        "P577": "2013-12-05T23:18:12Z"
+        "P1433": "Journal - American Water Works Association",
+        "P577": "2013-12-05"
     },
     {
         "Len": "Predicting unregulated disinfection by-products in small water distribution networks: an empirical modelling framework",
@@ -3166,7 +3436,8 @@
             "General Medicine"
         ],
         "P1476": "Predicting unregulated disinfection by-products in small water distribution networks: an empirical modelling framework",
-        "P577": "2020-07-09T06:59:22Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2020-07-09"
     },
     {
         "Len": "Predicting water main failures using Bayesian model averaging and survival modelling approach",
@@ -3178,7 +3449,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Predicting water main failures using Bayesian model averaging and survival modelling approach",
-        "P577": "2015-06-25T19:10:43Z"
+        "P1433": "Reliability Engineering & System Safety",
+        "P577": "2015-06-25"
     },
     {
         "Len": "Predicting water main failures: a Bayesian model updating approach",
@@ -3187,7 +3459,8 @@
         "P356": "10.1016/j.knosys.2016.07.024",
         "P921": null,
         "P1476": "Predicting water main failures: a Bayesian model updating approach",
-        "P577": "2016-07-22T15:38:18Z"
+        "P1433": "Knowledge-Based Systems",
+        "P577": "2016-07-22"
     },
     {
         "Len": "Prediction of Pipe Failure by Considering Time-Dependent Factors: Dynamic Bayesian Belief Network Model",
@@ -3196,7 +3469,8 @@
         "P356": "10.1061/ajrua6.0000920",
         "P921": null,
         "P1476": "Prediction of Pipe Failure by Considering Time-Dependent Factors: Dynamic Bayesian Belief Network Model",
-        "P577": "2017-07-07T05:00:11Z"
+        "P1433": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering",
+        "P577": "2017-07-07"
     },
     {
         "Len": "Prioritization of environmental issues in offshore oil and gas operations: A hybrid approach using fuzzy inference system and fuzzy analytic hierarchy process",
@@ -3207,7 +3481,8 @@
             "Environmental"
         ],
         "P1476": "Prioritization of environmental issues in offshore oil and gas operations: A hybrid approach using fuzzy inference system and fuzzy analytic hierarchy process",
-        "P577": "2010-09-01T09:47:27Z"
+        "P1433": "Process Safety and Environmental Protection",
+        "P577": "2010-09-01"
     },
     {
         "Len": "Prioritization of unregulated disinfection by-products in drinking water distribution systems for human health risk mitigation: A critical review",
@@ -3218,7 +3493,8 @@
             "Drinking water"
         ],
         "P1476": "Prioritization of unregulated disinfection by-products in drinking water distribution systems for human health risk mitigation: A critical review",
-        "P577": "2018-09-29T09:38:45Z"
+        "P1433": "Water Research",
+        "P577": "2018-09-29"
     },
     {
         "Len": "Prioritizing Water Mains for Inspection and Maintenance Considering System Reliability and Risk",
@@ -3230,7 +3506,8 @@
             "Civil and Structural Engineering"
         ],
         "P1476": "Prioritizing Water Mains for Inspection and Maintenance Considering System Reliability and Risk",
-        "P577": "2018-05-18T10:00:01Z"
+        "P1433": "Journal of Pipeline Systems Engineering and Practice",
+        "P577": "2018-05-18"
     },
     {
         "Len": "Prioritizing monitoring locations in a water distribution network: a fuzzy risk approach",
@@ -3239,7 +3516,8 @@
         "P356": "10.2166/aqua.2009.011",
         "P921": null,
         "P1476": "Prioritizing monitoring locations in a water distribution network: a fuzzy risk approach",
-        "P577": "2009-11-02T15:30:03Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2009-11-02"
     },
     {
         "Len": "Probabilistic risk analysis of corrosion associated failures in cast iron water mains",
@@ -3248,7 +3526,8 @@
         "P356": "10.1016/j.ress.2003.12.007",
         "P921": null,
         "P1476": "Probabilistic risk analysis of corrosion associated failures in cast iron water mains",
-        "P577": "2004-02-11T10:12:47Z"
+        "P1433": "Reliability Engineering & System Safety",
+        "P577": "2004-02-11"
     },
     {
         "Len": "Probabilistic risk analysis using ordered weighted averaging (OWA) operators",
@@ -3263,7 +3542,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Probabilistic risk analysis using ordered weighted averaging (OWA) operators",
-        "P577": "2006-11-22T08:45:52Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2006-11-22"
     },
     {
         "Len": "Probability density functions based weights for ordered weighted averaging (OWA) operators: An example of water quality indices",
@@ -3272,7 +3552,8 @@
         "P356": "10.1016/j.ejor.2006.09.041",
         "P921": null,
         "P1476": "Probability density functions based weights for ordered weighted averaging (OWA) operators: An example of water quality indices",
-        "P577": "2006-12-06T12:13:37Z"
+        "P1433": "European Journal of Operational Research",
+        "P577": "2006-12-06"
     },
     {
         "Len": "Probability of network disconnection of water distribution system for maintenance prioritization",
@@ -3286,7 +3567,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Probability of network disconnection of water distribution system for maintenance prioritization",
-        "P577": "2018-03-08T01:10:49Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2018-03-08"
     },
     {
         "Len": "Process Safety and Environmental Protection",
@@ -3300,7 +3582,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Process Safety and Environmental Protection",
-        "P577": "2008-12-16T07:52:15Z"
+        "P1433": "Process Safety and Environmental Protection",
+        "P577": "2008-12-16"
     },
     {
         "Len": "Project deployment strategies for community renewable energy: A dynamic multi-period planning approach",
@@ -3311,7 +3594,8 @@
             "Renewable Energy, Sustainability and the Environment"
         ],
         "P1476": "Project deployment strategies for community renewable energy: A dynamic multi-period planning approach",
-        "P577": "2020-01-17T01:28:05Z"
+        "P1433": "Renewable Energy",
+        "P577": "2020-01-17"
     },
     {
         "Len": "Prospects of integrating carbon capturing into community scale energy systems",
@@ -3322,7 +3606,8 @@
             "Renewable Energy, Sustainability and the Environment"
         ],
         "P1476": "Prospects of integrating carbon capturing into community scale energy systems",
-        "P577": "2020-08-26T16:25:56Z"
+        "P1433": "Renewable and Sustainable Energy Reviews",
+        "P577": "2020-08-26"
     },
     {
         "Len": "Quality Function Deployment (QFD) for Bridge Maintenance",
@@ -3331,7 +3616,8 @@
         "P356": "10.1007/springerreference_7120",
         "P921": null,
         "P1476": "Quality Function Deployment (QFD) for Bridge Maintenance",
-        "P577": "2011-08-01T13:52:55Z"
+        "P1433": "SpringerReference",
+        "P577": "2011-08-01"
     },
     {
         "Len": "RM-DEMATEL: a new methodology to identify the key factors in PM 2.5",
@@ -3340,7 +3626,8 @@
         "P356": "10.1007/s11356-015-4229-9",
         "P921": null,
         "P1476": "RM-DEMATEL: a new methodology to identify the key factors in PM 2.5",
-        "P577": "2015-03-01T23:36:28Z"
+        "P1433": "Environmental Science and Pollution Research",
+        "P577": "2015-03-01"
     },
     {
         "Len": "Ranking discrete fuzzy linguistic performance based on TODIM method",
@@ -3349,7 +3636,8 @@
         "P356": "10.1007/s13198-014-0317-3",
         "P921": null,
         "P1476": "Ranking discrete fuzzy linguistic performance based on TODIM method",
-        "P577": "2014-12-08T14:38:49Z"
+        "P1433": "International Journal of System Assurance Engineering and Management",
+        "P577": "2014-12-08"
     },
     {
         "Len": "Reconciling \u2018actual\u2019 risk with \u2018perceived\u2019 risk for distributed water quality: a QFD-based approach",
@@ -3358,7 +3646,8 @@
         "P356": "10.2166/aqua.2011.108",
         "P921": null,
         "P1476": "Reconciling \u2018actual\u2019 risk with \u2018perceived\u2019 risk for distributed water quality: a QFD-based approach",
-        "P577": "2011-09-05T11:44:03Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2011-09-05"
     },
     {
         "Len": "Redefining green buildings: BIM-based framework for zero impact civil infrastructure",
@@ -3367,7 +3656,8 @@
         "P356": "10.1061/9780784482858.013",
         "P921": null,
         "P1476": "Redefining green buildings: BIM-based framework for zero impact civil infrastructure",
-        "P577": "2020-11-09T10:40:22Z"
+        "P1433": "Construction Research Congress 2020",
+        "P577": "2020-11-09"
     },
     {
         "Len": "Reliability Assessment for Water Supply Systems under Uncertainties",
@@ -3381,7 +3671,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Reliability Assessment for Water Supply Systems under Uncertainties",
-        "P577": "2013-01-18T03:15:48Z"
+        "P1433": "Journal of Water Resources Planning and Management",
+        "P577": "2013-01-18"
     },
     {
         "Len": "Removal of urea from swimming pool water by UV/VUV: The roles of additives, mechanisms, influencing factors, and reaction products",
@@ -3395,7 +3686,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Removal of urea from swimming pool water by UV/VUV: The roles of additives, mechanisms, influencing factors, and reaction products",
-        "P577": "2019-06-01T12:32:53Z"
+        "P1433": "Water Research",
+        "P577": "2019-06-01"
     },
     {
         "Len": "Renewable energy based mine reclamation strategy: A hybrid fuzzy-based network analysis",
@@ -3409,7 +3701,8 @@
             "General Environmental Science"
         ],
         "P1476": "Renewable energy based mine reclamation strategy: A hybrid fuzzy-based network analysis",
-        "P577": "2019-05-08T18:13:14Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2019-05-08"
     },
     {
         "Len": "Renewable energy selection for net-zero energy communities: Life cycle based decision making under uncertainty",
@@ -3420,7 +3713,8 @@
             "Renewable Energy, Sustainability and the Environment"
         ],
         "P1476": "Renewable energy selection for net-zero energy communities: Life cycle based decision making under uncertainty",
-        "P577": "2018-06-26T15:40:59Z"
+        "P1433": "Renewable Energy",
+        "P577": "2018-06-26"
     },
     {
         "Len": "Rethinking investment planning and optimizing net zero emission buildings",
@@ -3429,7 +3723,8 @@
         "P356": "10.1007/s10098-017-1359-4",
         "P921": null,
         "P1476": "Rethinking investment planning and optimizing net zero emission buildings",
-        "P577": "2017-04-29T04:11:32Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2017-04-29"
     },
     {
         "Len": "Reviewing source water protection strategies: A conceptual model for water quality assessment",
@@ -3440,7 +3735,8 @@
             "General Environmental Science"
         ],
         "P1476": "Reviewing source water protection strategies: A conceptual model for water quality assessment",
-        "P577": "2011-04-24T20:24:52Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2011-04-24"
     },
     {
         "Len": "Risk analysis for oil & gas pipelines: A sustainability assessment approach using fuzzy based bow-tie analysis",
@@ -3449,7 +3745,8 @@
         "P356": "10.1016/j.jlp.2011.12.007",
         "P921": null,
         "P1476": "Risk analysis for oil & gas pipelines: A sustainability assessment approach using fuzzy based bow-tie analysis",
-        "P577": "2011-12-20T18:33:47Z"
+        "P1433": "Journal of Loss Prevention in the Process Industries",
+        "P577": "2011-12-20"
     },
     {
         "Len": "Risk analysis for water quality deterioration in distribution networks",
@@ -3458,7 +3755,8 @@
         "P356": "10.1061/40507(282)15",
         "P921": null,
         "P1476": "Risk analysis for water quality deterioration in distribution networks",
-        "P577": "2008-11-04T17:09:03Z"
+        "P1433": "Environmental and Pipeline Engineering 2000",
+        "P577": "2008-11-04"
     },
     {
         "Len": "Risk analysis in a linguistic environment: a fuzzy evidential reasoning-based approach",
@@ -3471,7 +3769,8 @@
             "Computer Science Applications"
         ],
         "P1476": "Risk analysis in a linguistic environment: a fuzzy evidential reasoning-based approach",
-        "P577": "2011-07-05T08:26:30Z"
+        "P1433": "Expert Systems with Applications",
+        "P577": "2011-07-05"
     },
     {
         "Len": "Risk and life cycle cost based asset management framework for aging water supply system",
@@ -3480,7 +3779,8 @@
         "P356": "10.4324/9781315142074-16",
         "P921": null,
         "P1476": "Risk and life cycle cost based asset management framework for aging water supply system",
-        "P577": "2019-02-07T14:34:39Z"
+        "P1433": "Routledge Handbook of Sustainable and Resilient Infrastructure",
+        "P577": "2019-02-07"
     },
     {
         "Len": "Risk management of large-diameter water transmission mains",
@@ -3491,7 +3791,8 @@
             "Risk management"
         ],
         "P1476": "Risk management of large-diameter water transmission mains",
-        "P577": "2005-12-21T10:47:59Z"
+        "P1433": "Pipelines 2005",
+        "P577": "2005-12-21"
     },
     {
         "Len": "Risk-Based Framework for Improving Customer Satisfaction through System Reliability in Small-Sized to Medium-Sized Water Utilities",
@@ -3505,7 +3806,8 @@
             "Industrial relations"
         ],
         "P1476": "Risk-Based Framework for Improving Customer Satisfaction through System Reliability in Small-Sized to Medium-Sized Water Utilities",
-        "P577": "2016-03-28T15:30:24Z"
+        "P1433": "Journal of Management in Engineering",
+        "P577": "2016-03-28"
     },
     {
         "Len": "Risk-based decision-making for drilling waste discharges using a fuzzy synthetic evaluation technique",
@@ -3517,7 +3819,8 @@
             "Ocean Engineering"
         ],
         "P1476": "Risk-based decision-making for drilling waste discharges using a fuzzy synthetic evaluation technique",
-        "P577": "2004-08-31T13:27:23Z"
+        "P1433": "Ocean Engineering",
+        "P577": "2004-08-31"
     },
     {
         "Len": "Risk-based environmental decision-making using fuzzy analytic hierarchy process (F-AHP)",
@@ -3528,7 +3831,8 @@
             "Environmental"
         ],
         "P1476": "Risk-based environmental decision-making using fuzzy analytic hierarchy process (F-AHP)",
-        "P577": "2006-03-17T10:49:44Z"
+        "P1433": "Stochastic Environmental Research and Risk Assessment",
+        "P577": "2006-03-17"
     },
     {
         "Len": "Risk-based framework for optimizing residual chlorine in large water distribution systems",
@@ -3537,7 +3841,8 @@
         "P356": "10.1007/s10661-017-5989-0",
         "P921": null,
         "P1476": "Risk-based framework for optimizing residual chlorine in large water distribution systems",
-        "P577": "2017-06-01T21:40:37Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2017-06-01"
     },
     {
         "Len": "Risk-based prioritization of air pollution monitoring using fuzzy synthetic evaluation technique",
@@ -3551,7 +3856,8 @@
             "General Medicine"
         ],
         "P1476": "Risk-based prioritization of air pollution monitoring using fuzzy synthetic evaluation technique",
-        "P577": "2005-05-03T12:51:18Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2005-05-03"
     },
     {
         "Len": "Risk-based prioritization of water main failure using fuzzy synthetic evaluation technique",
@@ -3560,7 +3866,8 @@
         "P356": "10.2166/aqua.2015.051",
         "P921": null,
         "P1476": "Risk-based prioritization of water main failure using fuzzy synthetic evaluation technique",
-        "P577": "2015-12-15T08:49:12Z"
+        "P1433": "Journal of Water Supply: Research and Technology - Aqua",
+        "P577": "2015-12-15"
     },
     {
         "Len": "Risk-based process safety assessment and control measures design for offshore process facilities",
@@ -3575,7 +3882,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Risk-based process safety assessment and control measures design for offshore process facilities",
-        "P577": "2002-10-14T19:21:38Z"
+        "P1433": "Journal of Hazardous Materials",
+        "P577": "2002-10-14"
     },
     {
         "Len": "Role of solution concentration, cement alkali and test duration on expansion of accelerated mortar bar test (AMBT)",
@@ -3584,7 +3892,8 @@
         "P356": "10.1617/s11527-015-0626-2",
         "P921": null,
         "P1476": "Role of solution concentration, cement alkali and test duration on expansion of accelerated mortar bar test (AMBT)",
-        "P577": "2015-05-08T15:56:47Z"
+        "P1433": "Materials and Structures",
+        "P577": "2015-05-08"
     },
     {
         "Len": "Scenario-based economic and environmental analysis of clean energy incentives for households in Canada: multi criteria decision making approach",
@@ -3598,7 +3907,8 @@
             "General Environmental Science"
         ],
         "P1476": "Scenario-based economic and environmental analysis of clean energy incentives for households in Canada: multi criteria decision making approach",
-        "P577": "2018-07-05T21:38:59Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2018-07-05"
     },
     {
         "Len": "Seasonal and spatial variations of source and drinking water quality in small municipal systems of two Canadian regions",
@@ -3609,7 +3919,8 @@
             "Drinking water"
         ],
         "P1476": "Seasonal and spatial variations of source and drinking water quality in small municipal systems of two Canadian regions",
-        "P577": "2014-12-03T23:32:05Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2014-12-03"
     },
     {
         "Len": "Seismic induced damageability evaluation of steel buildings: A Fuzzy-TOPSIS method",
@@ -3618,7 +3929,8 @@
         "P356": "10.12989/eas.2012.3.5.695",
         "P921": null,
         "P1476": "Seismic induced damageability evaluation of steel buildings: A Fuzzy-TOPSIS method",
-        "P577": "2013-07-09T22:07:59Z"
+        "P1433": "Earthquakes and Structures",
+        "P577": "2013-07-09"
     },
     {
         "Len": "Selecting Sustainability Indicators for Small to Medium Sized Urban Water Systems Using Fuzzy\u2010ELECTRE",
@@ -3631,7 +3943,8 @@
             "General Medicine"
         ],
         "P1476": "Selecting Sustainability Indicators for Small to Medium Sized Urban Water Systems Using Fuzzy\u2010ELECTRE",
-        "P577": "2017-02-26T03:01:11Z"
+        "P1433": "Water Environment Research",
+        "P577": "2017-02-26"
     },
     {
         "Len": "Selecting performance indicators for small and medium sized water utilities: Multi-criteria analysis using ELECTRE method",
@@ -3643,7 +3956,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Selecting performance indicators for small and medium sized water utilities: Multi-criteria analysis using ELECTRE method",
-        "P577": "2014-04-14T13:03:14Z"
+        "P1433": "Urban Water Journal",
+        "P577": "2014-04-14"
     },
     {
         "Len": "Selecting sustainable waste-to-energy technologies for municipal solid waste treatment: a game theory approach for group decision-making",
@@ -3652,7 +3966,8 @@
         "P356": "10.1016/j.jclepro.2015.12.041",
         "P921": null,
         "P1476": "Selecting sustainable waste-to-energy technologies for municipal solid waste treatment: a game theory approach for group decision-making",
-        "P577": "2015-12-23T04:01:17Z"
+        "P1433": "Journal of Cleaner Production",
+        "P577": "2015-12-23"
     },
     {
         "Len": "Selection of oil spill response method in Arctic offshore waters: A fuzzy decision tree based framework",
@@ -3665,7 +3980,8 @@
             "Oceanography"
         ],
         "P1476": "Selection of oil spill response method in Arctic offshore waters: A fuzzy decision tree based framework",
-        "P577": "2020-10-04T01:49:42Z"
+        "P1433": "Marine Pollution Bulletin",
+        "P577": "2020-10-04"
     },
     {
         "Len": "Selection of remedial alternatives for mine sites: A multicriteria decision analysis approach",
@@ -3679,7 +3995,8 @@
             "General Medicine"
         ],
         "P1476": "Selection of remedial alternatives for mine sites: A multicriteria decision analysis approach",
-        "P577": "2013-02-26T18:00:41Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2013-02-26"
     },
     {
         "Len": "Selection of sustainable municipal water reuse applications by multi-stakeholders using game theory",
@@ -3693,7 +4010,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Selection of sustainable municipal water reuse applications by multi-stakeholders using game theory",
-        "P577": "2018-10-01T21:54:56Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2018-10-01"
     },
     {
         "Len": "Sewerage infrastructure: Fuzzy techniques to manage failures",
@@ -3702,7 +4020,8 @@
         "P356": "10.1007/978-1-4020-6027-4_24",
         "P921": null,
         "P1476": "Sewerage infrastructure: Fuzzy techniques to manage failures",
-        "P577": "2007-05-23T18:25:47Z"
+        "P1433": "Wastewater Reuse\u2013Risk Assessment, Decision-Making and Environmental Security",
+        "P577": "2007-05-23"
     },
     {
         "Len": "Simulation of Constant Pressure and Flow Rate Through Mini-Channels Inserted Into Distribution Systems (WDS)",
@@ -3713,7 +4032,8 @@
             "Drinking water"
         ],
         "P1476": "Simulation of Constant Pressure and Flow Rate Through Mini-Channels Inserted Into Distribution Systems (WDS)",
-        "P577": "2013-07-22T19:32:04Z"
+        "P1433": "ASME 2012 10th International Conference on Nanochannels, Microchannels, and Minichannels",
+        "P577": "2013-07-22"
     },
     {
         "Len": "Simulation-based localized sensitivity analyses (SaLSA)\u2014An example of water quality failures in distribution networks",
@@ -3722,7 +4042,8 @@
         "P356": "10.1061/40976(316)499",
         "P921": null,
         "P1476": "Simulation-based localized sensitivity analyses (SaLSA)\u2014An example of water quality failures in distribution networks",
-        "P577": "2008-12-11T19:58:38Z"
+        "P1433": "World Environmental and Water Resources Congress 2008",
+        "P577": "2008-12-11"
     },
     {
         "Len": "Small drinking water systems under spatiotemporal water quality variability: a risk-based performance benchmarking framework",
@@ -3733,7 +4054,8 @@
             "Drinking water"
         ],
         "P1476": "Small drinking water systems under spatiotemporal water quality variability: a risk-based performance benchmarking framework",
-        "P577": "2017-08-23T06:10:20Z"
+        "P1433": "Environmental Monitoring and Assessment",
+        "P577": "2017-08-23"
     },
     {
         "Len": "Smart city and resilient city: Differences and connections",
@@ -3744,7 +4066,8 @@
             "General Computer Science"
         ],
         "P1476": "Smart city and resilient city: Differences and connections",
-        "P577": "2020-09-02T07:56:14Z"
+        "P1433": "WIREs Data Mining and Knowledge Discovery",
+        "P577": "2020-09-02"
     },
     {
         "Len": "Spatial life cycle sustainability assessment: a conceptual framework for net-zero buildings",
@@ -3753,7 +4076,8 @@
         "P356": "10.1007/s10098-015-0959-0",
         "P921": null,
         "P1476": "Spatial life cycle sustainability assessment: a conceptual framework for net-zero buildings",
-        "P577": "2015-04-27T11:04:16Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2015-04-27"
     },
     {
         "Len": "Spatial variations of human health risk associated with exposure to chlorination by-products occurring in drinking water",
@@ -3764,7 +4088,8 @@
             "Drinking water"
         ],
         "P1476": "Spatial variations of human health risk associated with exposure to chlorination by-products occurring in drinking water",
-        "P577": "2010-11-20T09:34:25Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2010-11-20"
     },
     {
         "Len": "Stable strategies analysis based on the utility of Z-number in the evolutionary games",
@@ -3776,7 +4101,8 @@
             "Computational Mathematics"
         ],
         "P1476": "Stable strategies analysis based on the utility of Z-number in the evolutionary games",
-        "P577": "2017-12-27T21:29:00Z"
+        "P1433": "Applied Mathematics and Computation",
+        "P577": "2017-12-27"
     },
     {
         "Len": "State of provincial regulations and guidelines to promote low impact development (LID) alternatives across Canada: Content analysis and comparative assessment",
@@ -3790,7 +4116,8 @@
             "General Medicine"
         ],
         "P1476": "State of provincial regulations and guidelines to promote low impact development (LID) alternatives across Canada: Content analysis and comparative assessment",
-        "P577": "2019-01-30T08:03:52Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2019-01-30"
     },
     {
         "Len": "Subsea release of oil from a riser: An ecological risk assessment",
@@ -3802,7 +4129,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Subsea release of oil from a riser: An ecological risk assessment",
-        "P577": "2008-09-20T12:10:35Z"
+        "P1433": "Risk Analysis",
+        "P577": "2008-09-20"
     },
     {
         "Len": "Sustainability assessment framework for low rise commercial buildings: life cycle impact index-based approach",
@@ -3811,7 +4139,8 @@
         "P356": "10.1007/s10098-016-1168-1",
         "P921": null,
         "P1476": "Sustainability assessment framework for low rise commercial buildings: life cycle impact index-based approach",
-        "P577": "2016-03-29T06:23:37Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2016-03-29"
     },
     {
         "Len": "Sustainability assessment framework for small-sized urban neighbourhoods: An application of fuzzy synthetic evaluation",
@@ -3820,7 +4149,8 @@
         "P356": "10.1016/j.scs.2017.09.031",
         "P921": null,
         "P1476": "Sustainability assessment framework for small-sized urban neighbourhoods: An application of fuzzy synthetic evaluation",
-        "P577": "2017-10-13T05:00:21Z"
+        "P1433": "Sustainable Cities and Society",
+        "P577": "2017-10-13"
     },
     {
         "Len": "Sustainability assessment of flooring systems in the city of Tehran: An AHP-based life cycle analysis",
@@ -3829,7 +4159,8 @@
         "P356": "10.1016/j.conbuildmat.2010.11.041",
         "P921": null,
         "P1476": "Sustainability assessment of flooring systems in the city of Tehran: An AHP-based life cycle analysis",
-        "P577": "2010-12-23T09:30:48Z"
+        "P1433": "Construction and Building Materials",
+        "P577": "2010-12-23"
     },
     {
         "Len": "Sustainability assessment of roadway projects under uncertainty using Green Proforma: An index-based approach",
@@ -3840,7 +4171,8 @@
             "Uncertainty"
         ],
         "P1476": "Sustainability assessment of roadway projects under uncertainty using Green Proforma: An index-based approach",
-        "P577": "2016-07-02T14:41:25Z"
+        "P1433": "International Journal of Sustainable Built Environment",
+        "P577": "2016-07-02"
     },
     {
         "Len": "Sustainability evaluation framework for building cooling systems: a comparative study of snow storage and conventional chiller systems",
@@ -3849,7 +4181,8 @@
         "P356": "10.1007/s10098-016-1198-8",
         "P921": null,
         "P1476": "Sustainability evaluation framework for building cooling systems: a comparative study of snow storage and conventional chiller systems",
-        "P577": "2016-05-10T07:00:24Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2016-05-10"
     },
     {
         "Len": "Sustainability evaluation of surface water quality management options in developing countries: multicriteria analysis using fuzzy UTASTAR method",
@@ -3858,7 +4191,8 @@
         "P356": "10.1007/s11269-015-0982-2",
         "P921": null,
         "P1476": "Sustainability evaluation of surface water quality management options in developing countries: multicriteria analysis using fuzzy UTASTAR method",
-        "P577": "2015-04-06T09:48:11Z"
+        "P1433": "Water Resources Management",
+        "P577": "2015-04-06"
     },
     {
         "Len": "Sustainability performance assessment of green roof systems using fuzzy-analytical hierarchy process (FAHP)",
@@ -3867,7 +4201,8 @@
         "P356": "10.1080/2093761x.2014.923794",
         "P921": null,
         "P1476": "Sustainability performance assessment of green roof systems using fuzzy-analytical hierarchy process (FAHP)",
-        "P577": "2014-08-13T15:35:51Z"
+        "P1433": "International Journal of Sustainable Building Technology and Urban Development",
+        "P577": "2014-08-13"
     },
     {
         "Len": "Sustainable, Resilient, and Reliable Urban Water Systems: Making a Case for 'One Water Approach'",
@@ -3878,7 +4213,8 @@
             "General Environmental Science"
         ],
         "P1476": "Sustainable, Resilient, and Reliable Urban Water Systems: Making a Case for 'One Water Approach'",
-        "P577": "2021-03-15T21:36:34Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2021-03-15"
     },
     {
         "Len": "Techno-economic performance evaluation of building cooling systems: A study of snow storage and conventional chiller systems",
@@ -3887,7 +4223,8 @@
         "P356": "10.1016/j.coldregions.2016.07.004",
         "P921": null,
         "P1476": "Techno-economic performance evaluation of building cooling systems: A study of snow storage and conventional chiller systems",
-        "P577": "2016-07-23T05:36:45Z"
+        "P1433": "Cold Regions Science and Technology",
+        "P577": "2016-07-23"
     },
     {
         "Len": "The impacts of decision uncertainty on municipal solid waste management",
@@ -3898,7 +4235,8 @@
             "Uncertainty"
         ],
         "P1476": "The impacts of decision uncertainty on municipal solid waste management",
-        "P577": "2017-05-03T04:15:19Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2017-05-03"
     },
     {
         "Len": "The nexus of climate change and increasing demand for energy: a policy deliberation from the Canadian context",
@@ -3910,7 +4248,8 @@
             "Climate change"
         ],
         "P1476": "The nexus of climate change and increasing demand for energy: a policy deliberation from the Canadian context",
-        "P577": "2020-07-02T09:26:22Z"
+        "P1433": "Dynamics of Energy, Environment and Economy",
+        "P577": "2020-07-02"
     },
     {
         "Len": "To retrofit or not? Making energy retrofit decisions through life cycle thinking for Canadian residences",
@@ -3924,7 +4263,8 @@
             "Building and Construction"
         ],
         "P1476": "To retrofit or not? Making energy retrofit decisions through life cycle thinking for Canadian residences",
-        "P577": "2020-08-12T16:06:10Z"
+        "P1433": "Energy and Buildings",
+        "P577": "2020-08-12"
     },
     {
         "Len": "Topological vulnerability evaluation model based on fractal dimension of complex networks",
@@ -3937,7 +4277,8 @@
             "General Medicine"
         ],
         "P1476": "Topological vulnerability evaluation model based on fractal dimension of complex networks",
-        "P577": "2016-01-11T18:55:36Z"
+        "P1433": "PLOS ONE",
+        "P577": "2016-01-11"
     },
     {
         "Len": "Total utility of Z-number",
@@ -3948,7 +4289,8 @@
             "Artificial Intelligence"
         ],
         "P1476": "Total utility of Z-number",
-        "P577": "2017-07-26T13:32:28Z"
+        "P1433": "Applied Intelligence",
+        "P577": "2017-07-26"
     },
     {
         "Len": "Toxaphene distribution in the Lake Superior trout and associated sublethal ecological risk: a probabilistic approach",
@@ -3961,7 +4303,8 @@
             "Software"
         ],
         "P1476": "Toxaphene distribution in the Lake Superior trout and associated sublethal ecological risk: a probabilistic approach",
-        "P577": "2003-04-30T22:23:46Z"
+        "P1433": "Environmental Modelling & Software",
+        "P577": "2003-04-30"
     },
     {
         "Len": "Translation of pipe inspection results into condition ratings using the fuzzy synthetic evaluation technique",
@@ -3975,7 +4318,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Translation of pipe inspection results into condition ratings using the fuzzy synthetic evaluation technique",
-        "P577": "2015-12-15T08:43:22Z"
+        "P1433": "Journal of Water Supply: Research and Technology - Aqua",
+        "P577": "2015-12-15"
     },
     {
         "Len": "Treatment, residual chlorine and season as factors affecting variability of trihalomethanes in small drinking water systems",
@@ -3986,7 +4330,8 @@
             "Drinking water"
         ],
         "P1476": "Treatment, residual chlorine and season as factors affecting variability of trihalomethanes in small drinking water systems",
-        "P577": "2014-07-31T07:50:24Z"
+        "P1433": "Frontiers of Environmental Science & Engineering",
+        "P577": "2014-07-31"
     },
     {
         "Len": "Trihalomethane exposures in indoor swimming pools: a level III fugacity model",
@@ -4000,7 +4345,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Trihalomethane exposures in indoor swimming pools: a level III fugacity model",
-        "P577": "2011-07-21T19:58:30Z"
+        "P1433": "Water Research",
+        "P577": "2011-07-21"
     },
     {
         "Len": "Uncertainty quantification and integration of machine learning techniques for predicting acid rock drainage chemistry: A probability bounds approach",
@@ -4012,7 +4358,8 @@
             "Machine learning"
         ],
         "P1476": "Uncertainty quantification and integration of machine learning techniques for predicting acid rock drainage chemistry: A probability bounds approach",
-        "P577": "2014-05-21T04:03:12Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2014-05-21"
     },
     {
         "Len": "Uncertainty-driven characterization of climate change effects on drought frequency using enhanced SPI",
@@ -4020,11 +4367,12 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/s11269-013-0467-0",
         "P921": [
-            "Uncertainty",
-            "Climate change"
+            "Climate change",
+            "Uncertainty"
         ],
         "P1476": "Uncertainty-driven characterization of climate change effects on drought frequency using enhanced SPI",
-        "P577": "2013-11-15T11:20:50Z"
+        "P1433": "Water Resources Management",
+        "P577": "2013-11-15"
     },
     {
         "Len": "Unfolding \u2018big\u2019 problems of small water system performance: a qualitative study in British Columbia",
@@ -4035,7 +4383,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Unfolding \u2018big\u2019 problems of small water system performance: a qualitative study in British Columbia",
-        "P577": "2020-08-19T01:00:47Z"
+        "P1433": "Canadian Water Resources Journal / Revue canadienne des ressources hydriques",
+        "P577": "2020-08-19"
     },
     {
         "Len": "Unregulated disinfection By-products in drinking water in Quebec: a meta analysis",
@@ -4049,7 +4398,8 @@
             "General Medicine"
         ],
         "P1476": "Unregulated disinfection By-products in drinking water in Quebec: a meta analysis",
-        "P577": "2018-07-14T16:06:44Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2018-07-14"
     },
     {
         "Len": "Urban Transformation Toward a Smart City: An E-Commerce\u2013Induced Path-Dependent Analysis",
@@ -4063,7 +4413,8 @@
             "Urban Studies"
         ],
         "P1476": "Urban Transformation Toward a Smart City: An E-Commerce\u2013Induced Path-Dependent Analysis",
-        "P577": "2020-12-14T07:33:05Z"
+        "P1433": "Journal of Urban Planning and Development",
+        "P577": "2020-12-14"
     },
     {
         "Len": "Urban cohesion vis-\u00e0-vis organic spatialization of \u201cThird places\u201d in Saudi Arabia: The need for an alternative planning praxis",
@@ -4074,7 +4425,8 @@
             "Urban Studies"
         ],
         "P1476": "Urban cohesion vis-\u00e0-vis organic spatialization of \u201cThird places\u201d in Saudi Arabia: The need for an alternative planning praxis",
-        "P577": "2020-10-17T03:54:53Z"
+        "P1433": "Habitat International",
+        "P577": "2020-10-17"
     },
     {
         "Len": "Using penalty functions to evaluate aggregation models for environmental indices",
@@ -4088,7 +4440,8 @@
             "General Medicine"
         ],
         "P1476": "Using penalty functions to evaluate aggregation models for environmental indices",
-        "P577": "2009-10-25T08:10:08Z"
+        "P1433": "Journal of Environmental Management",
+        "P577": "2009-10-25"
     },
     {
         "Len": "Wastewater Reuse Risk Assessment, Decision Making And Environmental Security",
@@ -4099,7 +4452,8 @@
             "Environmental"
         ],
         "P1476": "Wastewater Reuse Risk Assessment, Decision Making And Environmental Security",
-        "P577": "2007-05-23T18:25:47Z"
+        "P1433": "Wastewater Reuse\u2013Risk Assessment, Decision-Making and Environmental Security",
+        "P577": "2007-05-23"
     },
     {
         "Len": "Water distribution system failure: a framework for forensic analysis",
@@ -4108,7 +4462,8 @@
         "P356": "10.1007/s10669-013-9464-3",
         "P921": null,
         "P1476": "Water distribution system failure: a framework for forensic analysis",
-        "P577": "2013-07-30T00:57:29Z"
+        "P1433": "Environment Systems and Decisions",
+        "P577": "2013-07-30"
     },
     {
         "Len": "Water mains renewal planning framework for small to medium sized water utilities: a life cycle cost analysis approach",
@@ -4120,7 +4475,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Water mains renewal planning framework for small to medium sized water utilities: a life cycle cost analysis approach",
-        "P577": "2016-09-10T21:53:05Z"
+        "P1433": "Urban Water Journal",
+        "P577": "2016-09-10"
     },
     {
         "Len": "Water mains\u2019 prioritisation for small to medium-sized utilities of Canada",
@@ -4129,7 +4485,8 @@
         "P356": "10.1680/jinam.17.00037",
         "P921": null,
         "P1476": "Water mains\u2019 prioritisation for small to medium-sized utilities of Canada",
-        "P577": "2019-02-13T14:15:09Z"
+        "P1433": "Infrastructure Asset Management",
+        "P577": "2019-02-13"
     },
     {
         "Len": "Water quality failures in distribution networks\u2014risk analysis using fuzzy logic and evidential reasoning",
@@ -4141,7 +4498,8 @@
             "Safety, Risk, Reliability and Quality"
         ],
         "P1476": "Water quality failures in distribution networks\u2014risk analysis using fuzzy logic and evidential reasoning",
-        "P577": "2010-08-18T17:14:31Z"
+        "P1433": "Risk Analysis",
+        "P577": "2010-08-18"
     },
     {
         "Len": "Water quality \u2013 water main renewal planner (Q-WARP): development and application",
@@ -4150,7 +4508,8 @@
         "P356": "10.2166/aqua.2014.079",
         "P921": null,
         "P1476": "Water quality \u2013 water main renewal planner (Q-WARP): development and application",
-        "P577": "2014-09-08T10:21:18Z"
+        "P1433": "Journal of Water Supply: Research and Technology-Aqua",
+        "P577": "2014-09-08"
     },
     {
         "Len": "Water use in unconventional oil and gas development: an assessment on water use metric evaluation and selection",
@@ -4159,7 +4518,8 @@
         "P356": "10.1007/s10098-017-1431-0",
         "P921": null,
         "P1476": "Water use in unconventional oil and gas development: an assessment on water use metric evaluation and selection",
-        "P577": "2017-10-13T08:25:45Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2017-10-13"
     },
     {
         "Len": "Water\u2013Energy\u2013Carbon Nexus Modeling for Urban Water Systems: System Dynamics Approach",
@@ -4173,7 +4533,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Water\u2013Energy\u2013Carbon Nexus Modeling for Urban Water Systems: System Dynamics Approach",
-        "P577": "2017-02-21T13:12:20Z"
+        "P1433": "Journal of Water Resources Planning and Management",
+        "P577": "2017-02-21"
     },
     {
         "Len": "Water\u2013energy nexus for water distribution systems: a literature review",
@@ -4184,7 +4545,8 @@
             "General Environmental Science"
         ],
         "P1476": "Water\u2013energy nexus for water distribution systems: a literature review",
-        "P577": "2019-03-12T21:36:06Z"
+        "P1433": "Environmental Reviews",
+        "P577": "2019-03-12"
     },
     {
         "Len": "\u2018Socializing\u2019sustainability: a critical review on current development status of social life cycle impact assessment method",
@@ -4193,6 +4555,7 @@
         "P356": "10.1007/s10098-014-0841-5",
         "P921": null,
         "P1476": "\u2018Socializing\u2019sustainability: a critical review on current development status of social life cycle impact assessment method",
-        "P577": "2014-08-23T05:26:33Z"
+        "P1433": "Clean Technologies and Environmental Policy",
+        "P577": "2014-08-23"
     }
 ]

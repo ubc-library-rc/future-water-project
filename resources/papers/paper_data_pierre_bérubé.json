@@ -8,7 +8,8 @@
             "Water Science and Technology"
         ],
         "P1476": "A framework for the use of artificial neural networks for water treatment: development and application",
-        "P577": "2020-09-03T02:28:35Z"
+        "P1433": "Water Supply",
+        "P577": "2020-09-03"
     },
     {
         "Len": "A model for analyzing water reuse and resource recovery potential in urban areas",
@@ -20,7 +21,8 @@
             "General Environmental Science"
         ],
         "P1476": "A model for analyzing water reuse and resource recovery potential in urban areas",
-        "P577": "2012-11-09T14:08:47Z"
+        "P1433": "Canadian Journal of Civil Engineering",
+        "P577": "2012-11-09"
     },
     {
         "Len": "Ageing of membranes for water treatment: Linking changes to performance",
@@ -32,7 +34,8 @@
             "Membranes"
         ],
         "P1476": "Ageing of membranes for water treatment: Linking changes to performance",
-        "P577": "2015-12-23T03:47:35Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2015-12-23"
     },
     {
         "Len": "Air sparging for fouling control",
@@ -41,7 +44,8 @@
         "P356": "10.1016/b978-0-12-819809-4.00011-5",
         "P921": null,
         "P1476": "Air sparging for fouling control",
-        "P577": "2020-02-07T09:58:06Z"
+        "P1433": "Current Developments in Biotechnology and Bioengineering",
+        "P577": "2020-02-07"
     },
     {
         "Len": "Application of the electrodiffusion method to measure wall shear stress: integrating theory and practice",
@@ -50,7 +54,8 @@
         "P356": "10.1002/ceat.201400026",
         "P921": null,
         "P1476": "Application of the electrodiffusion method to measure wall shear stress: integrating theory and practice",
-        "P577": "2014-05-12T15:40:36Z"
+        "P1433": "Chemical Engineering & Technology",
+        "P577": "2014-05-12"
     },
     {
         "Len": "Assessing the effects of sodium hypochlorite exposure on the characteristics of PVDF based membranes",
@@ -64,7 +69,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Assessing the effects of sodium hypochlorite exposure on the characteristics of PVDF based membranes",
-        "P577": "2013-06-28T06:32:24Z"
+        "P1433": "Water Research",
+        "P577": "2013-06-28"
     },
     {
         "Len": "Assessment of mass transfer coefficients in coalescing slug flow in vertical pipes and applications to tubular airlift membrane bioreactors",
@@ -78,7 +84,8 @@
             "General Chemical Engineering"
         ],
         "P1476": "Assessment of mass transfer coefficients in coalescing slug flow in vertical pipes and applications to tubular airlift membrane bioreactors",
-        "P577": "2010-12-29T09:13:28Z"
+        "P1433": "Chemical Engineering Science",
+        "P577": "2010-12-29"
     },
     {
         "Len": "Biological Ion Exchange capable of sulphate-based secondary ion exchange during long-term DOC removal",
@@ -92,7 +99,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Biological Ion Exchange capable of sulphate-based secondary ion exchange during long-term DOC removal",
-        "P577": "2021-03-12T21:40:14Z"
+        "P1433": "Water Research",
+        "P577": "2021-03-12"
     },
     {
         "Len": "Biological ion exchange as an alternative to biological activated carbon for drinking water treatment",
@@ -106,7 +114,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Biological ion exchange as an alternative to biological activated carbon for drinking water treatment",
-        "P577": "2019-10-05T15:30:53Z"
+        "P1433": "Water Research",
+        "P577": "2019-10-05"
     },
     {
         "Len": "Biologically active ion exchange (BIEX) for NOM removal and membrane fouling prevention",
@@ -117,7 +126,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Biologically active ion exchange (BIEX) for NOM removal and membrane fouling prevention",
-        "P577": "2017-02-14T01:20:14Z"
+        "P1433": "Water Supply",
+        "P577": "2017-02-14"
     },
     {
         "Len": "Book Review: Safe Drinking Water: Lessons from Recent Outbreaks in Affluent Nations",
@@ -130,7 +140,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Book Review: Safe Drinking Water: Lessons from Recent Outbreaks in Affluent Nations",
-        "P577": "2005-05-24T18:04:37Z"
+        "P1433": "Journal of Environmental Engineering and Science",
+        "P577": "2005-05-24"
     },
     {
         "Len": "Characteristics of natural organic matter and formation of chlorinated disinfection by-products from two source waters that respond differently to ozonation",
@@ -142,7 +153,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Characteristics of natural organic matter and formation of chlorinated disinfection by-products from two source waters that respond differently to ozonation",
-        "P577": "2008-10-01T04:36:58Z"
+        "P1433": "Ozone: Science & Engineering",
+        "P577": "2008-10-01"
     },
     {
         "Len": "Characterization and modelling of soluble microbial products in activated sludge systems treating municipal wastewater with special emphasis on temperature effect",
@@ -156,7 +168,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Characterization and modelling of soluble microbial products in activated sludge systems treating municipal wastewater with special emphasis on temperature effect",
-        "P577": "2021-03-18T05:40:21Z"
+        "P1433": "Science of The Total Environment",
+        "P577": "2021-03-18"
     },
     {
         "Len": "Characterization of Shear Forces Inside Gas-Sparged Hollow Fiber Membrane Modules",
@@ -165,7 +178,8 @@
         "P356": "10.1016/j.memsci.2007.03.032",
         "P921": null,
         "P1476": "Characterization of Shear Forces Inside Gas-Sparged Hollow Fiber Membrane Modules",
-        "P577": "2007-03-21T10:52:47Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2007-03-21"
     },
     {
         "Len": "Characterization of anionic surfactant-induced toxicity in a primary effluent",
@@ -178,7 +192,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Characterization of anionic surfactant-induced toxicity in a primary effluent",
-        "P577": "2008-04-03T13:39:01Z"
+        "P1433": "Journal of Environmental Engineering and Science",
+        "P577": "2008-04-03"
     },
     {
         "Len": "Characterization of fouling of tertiary membranes",
@@ -189,7 +204,8 @@
             "Membranes"
         ],
         "P1476": "Characterization of fouling of tertiary membranes",
-        "P577": "2018-12-12T04:41:56Z"
+        "P1433": "Proceedings of the Water Environment Federation",
+        "P577": "2018-12-12"
     },
     {
         "Len": "Characterization of performance of full-scale tertiary membranes under stressed operating conditions",
@@ -201,7 +217,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Characterization of performance of full-scale tertiary membranes under stressed operating conditions",
-        "P577": "2020-04-02T01:27:56Z"
+        "P1433": "Water Science and Technology",
+        "P577": "2020-04-02"
     },
     {
         "Len": "Coagulation optimization for DOC removal: pilot-scale analysis of UF fouling and disinfection byproduct formation potential",
@@ -212,7 +229,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Coagulation optimization for DOC removal: pilot-scale analysis of UF fouling and disinfection byproduct formation potential",
-        "P577": "2016-04-09T04:23:46Z"
+        "P1433": "Water Supply",
+        "P577": "2016-04-09"
     },
     {
         "Len": "Coagulation/flocculation prior to low pressure membranes in drinking water treatment: a review",
@@ -224,7 +242,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Coagulation/flocculation prior to low pressure membranes in drinking water treatment: a review",
-        "P577": "2020-09-08T15:16:58Z"
+        "P1433": "Environmental Science: Water Research & Technology",
+        "P577": "2020-09-08"
     },
     {
         "Len": "Committee report: recent advances and research needs in membrane fouling",
@@ -233,7 +252,8 @@
         "P356": "10.1002/j.1551-8833.2005.tb07452.x",
         "P921": null,
         "P1476": "Committee report: recent advances and research needs in membrane fouling",
-        "P577": "2018-02-23T00:07:38Z"
+        "P1433": "Journal - American Water Works Association",
+        "P577": "2018-02-23"
     },
     {
         "Len": "Contribution of biofilm layer to virus removal in gravity-driven membrane systems with passive fouling control",
@@ -245,7 +265,8 @@
             "Analytical Chemistry"
         ],
         "P1476": "Contribution of biofilm layer to virus removal in gravity-driven membrane systems with passive fouling control",
-        "P577": "2020-07-08T01:03:39Z"
+        "P1433": "Separation and Purification Technology",
+        "P577": "2020-07-08"
     },
     {
         "Len": "Development of a membrane resistance based modeling framework for comparison of ultrafiltration processes",
@@ -256,7 +277,8 @@
             "Modeling"
         ],
         "P1476": "Development of a membrane resistance based modeling framework for comparison of ultrafiltration processes",
-        "P577": "2019-10-02T20:17:25Z"
+        "P1433": "West Virginia University Libraries",
+        "P577": "2019-10-02"
     },
     {
         "Len": "Distribution of surface shear forces and bubble characteristics in full-scale gas sparged submerged hollow fiber membrane modules",
@@ -265,7 +287,8 @@
         "P356": "10.1016/j.desal.2011.07.050",
         "P921": null,
         "P1476": "Distribution of surface shear forces and bubble characteristics in full-scale gas sparged submerged hollow fiber membrane modules",
-        "P577": "2011-08-18T04:46:18Z"
+        "P1433": "Desalination",
+        "P577": "2011-08-18"
     },
     {
         "Len": "Distribution of surface shear stress for a densely packed submerged hollow fiber membrane system",
@@ -274,7 +297,8 @@
         "P356": "10.1016/j.desal.2014.11.014",
         "P921": null,
         "P1476": "Distribution of surface shear stress for a densely packed submerged hollow fiber membrane system",
-        "P577": "2014-11-27T05:01:09Z"
+        "P1433": "Desalination",
+        "P577": "2014-11-27"
     },
     {
         "Len": "EXPERIMENTAL MEASUREMENTS OF SHEAR STRESS IN A TUBULAR AIR LIFT MEMBRANE SYSTEM",
@@ -286,7 +310,8 @@
             "Water Science and Technology"
         ],
         "P1476": "EXPERIMENTAL MEASUREMENTS OF SHEAR STRESS IN A TUBULAR AIR LIFT MEMBRANE SYSTEM",
-        "P577": "2011-07-14T11:17:38Z"
+        "P1433": "Water Science and Technology",
+        "P577": "2011-07-14"
     },
     {
         "Len": "Effects of elevated operating temperatures on methanol removal kinetics from synthetic kraft pulp mill condensate using a membrane bioreactor",
@@ -295,7 +320,8 @@
         "P356": "10.1016/s0043-1354(00)00203-7",
         "P921": null,
         "P1476": "Effects of elevated operating temperatures on methanol removal kinetics from synthetic kraft pulp mill condensate using a membrane bioreactor",
-        "P577": "2002-07-25T14:32:20Z"
+        "P1433": "Water Research",
+        "P577": "2002-07-25"
     },
     {
         "Len": "Effects of kraft evaporator condensate matrix on methanol removal in a high temperature membrane bioreactor",
@@ -304,7 +330,8 @@
         "P356": "10.1016/s0273-1223(99)00735-0",
         "P921": null,
         "P1476": "Effects of kraft evaporator condensate matrix on methanol removal in a high temperature membrane bioreactor",
-        "P577": "2002-07-26T01:23:16Z"
+        "P1433": "Water Science and Technology",
+        "P577": "2002-07-26"
     },
     {
         "Len": "Energy consumption related to shear stress for membrane bioreactors used for wastewater treatment",
@@ -315,7 +342,8 @@
             "Water treatment"
         ],
         "P1476": "Energy consumption related to shear stress for membrane bioreactors used for wastewater treatment",
-        "P577": "2013-01-18T03:53:04Z"
+        "P1433": "Archives of Thermodynamics",
+        "P577": "2013-01-18"
     },
     {
         "Len": "Erratum to\u00bf The effect of hydrodynamic conditions and system configurations on the permeate flux in a submerged hollow fiber membrane system\u00bf[J. Membr. Sci. 271 (2006) 29\u00bf 37]",
@@ -329,7 +357,8 @@
             "Biochemistry"
         ],
         "P1476": "Erratum to\u00bf The effect of hydrodynamic conditions and system configurations on the permeate flux in a submerged hollow fiber membrane system\u00bf[J. Membr. Sci. 271 (2006) 29\u00bf 37]",
-        "P577": "2006-03-10T15:23:59Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2006-03-10"
     },
     {
         "Len": "Euromembrane Conference 2012 [P3. 089] Efficient gas sparging design through characterising the hydrodynamics inside submerged HF membrane systems",
@@ -338,7 +367,8 @@
         "P356": "10.1016/j.proeng.2012.08.985",
         "P921": null,
         "P1476": "Euromembrane Conference 2012 [P3. 089] Efficient gas sparging design through characterising the hydrodynamics inside submerged HF membrane systems",
-        "P577": "2012-11-08T00:52:48Z"
+        "P1433": "Procedia Engineering",
+        "P577": "2012-11-08"
     },
     {
         "Len": "Evaluation of adsorption and coagulation as membrane pretreatment steps for the removal of organic material and disinfection-by-product precursors",
@@ -351,7 +381,8 @@
             "Environmental Chemistry"
         ],
         "P1476": "Evaluation of adsorption and coagulation as membrane pretreatment steps for the removal of organic material and disinfection-by-product precursors",
-        "P577": "2003-03-28T14:29:25Z"
+        "P1433": "Journal of Environmental Engineering and Science",
+        "P577": "2003-03-28"
     },
     {
         "Len": "Experimental study and CFD modelling of a two-phase slug flow for an airlift tubular membrane",
@@ -365,7 +396,8 @@
             "General Chemical Engineering"
         ],
         "P1476": "Experimental study and CFD modelling of a two-phase slug flow for an airlift tubular membrane",
-        "P577": "2009-05-14T08:25:38Z"
+        "P1433": "Chemical Engineering Science",
+        "P577": "2009-05-14"
     },
     {
         "Len": "Experimental validation of a hydrodynamic CFD model of a hollow fiber MBR using shear intensity measurements",
@@ -374,7 +406,8 @@
         "P356": "10.2175/193864710798217151",
         "P921": null,
         "P1476": "Experimental validation of a hydrodynamic CFD model of a hollow fiber MBR using shear intensity measurements",
-        "P577": "2012-08-22T15:32:52Z"
+        "P1433": "Proceedings of the Water Environment Federation",
+        "P577": "2012-08-22"
     },
     {
         "Len": "Filtration and cleaning performances of PVDF membranes aged with exposure to sodium hypochlorite",
@@ -386,7 +419,8 @@
             "Analytical Chemistry"
         ],
         "P1476": "Filtration and cleaning performances of PVDF membranes aged with exposure to sodium hypochlorite",
-        "P577": "2017-12-06T03:42:05Z"
+        "P1433": "Separation and Purification Technology",
+        "P577": "2017-12-06"
     },
     {
         "Len": "Fouling in air sparged submerged hollow fiber membranes at sub-and super-critical flux conditions",
@@ -400,7 +434,8 @@
             "Biochemistry"
         ],
         "P1476": "Fouling in air sparged submerged hollow fiber membranes at sub-and super-critical flux conditions",
-        "P577": "2007-10-02T07:31:00Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2007-10-02"
     },
     {
         "Len": "Hybrid membrane processes using activated carbon treatment for drinking water: a review",
@@ -414,7 +449,8 @@
             "Biochemistry"
         ],
         "P1476": "Hybrid membrane processes using activated carbon treatment for drinking water: a review",
-        "P577": "2012-04-17T19:20:21Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2012-04-17"
     },
     {
         "Len": "Impact of low coagulant dosages on protein fouling of ultrafiltration membranes",
@@ -425,7 +461,8 @@
             "Membranes"
         ],
         "P1476": "Impact of low coagulant dosages on protein fouling of ultrafiltration membranes",
-        "P577": "2019-04-08T16:09:49Z"
+        "P1433": "Journal of Water Process Engineering",
+        "P577": "2019-04-08"
     },
     {
         "Len": "Impact of pac fines in fouling of polymeric and ceramic low-pressure membranes for drinking water treatment",
@@ -433,12 +470,13 @@
         "P50": "Pierre B\u00e9rub\u00e9",
         "P356": "10.3390/membranes6030038",
         "P921": [
-            "Drinking water",
             "Water treatment",
-            "Membranes"
+            "Membranes",
+            "Drinking water"
         ],
         "P1476": "Impact of pac fines in fouling of polymeric and ceramic low-pressure membranes for drinking water treatment",
-        "P577": "2016-07-07T13:49:06Z"
+        "P1433": "Membranes",
+        "P577": "2016-07-07"
     },
     {
         "Len": "Integrated oxidation membrane filtration process\u2013NOM rejection and membrane fouling",
@@ -452,7 +490,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Integrated oxidation membrane filtration process\u2013NOM rejection and membrane fouling",
-        "P577": "2016-08-15T08:03:56Z"
+        "P1433": "Water Research",
+        "P577": "2016-08-15"
     },
     {
         "Len": "Investigation of the effect of viscosity on slug flow in airlift tubular membranes in search of a sludge surrogate",
@@ -464,7 +503,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Investigation of the effect of viscosity on slug flow in airlift tubular membranes in search of a sludge surrogate",
-        "P577": "2010-04-07T09:04:39Z"
+        "P1433": "Water Science and Technology",
+        "P577": "2010-04-07"
     },
     {
         "Len": "Long-term performance of biological ion exchange for the removal of natural organic matter and ammonia from surface waters",
@@ -478,7 +518,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Long-term performance of biological ion exchange for the removal of natural organic matter and ammonia from surface waters",
-        "P577": "2018-07-25T06:26:47Z"
+        "P1433": "Water Research",
+        "P577": "2018-07-25"
     },
     {
         "Len": "Measurement of reduced sulphur compounds contained in aqueous matrices by direct injection into a gas chromatograph with a flame photometric detector",
@@ -487,7 +528,8 @@
         "P356": "10.1016/s0021-9673(98)00882-6",
         "P921": null,
         "P1476": "Measurement of reduced sulphur compounds contained in aqueous matrices by direct injection into a gas chromatograph with a flame photometric detector",
-        "P577": "2002-07-25T15:11:20Z"
+        "P1433": "Journal of Chromatography A",
+        "P577": "2002-07-25"
     },
     {
         "Len": "Mechanisms Governing the Permeate Flux in an Anaerobic Membrane Bioreactor Treating Low-Strength/Municipal Wastewaters: A Literature Review",
@@ -500,7 +542,8 @@
             "General Medicine"
         ],
         "P1476": "Mechanisms Governing the Permeate Flux in an Anaerobic Membrane Bioreactor Treating Low-Strength/Municipal Wastewaters: A Literature Review",
-        "P577": "2006-10-06T03:19:38Z"
+        "P1433": "Water Environment Research",
+        "P577": "2006-10-06"
     },
     {
         "Len": "Membrane ageing in full-scale water treatment plants",
@@ -514,7 +557,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Membrane ageing in full-scale water treatment plants",
-        "P577": "2019-10-18T16:02:09Z"
+        "P1433": "Water Research",
+        "P577": "2019-10-18"
     },
     {
         "Len": "Membrane bioreactors for anaerobic treatment of wastewaters: phase II",
@@ -523,7 +567,8 @@
         "P356": "10.2166/9781780403946",
         "P921": null,
         "P1476": "Membrane bioreactors for anaerobic treatment of wastewaters: phase II",
-        "P577": "2015-12-21T11:50:28Z"
+        "P1433": "Water Intelligence Online",
+        "P577": "2015-12-21"
     },
     {
         "Len": "Membrane bioreactors: Theory and applications to wastewater reuse",
@@ -532,7 +577,8 @@
         "P356": "10.1016/s1871-2711(09)00209-8",
         "P921": null,
         "P1476": "Membrane bioreactors: Theory and applications to wastewater reuse",
-        "P577": "2009-10-07T08:16:55Z"
+        "P1433": "Sustainable Water for the Future: Water Recycling versus Desalination",
+        "P577": "2009-10-07"
     },
     {
         "Len": "Membrane fouling mechanisms of a membrane enhanced biological phosphorus removal process",
@@ -546,7 +592,8 @@
             "Biochemistry"
         ],
         "P1476": "Membrane fouling mechanisms of a membrane enhanced biological phosphorus removal process",
-        "P577": "2007-03-16T11:01:58Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2007-03-16"
     },
     {
         "Len": "Messung von Schubspannungen beim Aufstieg von Einzelblasen",
@@ -559,7 +606,8 @@
             "General Chemical Engineering"
         ],
         "P1476": "Messung von Schubspannungen beim Aufstieg von Einzelblasen",
-        "P577": "2010-09-10T05:50:43Z"
+        "P1433": "Chemie Ingenieur Technik",
+        "P577": "2010-09-10"
     },
     {
         "Len": "Model development to access the ageing of polymeric membranes due to chemical cleaning",
@@ -570,7 +618,8 @@
             "Membranes"
         ],
         "P1476": "Model development to access the ageing of polymeric membranes due to chemical cleaning",
-        "P577": "2012-11-07T19:51:58Z"
+        "P1433": "Procedia Engineering",
+        "P577": "2012-11-07"
     },
     {
         "Len": "Modeling the impact of permeate flux and hydrodynamic conditions on fouling in submerged hollow fiber membranes",
@@ -581,7 +630,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Modeling the impact of permeate flux and hydrodynamic conditions on fouling in submerged hollow fiber membranes",
-        "P577": "2007-12-20T11:46:37Z"
+        "P1433": "Water Supply",
+        "P577": "2007-12-20"
     },
     {
         "Len": "Nanofiltration and Tight Ultrafiltration Membranes for Natural Organic Matter Removal\u2014Contribution of Fouling and Concentration Polarization to Filtration Resistance",
@@ -592,7 +642,8 @@
             "Membranes"
         ],
         "P1476": "Nanofiltration and Tight Ultrafiltration Membranes for Natural Organic Matter Removal\u2014Contribution of Fouling and Concentration Polarization to Filtration Resistance",
-        "P577": "2017-07-03T14:27:31Z"
+        "P1433": "Membranes",
+        "P577": "2017-07-03"
     },
     {
         "Len": "Numerical and experimental investigation of pulse bubble aeration with high packing density hollow-fibre MBRs",
@@ -606,7 +657,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Numerical and experimental investigation of pulse bubble aeration with high packing density hollow-fibre MBRs",
-        "P577": "2019-05-20T12:35:28Z"
+        "P1433": "Water Research",
+        "P577": "2019-05-20"
     },
     {
         "Len": "Operation of passive membrane systems for drinking water treatment",
@@ -614,11 +666,12 @@
         "P50": "Pierre B\u00e9rub\u00e9",
         "P356": "10.1016/j.watres.2017.02.065",
         "P921": [
-            "Drinking water",
-            "Water treatment"
+            "Water treatment",
+            "Drinking water"
         ],
         "P1476": "Operation of passive membrane systems for drinking water treatment",
-        "P577": "2017-02-28T09:00:19Z"
+        "P1433": "Water Research",
+        "P577": "2017-02-28"
     },
     {
         "Len": "Optimal Module Configuration and Sparging Scenario for a Submerged Hollow Fiber Membrane System",
@@ -627,7 +680,8 @@
         "P356": "10.2175/193864710798216792",
         "P921": null,
         "P1476": "Optimal Module Configuration and Sparging Scenario for a Submerged Hollow Fiber Membrane System",
-        "P577": "2012-08-22T15:32:52Z"
+        "P1433": "Proceedings of the Water Environment Federation",
+        "P577": "2012-08-22"
     },
     {
         "Len": "Optimization of air sparging and in-line coagulation for ultrafiltration fouling control",
@@ -636,7 +690,8 @@
         "P356": "10.1016/j.seppur.2017.06.064",
         "P921": null,
         "P1476": "Optimization of air sparging and in-line coagulation for ultrafiltration fouling control",
-        "P577": "2017-06-27T18:30:14Z"
+        "P1433": "Separation and Purification Technology",
+        "P577": "2017-06-27"
     },
     {
         "Len": "Optimizing the sparging condition and membrane module spacing for a ZW500 submerged hollow fiber membrane system",
@@ -645,7 +700,8 @@
         "P356": "10.5004/dwt.2012.2443",
         "P921": null,
         "P1476": "Optimizing the sparging condition and membrane module spacing for a ZW500 submerged hollow fiber membrane system",
-        "P577": "2018-12-22T14:14:42Z"
+        "P1433": "DESALINATION AND WATER TREATMENT",
+        "P577": "2018-12-22"
     },
     {
         "Len": "PFAS removal by ion exchange resins: A review",
@@ -658,7 +714,8 @@
             "General Medicine"
         ],
         "P1476": "PFAS removal by ion exchange resins: A review",
-        "P577": "2021-02-04T22:44:40Z"
+        "P1433": "Chemosphere",
+        "P577": "2021-02-04"
     },
     {
         "Len": "Performance of thin-film composite hollow fiber nanofiltration for the removal of dissolved Mn, Fe and NOM from domestic groundwater supplies",
@@ -672,7 +729,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Performance of thin-film composite hollow fiber nanofiltration for the removal of dissolved Mn, Fe and NOM from domestic groundwater supplies",
-        "P577": "2018-08-22T03:39:26Z"
+        "P1433": "Water Research",
+        "P577": "2018-08-22"
     },
     {
         "Len": "Physical cleaning efficacy of hollow fiber nanofiltration membranes in drinking water applications.",
@@ -680,11 +738,12 @@
         "P50": "Pierre B\u00e9rub\u00e9",
         "P356": "10.5004/dwt.2017.20184",
         "P921": [
-            "Drinking water",
-            "Membranes"
+            "Membranes",
+            "Drinking water"
         ],
         "P1476": "Physical cleaning efficacy of hollow fiber nanofiltration membranes in drinking water applications.",
-        "P577": "2017-02-20T20:34:45Z"
+        "P1433": "DESALINATION AND WATER TREATMENT",
+        "P577": "2017-02-20"
     },
     {
         "Len": "Power induced by bubbles of different sizes and frequencies on to hollow fibers in submerged membrane systems",
@@ -698,7 +757,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Power induced by bubbles of different sizes and frequencies on to hollow fibers in submerged membrane systems",
-        "P577": "2013-09-11T10:15:35Z"
+        "P1433": "Water Research",
+        "P577": "2013-09-11"
     },
     {
         "Len": "Promoting the biological oxidation of reduced sulphur compounds by pH adjustment in a high temperature membrane bioreactor treating Kraft Pulp Mill Foul Condensate",
@@ -709,7 +769,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Promoting the biological oxidation of reduced sulphur compounds by pH adjustment in a high temperature membrane bioreactor treating Kraft Pulp Mill Foul Condensate",
-        "P577": "2018-05-28T07:56:42Z"
+        "P1433": "Water Quality Research Journal",
+        "P577": "2018-05-28"
     },
     {
         "Len": "Pulse bubble sparging for fouling control",
@@ -721,7 +782,8 @@
             "Analytical Chemistry"
         ],
         "P1476": "Pulse bubble sparging for fouling control",
-        "P577": "2014-07-21T17:45:20Z"
+        "P1433": "Separation and Purification Technology",
+        "P577": "2014-07-21"
     },
     {
         "Len": "Pulse bubble sparging for the control of hydraulically reversible fouling in submerged hollow fiber membrane systems",
@@ -733,7 +795,8 @@
             "Analytical Chemistry"
         ],
         "P1476": "Pulse bubble sparging for the control of hydraulically reversible fouling in submerged hollow fiber membrane systems",
-        "P577": "2013-12-20T15:45:18Z"
+        "P1433": "Separation and Purification Technology",
+        "P577": "2013-12-20"
     },
     {
         "Len": "Quantifying the shear at the surface of submerged hollow fiber membranes",
@@ -744,7 +807,8 @@
             "Membranes"
         ],
         "P1476": "Quantifying the shear at the surface of submerged hollow fiber membranes",
-        "P577": "2006-01-31T12:39:07Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2006-01-31"
     },
     {
         "Len": "Rate and extent NOM removal during oxidation and biofiltration",
@@ -758,7 +822,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Rate and extent NOM removal during oxidation and biofiltration",
-        "P577": "2013-12-21T13:30:21Z"
+        "P1433": "Water Research",
+        "P577": "2013-12-21"
     },
     {
         "Len": "Relationship between types of surface shear stress profiles and membrane fouling",
@@ -767,7 +832,8 @@
         "P356": "10.1016/j.watres.2011.09.031",
         "P921": null,
         "P1476": "Relationship between types of surface shear stress profiles and membrane fouling",
-        "P577": "2011-09-22T19:47:50Z"
+        "P1433": "Water Research",
+        "P577": "2011-09-22"
     },
     {
         "Len": "Removal of disinfection by-product precursors with ozone-UV advanced oxidation process",
@@ -781,7 +847,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Removal of disinfection by-product precursors with ozone-UV advanced oxidation process",
-        "P577": "2005-05-11T11:49:23Z"
+        "P1433": "Water Research",
+        "P577": "2005-05-11"
     },
     {
         "Len": "Reuse of Air for Return Activated Sludge Pumping in Submerged Membrane Bioreactors",
@@ -794,7 +861,8 @@
             "General Chemical Engineering"
         ],
         "P1476": "Reuse of Air for Return Activated Sludge Pumping in Submerged Membrane Bioreactors",
-        "P577": "2015-09-17T10:31:28Z"
+        "P1433": "Chemie Ingenieur Technik",
+        "P577": "2015-09-17"
     },
     {
         "Len": "Roles of various mixed liquor constituents in membrane filtration of activated sludge",
@@ -807,7 +875,8 @@
             "Water Science and Technology"
         ],
         "P1476": "Roles of various mixed liquor constituents in membrane filtration of activated sludge",
-        "P577": "2010-04-10T19:54:42Z"
+        "P1433": "Desalination and Water Treatment",
+        "P577": "2010-04-10"
     },
     {
         "Len": "SEM imaging of membranes: Importance of sample preparation and imaging parameters",
@@ -818,7 +887,8 @@
             "Membranes"
         ],
         "P1476": "SEM imaging of membranes: Importance of sample preparation and imaging parameters",
-        "P577": "2014-03-26T17:02:16Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2014-03-26"
     },
     {
         "Len": "Seeking realistic membrane ageing at bench-scale",
@@ -832,7 +902,8 @@
             "Biochemistry"
         ],
         "P1476": "Seeking realistic membrane ageing at bench-scale",
-        "P577": "2020-08-14T12:11:35Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2020-08-14"
     },
     {
         "Len": "Student Learning in Teams: Viewpoint of Team Members, Teachers and an Observer",
@@ -841,7 +912,8 @@
         "P356": "10.11120/ened.2007.02010002",
         "P921": null,
         "P1476": "Student Learning in Teams: Viewpoint of Team Members, Teachers and an Observer",
-        "P577": "2013-04-10T18:40:20Z"
+        "P1433": "Engineering Education",
+        "P577": "2013-04-10"
     },
     {
         "Len": "Study of submerged anaerobic membrane bioreactor (AnMBR) treating municipal wastewater",
@@ -850,7 +922,8 @@
         "P356": "10.2175/193864710798182060",
         "P921": null,
         "P1476": "Study of submerged anaerobic membrane bioreactor (AnMBR) treating municipal wastewater",
-        "P577": "2012-09-27T13:55:45Z"
+        "P1433": "Proceedings of the Water Environment Federation",
+        "P577": "2012-09-27"
     },
     {
         "Len": "Surface shear stress and membrane fouling when considering natural water matrices",
@@ -859,7 +932,8 @@
         "P356": "10.1016/j.desal.2013.09.018",
         "P921": null,
         "P1476": "Surface shear stress and membrane fouling when considering natural water matrices",
-        "P577": "2013-10-13T00:20:08Z"
+        "P1433": "Desalination",
+        "P577": "2013-10-13"
     },
     {
         "Len": "Surface shear stress and retention of emerging contaminants during ultrafiltration for drinking water treatment",
@@ -871,7 +945,8 @@
             "Analytical Chemistry"
         ],
         "P1476": "Surface shear stress and retention of emerging contaminants during ultrafiltration for drinking water treatment",
-        "P577": "2013-11-15T05:02:27Z"
+        "P1433": "Separation and Purification Technology",
+        "P577": "2013-11-15"
     },
     {
         "Len": "The effect of concentration factor on membrane fouling",
@@ -880,7 +955,8 @@
         "P356": "10.3390/membranes7030050",
         "P921": null,
         "P1476": "The effect of concentration factor on membrane fouling",
-        "P577": "2017-09-01T15:05:24Z"
+        "P1433": "Membranes",
+        "P577": "2017-09-01"
     },
     {
         "Len": "The effect of hydrodynamic conditions and system configurations on the permeate flux in a submerged hollow fiber membrane system",
@@ -894,7 +970,8 @@
             "Biochemistry"
         ],
         "P1476": "The effect of hydrodynamic conditions and system configurations on the permeate flux in a submerged hollow fiber membrane system",
-        "P577": "2005-08-31T07:09:05Z"
+        "P1433": "Journal of Membrane Science",
+        "P577": "2005-08-31"
     },
     {
         "Len": "The impact of loading approach and biological activity on NOM removal by ion exchange resins",
@@ -908,7 +985,8 @@
             "Water Science and Technology"
         ],
         "P1476": "The impact of loading approach and biological activity on NOM removal by ion exchange resins",
-        "P577": "2018-02-20T15:56:38Z"
+        "P1433": "Water Research",
+        "P577": "2018-02-20"
     },
     {
         "Len": "The importance of fluid dynamics for MBR fouling mitigation",
@@ -917,7 +995,8 @@
         "P356": "10.1016/j.biortech.2012.05.069",
         "P921": null,
         "P1476": "The importance of fluid dynamics for MBR fouling mitigation",
-        "P577": "2012-05-23T18:05:53Z"
+        "P1433": "Bioresource Technology",
+        "P577": "2012-05-23"
     },
     {
         "Len": "Ultrafiltration fouling: Impact of backwash frequency and air sparging",
@@ -926,7 +1005,8 @@
         "P356": "10.1080/01496395.2014.948964",
         "P921": null,
         "P1476": "Ultrafiltration fouling: Impact of backwash frequency and air sparging",
-        "P577": "2014-09-02T23:00:20Z"
+        "P1433": "Separation Science and Technology",
+        "P577": "2014-09-02"
     },
     {
         "Len": "Ultrafiltration organic fouling control: Comparison of air\u2010sparging and coagulation",
@@ -935,7 +1015,8 @@
         "P356": "10.5942/jawwa.2014.106.0018",
         "P921": null,
         "P1476": "Ultrafiltration organic fouling control: Comparison of air\u2010sparging and coagulation",
-        "P577": "2013-12-05T23:18:12Z"
+        "P1433": "Journal - American Water Works Association",
+        "P577": "2013-12-05"
     },
     {
         "Len": "Variability and limits of the unified membrane fouling index: application to the reduction of low-pressure membrane fouling by ozonation and biofiltration",
@@ -944,6 +1025,7 @@
         "P356": "10.1080/19443994.2012.672214",
         "P921": null,
         "P1476": "Variability and limits of the unified membrane fouling index: application to the reduction of low-pressure membrane fouling by ozonation and biofiltration",
-        "P577": "2012-04-30T09:02:11Z"
+        "P1433": "Desalination and Water Treatment",
+        "P577": "2012-04-30"
     }
 ]

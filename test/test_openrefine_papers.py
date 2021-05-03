@@ -5,6 +5,7 @@ import json
 import logging
 import os
 import sys
+import datetime
 
 # adding path to run files from root when in docker container
 sys.path.append(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..'))
@@ -60,12 +61,14 @@ def wikidata_import(author_name, open_refine, test=False):
                         continue
 
                     main_subject = get_publication_subject(author_name, row, title=title)  # main subject,
-                    if not main_subject:
-                        logger.error(Fore.RED + f' {title} ' + Style.RESET_ALL + 'has no matching keyword')
-
+                    published_in=None
+                    if 'container-title' in row:
+                        published_in = next(iter(row['container-title']))
+                    elif 'publisher' in row:
+                        published_in = row['publisher']
                     created = None
                     if 'created' in row and 'date-time' in row['created']:
-                        created = row['created']['date-time']
+                        created = row['created']['date-time'].split('T')[0]
 
                     # Dictionary sorted by properties
                     new_entry = dict(
@@ -75,6 +78,7 @@ def wikidata_import(author_name, open_refine, test=False):
                         P356=row['DOI'],  # DOI
                         P921=main_subject,  # main subject,
                         P1476=to_quickstatements_format(title),  # title
+                        P1433=to_quickstatements_format(published_in),  # published in
                         P577=created  # publication date
                     )
                     result.append(new_entry)
@@ -97,6 +101,7 @@ def write_output_file(data, author, individual_files=True):
     with open(_output, "w") as outfile:
         json.dump(data, outfile, indent=4)
 
+    # Removes main subject from jsons because it is not used in Open Refine
     for d in data:
         d.pop("P921", None)  # https://stackoverflow.com/questions/15411107/delete-a-dictionary-item-if-the-key-exists
 
@@ -139,21 +144,19 @@ def main():
                 )
         except Exception as ex:
             logger.exception(ex)
-        # idx += 1
-        # if idx >= 2:
-        #     break
+
 
     write_output_file(
         sorted(final_data, key=lambda k: k['P1476']),
-        'paper_list',
+        'full_paper_list',
         individual_files=False
     )
 
 
 if __name__ == '__main__':
-    logger.info("Writing wikidata for every" + Fore.RED + " paper " + Style.RESET_ALL + " in the cluster")
+    logger.info("\n\nWriting wikidata for every" + Fore.YELLOW + " paper " + Style.RESET_ALL + " in the cluster")
     main()
-    logger.info(">> Output at " + Fore.RED + "./resources/imports" + Style.RESET_ALL)
-    logger.info(">> Output at " + Fore.RED + "./resources/papers" + Style.RESET_ALL)
+    logger.info(">> " + Fore.YELLOW + "Open Refine" + Style.RESET_ALL + " output at " + Fore.RED + "./resources/imports/authors" + Style.RESET_ALL)
+    logger.info(">> " + Fore.YELLOW + "Scholia" + Style.RESET_ALL + " output at " + Fore.RED + "./resources/papers" + Style.RESET_ALL)
     logger.info('-' * 10)
     logger.info('-' * 10)
