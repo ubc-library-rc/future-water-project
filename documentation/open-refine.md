@@ -4,6 +4,9 @@ OpenRefine (previously Google Refine) is a powerful tool for working with messy 
 
 This [video tutorial](https://www.youtube.com/watch?v=wfS1qTKFQoI) provides some guidance on basic features about Open Refine
 
+1. Start Open refine (varies depending on OS)
+
+2. Open http://localhost:3333
 
 ## Importing Authors 
 
@@ -51,7 +54,8 @@ This [video tutorial](https://www.youtube.com/watch?v=wfS1qTKFQoI) provides some
 
 ![title](openrefine-reconcile-wikidata.png)
 
-5. Locate the option: reconcile against type, and use the property guidelines. Sometimes, it automatically detects the right type, but it is always safer to type or select only the property that exactly matches the identifier (`Q<number>`):
+5. Locate the option: reconcile against type, and use the property guidelines. Sometimes, it automatically detects the right type when using the unique Wikidata identifier `Q<number>`.
+If the identifier fails, it is safer to type the text (e.g., `organization`) and select only the property that exactly matches the identifier (`Q<number>`):
 
     * in this example, we are typing `Human` 
     * a dropdown menu will show all the information on wikidata related to what we just wrote.

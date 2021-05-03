@@ -14,7 +14,9 @@ Add one or two images with visualizations that we want to produce
 ## Instructions
 
 1. Run the [python scripts](documentation/scripts.md) to fetch data
-1. Upload and clean the data with [Open Refine](documentation/open-refine.md)
+1. Upload and clean the data with Open Refine
+    * [authors](documentation/open-refine.md)
+    * [papers](documentation/open-refine-papers.md)
 1. View visualizations with `TODO`
 
 

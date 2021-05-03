@@ -4,6 +4,9 @@ OpenRefine (previously Google Refine) is a powerful tool for working with messy 
 
 This [video tutorial](https://www.youtube.com/watch?v=wfS1qTKFQoI) provides some guidance on basic features about Open Refine
 
+1. Start Open refine (varies depending on OS)
+
+2. Open http://localhost:3333
 
 ## Importing Papers 
 
