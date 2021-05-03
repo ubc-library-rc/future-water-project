@@ -23,7 +23,7 @@ stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
 
-def main(throttling_delay=10):
+def main(throttling_delay=5):
     os.chdir(os.path.dirname(os.path.realpath(__file__)))
 
     _input = os.path.join(
@@ -35,13 +35,13 @@ def main(throttling_delay=10):
     with open(_input) as _f:
         _data = csv.DictReader(_f)
         for row in _data:
-            authors.append(row['Full Name'])
+            authors.append((row['Full Name'], row['Affiliation']))
 
     all = []
-    for author_name in authors:
+    for author_name, affiliation in authors:
         logger.info('Processing' + Fore.YELLOW + f' {author_name}' + Style.RESET_ALL)
         try:
-            cross_ref, from_cache = google_api.get_schoolar_data(author_name)
+            cross_ref, from_cache = google_api.get_schoolar_data(author_name, affiliation=affiliation)
             all.append(cross_ref)
             if not from_cache:
                 logger.info(
@@ -52,7 +52,7 @@ def main(throttling_delay=10):
             logging.exception("message")
 
     has_data = list(filter(lambda k: k, all))
-    logger.info(f"{str(len(has_data))} out of {str(len(all))}")
+    logger.info(f"{str(len(has_data))} out of the {str(len(all))} authors in the cluster were successfully processed")
 
 
 if __name__ == '__main__':

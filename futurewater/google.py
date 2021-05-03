@@ -26,7 +26,7 @@ pg.Tor_External(tor_sock_port=9050, tor_control_port=9051, tor_password="scholar
 scholarly.use_proxy(pg)
 
 
-def get_schoolar_data(author_name, cache_folder="scholarly"):
+def get_schoolar_data(author_name, cache_folder="scholarly", affiliation='UBC'):
     output_folder = os.path.join(
         os.path.dirname(os.path.realpath(__file__)),
         "..", "resources", cache_folder
@@ -38,7 +38,7 @@ def get_schoolar_data(author_name, cache_folder="scholarly"):
 
         try:
             # Retrieve the author's data, fill-in, and print
-            search_query = scholarly.search_author(f'{author_name} UBC')
+            search_query = scholarly.search_author(f'{author_name} {affiliation}')
             author = scholarly.fill(next(search_query))
 
             # Print the titles of the author's publications
@@ -56,8 +56,11 @@ def get_schoolar_data(author_name, cache_folder="scholarly"):
                     ret = get_publication(title)
                     sleep(3)
 
-                ret['original_title'] = title
-                final_data.append(ret)
+                if ret['success']:
+                    ret['original_title'] = title
+                    final_data.append(ret)
+                else:
+                    logger.info(Fore.RED + '> Failed' + Style.RESET_ALL)
 
             final_data = list(filter(lambda k: k['result']['similarity'] >= 0.7, final_data))
             final_data = sorted(final_data, key=lambda k: k['result']['similarity'], reverse=True)
@@ -65,7 +68,7 @@ def get_schoolar_data(author_name, cache_folder="scholarly"):
             with open(cached, 'w') as fo:
                 json.dump(final_data, fo, indent=4, sort_keys=True)
         except StopIteration:
-            logger.info(Fore.RED + 'no schoolar data available' + Style.RESET_ALL)
+            logger.info(Fore.RED + 'no more schoolar data available' + Style.RESET_ALL)
             with open(cached, 'w') as fo:
                 json.dump(final_data, fo, indent=4, sort_keys=True)
         except Exception as ex:

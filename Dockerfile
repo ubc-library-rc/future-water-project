@@ -8,7 +8,6 @@ WORKDIR /tmp/src/
 # Setup TOR
 RUN ./setup_tor.sh
 EXPOSE 9001 9030 9051
-RUN tor -f ./torrc &
 
 # RUN tail -f /var/log/tor/notices.log
 

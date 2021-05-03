@@ -44,7 +44,7 @@ def publications_info(author_name, test=False):
             json.dump(author_data, fo, indent=4, sort_keys=True)
         return author_data
     else:
-        logger.info(Fore.YELLOW + f'loaded {author_name} from cache' + Style.RESET_ALL)
+        # logger.info(Fore.YELLOW + f'loaded {author_name} from cache' + Style.RESET_ALL)
         with open(cached, 'r') as fo:
             return json.load(fo)
 
@@ -63,24 +63,25 @@ def main():
 
     all = []
     for author_name in authors:
+        logger.info('Processing' + Fore.YELLOW + f' {author_name}' + Style.RESET_ALL)
         try:
             data = publications_info(author_name)
             all.append(data)
             if not data:
-                logger.info(Fore.RED + f'Could not find data for {author_name}' + Style.RESET_ALL)
+                logger.info(Fore.RED + f'> no data available' + Style.RESET_ALL)
         except Exception:
             logger.error(Fore.RED + f'Error fetching data for {author_name}' + Style.RESET_ALL)
             logging.exception("message")
 
     has_data = list(filter(lambda k: k, all))
-    logger.info(f"{str(len(has_data))} out of {str(len(all))}")
+    logger.info(f"{str(len(has_data))} out of the {str(len(all))} authors in the cluster were successfully processed")
 
     total = 0
     for a in has_data:
         # logger.info(f"{str(len(a))}")
         total += len(a)
 
-    logger.error(Fore.RED + f'total of {total} publications fetched' + Style.RESET_ALL)
+    logger.error(f'A total of {total} publications are available')
 
 
 if __name__ == '__main__':

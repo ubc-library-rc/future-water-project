@@ -108,6 +108,6 @@ def get_author(author_name, max_results=100, sim_threshold=.9):
         return {"success": False, "result": EMPTY_RESULT, "exception": httpe}
 
 
-if __name__ == '__main__':
-    get_author("John S. Richardson")
-    print("done")
+# if __name__ == '__main__':
+#     get_author("John S. Richardson")
+#     print("done")

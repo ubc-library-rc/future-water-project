@@ -39,7 +39,7 @@ docker build -t libraryrc/future-waters .
 docker build -t libraryrc/future-waters .
 ```
 
-3. Run the container
+3. Create the container
 
 First get the path where you downloaded the project
 
@@ -64,22 +64,42 @@ For example, for the output path that I got, the volume path should read
 sudo chown -R $USER:$USER resources
 ```
 
+5. Running the container after its creation
 
-5. Important
+
+You need to remove previous named containers with the `future-waters` identifier. Run
+
+```shell
+docker rm future-waters && docker run --name=future-waters -v <your path>:/tmp/src/resources libraryrc/future-waters
+```
+
+For example:
+
+```shell
+docker rm future-waters && docker run --name=future-waters /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources libraryrc/future-waters
+```
+
+6. Important
 
 If there are updates on the python scripts, you must build a new image to reflect these changes on the container. Run:
 
-
 ```shell
-docker rm libraryrc/future-waters
+docker rm future-waters
 ```
 
-Repeat steps `1.` to `3.` afterwards
+Repeat steps `1.` to `4.` afterwards
 
 
 6. Helpful for development environment:
 
 Remove last container, build and run new version in a single command
+
+docker rm future-waters && \
+docker build -t libraryrc/future-waters . && \
+docker run --name=future-waters -v <your path>:/tmp/src/resources libraryrc/future-waters
+
+
+For example:
 
 ```shell
 docker rm future-waters && \
