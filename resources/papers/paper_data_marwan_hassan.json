@@ -140,9 +140,9 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/egusphere-egu2020-10800",
         "P921": [
-            "Rivers",
+            "Streams",
             "Environmental",
-            "Streams"
+            "Rivers"
         ],
         "P1476": "BEDFLOW: integrating river morphodynamics in the Sillaro River across spatial and temporal scales",
         "P1433": "Copernicus GmbH",
@@ -411,8 +411,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2017jf004578",
         "P921": [
-            "British columbia",
-            "Sediment transport"
+            "Sediment transport",
+            "British columbia"
         ],
         "P1476": "Development and application of a large\u2010scale, physically based, distributed suspended sediment transport model on the Fraser River Basin, British Columbia, Canada",
         "P1433": "Journal of Geophysical Research: Earth Surface",
@@ -517,10 +517,10 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/egusphere-egu21-6889",
         "P921": [
-            "Rivers",
+            "Channel morphology",
             "Sediment transport",
             "Environmental",
-            "Channel morphology"
+            "Rivers"
         ],
         "P1476": "Effect of stress history on sediment transport and channel adjustment in graded gravel-bed rivers",
         "P1433": "Copernicus GmbH",
@@ -813,8 +813,8 @@
         "P356": "10.5194/hessd-7-7779-2010",
         "P921": [
             "Soil",
-            "Hydrology",
-            "Modeling"
+            "Modeling",
+            "Hydrology"
         ],
         "P1476": "Hydrologic Predictions in a Changing Environment III",
         "P1433": "Copernicus GmbH",
@@ -1001,9 +1001,9 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/s0928-2025(05)80016-1",
         "P921": [
+            "Channel morphology",
             "Sediment transport",
-            "Streamflow",
-            "Channel morphology"
+            "Streamflow"
         ],
         "P1476": "Maintenance of an obstruction-forced pool in a gravel-bed channel: streamflow, channel morphology, and sediment transport",
         "P1433": "Developments in Earth Surface Processes",
@@ -1035,8 +1035,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/j.geomorph.2014.05.019",
         "P921": [
-            "Modeling",
-            "Streams"
+            "Streams",
+            "Modeling"
         ],
         "P1476": "Modeling temporal trends in bedload transport in gravel-bed streams using hierarchical mixed-effects models",
         "P1433": "Geomorphology",
@@ -1108,10 +1108,10 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/esurf-2020-30",
         "P921": [
-            "Channel stability",
-            "Sediment transport",
+            "Streams",
             "Channel morphology",
-            "Streams"
+            "Sediment transport",
+            "Channel stability"
         ],
         "P1476": "On how sediment supply affects step formation, evolution and stability in steep streams: an experimental study",
         "P1433": "Copernicus GmbH",
@@ -1280,8 +1280,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/esurf-2020-33",
         "P921": [
-            "Channel morphology",
-            "Streams"
+            "Streams",
+            "Channel morphology"
         ],
         "P1476": "Rapid and objective characterization of channel morphology in a small, forested stream",
         "P1433": "Copernicus GmbH",
@@ -1425,8 +1425,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1029/2010gm000968",
         "P921": [
-            "Rivers",
-            "Fish"
+            "Fish",
+            "Rivers"
         ],
         "P1476": "Salmon as geomorphic agents and ecosystem engineers in gravel-bed rivers: the effect of fish and floods on sediment mobility and habitat suitability",
         "P1433": "Stream Restoration in Dynamic Fluvial Systems",
@@ -1462,8 +1462,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/2013jf002917",
         "P921": [
-            "Modeling",
-            "Streams"
+            "Streams",
+            "Modeling"
         ],
         "P1476": "Scale\u2010dependent interactions between wood and channel dynamics: Modeling jam formation and sediment storage in gravel\u2010bed streams",
         "P1433": "Journal of Geophysical Research: Earth Surface",
@@ -1512,8 +1512,8 @@
         "P356": "10.1201/9781315120584-17",
         "P921": [
             "Fish",
-            "Sediment transport",
-            "Channel morphology"
+            "Channel morphology",
+            "Sediment transport"
         ],
         "P1476": "Sediment Transport and Channel Morphology Implications for Fish Habitat",
         "P1433": "Open Channel Hydraulics, River Hydraulic Structures and Fluvial Geomorphology",
@@ -1573,8 +1573,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1007/978-94-017-0347-5_36",
         "P921": [
-            "Rivers",
-            "Sediment transport"
+            "Sediment transport",
+            "Rivers"
         ],
         "P1476": "Sediment transport at low rate in gravel-bed rivers",
         "P1433": "Sedimentation and Sediment Transport",
@@ -1837,8 +1837,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1002/esp.3290150807",
         "P921": [
-            "Rivers",
-            "Sediment transport"
+            "Sediment transport",
+            "Rivers"
         ],
         "P1476": "The influence of microform bed roughness elements on flow and sediment transport in gravel bed rivers",
         "P1433": "Earth Surface Processes and Landforms",
@@ -1964,8 +1964,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/s0928-2025(05)80015-x",
         "P921": [
-            "Rivers",
-            "Sediment transport"
+            "Sediment transport",
+            "Rivers"
         ],
         "P1476": "Upland gravel-bed rivers with low sediment transport",
         "P1433": "Developments in Earth Surface Processes",

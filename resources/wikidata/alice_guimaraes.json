@@ -1,6 +1,4458 @@
 {
     "author": "Alice Guimaraes",
-    "missing_data": [],
+    "missing_data": [
+        {
+            "DOI": "10.1590/s1519-69842008000500014",
+            "ISSN": [
+                "1519-6984"
+            ],
+            "URL": "http://dx.doi.org/10.1590/s1519-69842008000500014",
+            "abstract": "<jats:p>The present study was carried out in Lake Dom Helv\u00e9cio, in the state of Minas Gerais, with two main objectives: to demonstrate the contribution of the littoral zone, in order to better characterize zooplankton fauna; and to assess the distribution of zooplankton species in different habitats, i.e., the littoral zone with and without aquatic vegetation. The samples were collected in February and July 2006, throughout the littoral zone of the lake, in areas with and without aquatic vegetation. We identified a total of 188 species, of which 130 are new records for Lake Dom Helv\u00e9cio. One hundred and eighty-four species were identified in the littoral zone with aquatic vegetation, and 117 in the zone with no vegetation. The higher zooplankton richness in areas of the littoral zone with aquatic vegetation can be related to the greater environmental heterogeneity. Compared to previous studies on the littoral zones of lakes along the middle River Doce, the present study expended greater sampling effort, and identified many more species. In relation to biological conservation, this study demonstrated the importance of the littoral zone for better characterization and conservation of the zooplankton fauna, especially when it is colonized by aquatic vegetation. Underestimating the richness of species may provide inaccurate data on the biota, as well as on the ecological conditions in an environment.</jats:p>",
+            "alternative-id": [
+                "S1519-69842008000500014"
+            ],
+            "author": [
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Maia-Barbosa",
+                    "given": "PM.",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Peixoto",
+                    "given": "RS.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Guimar\u00e3es",
+                    "given": "AS.",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "Brazilian Journal of Biology"
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": []
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2009,
+                        2,
+                        4
+                    ]
+                ],
+                "date-time": "2009-02-04T12:20:19Z",
+                "timestamp": 1233750019000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        5,
+                        26
+                    ]
+                ],
+                "date-time": "2017-05-26T01:26:40Z",
+                "timestamp": 1495762000000
+            },
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        23
+                    ]
+                ],
+                "date-time": "2021-03-23T13:44:50Z",
+                "timestamp": 1616507090318
+            },
+            "is-referenced-by-count": 34,
+            "issn-type": [
+                {
+                    "type": "electronic",
+                    "value": "1519-6984"
+                }
+            ],
+            "issue": "4 suppl",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008,
+                        11
+                    ]
+                ]
+            },
+            "journal-issue": {
+                "issue": "4 suppl",
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2008,
+                            11
+                        ]
+                    ]
+                }
+            },
+            "link": [
+                {
+                    "URL": "http://www.scielo.br/pdf/bjb/v68n4s0/a14v684s.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "530",
+            "original_title": "Zooplankton in littoral waters of a tropical lake: a revisited biodiversity",
+            "page": "1069-1078",
+            "prefix": "10.1590",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2008,
+                        11
+                    ]
+                ]
+            },
+            "publisher": "FapUNIFESP (SciELO)",
+            "reference": [
+                {
+                    "DOI": "10.1007/BF00017567",
+                    "ISSN": "http://id.crossref.org/issn/0018-8158",
+                    "article-title": "Ocurrence of limnic micro-crustaceans in relation to temperature and oxygen",
+                    "author": "BERTILSSON J.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "163",
+                    "issn-type": "print",
+                    "issue": "2",
+                    "journal-title": "Hydrobiologia",
+                    "key": "ref1",
+                    "volume": "299",
+                    "year": "1995"
+                },
+                {
+                    "author": "BRITO SL.",
+                    "key": "ref2",
+                    "series-title": "Composi\u00e7\u00e3o, distribui\u00e7\u00e3o espacial e biomassa do zoopl\u00e2ncton total do lago Dom Helv\u00e9cio, Parque Estadual do Rio Doce-MG",
+                    "year": "2003"
+                },
+                {
+                    "article-title": "Zooplankton Biodiversity of Minas Gerais State: a Preliminary Synthesis of Present Knowledge",
+                    "author": "ESKINAZI-SANT'ANNA EM.",
+                    "first-page": "199",
+                    "issue": "2",
+                    "journal-title": "Acta Limnol. Bras.",
+                    "key": "ref3",
+                    "volume": "17",
+                    "year": "2005"
+                },
+                {
+                    "DOI": "10.1016/0304-3770(83)90038-4",
+                    "article-title": "Dry weight and chemical changes during decomposition of tropical macrophytes in Lobo reservoir- S\u00e3o Paulo",
+                    "author": "ESTEVES FA.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "285",
+                    "issue": "3",
+                    "journal-title": "Brazil. Aquat. Bot.",
+                    "key": "ref4",
+                    "volume": "16",
+                    "year": "1983"
+                },
+                {
+                    "article-title": "The absorption power of plankton",
+                    "author": "FROUIN R.",
+                    "issue": "2-3",
+                    "journal-title": "Annual report of Scripps Institution of Oceanography",
+                    "key": "ref5",
+                    "volume": "4",
+                    "year": "2003"
+                },
+                {
+                    "ISSN": "http://id.crossref.org/issn/0952-8369",
+                    "article-title": "Associations of zooplankton in six crater lakes in Arizona, Mexico and New Mexico",
+                    "author": "GREEN J.",
+                    "first-page": "138",
+                    "issn-type": "print",
+                    "journal-title": "J. Zool.",
+                    "key": "ref6",
+                    "volume": "208",
+                    "year": "1986"
+                },
+                {
+                    "author": "GRIMBERG EE.",
+                    "key": "ref7",
+                    "series-title": "Estudo comparativo da comunidade zooplanct\u00f4nica de um sistema artificial (Represa da Barra Bonita, SP) e de um sistema natural (Lagoa Baixa Verde, MG)",
+                    "year": "2002"
+                },
+                {
+                    "author": "IKUSIMA I.",
+                    "first-page": "309",
+                    "key": "ref8",
+                    "series-title": "Limnological Studies on the Rio Doce Valley Lakes, Brazil",
+                    "volume-title": "Ecological studies of aquatic macrophytes in four lakes",
+                    "year": "1997"
+                },
+                {
+                    "article-title": "Composition and abundance of Cladocera (Crustacea) assemblages associated to Eichhornia azurea (Swartz) Kunth in the Upper Paran\u00e1 River floodplain",
+                    "author": "LIMA AF.",
+                    "first-page": "41",
+                    "issue": "1",
+                    "journal-title": "Acta Sci.",
+                    "key": "ref9",
+                    "volume": "25",
+                    "year": "2003"
+                },
+                {
+                    "author": "MACKERETH FJH.",
+                    "key": "ref10",
+                    "series-title": "Water analysis and some revised methods for limnologists",
+                    "year": "1978"
+                },
+                {
+                    "author": "MAJER JD.",
+                    "first-page": "53",
+                    "key": "ref11",
+                    "series-title": "The role of invertebrates in conservation and biological survey",
+                    "volume-title": "Dealing with data from extensive invertebrates surveys",
+                    "year": "1987"
+                },
+                {
+                    "ISSN": "http://id.crossref.org/issn/0240-8783",
+                    "article-title": "Seasonal fluctuation of copepod population in lake Dom Helv\u00e9cio (Parque Florestal do Rio Doce, MG, Brazil)",
+                    "author": "MATSUMURA-TUNDISI T.",
+                    "first-page": "35",
+                    "issn-type": "print",
+                    "issue": "1",
+                    "journal-title": "Rev. Hydrobiol. Trop.",
+                    "key": "ref12",
+                    "volume": "6",
+                    "year": "1983"
+                },
+                {
+                    "author": "MATSUMURA-TUNDISI T.",
+                    "first-page": "309",
+                    "key": "ref13",
+                    "series-title": "Limnological Studies on the Rio Doce Valley Lakes, Brazil",
+                    "volume-title": "Composition and vertical distribution of zooplankton in lake Dom Helv\u00e9cio- MG, Brazil",
+                    "year": "1997"
+                },
+                {
+                    "author": "MORETTO EM.",
+                    "key": "ref14",
+                    "series-title": "Diversidade zooplanct\u00f4nica e vari\u00e1veis limnol\u00f3gicas das regi\u00f5es limn\u00e9tica e litor\u00e2nea de cinco lagoas do Rio Doce e sua rela\u00e7\u00e3o com o entorno",
+                    "year": "2001"
+                },
+                {
+                    "DOI": "10.1111/j.1365-2427.2006.01614.x",
+                    "article-title": "Quantifying rotifer species richness in temperate lakes",
+                    "author": "MUIRHEAD RJ.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1696",
+                    "issue": "9",
+                    "journal-title": "Freshwater Biology",
+                    "key": "ref15",
+                    "volume": "51",
+                    "year": "2006"
+                },
+                {
+                    "ISSN": "http://id.crossref.org/issn/0006-3568",
+                    "article-title": "Detritus as a major component of ecosystems",
+                    "author": "ODUM EP.",
+                    "first-page": "39",
+                    "issn-type": "print",
+                    "issue": "3",
+                    "journal-title": "Bioscience",
+                    "key": "ref16",
+                    "volume": "13",
+                    "year": "1963"
+                },
+                {
+                    "article-title": "Loss of weight and concentration of carbon, nitrogen, and phosphorus during decomposition of Eichhornia azurea in the floodplain of the upper Paran\u00e1 river",
+                    "author": "PAGIORO TA.",
+                    "first-page": "603",
+                    "issue": "4",
+                    "journal-title": "Brazil. Rev. Bras. Biol. = Braz. J. Biol.",
+                    "key": "ref17",
+                    "volume": "58",
+                    "year": "1999"
+                },
+                {
+                    "article-title": "Role of macrophytes in aquatic ecosystems and management of water resources",
+                    "author": "PANDIT AK.",
+                    "first-page": "73",
+                    "issue": "1",
+                    "journal-title": "J. Environ. Manag.",
+                    "key": "ref18",
+                    "volume": "18",
+                    "year": "1984"
+                },
+                {
+                    "DOI": "10.2307/3224313",
+                    "article-title": "Structure of zooplankton populations in the littoral macrophyte zone of some Colorado lakes",
+                    "author": "PENNAK PW.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "329",
+                    "issue": "3",
+                    "journal-title": "Trans. Am. Microsc. Soc.",
+                    "key": "ref19",
+                    "volume": "85",
+                    "year": "1966"
+                },
+                {
+                    "author": "PIECZYNSKA P.",
+                    "first-page": "39",
+                    "key": "ref20",
+                    "series-title": "Guidelines of Lake Management: Lake shore management",
+                    "volume-title": "Littoral habitats and communities",
+                    "year": "1990"
+                },
+                {
+                    "DOI": "10.1038/35012221",
+                    "ISSN": "http://id.crossref.org/issn/0028-0836",
+                    "article-title": "Getting the measure of biodiversity",
+                    "author": "PURVIS A.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "212",
+                    "issn-type": "print",
+                    "journal-title": "Nature",
+                    "key": "ref21",
+                    "volume": "405",
+                    "year": "2000"
+                },
+                {
+                    "author": "ROCHA O.",
+                    "key": "ref22",
+                    "series-title": "Avalia\u00e7\u00e3o do estado do conhecimento da diversidade biol\u00f3gica do Brasil: \u00c1guas Doces",
+                    "year": "2003"
+                },
+                {
+                    "author": "ROCHA O.",
+                    "first-page": "151",
+                    "key": "ref23",
+                    "series-title": "Limnology in Brazil",
+                    "volume-title": "Composition, biomass and productivity of zooplankton in natural lakes and reservoirs in Brazil",
+                    "year": "1995"
+                },
+                {
+                    "DOI": "10.1016/S0304-3770(02)00082-7",
+                    "article-title": "Primary production and mortality of Eleocharis interstincta in response to water level fluctuations",
+                    "author": "SANTOS AM.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "189",
+                    "issue": "3",
+                    "journal-title": "Aquat. bot.",
+                    "key": "ref24",
+                    "volume": "74",
+                    "year": "2002"
+                },
+                {
+                    "author": "SANTOS LC.",
+                    "key": "ref25",
+                    "series-title": "Estudos das popula\u00e7\u00f5es de Cladocera em cinco lagos naturais (Parque Florestal do Rio Doce- MG), que se encontram em diferentes est\u00e1gios de evolu\u00e7\u00e3o",
+                    "year": "1980"
+                },
+                {
+                    "article-title": "Interannual variability in the zooplankton community of a shallow temporary pond",
+                    "author": "SERRANO L.",
+                    "first-page": "1575",
+                    "journal-title": "Verh. Int. Ver. Limnol.",
+                    "key": "ref26",
+                    "volume": "26",
+                    "year": "1998"
+                },
+                {
+                    "DOI": "10.1023/A:1003889331767",
+                    "ISSN": "http://id.crossref.org/issn/0018-8158",
+                    "article-title": "Spatial and temporal variation in densities of testate amoebae in the plankton of the Upper Paran\u00e1 River floodplain, Brazil",
+                    "author": "VELHO LFM.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "103",
+                    "issn-type": "print",
+                    "journal-title": "Hydrobiologia",
+                    "key": "ref27",
+                    "volume": "411",
+                    "year": "1999"
+                }
+            ],
+            "reference-count": 27,
+            "references-count": 27,
+            "relation": {
+                "cites": []
+            },
+            "score": 49.085632,
+            "short-container-title": [
+                "Braz. J. Biol."
+            ],
+            "source": "scholarly",
+            "subject": [
+                "General Agricultural and Biological Sciences"
+            ],
+            "title": [],
+            "type": "journal-article",
+            "volume": "68"
+        },
+        {
+            "DOI": "10.1016/j.limno.2011.04.003",
+            "ISSN": [
+                "0075-9511"
+            ],
+            "URL": "http://dx.doi.org/10.1016/j.limno.2011.04.003",
+            "alternative-id": [
+                "S0075951111000193"
+            ],
+            "author": [
+                {
+                    "affiliation": [],
+                    "family": "Chaparro",
+                    "given": "Griselda",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Marinone",
+                    "given": "Mar\u00eda Cristina",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Lombardo",
+                    "given": "Ruben J.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Schiaffino",
+                    "given": "Mar\u00eda Romina",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "de Souza Guimar\u00e3es",
+                    "given": "Alice",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "O\u2019Farrell",
+                    "given": "In\u00e9s",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "Limnologica"
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": []
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2011,
+                        5,
+                        24
+                    ]
+                ],
+                "date-time": "2011-05-24T03:12:05Z",
+                "timestamp": 1306206725000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        2
+                    ]
+                ],
+                "date-time": "2018-12-02T14:22:31Z",
+                "timestamp": 1543760551000
+            },
+            "funder": [
+                {
+                    "DOI": "10.13039/501100002923",
+                    "award": [
+                        "PIP 5355"
+                    ],
+                    "doi-asserted-by": "crossref",
+                    "name": "CONICET"
+                },
+                {
+                    "award": [
+                        "PICT 536"
+                    ],
+                    "name": "ANCYPT"
+                }
+            ],
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        11,
+                        6
+                    ]
+                ],
+                "date-time": "2020-11-06T07:23:47Z",
+                "timestamp": 1604647427221
+            },
+            "is-referenced-by-count": 17,
+            "issn-type": [
+                {
+                    "type": "print",
+                    "value": "0075-9511"
+                }
+            ],
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011,
+                        12
+                    ]
+                ]
+            },
+            "journal-issue": {
+                "issue": "4",
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2011,
+                            12
+                        ]
+                    ]
+                }
+            },
+            "language": "en",
+            "license": [
+                {
+                    "URL": "https://www.elsevier.com/tdm/userlicense/1.0/",
+                    "content-version": "tdm",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2011,
+                                12,
+                                1
+                            ]
+                        ],
+                        "date-time": "2011-12-01T00:00:00Z",
+                        "timestamp": 1322697600000
+                    }
+                },
+                {
+                    "URL": "https://www.elsevier.com/open-access/userlicense/1.0/",
+                    "content-version": "vor",
+                    "delay-in-days": 1827,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2016,
+                                12,
+                                1
+                            ]
+                        ],
+                        "date-time": "2016-12-01T00:00:00Z",
+                        "timestamp": 1480550400000
+                    }
+                }
+            ],
+            "link": [
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0075951111000193?httpAccept=text/xml",
+                    "content-type": "text/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://api.elsevier.com/content/article/PII:S0075951111000193?httpAccept=text/plain",
+                    "content-type": "text/plain",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                }
+            ],
+            "member": "78",
+            "original_title": "Zooplankton succession during extraordinary drought\u2013flood cycles: a case study in a South American floodplain lake",
+            "page": "371-381",
+            "prefix": "10.1016",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2011,
+                        12
+                    ]
+                ]
+            },
+            "publisher": "Elsevier BV",
+            "reference": [
+                {
+                    "DOI": "10.1007/s10750-005-4283-2",
+                    "article-title": "Diversity and abundance of the planktonic rotifers in different environments of the Upper Paran\u00e1 River floodplain (Paran\u00e1 State \u2013 Mato Grosso do Sul State, Brazil)",
+                    "author": "Bonecker",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "405",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0005",
+                    "volume": "181",
+                    "year": "2005"
+                },
+                {
+                    "DOI": "10.1007/BF00028274",
+                    "article-title": "Community structure of rotifers in two environments of the high Paran\u00e1 River floodplain (MS), Brazil",
+                    "author": "Bonecker",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "137",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0010",
+                    "volume": "325",
+                    "year": "1996"
+                },
+                {
+                    "article-title": "A review of some problems in zooplankton production studies",
+                    "author": "Bottrell",
+                    "first-page": "419",
+                    "journal-title": "Norw. J. Zool.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0015",
+                    "volume": "24",
+                    "year": "1976"
+                },
+                {
+                    "DOI": "10.1023/A:1025405817350",
+                    "article-title": "Limnological features in Tapacur\u00e1 reservoir (northeast Brazil) during a severe drought",
+                    "author": "Bouvy",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "115",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0020",
+                    "volume": "493",
+                    "year": "2003"
+                },
+                {
+                    "DOI": "10.1023/A:1026598123694",
+                    "article-title": "Influence of hydrological seasonality on bacterioplankton in two Neotropical floodplain lakes",
+                    "author": "Castillo",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "57",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0025",
+                    "volume": "437",
+                    "year": "2000"
+                },
+                {
+                    "article-title": "Las comunidades vegetales de la Reserva Natural Estricta Otamendi y sus relaciones con el ambiente",
+                    "author": "Chichizola",
+                    "first-page": "227",
+                    "journal-title": "Parodiana",
+                    "key": "10.1016/j.limno.2011.04.003_bib0030",
+                    "volume": "8",
+                    "year": "1993"
+                },
+                {
+                    "DOI": "10.1093/plankt/23.12.1311",
+                    "article-title": "On the taxonomy of three sympatric sibling species of the Brachionus plicatilis (Rotifera) complex form Spain, with the description of B. ibericus n. sp.",
+                    "author": "Cir\u00f3s-P\u00e9rez",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1311",
+                    "journal-title": "J. Plankton Res.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0035",
+                    "volume": "23",
+                    "year": "2001"
+                },
+                {
+                    "DOI": "10.1002/rra.1182",
+                    "article-title": "Influence of regional factors on zooplankton structure in a saline lowland river: the Salado River (Buenos Aires Province, Argentina)",
+                    "author": "Claps",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "453",
+                    "journal-title": "River Res. Appl.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0040",
+                    "volume": "25",
+                    "year": "2009"
+                },
+                {
+                    "DOI": "10.1007/BF00005940",
+                    "article-title": "Plankton community cycling and recovery after drought \u2013 dynamics in a basin on a flood plain",
+                    "author": "Crome",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0045",
+                    "volume": "164",
+                    "year": "1988"
+                },
+                {
+                    "article-title": "Effects of Microcystis aeruginosa on population dynamics and sexual reproduction in two Daphnia species",
+                    "author": "Daogui",
+                    "first-page": "1",
+                    "journal-title": "J. Plankton Res.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0050",
+                    "volume": "0",
+                    "year": "2010"
+                },
+                {
+                    "DOI": "10.1007/BF00377592",
+                    "article-title": "The dry weight estimate of biomass in a selection of Cladocera, Copepoda and Rotifera from the plankton, periphyton and benthos of continental waters",
+                    "author": "Dumont",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "75",
+                    "journal-title": "Oecologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0055",
+                    "volume": "19",
+                    "year": "1975"
+                },
+                {
+                    "DOI": "10.2307/1942218",
+                    "article-title": "Reproductive rate of planktonic rotifers as related to food and temperature in nature",
+                    "author": "Edmondson",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "61",
+                    "journal-title": "Ecol. Monogr.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0060",
+                    "volume": "35",
+                    "year": "1965"
+                },
+                {
+                    "DOI": "10.1007/s10750-010-0183-1",
+                    "article-title": "Zooplankton response to shading effects of free-floating plants in shallow warm temperate lakes: a field mesocosm experiment",
+                    "author": "Fontanarrosa",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "231",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0065",
+                    "volume": "646",
+                    "year": "2010"
+                },
+                {
+                    "DOI": "10.1590/S0034-71081998000300008",
+                    "article-title": "Densidad y diversidad del zooplancton en los r\u00edos Salado y Negro \u2013 planicie del r\u00edo Paran\u00e1\u2013Argentina",
+                    "author": "Frutos",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "431",
+                    "journal-title": "Rev. Bras. Biol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0070",
+                    "volume": "58",
+                    "year": "1998"
+                },
+                {
+                    "DOI": "10.1051/limn/2006028",
+                    "article-title": "Zooplankton of the Paraguay River: a comparison between sections and hydrological phases",
+                    "author": "Frutos",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "277",
+                    "journal-title": "Int. J. Limnol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0075",
+                    "volume": "42",
+                    "year": "2006"
+                },
+                {
+                    "DOI": "10.4081/jlimnol.2004.s1.32",
+                    "article-title": "Population density, sexual reproduction and diapause in monogonont rotifers: new data for Brachionus and a review",
+                    "author": "Gilbert",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "32",
+                    "journal-title": "J. Limnol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0080",
+                    "volume": "63",
+                    "year": "2004"
+                },
+                {
+                    "DOI": "10.1007/s00027-004-0712-y",
+                    "article-title": "Dormancy in freshwater zooplankton: Induction, termination and the importance of benthic-pelagic coupling",
+                    "author": "Gyllstr\u00f6m",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "274",
+                    "journal-title": "Aquat. Sci.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0085",
+                    "volume": "66",
+                    "year": "2004"
+                },
+                {
+                    "article-title": "Physical characteristics of the fringing floodplain of the Orinoco River, Venezuela",
+                    "author": "Hamilton",
+                    "first-page": "491",
+                    "journal-title": "Interciencia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0090",
+                    "volume": "15",
+                    "year": "1990"
+                },
+                {
+                    "DOI": "10.1007/s10750-007-0738-y",
+                    "article-title": "Zooplankton response to extreme drought in a large subtropical lake",
+                    "author": "Havens",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "187",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0095",
+                    "volume": "589",
+                    "year": "2007"
+                },
+                {
+                    "DOI": "10.1046/j.1529-8817.1999.3520403.x",
+                    "article-title": "Biovolume calculation for pelagic and benthic microalgae",
+                    "author": "Hillebrand",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "403",
+                    "journal-title": "J. Phycol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0100",
+                    "volume": "35",
+                    "year": "1999"
+                },
+                {
+                    "DOI": "10.1038/35012591",
+                    "article-title": "Functional diversity governs ecosystem response to nutrient enrichment",
+                    "author": "Hulot",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "340",
+                    "journal-title": "Nature",
+                    "key": "10.1016/j.limno.2011.04.003_bib0105",
+                    "volume": "405",
+                    "year": "2000"
+                },
+                {
+                    "article-title": "A comunidade fitoplanct\u00f4nica e sua rela\u00e7\u00e3o com o pulso hidrologico e o rejeito de bauxita",
+                    "author": "Huszar",
+                    "first-page": "91",
+                    "key": "10.1016/j.limno.2011.04.003_bib0110",
+                    "series-title": "Lago Batata: Impacto e reupera\u00e7\u00e3o de um ecossitema Amaz\u00f4nico",
+                    "year": "2000"
+                },
+                {
+                    "DOI": "10.1007/s10750-007-0599-4",
+                    "article-title": "Horizontal dynamics of zooplankton in subtropical Lake Blanca (Uruguay) hosting multiple zooplankton predators and aquatic plant refuges",
+                    "author": "Iglesias",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0115",
+                    "volume": "584",
+                    "year": "2007"
+                },
+                {
+                    "key": "10.1016/j.limno.2011.04.003_bib0120",
+                    "unstructured": "Intergovermental Panel of Climate Change, 2010. http://ipcc.ch."
+                },
+                {
+                    "DOI": "10.1890/1540-9295(2007)5[365:ANGOCE]2.0.CO;2",
+                    "article-title": "A new generation of climate-change experiments: events, not trends",
+                    "author": "Jentsch",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "365",
+                    "journal-title": "Front. Ecol. Environ.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0125",
+                    "volume": "5",
+                    "year": "2007"
+                },
+                {
+                    "article-title": "Composition and seasonality of planktonic rotifers in limnetic and littoral regions of a floodplain lake (Parana River system)",
+                    "author": "Jos\u00e9 de Paggi",
+                    "first-page": "53",
+                    "journal-title": "Rev. Hydrobiol. Trop.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0130",
+                    "volume": "26",
+                    "year": "1993"
+                },
+                {
+                    "article-title": "Zooplankton",
+                    "author": "Jos\u00e9 de Paggi",
+                    "first-page": "229",
+                    "key": "10.1016/j.limno.2011.04.003_bib0135",
+                    "series-title": "The Middle Paran\u00e1 River: Limnology of a Subtropical Wetland",
+                    "year": "2007"
+                },
+                {
+                    "DOI": "10.1093/plankt/fbg096",
+                    "article-title": "Geometric models for calculating cell biovolume and surface area for phytoplankton",
+                    "author": "Jun",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1331",
+                    "journal-title": "J. Plankton Res.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0140",
+                    "volume": "25",
+                    "year": "2003"
+                },
+                {
+                    "article-title": "The flood pulse concept in River-floodplain systems",
+                    "author": "Junk",
+                    "first-page": "110",
+                    "key": "10.1016/j.limno.2011.04.003_bib0145",
+                    "series-title": "Proceeding of the International Large River Symposium, Canadian Special Publication of Fisheries and Aquatic Sciences, 106",
+                    "year": "1989"
+                },
+                {
+                    "author": "Kalff",
+                    "key": "10.1016/j.limno.2011.04.003_bib0150",
+                    "series-title": "Limnology",
+                    "year": "2003"
+                },
+                {
+                    "DOI": "10.1007/s10452-008-9219-2",
+                    "article-title": "Short-term response of nutrients, carbon and planktonic microbial communities to floodplain wetland inundation",
+                    "author": "Kobayashi",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "843",
+                    "journal-title": "Aquat. Ecol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0155",
+                    "volume": "43",
+                    "year": "2009"
+                },
+                {
+                    "DOI": "10.1590/S1519-69842009000300009",
+                    "article-title": "Biodiversity of zooplankton communities in the Upper Paran\u00e1 River floodplain: interannual variation from long-term studies",
+                    "author": "Lansac-T\u00f4ha",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "539",
+                    "issue": "Suppl.",
+                    "journal-title": "Braz. J. Biol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0160",
+                    "volume": "69",
+                    "year": "2009"
+                },
+                {
+                    "DOI": "10.1046/j.1365-2427.1997.00189.x",
+                    "article-title": "Responses of Daphnia pulex populations to toxic cyanobacteria",
+                    "author": "Lauren-M\u00e4\u00e4tt\u00e4",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "635",
+                    "journal-title": "Freshw. Biol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0165",
+                    "volume": "37",
+                    "year": "1997"
+                },
+                {
+                    "DOI": "10.1007/s10750-007-0713-7",
+                    "article-title": "Zooplankton succession on seasonal floodplains: surfing on a wave of food",
+                    "author": "Lindholm",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "95",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0170",
+                    "volume": "592",
+                    "year": "2007"
+                },
+                {
+                    "DOI": "10.1007/s10021-009-9258-0",
+                    "article-title": "Hydrology-driven regime shifts in a shallow tropical lake",
+                    "author": "Loverde-Oliveira",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "807",
+                    "journal-title": "Ecosystems",
+                    "key": "10.1016/j.limno.2011.04.003_bib0175",
+                    "volume": "12",
+                    "year": "2009"
+                },
+                {
+                    "DOI": "10.1023/B:HYDR.0000008571.40893.77",
+                    "article-title": "Effects of Egeria densa Planch. beds on a shallow lake without piscivorous fish",
+                    "author": "Mazzeo",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "591",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0180",
+                    "volume": "506",
+                    "year": "2003"
+                },
+                {
+                    "DOI": "10.1111/j.1365-2427.2007.01748.x",
+                    "article-title": "Effects of habitat complexity on community structure and predator avoidance behaviour of littoral zooplankton in temperate versus subtropical shallow lakes",
+                    "author": "Meerhoff",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1009",
+                    "journal-title": "Freshw. Biol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0185",
+                    "volume": "52",
+                    "year": "2007"
+                },
+                {
+                    "article-title": "Aspects of primary productivity in the Lower Paran\u00e1 and Paraguay riverine system",
+                    "author": "Neiff",
+                    "first-page": "73",
+                    "journal-title": "Acta Limnol. Bras.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0190",
+                    "volume": "3",
+                    "year": "1990"
+                },
+                {
+                    "DOI": "10.1111/j.1365-2427.2008.02117.x",
+                    "article-title": "Experimental evidence of the dynamic effect of free-floating plants on phytoplankton ecology",
+                    "author": "O\u2019Farrell",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "363",
+                    "journal-title": "Freshw. Biol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0195",
+                    "volume": "54",
+                    "year": "2009"
+                },
+                {
+                    "DOI": "10.1007/s00027-010-0175-2",
+                    "article-title": "Water level as the main driver of the alternation between a free-floating plant and a phytoplankton dominated state: a long-term study in a floodplain lake",
+                    "author": "O\u2019Farrell",
+                    "doi-asserted-by": "crossref",
+                    "journal-title": "Aquat. Sci.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0200",
+                    "year": "2011"
+                },
+                {
+                    "DOI": "10.1111/j.1758-2229.2008.00004.x",
+                    "article-title": "Climate change: a catalyst for global expansion of harmful cyanobacterial blooms",
+                    "author": "Paerl",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "27",
+                    "journal-title": "Environ. Microbiol. Rep.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0205",
+                    "volume": "1",
+                    "year": "2009"
+                },
+                {
+                    "DOI": "10.1016/S0990-7440(00)00152-2",
+                    "article-title": "Population growth capacities and regulatory factors in monospecific cultures of the cladocerans Moina micrura and Diaphanosoma excisum and the copepod Thermocyclops decipiens from C\u00f4te d\u2019Ivoire (West Africa)",
+                    "author": "Pagano",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "163",
+                    "journal-title": "Aquat. Living Resour.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0210",
+                    "volume": "13",
+                    "year": "2000"
+                },
+                {
+                    "DOI": "10.2478/v10043-009-0036-1",
+                    "article-title": "Influence of flooding frequency on zooplankton in the floodplains of the Daugava River (Latvia)",
+                    "author": "Paidere",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "306",
+                    "journal-title": "Acta Zool. Lituanica",
+                    "key": "10.1016/j.limno.2011.04.003_bib0215",
+                    "volume": "19",
+                    "year": "2009"
+                },
+                {
+                    "article-title": "The role of resting eggs in the recovery of zooplankton community in a marginal lake of the Paranapanema River",
+                    "author": "Panarelli",
+                    "first-page": "73",
+                    "journal-title": "Acta Limnol. Bras.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0220",
+                    "volume": "20",
+                    "year": "2008"
+                },
+                {
+                    "DOI": "10.5194/hess-11-1633-2007",
+                    "article-title": "Updated world map of the K\u00f6ppen\u2013Geiger climate classification",
+                    "author": "Peel",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1633",
+                    "journal-title": "Hydrol. Earth Syst. Sci.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0225",
+                    "volume": "11",
+                    "year": "2007"
+                },
+                {
+                    "DOI": "10.1007/s10750-005-0318-y",
+                    "article-title": "The effects of hydrology on plankton biomass in shallow lakes of the Pampa Plain",
+                    "author": "Rennella",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "181",
+                    "journal-title": "Hydrobiologia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0230",
+                    "volume": "556",
+                    "year": "2006"
+                },
+                {
+                    "article-title": "Ambientes acu\u00e1ticos continentales, Ensayo bioecol\u00f3gico con particular aplicaci\u00f3n a la Rep\u00fablica Argentina",
+                    "author": "Ringuelet",
+                    "first-page": "155",
+                    "journal-title": "Holmbergia",
+                    "key": "10.1016/j.limno.2011.04.003_bib0235",
+                    "volume": "5",
+                    "year": "1957"
+                },
+                {
+                    "article-title": "Suggestions for biomass calculations of plankton rotifers",
+                    "author": "Ruttner-Kolisko",
+                    "first-page": "71",
+                    "journal-title": "Arch. Hydrobiol. Beih. Ergebn. Limnol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0240",
+                    "volume": "8",
+                    "year": "1977"
+                },
+                {
+                    "DOI": "10.1002/aqc.420",
+                    "article-title": "Limnological changes in a sub-tropical shallow hypertrophic lake during its restoration: two years of a whole-lake experiment",
+                    "author": "Scasso",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "31",
+                    "journal-title": "Aquatic Conserv: Mar. Freshw. Ecosyst.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0245",
+                    "volume": "11",
+                    "year": "2001"
+                },
+                {
+                    "DOI": "10.1111/j.0269-8463.2004.00854.x",
+                    "article-title": "Transgenerational plasticity for sexual reproduction and diapause in the life cycle of monogonont rotifers: intraclonal, intraspecific and interspecific variation in the response to crowding",
+                    "author": "Schr\u00f6der",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "458",
+                    "journal-title": "Funct. Ecol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0250",
+                    "volume": "18",
+                    "year": "2004"
+                },
+                {
+                    "key": "10.1016/j.limno.2011.04.003_bib0255",
+                    "unstructured": "Sinistro, R., 2007. Estructura de las comunidades planct\u00f3nicas y an\u00e1lisis de sus interacciones tr\u00f3ficas en un humedal de la cuenca del Paran\u00e1 inferior (Reserva de Otamendi, Buenos Aires, Argentina). PhD Thesis, Departamento de Ecolog\u00eda, Gen\u00e9tica y Evoluci\u00f3n, Universidad de Buenos Aires, Buenos Aires."
+                },
+                {
+                    "DOI": "10.1093/plankt/fbl008",
+                    "article-title": "Experimental study on the microbial plankton community in a South American wetland (Lower Paran\u00e1 River Basin) and the effect of the light deficiency due to the floating macrophytes",
+                    "author": "Sinistro",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "53",
+                    "journal-title": "J. Plankton Res.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0260",
+                    "volume": "28",
+                    "year": "2006"
+                },
+                {
+                    "DOI": "10.1590/S1679-87592006000300003",
+                    "article-title": "Distribution and abundance of Cladocera (Branchiopoda) in the Para\u00edba do Sul River Estuary, Rio de Janeiro, Brazil",
+                    "author": "Sterza",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "193",
+                    "journal-title": "Braz. J. Oceanogr.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0265",
+                    "volume": "54",
+                    "year": "2006"
+                },
+                {
+                    "DOI": "10.1007/BF00877430",
+                    "article-title": "Canonical correspondence analysis and related multivariate methods in aquatic ecology",
+                    "author": "ter Braak",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "255",
+                    "journal-title": "Aquat. Sci.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0270",
+                    "volume": "57",
+                    "year": "1995"
+                },
+                {
+                    "DOI": "10.1038/19505",
+                    "article-title": "Increased El Ni\u00f1o frequency in a climate model forced by future greenhouse warming",
+                    "author": "Timmermann",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "694",
+                    "journal-title": "Nature",
+                    "key": "10.1016/j.limno.2011.04.003_bib0275",
+                    "volume": "398",
+                    "year": "1999"
+                },
+                {
+                    "DOI": "10.1007/s00027-009-0115-1",
+                    "article-title": "Phytoplankton response to pH rise in a N-limited floodplain lake: relevance of N2- fixing heterocystous cyanobacteria",
+                    "author": "Unrein",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "179",
+                    "journal-title": "Aquat. Sci.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0280",
+                    "volume": "72",
+                    "year": "2010"
+                },
+                {
+                    "article-title": "Zur Vervollkommnung der quantitativen Phytoplankton-Methodik",
+                    "author": "Uterm\u00f6hl",
+                    "first-page": "1",
+                    "journal-title": "Mitteil. Int. Ver. Theor. Angew. Limnol.",
+                    "key": "10.1016/j.limno.2011.04.003_bib0285",
+                    "volume": "9",
+                    "year": "1958"
+                }
+            ],
+            "reference-count": 57,
+            "references-count": 57,
+            "relation": {
+                "cites": []
+            },
+            "score": 63.213898,
+            "short-container-title": [
+                "Limnologica"
+            ],
+            "source": "scholarly",
+            "title": [],
+            "type": "journal-article",
+            "volume": "41"
+        },
+        {
+            "DOI": "10.1007/s00267-018-1025-6",
+            "ISSN": [
+                "0364-152X",
+                "1432-1009"
+            ],
+            "URL": "http://dx.doi.org/10.1007/s00267-018-1025-6",
+            "alternative-id": [
+                "1025"
+            ],
+            "assertion": [
+                {
+                    "group": {
+                        "label": "Article History",
+                        "name": "ArticleHistory"
+                    },
+                    "label": "Received",
+                    "name": "received",
+                    "order": 1,
+                    "value": "10 August 2017"
+                },
+                {
+                    "group": {
+                        "label": "Article History",
+                        "name": "ArticleHistory"
+                    },
+                    "label": "Accepted",
+                    "name": "accepted",
+                    "order": 2,
+                    "value": "2 March 2018"
+                },
+                {
+                    "group": {
+                        "label": "Article History",
+                        "name": "ArticleHistory"
+                    },
+                    "label": "First Online",
+                    "name": "first_online",
+                    "order": 3,
+                    "value": "19 March 2018"
+                },
+                {
+                    "group": {
+                        "label": "Compliance with ethical standards",
+                        "name": "EthicsHeading"
+                    },
+                    "name": "Ethics",
+                    "order": 1
+                },
+                {
+                    "group": {
+                        "label": "Conflict of interest",
+                        "name": "EthicsHeading"
+                    },
+                    "name": "Ethics",
+                    "order": 2,
+                    "value": "The authors declare that they have no conflict of interest."
+                }
+            ],
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0002-6868-5371",
+                    "affiliation": [],
+                    "authenticated-orcid": false,
+                    "family": "Murray",
+                    "given": "Cathryn Clarke",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Wong",
+                    "given": "Janson",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Singh",
+                    "given": "Gerald G.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Mach",
+                    "given": "Megan",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Lerner",
+                    "given": "Jackie",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Ranieri",
+                    "given": "Bernardo",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Peterson St-Laurent",
+                    "given": "Guillaume",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Guimaraes",
+                    "given": "Alice",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Chan",
+                    "given": "Kai M. A.",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "Environmental Management"
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": [
+                    "link.springer.com"
+                ]
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        19
+                    ]
+                ],
+                "date-time": "2018-03-19T06:16:46Z",
+                "timestamp": 1521440206000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        10,
+                        13
+                    ]
+                ],
+                "date-time": "2019-10-13T03:20:46Z",
+                "timestamp": 1570936846000
+            },
+            "funder": [
+                {
+                    "DOI": "10.13039/100000936",
+                    "award": [
+                        "2229.01"
+                    ],
+                    "doi-asserted-by": "publisher",
+                    "name": "Gordon and Betty Moore Foundation"
+                },
+                {
+                    "DOI": "10.13039/501100000038",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "Natural Sciences and Engineering Research Council of Canada"
+                },
+                {
+                    "DOI": "10.13039/501100002322",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior"
+                }
+            ],
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        11,
+                        21
+                    ]
+                ],
+                "date-time": "2020-11-21T14:41:56Z",
+                "timestamp": 1605969716353
+            },
+            "is-referenced-by-count": 12,
+            "issn-type": [
+                {
+                    "type": "print",
+                    "value": "0364-152X"
+                },
+                {
+                    "type": "electronic",
+                    "value": "1432-1009"
+                }
+            ],
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        19
+                    ]
+                ]
+            },
+            "journal-issue": {
+                "issue": "6",
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2018,
+                            6
+                        ]
+                    ]
+                }
+            },
+            "language": "en",
+            "license": [
+                {
+                    "URL": "http://www.springer.com/tdm",
+                    "content-version": "tdm",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                3,
+                                19
+                            ]
+                        ],
+                        "date-time": "2018-03-19T00:00:00Z",
+                        "timestamp": 1521417600000
+                    }
+                }
+            ],
+            "link": [
+                {
+                    "URL": "http://link.springer.com/article/10.1007/s00267-018-1025-6/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00267-018-1025-6.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00267-018-1025-6.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "297",
+            "original_title": "The insignificance of thresholds in environmental impact assessment: An illustrative case study in Canada",
+            "page": "1062-1071",
+            "prefix": "10.1007",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2018,
+                        3,
+                        19
+                    ]
+                ]
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2018,
+                        6
+                    ]
+                ]
+            },
+            "publisher": "Springer Science and Business Media LLC",
+            "reference": [
+                {
+                    "key": "1025_CR1",
+                    "unstructured": "Antoniuk T, Kennett S, Aumann C, Weber M, Davis Schuetz S, McManus R, McKinnon K, Manuel K (2009) Valued component thresholds (management objectives) project. Calgary, AB, p 164"
+                },
+                {
+                    "DOI": "10.1002/ieam.1333",
+                    "author": "MA Ball",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "469",
+                    "issue": "3",
+                    "journal-title": "Integr Environ Assess Manage",
+                    "key": "1025_CR2",
+                    "unstructured": "Ball MA, Noble BF, Dub\u00e9 MG (2013a) Valued ecosystem components for watershed cumulative effects: an analysis of environmental impact assessments in the South Saskatchewan River watershed, Canada. Integr Environ Assess Manage 9(3):469\u2013479",
+                    "volume": "9",
+                    "year": "2013"
+                },
+                {
+                    "DOI": "10.1002/ieam.1332",
+                    "author": "M Ball",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "370",
+                    "issue": "3",
+                    "journal-title": "Integr Environ Assess Manage",
+                    "key": "1025_CR3",
+                    "unstructured": "Ball M, Somers G, Wilson JE, Tanna R, Chung C, Duro DC, Seitz N (2013b) Scale, assessment components, and reference conditions: issues for cumulative effects assessment in Canadian watersheds. Integr Environ Assess Manage 9(3):370\u2013379",
+                    "volume": "9",
+                    "year": "2013"
+                },
+                {
+                    "key": "1025_CR4",
+                    "unstructured": "BC EAO \u2013 British Columbia Environmental Assessment Office (2013). Guideline for the selection of valued components and assessment of potential effects. Prepared by the BC Environmental Assessment Office. http://www.eao.gov.bc.ca/pdf/EAO_Valued_Components_Guideline_2013_09_09.pdf . Updated online 09-09-2013"
+                },
+                {
+                    "DOI": "10.1007/s10668-011-9284-x",
+                    "author": "AL Booth",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "685",
+                    "journal-title": "Environ Dev Sustain",
+                    "key": "1025_CR5",
+                    "unstructured": "Booth AL, Skelton NW (2011) \u201cYou spoil everything!\u201d Indigenous peoples and consequences of industrial development in British Columbia. Environ Dev Sustain 13:685\u2013702",
+                    "volume": "13",
+                    "year": "2011"
+                },
+                {
+                    "DOI": "10.3316/QRJ0902027",
+                    "author": "GA Bowen",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "27",
+                    "issue": "2",
+                    "journal-title": "Qual Res J",
+                    "key": "1025_CR6",
+                    "unstructured": "Bowen GA (2009) Document analysis as a qualitative research method. Qual Res J 9(2):27\u201340",
+                    "volume": "9",
+                    "year": "2009"
+                },
+                {
+                    "key": "1025_CR7",
+                    "unstructured": "Brazil MMA/CONAMA - Ministry of the Environment (MMA) and National Environment Council (CONAMA) (2012). CONAMA Resolutions. Resolution 1996. http://www.mma.gov.br/port/conama/processos/61AA3835/CONAMA-ingles.pdf"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2012.04.003",
+                    "author": "S Briggs",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "16",
+                    "issue": "0",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR8",
+                    "unstructured": "Briggs S, Hudson MD (2013) Determination of significance in Ecological Impact Assessment: past change, current practice and future improvements. Environ Impact Assess Rev 38(0):16\u201325",
+                    "volume": "38",
+                    "year": "2013"
+                },
+                {
+                    "key": "1025_CR9",
+                    "unstructured": "Canadian Council of Ministers of the Environment (CCME) (1999) Canadian national ambient air quality objectives: process and status. Canadian environmental quality guidelines, 1999, Canadian Council of Ministers of the Environment, Winnipeg, p 8"
+                },
+                {
+                    "key": "1025_CR56",
+                    "unstructured": "Canadian Environmental Assessment Act (2012) SC 2012, c 19, s 52"
+                },
+                {
+                    "DOI": "10.1201/NOE0849321573.ch2",
+                    "doi-asserted-by": "crossref",
+                    "key": "1025_CR10",
+                    "unstructured": "Canter LW (1996) Environmental impact assessment (No. 2). McGraw-Hill Inc"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2003.12.002",
+                    "author": "M Cashmore",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "403",
+                    "issue": "4",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR11",
+                    "unstructured": "Cashmore M (2004) The role of science in environmental impact assessment: process and procedure versus purpose in the development of theory. Environ Impact Assess Rev 31;24(4):403\u2013426",
+                    "volume": "31;24",
+                    "year": "2004"
+                },
+                {
+                    "DOI": "10.5751/ES-04499-170105",
+                    "author": "L Christensen",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "5",
+                    "issue": "1",
+                    "journal-title": "Ecol Soc",
+                    "key": "1025_CR13",
+                    "unstructured": "Christensen L, Krogman N (2012) Social thresholds and their translation into social-ecological management practices. Ecol Soc 17(1):5",
+                    "volume": "17",
+                    "year": "2012"
+                },
+                {
+                    "key": "1025_CR14",
+                    "unstructured": "CEAA \u2013 Canadian Environmental Assessment Agency (2010) A reference guide for the Canadian Environmental Assessment Ace: determining whether a project is likely to cause significant adverse environmental effects. Prepared by the Federal Environmental Assessment Review Office. https://www.ceaa-acee.gc.ca/Content/D/2/1/D213D286-2512-47F4-B9C3-08B5C01E5005/Determining_Whether_a_Project_is_Likely_to_Cause_Significant_Adverse_Environmental_Effects.pdf . Updated online 10-10-2012"
+                },
+                {
+                    "key": "1025_CR15",
+                    "unstructured": "CEAA \u2013 Canadian Environmental Assessment Agency (2015) Operational policy statement: determining whether a project is likely to cause significant adverse environmental effects under the Canadian Environmental Assessment Act, 2012. http://www.ceaa.gc.ca/Content/3/6/3/363DF0E1-FF2C-409E-9BDC-EB23EA60EEE3/Significance_OPS_2015-eng.pdf"
+                },
+                {
+                    "key": "1025_CR16",
+                    "unstructured": "CEPA - Canadian Environmental Protection Act (1999) List of toxic substances managed under CEPA (Schedule 1). https://www.ec.gc.ca/lcpe-cepa/default.asp?lang=En&n=0DA2924D-1&wsdoc=4ABEFFC8-5BEC-B57A-F4BF-11069545E434. Updated 15 June, 2016. Accessed 22 June, 2016"
+                },
+                {
+                    "key": "1025_CR17",
+                    "unstructured": "Council on Environmental Quality (2007) A Citizen\u2019s Guide to the NEPA\u2014having your voice heard. https://ceq.doe.gov/nepa/Citizens_Guide_Dec07.pdf"
+                },
+                {
+                    "DOI": "10.1016/S0195-9255(03)00113-6",
+                    "author": "MG Dub\u00e9",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "723",
+                    "issue": "6",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR18",
+                    "unstructured": "Dub\u00e9 MG (2003) Cumulative effect assessment in Canada: a regional framework for aquatic ecosystems. Environ Impact Assess Rev 23(6):723\u2013745",
+                    "volume": "23",
+                    "year": "2003"
+                },
+                {
+                    "DOI": "10.1007/BF01866412",
+                    "author": "PN Duinker",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "issue": "1",
+                    "journal-title": "Environ Manage",
+                    "key": "1025_CR19",
+                    "unstructured": "Duinker PN, Beanlands GE (1986) The significance of environmental impacts: an exploration of the concept. Environ Manage 10(1):1\u201310",
+                    "volume": "10",
+                    "year": "1986"
+                },
+                {
+                    "key": "1025_CR20",
+                    "unstructured": "Duinker PN, Burbidge EL, Boardley SR, Greig LA (2012) Scientific dimensions of cumulative effects assessment: toward improvements in guidance for practice. Environ Rev 21(1): 40\u201352"
+                },
+                {
+                    "DOI": "10.1080/14615517.2014.981023",
+                    "author": "A Ehrlich",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "87",
+                    "issue": "2",
+                    "journal-title": "Impact Assess Proj Apprais",
+                    "key": "1025_CR21",
+                    "unstructured": "Ehrlich A, Ross W (2015) The significance spectrum and EIA significance determinations. Impact Assess Proj Apprais 33(2):87\u201397",
+                    "volume": "33",
+                    "year": "2015"
+                },
+                {
+                    "key": "1025_CR22",
+                    "unstructured": "Enbridge Northern Gateway Pipeline (ENGP) (2010) Environmental Impact Assessment Report. Volume 6A"
+                },
+                {
+                    "key": "1025_CR57",
+                    "unstructured": "Environmental Assessment Act, S.B.C. (2002) c.43, ss.11, 21"
+                },
+                {
+                    "key": "1025_CR23",
+                    "unstructured": "Environment Canada (2011) Scientific Assessment to Inform the Identification of Critical Habitat for Woodland Caribou (Rangifer tarandus caribou), Boreal Population, in Canada: 2011 update. Ottawa, ON, p 102"
+                },
+                {
+                    "author": "R Gibson",
+                    "key": "1025_CR25",
+                    "unstructured": "Gibson R, Hassan S, Holtz S, Tansey J, Whitelaw G (2005) Sustainability assessment criteria, processes and applications. Earthscan, London",
+                    "volume-title": "Sustainability assessment criteria, processes and applications",
+                    "year": "2005"
+                },
+                {
+                    "DOI": "10.1007/s10021-003-0142-z",
+                    "author": "PM Groffman",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "issue": "1",
+                    "journal-title": "Ecosystems",
+                    "key": "1025_CR26",
+                    "unstructured": "Groffman PM, Baron JS, Blett T, Gold AJ, Goodman I, Gunderson LH, Levinson BM, Palmer MA, Paerl HW, Peterson GD, Poff NL (2006) Ecological thresholds: the key to successful environmental management or an important concept with no practical application? Ecosystems 9(1):1\u20133",
+                    "volume": "9",
+                    "year": "2006"
+                },
+                {
+                    "key": "1025_CR27",
+                    "unstructured": "Hicks T (2011) Exploring the use of arguments in impact assessment: a case study for impact significance arguments. Master of Arts, Royal Roads University, p 111"
+                },
+                {
+                    "key": "1025_CR28",
+                    "unstructured": "International Finance Corporation (IFC) World Bank Group (2013) Good practice handbook. Cumulative impact assessment and management: Guidance for the Private Sector in Emerging Markets. IFC, Online Publication, p 102"
+                },
+                {
+                    "DOI": "10.1016/j.biocon.2013.09.012",
+                    "author": "CJ Johnson",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "57",
+                    "journal-title": "Biol Conserv",
+                    "key": "1025_CR29",
+                    "unstructured": "Johnson CJ (2013) Identifying ecological thresholds for regulating human activity: effective conservation or wishful thinking? Biol Conserv 168:57\u201356",
+                    "volume": "168",
+                    "year": "2013"
+                },
+                {
+                    "DOI": "10.1080/14615517.2015.1125643",
+                    "author": "M Jones",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "87",
+                    "issue": "1",
+                    "journal-title": "Impact Assess Proj Apprais",
+                    "key": "1025_CR30",
+                    "unstructured": "Jones M, Morrison-Saunders A (2016) Making sense of significance in environmental impact assessment. Impact Assess Proj Apprais 34(1):87\u201393",
+                    "volume": "34",
+                    "year": "2016"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2017.07.003",
+                    "author": "C Joseph",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR31",
+                    "unstructured": "Joseph C, Zeeg T, Angus D, Usborne A, Mutrie E (2017) Use of significance thresholds to integrate cumulative effects into project-level socio-economic impact assessment in Canada. Environ Impact Assess Rev 67:1\u20139",
+                    "volume": "67",
+                    "year": "2017"
+                },
+                {
+                    "key": "1025_CR32",
+                    "unstructured": "Kennett S (2006) From science-based thresholds to regulatory limits: implementation issues for cumulative effects management. Environ Can 23: 2009"
+                },
+                {
+                    "key": "1025_CR33",
+                    "unstructured": "Killingsworth MJ, Palmer JS (1992) The environmental impact statement and the rhetoric of democracy. In Ecospeak: Rhetoric and Environmental Politics in America, Southern Illinois University Press, Carbondale, IL, pp 163\u2013192"
+                },
+                {
+                    "key": "1025_CR34",
+                    "unstructured": "Krippendorff K (2004) Content analysis: an introduction to its methodology. Sage. Thousand Oaks, CA"
+                },
+                {
+                    "author": "D Lawrence",
+                    "key": "1025_CR35",
+                    "unstructured": "Lawrence D (2005) Significance criteria and determination in sustainability-based environmental impact assessment. Canadian Environmental Assessment Agency, Ottawa, ON. https://www.ceaa-acee.gc.ca/155701CE-docs/David_Lawrence-eng.pdf",
+                    "volume-title": "Significance criteria and determination in sustainability-based environmental impact assessment",
+                    "year": "2005"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2007.02.011",
+                    "author": "D Lawrence",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "755",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR36",
+                    "unstructured": "Lawrence D (2007) Impact significance determination\u2014back to basics. Environ Impact Assess Rev 27:755\u2013769",
+                    "volume": "27",
+                    "year": "2007"
+                },
+                {
+                    "key": "1025_CR37",
+                    "unstructured": "McGuigan EK (2015) Social impact assessment in rural and small-town British Columbia. Doctoral dissertation, University of British Columbia, p 200"
+                },
+                {
+                    "DOI": "10.1126/science.349.6248.596-a",
+                    "author": "JW Moore",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "596",
+                    "issue": "6248",
+                    "journal-title": "Science",
+                    "key": "1025_CR38",
+                    "unstructured": "Moore JW, Carr-Harris C, Gottesfeld AS, MacIntyre D, Radies D, Cleveland M, Barnes C, Joseph W, Williams G, Gordon J, Shepert B (2015) Selling first Nations down the river. Science 349(6248):596\u2013596",
+                    "volume": "349",
+                    "year": "2015"
+                },
+                {
+                    "author": "RK Morgan",
+                    "key": "1025_CR39",
+                    "unstructured": "Morgan RK (1998) Environmental impact assessment. Kluwer, Dordrecht",
+                    "volume-title": "Environmental impact assessment",
+                    "year": "1998"
+                },
+                {
+                    "key": "1025_CR40",
+                    "unstructured": "NEPA (National Environment and Planning Agency, USA) (2007). Guidelines for conducting environmental impacts assessment"
+                },
+                {
+                    "DOI": "10.1007/s00267-016-0799-7",
+                    "author": "B Noble",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "531",
+                    "issue": "4",
+                    "journal-title": "Environ Manage",
+                    "key": "1025_CR41",
+                    "unstructured": "Noble B, Liu J, Hackett P (2017) The contribution of project environmental assessment to assessing and managing cumulative effects: individually and collectively insignificant? Environ Manage 59(4):531\u2013545",
+                    "volume": "59",
+                    "year": "2017"
+                },
+                {
+                    "author": "B Sadler",
+                    "key": "1025_CR42",
+                    "unstructured": "Sadler B (1996) International study of the effectiveness of environmental assessment final report\u2014environmental assessment in a changing world: evaluating practice to improve performance. Minister of Supply and Services Canada, Ottawa",
+                    "volume-title": "International study of the effectiveness of environmental assessment final report\u2014environmental assessment in a changing world: evaluating practice to improve performance",
+                    "year": "1996"
+                },
+                {
+                    "author": "B Sadler",
+                    "edition": "2nd ed",
+                    "key": "1025_CR43",
+                    "unstructured": "Sadler B, Fuller K, Ridgway B, McCabe M, Bailey J, Saunders R (2002) Environmental impact assessment training resource manual, 2nd ed. United Nations Environment Programme, Geneva",
+                    "volume-title": "Environmental impact assessment training resource manual",
+                    "year": "2002"
+                },
+                {
+                    "key": "1025_CR44",
+                    "unstructured": "Sevier OH, Hatfield TF (2001) The determination of thresholds of environmental significance in the application of the California Environmental Quality Act (CEQA). Faculty Fellows Program, Center for California Studies, California State University, Sacramento"
+                },
+                {
+                    "DOI": "10.1016/0301-4797(90)90004-G",
+                    "author": "MA Thompson",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "235",
+                    "issue": "3",
+                    "journal-title": "J Environ Manage",
+                    "key": "1025_CR45",
+                    "unstructured": "Thompson MA (1990) Determining impact significance in EIA: a review of 24 methodologies. J Environ Manage 30(3):235\u2013250",
+                    "volume": "30",
+                    "year": "1990"
+                },
+                {
+                    "key": "1025_CR46",
+                    "unstructured": "Teck Coal Limited (2011) Line Creek operations phase II project. Environmental Assessment Certificate Application. Volume B2"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2016.04.008",
+                    "author": "A Udofia",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "164",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR47",
+                    "unstructured": "Udofia A, Noble B, Poelzer G (2017) Meaningful and efficient? Enduring challenges to aboriginal participation in environmental assessment. Environ Impact Assess Rev 65:164\u2013174",
+                    "volume": "65",
+                    "year": "2017"
+                },
+                {
+                    "DOI": "10.1016/S0195-9255(03)00071-4",
+                    "author": "Y Wang",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "543",
+                    "issue": "5",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR49",
+                    "unstructured": "Wang Y, Morgan RK, Cashmore M (2003) Environmental impact assessment of projects in the People\u2019s Republic of China: new law, old problems. Environ Impact Assess Rev 23(5):543\u2013579",
+                    "volume": "23",
+                    "year": "2003"
+                },
+                {
+                    "key": "1025_CR50",
+                    "unstructured": "Welsh Office (1999) Environmental Impact Assessment (EIA), Annex B. Welsh Office. Circular 11/99"
+                },
+                {
+                    "author": "J Weston",
+                    "first-page": "185",
+                    "issue": "2",
+                    "journal-title": "J Environ Assess Policy Manage",
+                    "key": "1025_CR51",
+                    "unstructured": "Weston J (2000) EIA, decision-making theory and screening and scoping in UK practice. J Environ Assess Policy Manage 43(2):185\u2013203",
+                    "volume": "43",
+                    "year": "2000"
+                },
+                {
+                    "key": "1025_CR52",
+                    "unstructured": "Wood C (2003) Environmental impact assessment: a comparative review. Pearson Education, New York, NY, p 430"
+                },
+                {
+                    "DOI": "10.1080/0042098975619",
+                    "author": "C Wood",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1237",
+                    "journal-title": "Urban Stud",
+                    "key": "1025_CR53",
+                    "unstructured": "Wood C, Jones C (1997) The effect of environmental assessment on UK local planning authority decisions. Urban Stud 34:1237\u20131257",
+                    "volume": "34",
+                    "year": "1997"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2007.03.003",
+                    "author": "G Wood",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "22",
+                    "issue": "1",
+                    "journal-title": "Environ Impact Assess Rev",
+                    "key": "1025_CR54",
+                    "unstructured": "Wood G (2008) Thresholds and criteria for evaluating and communicating impact significance in environmental statements: \u2018See no evil, hear no evil, speak no evil\u2019? Environ Impact Assess Rev 28(1):22\u201338",
+                    "volume": "28",
+                    "year": "2008"
+                },
+                {
+                    "DOI": "10.1068/a3878",
+                    "author": "G Wood",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "810",
+                    "issue": "4",
+                    "journal-title": "Environ Plan A",
+                    "key": "1025_CR55",
+                    "unstructured": "Wood G, Rodriguez-Bachiller A, Becker J (2007) Fuzzy sets and simulated environmental change: evaluating and communicating impact significance in environmental impact assessment. Environ Plan A 39(4):810\u2013829",
+                    "volume": "39",
+                    "year": "2007"
+                }
+            ],
+            "reference-count": 54,
+            "references-count": 54,
+            "relation": {
+                "cites": []
+            },
+            "score": 45.63722,
+            "short-container-title": [
+                "Environmental Management"
+            ],
+            "source": "scholarly",
+            "subject": [
+                "Ecology",
+                "Global and Planetary Change",
+                "Pollution"
+            ],
+            "title": [],
+            "type": "journal-article",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "volume": "61"
+        },
+        {
+            "DOI": "10.1590/s1519-69842010000400010",
+            "ISSN": [
+                "1519-6984"
+            ],
+            "URL": "http://dx.doi.org/10.1590/s1519-69842010000400010",
+            "abstract": "<jats:p>In order to verify changes in physical, chemical and biological features of Dom Helv\u00e9cio Lake (South-East Brazil), this study compares previous and recent data obtained from limnological investigations over three decades. Plankton species composition and density together with environmental data from 1978, 1983, and during 1999 to 2006 showed changes driven by seasonal climatic forces or by anthropogenic causes. Changes in diversity are shown as a consequence of alternation of rainy and dry periods and introduction of exotic fish species. Finally, suggestions are made for improving conservation efforts in the area, through planned actions and monitoring programmes.</jats:p>",
+            "alternative-id": [
+                "S1519-69842010000400010"
+            ],
+            "author": [
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Maia-Barbosa",
+                    "given": "PM.",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Barbosa",
+                    "given": "LG.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Brito",
+                    "given": "SL.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Garcia",
+                    "given": "F.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Barros",
+                    "given": "CFA",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Souza",
+                    "given": "MBG",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Mello",
+                    "given": "N.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Guimar\u00e3es",
+                    "given": "AS.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Universidade Federal de Minas Gerais,  Brazil"
+                        }
+                    ],
+                    "family": "Barbosa",
+                    "given": "FAR",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "Brazilian Journal of Biology"
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": []
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2010,
+                        11,
+                        13
+                    ]
+                ],
+                "date-time": "2010-11-13T01:52:29Z",
+                "timestamp": 1289613149000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2017,
+                        5,
+                        26
+                    ]
+                ],
+                "date-time": "2017-05-26T18:08:48Z",
+                "timestamp": 1495822128000
+            },
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        18
+                    ]
+                ],
+                "date-time": "2020-09-18T16:04:34Z",
+                "timestamp": 1600445074974
+            },
+            "is-referenced-by-count": 11,
+            "issn-type": [
+                {
+                    "type": "electronic",
+                    "value": "1519-6984"
+                }
+            ],
+            "issue": "3 suppl",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        10
+                    ]
+                ]
+            },
+            "journal-issue": {
+                "issue": "3 suppl",
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2010,
+                            10
+                        ]
+                    ]
+                }
+            },
+            "link": [
+                {
+                    "URL": "http://www.scielo.br/pdf/bjb/v70n3s0/10.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "530",
+            "original_title": "Limnological changes in Dom Helv\u00e9cio Lake (South-East Brazil): natural and anthropogenic causes",
+            "page": "795-802",
+            "prefix": "10.1590",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2010,
+                        10
+                    ]
+                ]
+            },
+            "publisher": "FapUNIFESP (SciELO)",
+            "reference": [
+                {
+                    "article-title": "The forgotten lake stratification pattern: atelomixis, and its ecological importance",
+                    "author": "BARBOSA FAR.",
+                    "first-page": "1385",
+                    "journal-title": "Verhandlungen der Internationalen Vereinigung fur Theoretische und Angewandte Limnologie",
+                    "key": "ref1",
+                    "volume": "28",
+                    "year": "2002"
+                },
+                {
+                    "article-title": "Primary production of phytoplankton and environmental characteristics of a shallow Quarternary lake at Eastern Brasil",
+                    "author": "BARBOSA FAR",
+                    "first-page": "139",
+                    "issue": "2",
+                    "journal-title": "Archive f\u00fcr Hydrobiologie",
+                    "key": "ref2",
+                    "volume": "90",
+                    "year": "1980"
+                },
+                {
+                    "article-title": "Seasonal mechanisms driving phytoplankton size structure in a tropical deep lake (Dom Helv\u00e9cio Lake, South-East Brazil)",
+                    "author": "BARROS CFA.",
+                    "first-page": "55",
+                    "issue": "1",
+                    "journal-title": "Acta Limnologica Brasiliensia",
+                    "key": "ref3",
+                    "volume": "18",
+                    "year": "2006"
+                },
+                {
+                    "article-title": "Morphometric study of Lake Dom Helv\u00e9cio, Parque Estadual do Rio Doce (PERD), Minas Gerais, Brazil: a re-evaluation",
+                    "author": "BEZERRA-NETO JF",
+                    "first-page": "161",
+                    "issue": "2",
+                    "journal-title": "Acta Limnologica Brasiliensia",
+                    "key": "ref4",
+                    "volume": "20",
+                    "year": "2008"
+                },
+                {
+                    "DOI": "10.4319/lo.1977.22.2.0361",
+                    "ISSN": "http://id.crossref.org/issn/0024-3590",
+                    "article-title": "A trophic state index for lakes",
+                    "author": "CARLSON RE.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "361",
+                    "issn-type": "print",
+                    "journal-title": "Limnology and Oceanography",
+                    "key": "ref5",
+                    "volume": "22",
+                    "year": "1977"
+                },
+                {
+                    "DOI": "10.1038/35012241",
+                    "ISSN": "http://id.crossref.org/issn/0028-0836",
+                    "article-title": "Consequences of changing biodiversity",
+                    "author": "CHAPIN III FS.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "234",
+                    "issn-type": "print",
+                    "journal-title": "Nature",
+                    "key": "ref6",
+                    "volume": "405",
+                    "year": "2000"
+                },
+                {
+                    "author": "COLE GA.",
+                    "key": "ref7",
+                    "series-title": "Textbook of Limnology",
+                    "year": "1983"
+                },
+                {
+                    "author": "FORTE-PONTES MC.",
+                    "key": "ref8",
+                    "series-title": "Produ\u00e7\u00e3o prim\u00e1ria, fitopl\u00e2ncton e fatores ambientais no lago Dom Helv\u00e9cio, Parque Florestal do Rio Doce/MG",
+                    "year": "1980"
+                },
+                {
+                    "DOI": "10.2307/3225681",
+                    "ISSN": "http://id.crossref.org/issn/0003-0023",
+                    "article-title": "Zooplankton (especially crustaceans and rotifers) as indicators of water quality",
+                    "author": "GANNON JE",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "16",
+                    "issn-type": "print",
+                    "journal-title": "Transactions of the American Microscopical Society",
+                    "key": "ref9",
+                    "volume": "97",
+                    "year": "1978"
+                },
+                {
+                    "author": "GODINHO AL.",
+                    "key": "ref10",
+                    "series-title": "Ecology and human impact in lakes and reservoirs in Minas Gerais with special reference to future development and management strategies",
+                    "volume-title": "The ecology of predator fish introductions: the case of Rio Doce Valley Lakes",
+                    "year": "1994"
+                },
+                {
+                    "author": "GODINHO AL",
+                    "first-page": "93",
+                    "key": "ref11",
+                    "year": "1992"
+                },
+                {
+                    "author": "GOLTERMAN HL.",
+                    "key": "ref12",
+                    "series-title": "Methods for physical and chemical analysis of freshwaters",
+                    "year": "1978"
+                },
+                {
+                    "author": "KOROLEFF F.",
+                    "key": "ref13",
+                    "series-title": "Methods of seawater analysis",
+                    "volume-title": "Determination of ammonia",
+                    "year": "1976"
+                },
+                {
+                    "article-title": "Alien fishes in lakes of the Doce river basin (Brazil): range, new occurrences and conservation of native communities",
+                    "author": "LATINI AO.",
+                    "issue": "2",
+                    "journal-title": "Lundiana",
+                    "key": "ref14",
+                    "volume": "5",
+                    "year": "2004"
+                },
+                {
+                    "DOI": "10.4319/lo.1967.12.2.0343",
+                    "ISSN": "http://id.crossref.org/issn/0024-3590",
+                    "article-title": "Determination of chlorophyll and phaeopigments: spectrophotometric equations",
+                    "author": "LORENZEN CJ.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "343",
+                    "issn-type": "print",
+                    "journal-title": "Limnology and Oceanography",
+                    "key": "ref15",
+                    "volume": "12",
+                    "year": "1967"
+                },
+                {
+                    "author": "MACKERETH FJH.",
+                    "key": "ref16",
+                    "series-title": "Water analysis and some revised methods for limnologists",
+                    "year": "1978"
+                },
+                {
+                    "article-title": "Zooplankton composition and vertical distribution in a tropical, monomictic lake (Dom Helv\u00e9cio lake, Southeastern Brazil)",
+                    "author": "MAIA-BARBOSA PM.",
+                    "first-page": "65",
+                    "journal-title": "Acta Limnologica Brasiliensia",
+                    "key": "ref17",
+                    "volume": "15",
+                    "year": "2003"
+                },
+                {
+                    "article-title": "The middle Rio Doce lakes, southeast Brazil: biodiversity and its controlling forces at local and regional scales",
+                    "author": "MAIA-BARBOSA PM.",
+                    "first-page": "1",
+                    "journal-title": "Verhandlungen der Internationalen Vereinigung fur Theoretische und Angewandte Limnologie",
+                    "key": "ref18",
+                    "volume": "29",
+                    "year": "2006"
+                },
+                {
+                    "DOI": "10.1590/S1519-69842008000500014",
+                    "ISSN": "http://id.crossref.org/issn/1519-6984",
+                    "article-title": "Zooplankton in littoral waters of a tropical lake: a revisited biodiversity",
+                    "author": "MAIA-BARBOSA PM.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1069",
+                    "issn-type": "print",
+                    "issue": "4",
+                    "journal-title": "Brazilian Journal of Biology",
+                    "key": "ref19",
+                    "volume": "68",
+                    "year": "2008"
+                },
+                {
+                    "author": "MATSUMURA-TUNDISI T.",
+                    "key": "ref20",
+                    "series-title": "Limnological Studies on the Rio Doce Valley Lakes, Brazil",
+                    "volume-title": "Composition and vertical distribution of zooplankton in Lake Dom Helv\u00e9cio",
+                    "year": "1997"
+                },
+                {
+                    "article-title": "Seasonal fluctuations of copepod populations in lake Dom Helv\u00e9cio (Parque Florestal, Rio Doce, Minas Gerais, Brazil)",
+                    "author": "MATSUMURA-TUNDISI T.",
+                    "first-page": "35",
+                    "journal-title": "Revista Hydrobiologia Tropical",
+                    "key": "ref21",
+                    "volume": "16",
+                    "year": "1983"
+                },
+                {
+                    "author": "MATSUMURA-TUNDISI T.",
+                    "key": "ref22",
+                    "series-title": "Limnological Studies on the Rio Doce Valley Lakes, Brazil",
+                    "volume-title": "Carbon uptake by Scolodiaptomus corderoi and Thermocyclops minutus feeding on different size fractions of phytoplankton from lake Dom Helv\u00e9cio",
+                    "year": "1997"
+                },
+                {
+                    "author": "MITAMURA O.",
+                    "key": "ref23",
+                    "series-title": "Limnological Studies on the Rio Doce Valley Lakes, Brazil",
+                    "volume-title": "Distribution of Biogeochemical Constituents in the waters",
+                    "year": "1977"
+                },
+                {
+                    "author": "OKANO WY.",
+                    "key": "ref24",
+                    "series-title": "Padr\u00e3o de migra\u00e7\u00e3o vertical e flutua\u00e7\u00e3o sazonal das principais esp\u00e9cies de Copepoda (Crustacea) do lago Dom Helv\u00e9cio: Parque Estadual do Rio Doce-MG",
+                    "year": "1980"
+                },
+                {
+                    "author": "REYNOLDS CS.",
+                    "key": "ref25",
+                    "series-title": "Limnological Studies on the Rio Doce Valley Lakes, Brazil",
+                    "volume-title": "On the vertical distribution of phytoplankton in the middle Rio Doce Valley lakes",
+                    "year": "1997"
+                },
+                {
+                    "DOI": "10.1590/S1519-69842002000100012",
+                    "ISSN": "http://id.crossref.org/issn/1519-6984",
+                    "article-title": "Life cycle, feeding and adaptive strategy implications on the co-occurrence of Argyrodiaptomus furcatus and Notodiaptomus iheringi in Lobo-Broa Reservoir (SP, Brazil)",
+                    "author": "RIETZLER AC.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "93",
+                    "issn-type": "print",
+                    "journal-title": "Brazilian Journal of Biology",
+                    "key": "ref26",
+                    "volume": "62",
+                    "year": "2002"
+                },
+                {
+                    "article-title": "Determination of ammonia in sea water by the indophenol method and its application to the coastal and off-shore waters",
+                    "author": "SAGI T.",
+                    "first-page": "43",
+                    "journal-title": "The Oceanography Magazine",
+                    "key": "ref27",
+                    "volume": "18",
+                    "year": "1966"
+                },
+                {
+                    "author": "SANTOS LC.",
+                    "key": "ref28",
+                    "series-title": "Estudo das popula\u00e7\u00f5es de Cladocera em cinco lagos naturais (Parque Estadual do Rio Doce-MG), que se encontram em diferentes est\u00e1gios de evolu\u00e7\u00e3o",
+                    "year": "1980"
+                },
+                {
+                    "DOI": "10.1007/s10750-008-9392-2",
+                    "ISSN": "http://id.crossref.org/issn/0018-8158",
+                    "article-title": "Role of atelomixis in phytoplankton assemblages' replacement in Dom Helv\u00e9cio Lake, South-East Brazil",
+                    "author": "SOUZA MBG.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "211",
+                    "issn-type": "print",
+                    "journal-title": "Hydrobiologia",
+                    "key": "ref29",
+                    "volume": "607",
+                    "year": "2008"
+                },
+                {
+                    "author": "TOLEDO A.",
+                    "first-page": "1",
+                    "key": "ref30",
+                    "year": "1983"
+                },
+                {
+                    "author": "TUNDISI JG.",
+                    "key": "ref31",
+                    "series-title": "Limnological Studies on the Rio Doce Valley Lakes, Brazil",
+                    "volume-title": "Climate",
+                    "year": "1997"
+                },
+                {
+                    "article-title": "Limnological studies of quaternary lakes in eastern Brazil: I Primary production of phytoplankton and ecological factors at Lake Dom Helv\u00e9cio",
+                    "author": "TUNDISI J. G",
+                    "first-page": "5",
+                    "journal-title": "Revista Brasileira de Biologia = Brazilian Journal of Biology",
+                    "key": "ref32",
+                    "volume": "4",
+                    "year": "1981"
+                },
+                {
+                    "DOI": "10.1093/plankt/fbg092",
+                    "ISSN": "http://id.crossref.org/issn/0142-7873",
+                    "article-title": "Zooplankton grazing on bacteria and cyanobacteria in a eutrophic lake",
+                    "author": "WORK KA.",
+                    "doi-asserted-by": "crossref",
+                    "first-page": "1301",
+                    "issn-type": "print",
+                    "journal-title": "Journal of Plankton Research",
+                    "key": "ref33",
+                    "volume": "25",
+                    "year": "2003"
+                }
+            ],
+            "reference-count": 33,
+            "references-count": 33,
+            "relation": {
+                "cites": []
+            },
+            "score": 62.64738,
+            "short-container-title": [
+                "Braz. J. Biol."
+            ],
+            "source": "scholarly",
+            "subject": [
+                "General Agricultural and Biological Sciences"
+            ],
+            "title": [],
+            "type": "journal-article",
+            "volume": "70"
+        },
+        {
+            "DOI": "10.7287/peerj.preprints.27409v1",
+            "URL": "http://dx.doi.org/10.7287/peerj.preprints.27409v1",
+            "abstract": "<jats:p>Governments around the world rely on environmental impact assessment (EIA) to provide rigorous analyses and an accurate appraisal of the risks and benefits of development. But how rigorous are the analyses conducted in EIAs, and how do they compare across nations? We evaluate the output from EIAs for jurisdictions in seven countries, focusing on scope (temporal and spatial), mitigation actions, and impact significance determination, which is integral for decision-making. We find that in all jurisdictions, the number of identified significant adverse impacts was consistently small (or nonexistent), regardless of context. Likely contributing to this uniformity, we find that the scopes of analyses are consistently narrower than warranted ecologically and toxicologically, many proposed mitigation measures are assumed to be effective with little to no justification,and that the professional judgement of developer-paid consultants is overwhelmingly the determinant of impact significance, with no transparent account of the reasoning processes involved. EIA can be salvaged as a rigorous, credible decision-aiding tool if rigor is enforced in assessment methodologies, regulators are empowered to enforce rigor, and pro-development conflict of interest is avoided.</jats:p>",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-4333-1988",
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "authenticated-orcid": true,
+                    "family": "Singh",
+                    "given": "Gerald G",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Lerner",
+                    "given": "Jackie",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Center for Ocean Solutions, Monterey, USA"
+                        }
+                    ],
+                    "family": "Mach",
+                    "given": "Megan",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Fisheries and Oceans Canada, Victoria, Canada"
+                        }
+                    ],
+                    "family": "Clarke Murray",
+                    "given": "Cathryn",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Ranieri",
+                    "given": "Bernardo",
+                    "sequence": "additional"
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-1329-0954",
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "authenticated-orcid": true,
+                    "family": "Peterson St-Laurent",
+                    "given": "Guillaume",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "World Wildlife Fund, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Wong",
+                    "given": "Janson",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Guimaraes",
+                    "given": "Alice",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Yunda-Guarin",
+                    "given": "Gustavo",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Satterfield",
+                    "given": "Terre",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Chan",
+                    "given": "Kai",
+                    "sequence": "additional"
+                }
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": []
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        5
+                    ]
+                ],
+                "date-time": "2018-12-05T15:03:13Z",
+                "timestamp": 1544022193000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        12,
+                        24
+                    ]
+                ],
+                "date-time": "2019-12-24T01:08:21Z",
+                "timestamp": 1577149701000
+            },
+            "group-title": "PeerJ Preprints",
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        14
+                    ]
+                ],
+                "date-time": "2020-04-14T13:19:04Z",
+                "timestamp": 1586870344251
+            },
+            "is-referenced-by-count": 1,
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        5
+                    ]
+                ]
+            },
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "content-version": "unspecified",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                12,
+                                5
+                            ]
+                        ],
+                        "date-time": "2018-12-05T00:00:00Z",
+                        "timestamp": 1543968000000
+                    }
+                }
+            ],
+            "link": [
+                {
+                    "URL": "https://peerj.com/preprints/27409v1.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://peerj.com/preprints/27409v1.xml",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://peerj.com/preprints/27409v1.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://peerj.com/preprints/27409v1.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "4443",
+            "posted": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        5
+                    ]
+                ]
+            },
+            "prefix": "10.7287",
+            "publisher": "PeerJ",
+            "reference-count": 0,
+            "references-count": 0,
+            "relation": {
+                "references": [
+                    {
+                        "asserted-by": "subject",
+                        "id": "10.7287/peerj.preprints.27409v1/supp-1",
+                        "id-type": "doi"
+                    },
+                    {
+                        "asserted-by": "subject",
+                        "id": "10.7287/peerj.preprints.27409v1/supp-2",
+                        "id-type": "doi"
+                    },
+                    {
+                        "asserted-by": "object",
+                        "id": "10.7287/peerj.preprints.27409v1/supp-1",
+                        "id-type": "doi"
+                    },
+                    {
+                        "asserted-by": "object",
+                        "id": "10.7287/peerj.preprints.27409v1/supp-2",
+                        "id-type": "doi"
+                    }
+                ]
+            },
+            "score": 25.962414,
+            "source": "crossref",
+            "subtype": "preprint",
+            "title": [
+                "Scientific shortcomings in environmental impact statements internationally"
+            ],
+            "type": "posted-content"
+        },
+        {
+            "DOI": "10.1088/1755-1315/268/1/012128",
+            "ISSN": [
+                "1755-1315"
+            ],
+            "URL": "http://dx.doi.org/10.1088/1755-1315/268/1/012128",
+            "author": [
+                {
+                    "affiliation": [],
+                    "family": "Alzoubi",
+                    "given": "Mahmoud",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Ali Ghoreishi-Madiseh",
+                    "given": "Seyed",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Sasmito",
+                    "given": "Agus P.",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Kunz",
+                    "given": "Nadja",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Guimaraes",
+                    "given": "Alice",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "IOP Conference Series: Earth and Environmental Science"
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": []
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        2
+                    ]
+                ],
+                "date-time": "2019-07-02T11:17:54Z",
+                "timestamp": 1562066274000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        3
+                    ]
+                ],
+                "date-time": "2019-07-03T07:19:10Z",
+                "timestamp": 1562138350000
+            },
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        26
+                    ]
+                ],
+                "date-time": "2020-03-26T14:59:19Z",
+                "timestamp": 1585234759056
+            },
+            "is-referenced-by-count": 0,
+            "issn-type": [
+                {
+                    "type": "electronic",
+                    "value": "1755-1315"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        2
+                    ]
+                ]
+            },
+            "license": [
+                {
+                    "URL": "http://iopscience.iop.org/info/page/text-and-data-mining",
+                    "content-version": "tdm",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                7,
+                                2
+                            ]
+                        ],
+                        "date-time": "2019-07-02T00:00:00Z",
+                        "timestamp": 1562025600000
+                    }
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/3.0/",
+                    "content-version": "vor",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                7,
+                                2
+                            ]
+                        ],
+                        "date-time": "2019-07-02T00:00:00Z",
+                        "timestamp": 1562025600000
+                    }
+                }
+            ],
+            "link": [
+                {
+                    "URL": "https://iopscience.iop.org/article/10.1088/1755-1315/268/1/012128/pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://iopscience.iop.org/article/10.1088/1755-1315/268/1/012128",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://iopscience.iop.org/article/10.1088/1755-1315/268/1/012128/pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                },
+                {
+                    "URL": "https://iopscience.iop.org/article/10.1088/1755-1315/268/1/012128",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "266",
+            "original_title": "Renewable energy-based artificial ground freezing as an adaptation solution for sustainability of permafrost in post-climate change conditions",
+            "page": "012128",
+            "prefix": "10.1088",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        2
+                    ]
+                ]
+            },
+            "publisher": "IOP Publishing",
+            "reference": [
+                {
+                    "author": "Couture R.",
+                    "journal-title": "Proceedings of Geohazards",
+                    "key": "1",
+                    "year": "2003"
+                },
+                {
+                    "DOI": "10.1002/ppp.511",
+                    "doi-asserted-by": "publisher",
+                    "key": "2"
+                },
+                {
+                    "author": "Stocker T.",
+                    "first-page": "1535",
+                    "journal-title": "IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
+                    "key": "3",
+                    "year": "2013"
+                },
+                {
+                    "author": "Beilman D. W.",
+                    "journal-title": "Proceedings of the 8th International Conference on Permafrost",
+                    "key": "4",
+                    "year": "2003"
+                },
+                {
+                    "DOI": "10.1007/s10584-005-4785-y",
+                    "doi-asserted-by": "publisher",
+                    "key": "5"
+                },
+                {
+                    "DOI": "10.2307/1551898",
+                    "doi-asserted-by": "publisher",
+                    "key": "6"
+                },
+                {
+                    "DOI": "10.1029/2004GL020358",
+                    "ISSN": "http://id.crossref.org/issn/0094-8276",
+                    "author": "Payette S.",
+                    "doi-asserted-by": "crossref",
+                    "issn-type": "print",
+                    "journal-title": "Geophysical Research Letters",
+                    "key": "7",
+                    "volume": "31",
+                    "year": "2004"
+                },
+                {
+                    "DOI": "10.1002/ppp.1862",
+                    "doi-asserted-by": "publisher",
+                    "key": "8"
+                },
+                {
+                    "DOI": "10.1111/j.1600-0889.2007.00333.x",
+                    "doi-asserted-by": "publisher",
+                    "key": "9"
+                },
+                {
+                    "DOI": "10.1175/JCLI-D-11-00334.1",
+                    "doi-asserted-by": "publisher",
+                    "key": "10"
+                },
+                {
+                    "DOI": "10.1007/s11027-010-9269-3",
+                    "doi-asserted-by": "publisher",
+                    "key": "11"
+                },
+                {
+                    "author": "Harris J. S.",
+                    "journal-title": "Ground freezing in practice",
+                    "key": "12",
+                    "year": "1995"
+                },
+                {
+                    "DOI": "10.1061/(ASCE)0733-9399(2008)134:1(1)",
+                    "doi-asserted-by": "publisher",
+                    "key": "13"
+                },
+                {
+                    "DOI": "10.1016/j.coldregions.2007.09.002",
+                    "doi-asserted-by": "publisher",
+                    "key": "14"
+                },
+                {
+                    "DOI": "10.1016/j.coldregions.2009.07.007",
+                    "doi-asserted-by": "publisher",
+                    "key": "15"
+                },
+                {
+                    "DOI": "10.1016/j.coldregions.2018.08.018",
+                    "doi-asserted-by": "publisher",
+                    "key": "16"
+                },
+                {
+                    "DOI": "10.1139/t2012-058",
+                    "doi-asserted-by": "publisher",
+                    "key": "17"
+                },
+                {
+                    "DOI": "10.1016/j.applthermaleng.2017.12.118",
+                    "doi-asserted-by": "publisher",
+                    "key": "18"
+                },
+                {
+                    "DOI": "10.1016/j.ijheatmasstransfer.2018.05.059",
+                    "doi-asserted-by": "publisher",
+                    "key": "19"
+                },
+                {
+                    "author": "",
+                    "key": "20"
+                }
+            ],
+            "reference-count": 20,
+            "references-count": 20,
+            "relation": {
+                "cites": []
+            },
+            "score": 61.59289,
+            "short-container-title": [
+                "IOP Conf. Ser.: Earth Environ. Sci."
+            ],
+            "source": "scholarly",
+            "title": [],
+            "type": "journal-article",
+            "volume": "268"
+        },
+        {
+            "DOI": "10.1007/s00267-019-01182-7",
+            "ISSN": [
+                "0364-152X",
+                "1432-1009"
+            ],
+            "URL": "http://dx.doi.org/10.1007/s00267-019-01182-7",
+            "alternative-id": [
+                "1182"
+            ],
+            "assertion": [
+                {
+                    "group": {
+                        "label": "Article History",
+                        "name": "ArticleHistory"
+                    },
+                    "label": "Received",
+                    "name": "received",
+                    "order": 1,
+                    "value": "19 June 2018"
+                },
+                {
+                    "group": {
+                        "label": "Article History",
+                        "name": "ArticleHistory"
+                    },
+                    "label": "Accepted",
+                    "name": "accepted",
+                    "order": 2,
+                    "value": "10 June 2019"
+                },
+                {
+                    "group": {
+                        "label": "Article History",
+                        "name": "ArticleHistory"
+                    },
+                    "label": "First Online",
+                    "name": "first_online",
+                    "order": 3,
+                    "value": "17 July 2019"
+                },
+                {
+                    "group": {
+                        "label": "Compliance with Ethical Standards",
+                        "name": "EthicsHeading"
+                    },
+                    "name": "Ethics",
+                    "order": 1
+                },
+                {
+                    "group": {
+                        "label": "Conflict of Interest",
+                        "name": "EthicsHeading"
+                    },
+                    "name": "Ethics",
+                    "order": 2,
+                    "value": "The authors declare that they have no conflict of interest."
+                }
+            ],
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-4333-1988",
+                    "affiliation": [],
+                    "authenticated-orcid": false,
+                    "family": "Singh",
+                    "given": "Gerald G.",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Lerner",
+                    "given": "Jackie",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Clarke Murray",
+                    "given": "Cathryn",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Wong",
+                    "given": "Janson",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Mach",
+                    "given": "Megan",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Ranieri",
+                    "given": "Bernardo",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Peterson St-Laurent",
+                    "given": "Guillaume",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Guimaraes",
+                    "given": "Alice",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Chan",
+                    "given": "Kai M. A.",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "Environmental Management"
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": [
+                    "link.springer.com"
+                ]
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        17
+                    ]
+                ],
+                "date-time": "2019-07-17T08:03:36Z",
+                "timestamp": 1563350616000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        15
+                    ]
+                ],
+                "date-time": "2020-07-15T23:14:00Z",
+                "timestamp": 1594854840000
+            },
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        15
+                    ]
+                ],
+                "date-time": "2020-07-15T23:40:45Z",
+                "timestamp": 1594856445813
+            },
+            "is-referenced-by-count": 0,
+            "issn-type": [
+                {
+                    "type": "print",
+                    "value": "0364-152X"
+                },
+                {
+                    "type": "electronic",
+                    "value": "1432-1009"
+                }
+            ],
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "journal-issue": {
+                "issue": "2",
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2019,
+                            8
+                        ]
+                    ]
+                }
+            },
+            "language": "en",
+            "license": [
+                {
+                    "URL": "http://www.springer.com/tdm",
+                    "content-version": "tdm",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                7,
+                                17
+                            ]
+                        ],
+                        "date-time": "2019-07-17T00:00:00Z",
+                        "timestamp": 1563321600000
+                    }
+                },
+                {
+                    "URL": "http://www.springer.com/tdm",
+                    "content-version": "vor",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2019,
+                                7,
+                                17
+                            ]
+                        ],
+                        "date-time": "2019-07-17T00:00:00Z",
+                        "timestamp": 1563321600000
+                    }
+                }
+            ],
+            "link": [
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00267-019-01182-7.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/article/10.1007/s00267-019-01182-7/fulltext.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "http://link.springer.com/content/pdf/10.1007/s00267-019-01182-7.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "297",
+            "original_title": "Response to Critique of \u201cThe Insignificance of Thresholds in Environmental Impact Assessment: An Illustrative Case Study in Canada\u201d",
+            "page": "133-137",
+            "prefix": "10.1007",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        17
+                    ]
+                ]
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2019,
+                        8
+                    ]
+                ]
+            },
+            "publisher": "Springer Science and Business Media LLC",
+            "reference": [
+                {
+                    "key": "1182_CR1",
+                    "unstructured": "BC EAO (2013) Guideline for the selection of valued components and assessment of potential effects. Prepared by the BC Environmental Assessment Office. \n                    https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/environmental-assessments/guidance-documents/eao-guidance-selection-of-valued-components.pdf"
+                },
+                {
+                    "key": "1182_CR2",
+                    "unstructured": "BC EAO (2018) Environmental Assessment Office user guide: an overview of Environmental Assessment in British Columbia. Prepared by the BC Environmental Assessment Office. \n                    http://www.eao.gov.bc.ca/files/EAO-Guidance-EAO-User-Guide.pdf"
+                },
+                {
+                    "DOI": "10.1111/j.1461-0248.2008.01253.x",
+                    "author": "CM Crain",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1304",
+                    "journal-title": "Ecol Lett",
+                    "key": "1182_CR3",
+                    "unstructured": "Crain CM, Kroeker K, Halpern BS (2008) Interactive and cumulative effects of multiple human stressors in marine systems. Ecol Lett 11:1304\u20131315",
+                    "volume": "11",
+                    "year": "2008"
+                },
+                {
+                    "DOI": "10.1111/j.1461-0248.2008.01243.x",
+                    "author": "ES Darling",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1278",
+                    "journal-title": "Ecol Lett",
+                    "key": "1182_CR4",
+                    "unstructured": "Darling ES, C\u00f4t\u00e9 IM (2008) Quantifying the evidence for ecological synergies. Ecol Lett 11:1278\u20131286",
+                    "volume": "11",
+                    "year": "2008"
+                },
+                {
+                    "DOI": "10.1017/S1466046610000207",
+                    "doi-asserted-by": "crossref",
+                    "key": "1182_CR5",
+                    "unstructured": "Eccleston (2010) Assessing cumulative significance of greenhouse gas emissions: resolving the paradox\u2014the sphinx solution. Env Pract 12:105\u2013115"
+                },
+                {
+                    "DOI": "10.1080/14615517.2012.660356",
+                    "author": "AM Esteves",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "34",
+                    "journal-title": "Impact Assess Proj A",
+                    "key": "1182_CR6",
+                    "unstructured": "Esteves AM, Franks D, Vanclay F (2012) Social impact assessment: the state of the art. Impact Assess Proj A 30:34\u201342",
+                    "volume": "30",
+                    "year": "2012"
+                },
+                {
+                    "key": "1182_CR7",
+                    "unstructured": "Government of British Columbia (2018) Environmental assessment revitalization: what we heard report. prepared by the Government of British Columbia. \n                    https://www2.gov.bc.ca/assets/gov/environment/natural-resource-stewardship/environmental-assessments/environmental-assessment-revitalization/documents/what_we_heard_report_final.pdf"
+                },
+                {
+                    "DOI": "10.1007/BF01866960",
+                    "author": "M Hollick",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "191",
+                    "journal-title": "Environ Manage",
+                    "key": "1182_CR8",
+                    "unstructured": "Hollick M (1984) Who should prepare environmental impact assessments? Environ Manage 8:191\u2013196",
+                    "volume": "8",
+                    "year": "1984"
+                },
+                {
+                    "DOI": "10.1023/B:SORE.0000027409.88372.b4",
+                    "author": "DA Moore",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "189",
+                    "journal-title": "Soc Justice Res",
+                    "key": "1182_CR9",
+                    "unstructured": "Moore DA, Loewenstein G (2004) Self-interest, automaticity, and the psychology of conflict of interest. Soc Justice Res 17:189\u2013202",
+                    "volume": "17",
+                    "year": "2004"
+                },
+                {
+                    "author": "DA Moore",
+                    "first-page": "37",
+                    "journal-title": "Judgm Decis Mak",
+                    "key": "1182_CR10",
+                    "unstructured": "Moore DA, Tanlu L, Bazerman MH (2010) Conflict of interest and the intrusion of bias. Judgm Decis Mak 5:37\u201353",
+                    "volume": "5",
+                    "year": "2010"
+                },
+                {
+                    "DOI": "10.1007/s00267-018-1025-6",
+                    "author": "CC Murray",
+                    "doi-asserted-by": "publisher",
+                    "first-page": "1062",
+                    "journal-title": "Environ Manage",
+                    "key": "1182_CR11",
+                    "unstructured": "Murray CC, Wong J, Singh GG, Mach M, Lerner J, Ranieri B, St-Laurent GP, Guimaraes A, Chan KM (2018) The insignificance of thresholds in environmental impact assessment: an illustrative Case Study in Canada. Environ Manage 61:1062\u20131071",
+                    "volume": "61",
+                    "year": "2018"
+                }
+            ],
+            "reference-count": 11,
+            "references-count": 11,
+            "relation": {
+                "cites": []
+            },
+            "score": 54.277615,
+            "short-container-title": [
+                "Environmental Management"
+            ],
+            "source": "scholarly",
+            "subject": [
+                "Ecology",
+                "Global and Planetary Change",
+                "Pollution"
+            ],
+            "title": [],
+            "type": "journal-article",
+            "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+            "volume": "64"
+        },
+        {
+            "DOI": "10.4322/actalb.02201003",
+            "ISSN": [
+                "0102-6712"
+            ],
+            "URL": "http://dx.doi.org/10.4322/actalb.02201003",
+            "author": [
+                {
+                    "affiliation": [],
+                    "family": "Anna",
+                    "given": "Eneida Maria Eskinazi-Sant\u2019",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Schettino",
+                    "given": "Mauro",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Men\u00e9ndez",
+                    "given": "Rosa Maria",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Guimar\u00e3es",
+                    "given": "Alice de Souza",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [],
+                    "family": "Barbosa",
+                    "given": "Paulina Maria Maia",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "Acta Limnologica Brasiliensia"
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": []
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2010,
+                        6,
+                        24
+                    ]
+                ],
+                "date-time": "2010-06-24T19:27:58Z",
+                "timestamp": 1277407678000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2010,
+                        6,
+                        24
+                    ]
+                ],
+                "date-time": "2010-06-24T19:28:01Z",
+                "timestamp": 1277407681000
+            },
+            "indexed": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        15
+                    ]
+                ],
+                "date-time": "2020-04-15T03:59:57Z",
+                "timestamp": 1586923197984
+            },
+            "is-referenced-by-count": 2,
+            "issn-type": [
+                {
+                    "type": "electronic",
+                    "value": "0102-6712"
+                }
+            ],
+            "issue": "01",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "journal-issue": {
+                "issue": "01",
+                "published-online": {
+                    "date-parts": [
+                        [
+                            2010
+                        ]
+                    ]
+                }
+            },
+            "member": "530",
+            "original_title": "Use of Daphnia spinulata Biraben, 1917(Crustacea, Cladocera) in the aquarium trade: a potential risk of a new bioinvasion into Brazilian continental waters",
+            "page": "102-104",
+            "prefix": "10.1590",
+            "published-print": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "publisher": "FapUNIFESP (SciELO)",
+            "reference-count": 0,
+            "references-count": 0,
+            "score": 98.63027,
+            "short-container-title": [
+                "Acta"
+            ],
+            "source": "scholarly",
+            "subject": [
+                "Ecology",
+                "Aquatic Science",
+                "Ecology, Evolution, Behavior and Systematics",
+                "Water Science and Technology"
+            ],
+            "title": [],
+            "type": "journal-article",
+            "volume": "22"
+        },
+        {
+            "DOI": "10.7287/peerj.preprints.27409",
+            "URL": "http://dx.doi.org/10.7287/peerj.preprints.27409",
+            "abstract": "<jats:p>Governments around the world rely on environmental impact assessment (EIA) to provide rigorous analyses and an accurate appraisal of the risks and benefits of development. But how rigorous are the analyses conducted in EIAs, and how do they compare across nations? We evaluate the output from EIAs for jurisdictions in seven countries, focusing on scope (temporal and spatial), mitigation actions, and impact significance determination, which is integral for decision-making. We find that in all jurisdictions, the number of identified significant adverse impacts was consistently small (or nonexistent), regardless of context. Likely contributing to this uniformity, we find that the scopes of analyses are consistently narrower than warranted ecologically and toxicologically, many proposed mitigation measures are assumed to be effective with little to no justification,and that the professional judgement of developer-paid consultants is overwhelmingly the determinant of impact significance, with no transparent account of the reasoning processes involved. EIA can be salvaged as a rigorous, credible decision-aiding tool if rigor is enforced in assessment methodologies, regulators are empowered to enforce rigor, and pro-development conflict of interest is avoided.</jats:p>",
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-4333-1988",
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "authenticated-orcid": true,
+                    "family": "Singh",
+                    "given": "Gerald G",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Lerner",
+                    "given": "Jackie",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Center for Ocean Solutions, Monterey, USA"
+                        }
+                    ],
+                    "family": "Mach",
+                    "given": "Megan",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Fisheries and Oceans Canada, Victoria, Canada"
+                        }
+                    ],
+                    "family": "Clarke Murray",
+                    "given": "Cathryn",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Ranieri",
+                    "given": "Bernardo",
+                    "sequence": "additional"
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-1329-0954",
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "authenticated-orcid": true,
+                    "family": "Peterson St-Laurent",
+                    "given": "Guillaume",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "World Wildlife Fund, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Wong",
+                    "given": "Janson",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Guimaraes",
+                    "given": "Alice",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Yunda-Guarin",
+                    "given": "Gustavo",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Satterfield",
+                    "given": "Terre",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "University of British Columbia, Vancouver, Canada"
+                        }
+                    ],
+                    "family": "Chan",
+                    "given": "Kai",
+                    "sequence": "additional"
+                }
+            ],
+            "content-domain": {
+                "crossmark-restriction": false,
+                "domain": []
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        5
+                    ]
+                ],
+                "date-time": "2018-12-05T15:03:21Z",
+                "timestamp": 1544022201000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2019,
+                        12,
+                        24
+                    ]
+                ],
+                "date-time": "2019-12-24T11:58:05Z",
+                "timestamp": 1577188685000
+            },
+            "group-title": "PeerJ Preprints",
+            "indexed": {
+                "date-parts": [
+                    [
+                        2019,
+                        12,
+                        24
+                    ]
+                ],
+                "date-time": "2019-12-24T12:40:11Z",
+                "timestamp": 1577191211447
+            },
+            "is-referenced-by-count": 0,
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        5
+                    ]
+                ]
+            },
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "content-version": "unspecified",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2018,
+                                12,
+                                5
+                            ]
+                        ],
+                        "date-time": "2018-12-05T00:00:00Z",
+                        "timestamp": 1543968000000
+                    }
+                }
+            ],
+            "link": [
+                {
+                    "URL": "https://peerj.com/preprints/27409.pdf",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://peerj.com/preprints/27409.xml",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://peerj.com/preprints/27409.html",
+                    "content-type": "text/html",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://peerj.com/preprints/27409.pdf",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "4443",
+            "posted": {
+                "date-parts": [
+                    [
+                        2018,
+                        12,
+                        5
+                    ]
+                ]
+            },
+            "prefix": "10.7287",
+            "publisher": "PeerJ",
+            "reference-count": 0,
+            "references-count": 0,
+            "relation": {
+                "references": [
+                    {
+                        "asserted-by": "subject",
+                        "id": "10.7287/peerj.preprints.27409v1/supp-1",
+                        "id-type": "doi"
+                    },
+                    {
+                        "asserted-by": "subject",
+                        "id": "10.7287/peerj.preprints.27409v1/supp-2",
+                        "id-type": "doi"
+                    }
+                ]
+            },
+            "score": 25.962414,
+            "source": "crossref",
+            "subtype": "preprint",
+            "title": [
+                "Scientific shortcomings in environmental impact statements internationally"
+            ],
+            "type": "posted-content"
+        },
+        {
+            "DOI": "10.1002/pan3.10081",
+            "ISSN": [
+                "2575-8314",
+                "2575-8314"
+            ],
+            "URL": "http://dx.doi.org/10.1002/pan3.10081",
+            "alternative-id": [
+                "10.1002/pan3.10081"
+            ],
+            "archive": [
+                "Portico"
+            ],
+            "assertion": [
+                {
+                    "group": {
+                        "label": "Publication History",
+                        "name": "publication_history"
+                    },
+                    "label": "Received",
+                    "name": "received",
+                    "order": 0,
+                    "value": "2018-12-14"
+                },
+                {
+                    "group": {
+                        "label": "Publication History",
+                        "name": "publication_history"
+                    },
+                    "label": "Accepted",
+                    "name": "accepted",
+                    "order": 1,
+                    "value": "2020-02-01"
+                },
+                {
+                    "group": {
+                        "label": "Publication History",
+                        "name": "publication_history"
+                    },
+                    "label": "Published",
+                    "name": "published",
+                    "order": 2,
+                    "value": "2020-03-22"
+                }
+            ],
+            "author": [
+                {
+                    "ORCID": "http://orcid.org/0000-0003-4333-1988",
+                    "affiliation": [
+                        {
+                            "name": "Nippon Foundation Nereus Program Institute for the Oceans and Fisheries University of British Columbia Vancouver BC Canada"
+                        },
+                        {
+                            "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                        }
+                    ],
+                    "authenticated-orcid": false,
+                    "family": "Singh",
+                    "given": "Gerald G.",
+                    "sequence": "first"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "Lerner",
+                    "given": "Jackie",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Center for Ocean Solutions Monterey CA USA"
+                        }
+                    ],
+                    "family": "Mach",
+                    "given": "Megan",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                        },
+                        {
+                            "name": "Fisheries and Oceans Canada Victoria BC Canada"
+                        },
+                        {
+                            "name": "World Wildlife Fund Canada (WWF\u2010Canada) Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "Murray",
+                    "given": "Cathryn Clarke",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Norman B Keevil Institute of Mining Engineering University of British Columbia Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "Ranieri",
+                    "given": "Bernardo",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "St\u2010Laurent",
+                    "given": "Guillaume Peterson",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "World Wildlife Fund Canada (WWF\u2010Canada) Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "Wong",
+                    "given": "Janson",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Norman B Keevil Institute of Mining Engineering University of British Columbia Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "Guimaraes",
+                    "given": "Alice",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "Yunda\u2010Guarin",
+                    "given": "Gustavo",
+                    "sequence": "additional"
+                },
+                {
+                    "affiliation": [
+                        {
+                            "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                        }
+                    ],
+                    "family": "Satterfield",
+                    "given": "Terre",
+                    "sequence": "additional"
+                },
+                {
+                    "ORCID": "http://orcid.org/0000-0002-7804-3276",
+                    "affiliation": [
+                        {
+                            "name": "Institute for Resources, Environment, and Sustainability Vancouver BC Canada"
+                        }
+                    ],
+                    "authenticated-orcid": false,
+                    "family": "Chan",
+                    "given": "Kai M. A.",
+                    "sequence": "additional"
+                }
+            ],
+            "container-title": [
+                "People and Nature"
+            ],
+            "content-domain": {
+                "crossmark-restriction": true,
+                "domain": [
+                    "onlinelibrary.wiley.com"
+                ]
+            },
+            "created": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        23
+                    ]
+                ],
+                "date-time": "2020-03-23T05:01:13Z",
+                "timestamp": 1584939673000
+            },
+            "deposited": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        3
+                    ]
+                ],
+                "date-time": "2020-06-03T16:34:10Z",
+                "timestamp": 1591202050000
+            },
+            "editor": [
+                {
+                    "affiliation": [],
+                    "family": "Buckley",
+                    "given": "Yvonne",
+                    "sequence": "additional"
+                }
+            ],
+            "funder": [
+                {
+                    "DOI": "10.13039/100011346",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "Pacific Institute for Climate Solutions"
+                },
+                {
+                    "DOI": "10.13039/501100000038",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "Natural Sciences and Engineering Research Council of Canada"
+                },
+                {
+                    "DOI": "10.13039/501100002322",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "Coordena\u00e7\u00e3o de Aperfei\u00e7oamento de Pessoal de N\u00edvel Superior"
+                },
+                {
+                    "DOI": "10.13039/501100000155",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "Social Sciences and Humanities Research Council of Canada"
+                },
+                {
+                    "DOI": "10.13039/501100003593",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico"
+                },
+                {
+                    "DOI": "10.13039/100000001",
+                    "award": [],
+                    "doi-asserted-by": "publisher",
+                    "name": "National Science Foundation"
+                }
+            ],
+            "indexed": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        4
+                    ]
+                ],
+                "date-time": "2021-02-04T08:43:52Z",
+                "timestamp": 1612428232520
+            },
+            "is-referenced-by-count": 4,
+            "issn-type": [
+                {
+                    "type": "print",
+                    "value": "2575-8314"
+                },
+                {
+                    "type": "electronic",
+                    "value": "2575-8314"
+                }
+            ],
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        22
+                    ]
+                ]
+            },
+            "journal-issue": {
+                "issue": "2",
+                "published-print": {
+                    "date-parts": [
+                        [
+                            2020,
+                            6
+                        ]
+                    ]
+                }
+            },
+            "language": "en",
+            "license": [
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "content-version": "am",
+                    "delay-in-days": 365,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2021,
+                                3,
+                                22
+                            ]
+                        ],
+                        "date-time": "2021-03-22T00:00:00Z",
+                        "timestamp": 1616371200000
+                    }
+                },
+                {
+                    "URL": "http://creativecommons.org/licenses/by/4.0/",
+                    "content-version": "vor",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                22
+                            ]
+                        ],
+                        "date-time": "2020-03-22T00:00:00Z",
+                        "timestamp": 1584835200000
+                    }
+                },
+                {
+                    "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+                    "content-version": "tdm",
+                    "delay-in-days": 0,
+                    "start": {
+                        "date-parts": [
+                            [
+                                2020,
+                                3,
+                                22
+                            ]
+                        ],
+                        "date-time": "2020-03-22T00:00:00Z",
+                        "timestamp": 1584835200000
+                    }
+                }
+            ],
+            "link": [
+                {
+                    "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fpan3.10081",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pan3.10081",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/pan3.10081",
+                    "content-type": "application/xml",
+                    "content-version": "vor",
+                    "intended-application": "text-mining"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/am-pdf/10.1002%2Fpan3.10081",
+                    "content-type": "application/pdf",
+                    "content-version": "am",
+                    "intended-application": "syndication"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pan3.10081",
+                    "content-type": "application/pdf",
+                    "content-version": "vor",
+                    "intended-application": "syndication"
+                },
+                {
+                    "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pan3.10081",
+                    "content-type": "unspecified",
+                    "content-version": "vor",
+                    "intended-application": "similarity-checking"
+                }
+            ],
+            "member": "311",
+            "page": "369-379",
+            "prefix": "10.1002",
+            "published-online": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        22
+                    ]
+                ]
+            },
+            "published-print": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "reference": [
+                {
+                    "DOI": "10.1177/1086026600131001",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_2_1"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2015.12.003",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_3_1"
+                },
+                {
+                    "DOI": "10.3316/QRJ0902027",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_4_1"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2012.04.003",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_5_1"
+                },
+                {
+                    "DOI": "10.1016/S0195-9255(96)00082-0",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_6_1"
+                },
+                {
+                    "DOI": "10.1016/0195-9255(93)90020-C",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_7_1"
+                },
+                {
+                    "author": "Canty A.",
+                    "key": "e_1_2_9_8_1",
+                    "volume-title": "boot: Bootstrap R (S\u2010plus) functions",
+                    "year": "2015"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2012.06.008",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_9_1"
+                },
+                {
+                    "DOI": "10.1016/j.apgeochem.2009.01.006",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_10_1"
+                },
+                {
+                    "author": "CEQ",
+                    "key": "e_1_2_9_11_1",
+                    "volume-title": "Guidance regarding NEPA regulations",
+                    "year": "1983"
+                },
+                {
+                    "author": "Chernick M. R.",
+                    "key": "e_1_2_9_12_1",
+                    "volume-title": "Bootstrap methods: A guide for practitioners and researchers",
+                    "year": "2008"
+                },
+                {
+                    "author": "Clark B.",
+                    "first-page": "35",
+                    "key": "e_1_2_9_13_1",
+                    "volume-title": "Handbook of environmental impact assessment",
+                    "year": "1999"
+                },
+                {
+                    "DOI": "10.1890/100068",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_14_1"
+                },
+                {
+                    "DOI": "10.1111/j.1461-0248.2008.01253.x",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_15_1"
+                },
+                {
+                    "DOI": "10.1007/3-540-26590-2_3",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_16_1"
+                },
+                {
+                    "DOI": "10.1111/j.1461-0248.2008.01243.x",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_17_1"
+                },
+                {
+                    "key": "e_1_2_9_18_1",
+                    "unstructured": "2000 J. Demchak J. Skousen G. Bryant P. Ziemkiewicz Comparison of water quality in fifteen underground coal mines in 1968 and 1999"
+                },
+                {
+                    "DOI": "10.2134/jeq2004.6560",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_19_1"
+                },
+                {
+                    "DOI": "10.1139/er-2012-0035",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_20_1"
+                },
+                {
+                    "DOI": "10.1007/s00267-004-0240-5",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_21_1"
+                },
+                {
+                    "DOI": "10.1080/14615517.2014.981023",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_22_1"
+                },
+                {
+                    "author": "Fishkin J.",
+                    "key": "e_1_2_9_23_1",
+                    "volume-title": "When the people speak: Deliberative democracy and public consultation",
+                    "year": "2009"
+                },
+                {
+                    "author": "Glasson J.",
+                    "key": "e_1_2_9_24_1",
+                    "volume-title": "Introduction to environmental impact assessment",
+                    "year": "2013"
+                },
+                {
+                    "DOI": "10.1126/science.1248361",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_25_1"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2014.04.003",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_26_1"
+                },
+                {
+                    "DOI": "10.1007/BF01866723",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_27_1"
+                },
+                {
+                    "author": "Hughes R.",
+                    "key": "e_1_2_9_28_1",
+                    "volume-title": "Environmental impact assessment and stakeholder involvement",
+                    "year": "1998"
+                },
+                {
+                    "DOI": "10.1073/pnas.0704469104",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_29_1"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2006.12.001",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_30_1"
+                },
+                {
+                    "DOI": "10.1080/14615517.2015.1125643",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_31_1"
+                },
+                {
+                    "author": "Killingsworth M. J.",
+                    "key": "e_1_2_9_32_1",
+                    "volume-title": "Ecospeak: Rhetoric and environmental politics in America",
+                    "year": "2012"
+                },
+                {
+                    "DOI": "10.1142/S1464333206002360",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_33_1"
+                },
+                {
+                    "DOI": "10.1890/12-1137.1",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_34_1"
+                },
+                {
+                    "author": "Krippendorff K.",
+                    "key": "e_1_2_9_35_1",
+                    "volume-title": "Content analysis: An introduction to its methodology",
+                    "year": "2004"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2007.02.011",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_36_1"
+                },
+                {
+                    "DOI": "10.1080/09640568.2015.1116980",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_37_1"
+                },
+                {
+                    "DOI": "10.19150/mmp.8464",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_38_1"
+                },
+                {
+                    "DOI": "10.1002/jwmg.259",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_39_1"
+                },
+                {
+                    "DOI": "10.3152/147154602781766618",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_40_1"
+                },
+                {
+                    "DOI": "10.1016/j.apgeochem.2006.06.016",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_41_1"
+                },
+                {
+                    "DOI": "10.1016/j.mineng.2017.08.008",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_42_1"
+                },
+                {
+                    "DOI": "10.1126/science.349.6248.596-a",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_43_1"
+                },
+                {
+                    "DOI": "10.1073/pnas.1319946111",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_44_1"
+                },
+                {
+                    "DOI": "10.1371/journal.pone.0162932",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_45_1"
+                },
+                {
+                    "DOI": "10.1016/j.envpol.2019.01.085",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_46_1"
+                },
+                {
+                    "DOI": "10.1007/s00267-016-0799-7",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_47_1"
+                },
+                {
+                    "DOI": "10.1016/S1076-6332(98)80208-0",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_48_1"
+                },
+                {
+                    "DOI": "10.1016/j.eiar.2009.05.001",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_49_1"
+                },
+                {
+                    "DOI": "10.1111/j.1539-6924.2005.00603.x",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_50_1"
+                },
+                {
+                    "DOI": "10.1142/S1464333201000819",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_51_1"
+                },
+                {
+                    "DOI": "10.1007/s00267-004-0263-y",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_52_1"
+                },
+                {
+                    "DOI": "10.1016/S0195-9255(96)00071-6",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_53_1"
+                },
+                {
+                    "article-title": "Data from: Scientific shortcomings in environmental impact statements internationally",
+                    "author": "Singh G. G.",
+                    "journal-title": "Dryad Digital Repository",
+                    "key": "e_1_2_9_54_1",
+                    "year": "2020"
+                },
+                {
+                    "DOI": "10.1016/j.jenvman.2017.05.032",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_55_1"
+                },
+                {
+                    "DOI": "10.1126/science.3576198",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_56_1"
+                },
+                {
+                    "DOI": "10.14430/arctic1203",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_57_1"
+                },
+                {
+                    "DOI": "10.3152/147154601781767131",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_58_1"
+                },
+                {
+                    "author": "Wood C.",
+                    "key": "e_1_2_9_59_1",
+                    "volume-title": "Environmental impact assessment: A comparative review",
+                    "year": "2003"
+                },
+                {
+                    "DOI": "10.3368/er.25.3.162",
+                    "doi-asserted-by": "publisher",
+                    "key": "e_1_2_9_60_1"
+                }
+            ],
+            "reference-count": 59,
+            "references-count": 59,
+            "relation": {
+                "cites": []
+            },
+            "score": 17.354372,
+            "short-container-title": [
+                "People and Nature"
+            ],
+            "source": "crossref",
+            "title": [
+                "Scientific shortcomings in environmental impact statements internationally"
+            ],
+            "type": "journal-article",
+            "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+            "volume": "2"
+        }
+    ],
     "wikidata": [],
     "wikidata_id": null
 }

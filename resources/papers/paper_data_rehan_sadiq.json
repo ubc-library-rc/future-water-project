@@ -1102,8 +1102,8 @@
         "P356": "10.4314/wsa.v44i4.25",
         "P921": [
             "Policy",
-            "Environments",
-            "Climate change"
+            "Climate change",
+            "Environments"
         ],
         "P1476": "Development of Consumer Perception Index for assessing greywater reuse potential in arid environments",
         "P1433": "Water SA",
@@ -1465,8 +1465,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/s12652-019-01228-y",
         "P921": [
-            "Environmental",
-            "Uncertainty"
+            "Uncertainty",
+            "Environmental"
         ],
         "P1476": "Environmental assessment under uncertainty using Dempster\u2013Shafer theory and Z-numbers",
         "P1433": "Journal of Ambient Intelligence and Humanized Computing",
@@ -1478,8 +1478,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/s00477-007-0197-z",
         "P921": [
-            "Environmental",
-            "Uncertainty"
+            "Uncertainty",
+            "Environmental"
         ],
         "P1476": "Environmental decision-making under uncertainty using intuitionistic fuzzy analytic hierarchy process (IF-AHP)",
         "P1433": "Stochastic Environmental Research and Risk Assessment",
@@ -1491,8 +1491,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1016/j.jhazmat.2015.07.022",
         "P921": [
-            "Environmental",
-            "Uncertainty"
+            "Uncertainty",
+            "Environmental"
         ],
         "P1476": "Environmental risk assessment of acid rock drainage under uncertainty: the probability bounds and PHREEQC approach",
         "P1433": "Journal of Hazardous Materials",
@@ -1807,8 +1807,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1016/j.scitotenv.2017.06.269",
         "P921": [
-            "Water treatment",
-            "Decision support"
+            "Decision support",
+            "Water treatment"
         ],
         "P1476": "Fit-for-purpose wastewater treatment: Conceptualization to development of decision support tool (I)",
         "P1433": "Science of The Total Environment",
@@ -2479,8 +2479,8 @@
         "P356": "10.1139/facets-2017-0109",
         "P921": [
             "Policy",
-            "Climate change",
-            "Environmental"
+            "Environmental",
+            "Climate change"
         ],
         "P1476": "Investigating the impacts of plausible Canadian policies and their supporting mechanisms on export-based regional air pollution in China: A cement manufacturing case study",
         "P1433": "FACETS",
@@ -3314,8 +3314,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1111/wej.12248",
         "P921": [
-            "Water treatment",
-            "Decision support"
+            "Decision support",
+            "Water treatment"
         ],
         "P1476": "Performance management of small water treatment plant operations: a decision support system",
         "P1433": "Water and Environment Journal",
@@ -4367,8 +4367,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/s11269-013-0467-0",
         "P921": [
-            "Climate change",
-            "Uncertainty"
+            "Uncertainty",
+            "Climate change"
         ],
         "P1476": "Uncertainty-driven characterization of climate change effects on drought frequency using enhanced SPI",
         "P1433": "Water Resources Management",

@@ -103,8 +103,8 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-17-3171-2013",
         "P921": [
-            "Information theory",
-            "Uncertainty"
+            "Uncertainty",
+            "Information theory"
         ],
         "P1476": "Data compression to define information content of hydrological time series.",
         "P1433": "Hydrology and Earth System Sciences",
@@ -216,8 +216,8 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hessd-7-4657-2010",
         "P921": [
-            "Uncertainty",
             "Hydrology",
+            "Uncertainty",
             "Information theory"
         ],
         "P1476": "Interactive comment on \u201cWhy hydrological forecasts should be evaluated using information theory\u201d by SV Weijs et al.",
@@ -334,8 +334,8 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-14-2545-2010",
         "P921": [
-            "Uncertainty",
             "Hydrology",
+            "Uncertainty",
             "Information theory"
         ],
         "P1476": "Why hydrological predictions should be evaluated using information theory",

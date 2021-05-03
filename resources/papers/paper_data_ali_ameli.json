@@ -132,9 +132,9 @@
         "P50": "Q57582079",
         "P356": "10.5194/egusphere-egu21-13070",
         "P921": [
-            "Streamflow",
             "Groundwater",
-            "Soil"
+            "Soil",
+            "Streamflow"
         ],
         "P1476": "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un) gauged basins",
         "P1433": "Copernicus GmbH",
@@ -170,10 +170,10 @@
         "P50": "Q57582079",
         "P356": "10.5194/hess-21-1791-2017",
         "P921": [
-            "Rivers",
-            "Wetland",
             "Watershed",
-            "Modeling"
+            "Modeling",
+            "Rivers",
+            "Wetland"
         ],
         "P1476": "Quantifying hydrologic connectivity of wetlands to surface water systems",
         "P1433": "Hydrology and Earth System Sciences",

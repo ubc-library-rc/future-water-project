@@ -470,9 +470,9 @@
         "P50": "Pierre B\u00e9rub\u00e9",
         "P356": "10.3390/membranes6030038",
         "P921": [
+            "Drinking water",
             "Water treatment",
-            "Membranes",
-            "Drinking water"
+            "Membranes"
         ],
         "P1476": "Impact of pac fines in fouling of polymeric and ceramic low-pressure membranes for drinking water treatment",
         "P1433": "Membranes",
@@ -666,8 +666,8 @@
         "P50": "Pierre B\u00e9rub\u00e9",
         "P356": "10.1016/j.watres.2017.02.065",
         "P921": [
-            "Water treatment",
-            "Drinking water"
+            "Drinking water",
+            "Water treatment"
         ],
         "P1476": "Operation of passive membrane systems for drinking water treatment",
         "P1433": "Water Research",
@@ -738,8 +738,8 @@
         "P50": "Pierre B\u00e9rub\u00e9",
         "P356": "10.5004/dwt.2017.20184",
         "P921": [
-            "Membranes",
-            "Drinking water"
+            "Drinking water",
+            "Membranes"
         ],
         "P1476": "Physical cleaning efficacy of hollow fiber nanofiltration membranes in drinking water applications.",
         "P1433": "DESALINATION AND WATER TREATMENT",
