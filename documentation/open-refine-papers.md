@@ -113,9 +113,7 @@ If not, try the `Import commands` menu and jump to step `5`
 
 6. Click `Import V1 commands`, or jump to step `8`
 
-7. The interface will show you a preview of the commands after parsing:
-
-![title](q-preview.png)
+7. The interface will show you a preview of the commands after parsing
 
 8. Click `Run in background` 
 
