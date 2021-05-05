@@ -1,5 +1,4 @@
 FROM libraryrc/future-waters-base:latest
-MAINTAINER marques.s.arthur@gmail.com
 
 COPY . /tmp/src
 

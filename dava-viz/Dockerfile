@@ -18,8 +18,14 @@ RUN apt-get install -y python3-lxml
 # Install general dependencies
 RUN apt-get install -y bash
 RUN apt-get install -y curl
-RUN apt-get install -y tor
 
 # Install python packages
 RUN pip install --no-cache-dir --upgrade pip
 RUN pip install -r requirements.txt
+
+
+ENTRYPOINT [ "python" ]
+
+EXPOSE 8081
+
+CMD [ "runserver.py" ]

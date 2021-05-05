@@ -29,19 +29,21 @@ The bulk of the project is available in a self-contained environment, aka a Dock
 
 
 ```shell
-cd docker/base
+cd base
 docker build -t libraryrc/future-waters .
 ```
 
+### Data Gathering
 
-2. Build the base docker container running:
+
+1. Build the base docker container running:
 
 
 ```shell
 docker build -t libraryrc/future-waters .
 ```
 
-3. Create the container
+2. Create the container
 
 First get the path where you downloaded the project
 
@@ -60,13 +62,13 @@ docker run --name=future-waters -v <your path>/resources:/tmp/src/resources libr
 
 For example, for the output path that I got, the volume path should read
 
-4. Change file permissions at output folder
+3. Change file permissions at output folder
 
 ```shell
 sudo chown -R $USER:$USER resources
 ```
 
-5. Running the container after its creation
+4. Running the container after its creation
 
 
 You need to remove previous named containers with the `future-waters` identifier. Run
@@ -78,10 +80,10 @@ docker rm future-waters && docker run --name=future-waters -v <your path>:/tmp/s
 For example:
 
 ```shell
-docker rm future-waters && docker run --name=future-waters /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources libraryrc/future-waters
+docker rm future-waters && docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources libraryrc/future-waters
 ```
 
-6. Important
+5. Important
 
 If there are updates on the python scripts, you must build a new image to reflect these changes on the container. Run:
 
@@ -108,6 +110,33 @@ docker rm future-waters && \
 docker build -t libraryrc/future-waters . && \
 docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources libraryrc/future-waters
 ```
+
+
+
+
+### Data Visualization
+
+
+
+
+```shell
+cd data-gathering
+docker build -t libraryrc/future-waters-viz .
+```
+
+
+```shell
+docker run --name=future-waters-viz -p 8100:8100  libraryrc/future-waters-viz
+```
+
+
+
+```shell
+docker rm future-waters-viz && \
+docker build -t libraryrc/future-waters-viz . && \
+docker run --name=future-waters-viz -p 8100:8100  libraryrc/future-waters-viz
+```
+
 
 
 ___
@@ -180,3 +209,13 @@ Example of [Ghandi](https://www.wikidata.org/wiki/Q1001) shows that `member of` 
 ## Open Refine
 
 
+
+
+
+have scholia locally for comp reproducibility
+
+- make two viz
+-- 1 only clusters
+-- 2 cluster + citations
+
+-- get keywords and find people who are connected to that keyword
