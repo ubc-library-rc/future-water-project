@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% set aspect = "topics" %}
+
+
+{% block in_ready %}
+
+{{ sparql_to_table('list-of-topics',
+    options={
+	 "linkPrefixes": {
+	     "topic": "../topic/",
+	     "example_work": "../work/",
+         }
+    }) }}
+
+{{ sparql_to_table('list-of-works',
+    options={
+        "linkPrefixes": { "work": "../work/" }
+    }) }}
+
+{{ sparql_to_table('authors', options={
+	 "linkPrefixes": {
+	     "author": "../author/",
+	     "example_work": "../work/",
+         }
+     }) }}
+
+{% endblock %}
+
+
+
+{% block page_content %}
+
+<h1 id="h1">Topics</h1>
+
+<div id="intro"></div>
+
+<table class="table table-hover" id="list-of-topics-table"></table>
+
+
+<h2 id="list-of-works-header">List of works on any combination of these topics</h2>
+
+<table class="table table-hover" id="list-of-works-table"></table>
+
+
+<h2 id="authors-header">Authors</h2>
+
+<table class="table table-hover" id="authors-table"></table>
+
+
+
+{% endblock %}

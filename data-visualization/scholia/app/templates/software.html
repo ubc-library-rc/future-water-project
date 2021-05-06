@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{% set aspect = "software" %}
+
+{% block in_ready %}
+
+{{ sparql_to_table('recent-works') }}
+{{ sparql_to_table('coused') }}
+{{ sparql_to_iframe('topics') }}
+{{ sparql_to_iframe('authors') }}
+
+{% endblock %}
+
+{% block page_content %}
+<h1 id="h1">Software</h1>
+
+<div id="intro"></div>
+
+<h2 id="recent-works-header">Recent work using the software</h2>
+
+<table class="table table-hover" id="recent-works-table"></table>
+
+
+<h2 id="coused-header">Co-used</h2>
+
+<table class="table table-hover" id="coused-table"></table>
+
+<h2 id="topics-header">Topics of works using the software</h2>
+
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" id="topics-iframe"></iframe>
+</div>
+
+<h2 id="authors-header">Authors of works using the software</h2>
+
+<div class="embed-responsive embed-responsive-4by3">
+  <iframe class="embed-responsive-item" id="authors-iframe"></iframe>
+</div>
+
+{% endblock %}
+    

@@ -1,0 +1,234 @@
+{% extends "base.html" %}
+
+<!-- don't show nav search on index.html -->
+{% block nav_search %}{% endblock %}
+
+{% block page_content %}
+
+
+<div class="container">
+    <div class="container p-3 my-3 border">
+	Scholia is a service that creates visual scholarly profiles for
+	<a href="topic/">topic</a>,
+	<a href="author/">people</a>,
+	<a href="organization/">organizations</a>,
+	<a href="taxon">species</a>,
+	<a href="chemical">chemicals</a>, etc
+	using bibliographic and other information in Wikidata.
+        <a href="about">More info...</a>
+    </div>
+</div>
+
+<div class="container">
+  <div class="alert alert-warning" role="alert">
+    Scholia relies on Wikidata, and Wikidata contains only a limited albeit growing subset of the corpus of scholarly literature, its authors and citations.
+    Read more about the limitations in the <a href="faq">FAQ</a>.
+  </div>
+</div>
+
+<div class="container">
+    <h2>Search</h2>
+    
+    <div class="input-group">
+	<input type="text" class="form-control"
+	       placeholder="Search for a scientist, topic, publication, organization, award, event, etc." id="searchterm"/>
+	<!-- span class="input-group-btn">
+	    <button class="btn btn-primary" type="submit">Search</button>
+	</span -->
+    </div>
+
+    <div id="searchresult"></div>
+
+</div>
+
+
+<div class="container">
+
+    <h2>Examples</h2>
+
+    <div class="card-deck mb-3">
+	<div class="card mb-4 box-shadow">
+	    
+            <div class="card-header">
+		<h4 class="my-0 font-weight-normal">Profiles</h4>
+            </div>
+            <div class="card-body">
+		<dl>
+		    <dt><a href="author/Q18618629">Denny Vrandečić</a></dt>
+		    <dd>
+			View the researcher profile for the Semantic Web researcher Denny Vrandečić.
+			It shows his papers, co-authors, etc.
+		    </dd>
+		    
+		    <dt><a href="organization/Q1269766">Technical University of Denmark</a></dt>
+		    <dd>
+			View the profile for an organization: People associated with the organization, 
+			their publications, the co-author patterns, etc.
+		    </dd>
+		    
+		    <dt>
+			<a href="venue/Q1981225">NeuroImage</a>
+		    </dt>
+		    <dd>
+			View information about a venue, e.g., a scientific journal or scientific conference.
+			Here, the <em>NeuroImage</em> journal, its recently published papers, 
+			authors, topics, citation pattern, etc.
+		    </dd>
+		    
+		    <dt>
+			<a href="publisher/Q233358">Public Library of Science</a>
+		    </dt>
+		    <dd>
+			View information about a publisher, here
+			<em>Public Library of Science</em>, with, e.g., the journals it publishes.
+		    </dd>
+
+		    <dt>
+			<a href="topic/Q202864">Zika virus</a>
+		    </dt>
+		    <dd>
+			View information about a topic, e.g.
+			<em>Zika virus</em>, e.g., the authors or journals publishing on the topic.
+		    </dd>
+		</dl>
+            </div>
+
+	</div>
+	    
+        <div class="card mb-4 box-shadow">
+	    <div class="card-header">
+		<h4 class="my-0 font-weight-normal">Combinations</h4>
+	    </div>
+	    <div class="card-body">
+		<p>Scholia can show multiple items together.</p>
+		
+		<dl>
+		    <dt>
+			<a href="organizations/Q1269766,Q193196">Technical University of Denmark and University College London</a>
+		    </dt>
+		    <dd>
+			Compare two or more organizations. Here a comparison between two universities with
+			collaborating researchers, number of publications and citations.
+		    </dd>
+		</dl>
+
+		<dl>
+		    <dt>
+		        <a href="authors/Q80,Q6135847,Q30085536">Tim Berners-Lee, James Hendler and Ruben Verborgh</a></dt>
+            <dd>
+		    Compare three Semantic Web researchers. 
+		    </dd>
+		</dl>
+
+		<dl>
+		    <dt>
+		        <a href="organization/Q1305486/topic/Q68854">University of Costa Rica and snakebites</a></dt>
+            <dd>
+		    Explore what people affiliated with this institution have published on the topic. 
+		    </dd>
+		</dl>
+
+
+
+
+	    </div>
+        </div>
+	
+        <div class="card mb-4 box-shadow">
+	    <div class="card-header">
+		<h4 class="my-0 font-weight-normal">Redirects</h4>
+	    </div>
+	    <div class="card-body">
+		<p>If you know the external identifier of a concept, then Scholia can make a lookup based on it:</p>
+		
+		<dl>
+		    <dt><a href="twitter/utafrith">twitter/utafrith</a></dt>
+		    <dd>Look up by Twitter username @utafrith. This will identify
+			the London-based researcher Uta Frith and redirect to her Scholia page.</dd>
+		  
+		    <dt><a href="twitter/mitpress">twitter/mitpress</a></dt>
+		    <dd>Redirect also works for organizations, here MIT Press</dd>
+
+		    <dt><a href="orcid/0000-0002-5494-8126">orcid/0000-0002-5494-8126</a></dt>
+		    <dd>Lookup 0000-0002-5494-8126 that is identifying Carol Greider.</dd>
+
+		    <dt><a href="github/vedina">github/vedina</a></dt>
+		    <dd>
+			Redirect via GitHub username, here @vedina to Nina Jeliazkova.
+		    </dd>
+
+		    <dt><a href="doi/10.1186/S13321-016-0161-3">doi/10.1186/S13321-016-0161-3</a></dt>
+		    <dd>Redirect via a DOI.</dd>
+		    
+		    <dt><a href="viaf/59976288">viaf/59976288</a></dt>
+		    <dd>Redirect via VIAF identifier, here to Ben Feringa</a></li>
+
+
+		</dl>
+
+	    </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+
+    <h2>Statistics</h2>
+
+    Scholia uses Wikidata for all its data. What is the size of our data corpus?
+
+    <table class="table table-hover" id="statistics"></table>
+    
+</div>    
+
+{% endblock %}
+
+  
+{% block scripts %}
+{{super()}}
+
+<script type="text/javascript">
+
+ statisticsSparql = `
+SELECT ?count ?description
+WHERE {
+{ {SELECT (COUNT(*) AS ?c) WHERE {?s ?p ?o} } BIND("Total number of triples" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {?p a wikibase:Property} } BIND("Total number of properties" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P50 []} } BIND("Links from works to authors" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P69 []} } BIND("Links from people to where they were educated" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P108 []} } BIND("Links from people to employers" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P166 []} } BIND("Links from people to awards" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P212 []} } BIND("ISBN 13 book numbers" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P225 []} } BIND("Taxon names" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P234 []} } BIND("InChIs" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P236 []} } BIND("ISSNs" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P496 []} } BIND("ORCIDs" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P625 []} } BIND("Geolocations" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P638 []} } BIND("Protein Data Bank IDs" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P686 []} } BIND("Gene Ontology IDs" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P698 []} } BIND("PubMed ID" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P818 []} } BIND("arXiv IDs" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P859 []} } BIND("Links to sponsors" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P921 []} } BIND("Links from works to their main subjects" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P932 []} } BIND("Items with a PubMed Central ID" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P356 []} } BIND("Items with a DOI" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P1416 []} } BIND("Links from people to their affiliations" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P2093 []} } BIND("Author name strings" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P2427 []} } BIND("Items with a GRID ID" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P2860 []} } BIND("Citations" AS ?d)} UNION
+{ {SELECT (COUNT(*) AS ?c) WHERE {[] wdt:P31 wd:Q13442814.} } BIND("Scholarly articles" AS ?d)}
+BIND (?c AS ?count)
+BIND (?d AS ?description)
+}
+ORDER BY DESC(?c)
+`
+
+ $(document).ready(function() {
+     sparqlToDataTable(statisticsSparql, "#statistics", options={paging: false});
+ });
+
+</script>
+
+{% endblock %}

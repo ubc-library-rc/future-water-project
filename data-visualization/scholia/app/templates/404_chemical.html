@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+{{super()}}
+
+<script type="text/javascript">
+
+ shortkey = "{{ inchikey }}".substring(0,14)
+
+ relatedChemicalsSparql = `
+SELECT ?mol ?molLabel ?InChIKey ?CAS ?ChemSpider ?PubChem_CID WITH {
+  SELECT ?mol ?InChIKey WHERE {
+    ?mol wdt:P235 ?InChIKey .
+    FILTER (regex(str(?InChIKey), "^` + shortkey + `"))
+  }
+} AS %MOLS {
+  INCLUDE %MOLS
+  OPTIONAL { ?mol wdt:P231 ?CAS }
+  OPTIONAL { ?mol wdt:P661 ?ChemSpider }
+  OPTIONAL { ?mol wdt:P662 ?PubChem_CID }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+`
+
+ $(document).ready(function() {
+     sparqlToDataTable(relatedChemicalsSparql, "#related");
+ });
+
+</script>
+
+{% endblock %}
+
+{% block page_content %}
+
+There was no chemical found with InChIKey={{ inchikey }}. Maybe these related compounds are of interest (may take some time):
+
+<table class="table table-hover" id="related"></table>
+
+{% endblock %}

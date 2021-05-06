@@ -1,0 +1,151 @@
+{% extends "base.html" %}
+
+{% set aspect = "author" %}
+
+{% block in_ready %}
+
+{{ sparql_to_table('publications') }}
+
+{{ sparql_to_iframe('venue-statistics') }}
+
+{{ sparql_to_iframe('publications-per-year') }}
+
+{% endblock %}
+
+{% block scripts %}
+{{super()}}
+
+<script type="text/javascript" src="{{ url_for('static', filename='d3.v5.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='d3-scale-chromatic.v1.min.js') }}"></script>
+
+<script type="text/javascript">
+// https://codepen.io/mikuel/pen/amXXBN
+
+$( document ).ready(function() {
+  var json = {
+  'children': [
+    {'name': 'Apples', 'value': 3},
+    {'name': 'Oranges', 'value': 4},
+    {'name': 'Kiwis', 'value': 5},
+    {'name': 'Bananas', 'value': 1},
+    {'name': 'Pears', 'value': 10},
+    {'name': 'Satsumas', 'value': 14},
+    {'name': 'Pineapples', 'value': 3}
+  ]
+}
+
+var diameter = 300,
+    color = d3.scaleOrdinal(d3.schemeBlues[9]);
+
+var colorScale = d3.scaleLinear()
+  .domain([0, d3.max(json.children, function(d) {
+    return d.value;
+  })])
+  .range(["rgb(46, 73, 123)", "rgb(71, 187, 94)"]);
+
+var bubble = d3.pack()
+  .size([diameter, diameter])
+  .padding(5);
+
+var margin = {
+  left: 0,
+  right: 100,
+  top: 0,
+  bottom: 0
+}
+
+var svg = d3.select('#chart').append('svg')
+  .attr('viewBox','0 0 ' + (diameter + margin.right) + ' ' + diameter)
+  .attr('width', (diameter + margin.right))
+  .attr('height', diameter)
+  .attr('class', 'chart-svg');
+
+var root = d3.hierarchy(json)
+  .sum(function(d) { return d.value; })
+  .sort(function(a, b) { return b.value - a.value; });
+
+bubble(root);
+
+var node = svg.selectAll('.node')
+  .data(root.children)
+  .enter()
+  .append('g').attr('class', 'node')
+  .attr('transform', function(d) { return 'translate(' + d.x + ' ' + d.y + ')'; })
+  .append('g').attr('class', 'graph');
+
+node.append("circle")
+  .attr("r", function(d) { return d.r; })
+  .style("fill", function(d) { 
+    return color(d.data.name); 
+  });
+
+node.append("text")
+  .attr("dy", ".3em")
+  .style("text-anchor", "middle")
+  .text(function(d) { return d.data.value; })
+  .style("fill", "#000000");
+
+node.append("title")
+    .text(function(d) { return d.data.name + ": " + d.data.value; });
+
+svg.append("g")
+  .attr("class", "legendOrdinal")
+  .attr("transform", "translate(600,40)");
+
+// var legendOrdinal = d3.legendColor()
+//   .shape("path", d3.symbol().type(d3.symbolSquare).size(150)())
+//   .shapePadding(10)
+//   .scale(color);
+
+// svg.select(".legendOrdinal").call(legendOrdinal);
+});
+
+</script>
+
+{% endblock %}
+
+
+{% block page_content %}
+
+<h1 id="h1">Author</h1>
+
+
+
+<div id="chart"></div>
+
+
+
+<div id="intro"></div>
+
+<div id="wembedder"></div>
+
+<div id="details"></div>
+
+<h3 id="publications-header">Publications</h3>
+
+<table class="table table-hover" id="publications-table"></table>
+
+<br>
+<br>
+<hr>
+
+<h2 id="publications-per-year-header">Publications per year</h2>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" id="publications-per-year-iframe"></iframe>
+</div>
+
+<br>
+<br>
+<hr>
+
+<h2 id="venue-statistics-header">Venue statistics</h2>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" id="venue-statistics-iframe"></iframe>
+</div>
+
+
+
+{% endblock %}
+
