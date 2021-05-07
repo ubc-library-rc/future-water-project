@@ -219,3 +219,13 @@ have scholia locally for comp reproducibility
 -- 2 cluster + citations
 
 -- get keywords and find people who are connected to that keyword
+
+
+
+wordcloud of research terms
+
+have members easily queriable
+
+search members based on keyword
+
+think about impact factor -- nice to have 
