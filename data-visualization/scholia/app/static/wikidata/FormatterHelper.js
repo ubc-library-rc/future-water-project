@@ -265,9 +265,13 @@ wikibase.queryService.ui.resultBrowser.helper.FormatterHelper = ( function( $ ) 
 	 * @param {string} uri
 	 * @return {boolean}
 	 */
-	SELF.prototype.isEntityUri = function( uri ) {
+	SELF.prototype.isEntityUri = function( uri ) {		
+		if (typeof uri === 'string' && uri === "#"){
+			return true;
+		}
+
 		return typeof uri === 'string'
-			&& /\/entity\/(Q|P|L|M)[0-9]+$/.test( uri );
+			&& (uri.includes('keyword?') || uri.includes('entity/Q') || uri.includes('author?'));
 	};
 
 	/**

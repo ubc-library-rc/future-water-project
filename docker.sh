@@ -33,6 +33,7 @@ echo "----------------------------------------------"
 
 python3 ./test/test_openrefine_authors.py
 python3 ./test/test_openrefine_papers.py
+python3 ./test/test_scholia_keywords.py
 
 echo ""
 echo "\U1F680 data saved under ./resorces bye bye"

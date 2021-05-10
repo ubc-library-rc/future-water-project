@@ -1,0 +1,3266 @@
+{
+    "keywords": {
+        "Rivers": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 20
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Modeling": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 8
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 8
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 6
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 2
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 1
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Watershed": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Wetland": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 7
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 2
+            }
+        ],
+        "Water Science and Technology": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 45
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 43
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 31
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 27
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 13
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 12
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 9
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 8
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 8
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 8
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 5
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 5
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 3
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 2
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            }
+        ],
+        "Earth-Surface Processes": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 49
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 10
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 9
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 5
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 3
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 3
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 3
+            }
+        ],
+        "Ecology": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 33
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 14
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 10
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 4
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 3
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 3
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Soil": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 13
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 9
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Statistics, Probability and Uncertainty": [
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            }
+        ],
+        "Statistics and Probability": [
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Education": [
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Library and Information Sciences": [
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            }
+        ],
+        "Information Systems": [
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Computer Science Applications": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 14
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            }
+        ],
+        "Climate change": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 5
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Streamflow": [
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 3
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            }
+        ],
+        "Groundwater": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            }
+        ],
+        "Ecological Modelling": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 15
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 13
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 12
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 3
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            }
+        ],
+        "Environmental Engineering": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 49
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 32
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 12
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 3
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 3
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            }
+        ],
+        "Software": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 13
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "General Agricultural and Biological Sciences": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 7
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 2
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Global and Planetary Change": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 10
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 10
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            }
+        ],
+        "Pollution": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 28
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 26
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 14
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 6
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 5
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 4
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 3
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 2
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            }
+        ],
+        "Environmental": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 14
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 3
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 3
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 2
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 1
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            }
+        ],
+        "Aquatic Science": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 59
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 9
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 7
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 3
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Ecology, Evolution, Behavior and Systematics": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 74
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 6
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 3
+            },
+            {
+                "topicLabel": "Alice Guimaraes",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            }
+        ],
+        "General Chemistry": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 20
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 11
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 5
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Environmental Chemistry": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 30
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 29
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 17
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 12
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 9
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 8
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            }
+        ],
+        "Soil Science": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 10
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 8
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 5
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Microbiology": [
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 7
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            }
+        ],
+        "Waste Management and Disposal": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 30
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 25
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 13
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 4
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 3
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 3
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            }
+        ],
+        "General Environmental Science": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 46
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 13
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 12
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 11
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 5
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 4
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 3
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "General Medicine": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 14
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 14
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 11
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 4
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 3
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Forestry": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 9
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 5
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Sanitation": [
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Immunology": [
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            }
+        ],
+        "Applied Microbiology and Biotechnology": [
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 3
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            }
+        ],
+        "Genetics": [
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            }
+        ],
+        "Molecular Biology": [
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            }
+        ],
+        "Theoretical Computer Science": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Hardware and Architecture": [
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Computational Theory and Mathematics": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Environments": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Policy": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 4
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Agronomy and Crop Science": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 8
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Physiology (medical)": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 5
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            }
+        ],
+        "Safety, Risk, Reliability and Quality": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 29
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            }
+        ],
+        "Geography, Planning and Development": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 21
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 19
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 16
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 3
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 2
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Renewable Energy, Sustainability and the Environment": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 30
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 6
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 5
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Management, Monitoring, Policy and Law": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 28
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 5
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 4
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 3
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            }
+        ],
+        "General Earth and Planetary Sciences": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 11
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 4
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Biotechnology": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 6
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 3
+            },
+            {
+                "topicLabel": "Gunilla \u00d6berg",
+                "score": 1
+            }
+        ],
+        "Riparian areas": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            }
+        ],
+        "Animal Science and Zoology": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 16
+            }
+        ],
+        "Nature and Landscape Conservation": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 6
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Invertebrates": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 4
+            }
+        ],
+        "General Biochemistry, Genetics and Molecular Biology": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 4
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "General Immunology and Microbiology": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            }
+        ],
+        "Streams": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 15
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 14
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            }
+        ],
+        "British columbia": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 3
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Health, Toxicology and Mutagenesis": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 12
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 5
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Forest management": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 3
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "Biochemistry": [
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 6
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 3
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 3
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Agricultural and Biological Sciences (miscellaneous)": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            }
+        ],
+        "Insect Science": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 4
+            }
+        ],
+        "Fish": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 3
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            }
+        ],
+        "Amphibians": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            }
+        ],
+        "Agriculture": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            }
+        ],
+        "Earth and Planetary Sciences (miscellaneous)": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 25
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Physiology": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            }
+        ],
+        "Structural Biology": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            }
+        ],
+        "Restoration": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Endocrinology": [
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 1
+            }
+        ],
+        "Desalination": [
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 7
+            }
+        ],
+        "Membranes": [
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 9
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 7
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Electrical and Electronic Engineering": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 5
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "General Materials Science": [
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 6
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 5
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Atomic and Molecular Physics, and Optics": [
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Bioengineering": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 3
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 2
+            }
+        ],
+        "Condensed Matter Physics": [
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Biomedical Engineering": [
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            }
+        ],
+        "Physical and Theoretical Chemistry": [
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 6
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 3
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Filtration and Separation": [
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 11
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 5
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Analytical Chemistry": [
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 5
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Mechanical Engineering": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 13
+            },
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            }
+        ],
+        "Mechanics of Materials": [
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "Fluid Flow and Transfer Processes": [
+            {
+                "topicLabel": "Jongho Lee",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Gender": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 5
+            }
+        ],
+        "Environmental Science (miscellaneous)": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 6
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 3
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Urban Studies": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Sociology and Political Science": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 13
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            }
+        ],
+        "History": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 3
+            }
+        ],
+        "Water security": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            }
+        ],
+        "Turkey": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 6
+            }
+        ],
+        "Economics and Econometrics": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Development": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 7
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "South africa": [
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 4
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 3
+            }
+        ],
+        "Drinking water": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 18
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 9
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 3
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Environmental governance": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Environmental justice": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            }
+        ],
+        "Public Administration": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Public Health, Environmental and Occupational Health": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 4
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 3
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Health(social science)": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            }
+        ],
+        "Microbiology (medical)": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            }
+        ],
+        "Infectious Diseases": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 2
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            }
+        ],
+        "History and Philosophy of Science": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Tourism, Leisure and Hospitality Management": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Atmospheric Science": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 7
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 4
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 4
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 3
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Oceanography": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 5
+            },
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Gender Studies": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Cultural Studies": [
+            {
+                "topicLabel": "Leila\u00a0M. Harris",
+                "score": 1
+            }
+        ],
+        "Water resilience": [
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 3
+            }
+        ],
+        "Geology": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 5
+            },
+            {
+                "topicLabel": "Lucy Rodina",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Process Chemistry and Technology": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 5
+            }
+        ],
+        "Catalysis": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 8
+            }
+        ],
+        "Industrial and Manufacturing Engineering": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 24
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 9
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 4
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Applied Mathematics": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 4
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 2
+            }
+        ],
+        "General Chemical Engineering": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 20
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 7
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 4
+            }
+        ],
+        "Water treatment": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 11
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 4
+            },
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 4
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Fuel Technology": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 3
+            }
+        ],
+        "Inorganic Chemistry": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 3
+            }
+        ],
+        "Organic Chemistry": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 6
+            }
+        ],
+        "Ion exchange": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 4
+            }
+        ],
+        "Electrochemistry": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            }
+        ],
+        "General Physics and Astronomy": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 3
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 3
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Civil and Structural Engineering": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 50
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 4
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 1
+            }
+        ],
+        "General Computer Science": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 2
+            }
+        ],
+        "Toxicology": [
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            }
+        ],
+        "Strategy and Management": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 31
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            },
+            {
+                "topicLabel": "Madjid\u00a0Mohseni",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Plant Science": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Multidisciplinary": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Lakes": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 2
+            }
+        ],
+        "Hydrology": [
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 3
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Ecohydrology": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Geophysics": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 15
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 4
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Land-use": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
+        "Life cycle assessment": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Sediment transport": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 21
+            }
+        ],
+        "Space and Planetary Science": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 6
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 2
+            }
+        ],
+        "Palaeontology": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 5
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Geochemistry and Petrology": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 6
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 3
+            }
+        ],
+        "Ocean Engineering": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 5
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            },
+            {
+                "topicLabel": "Pierre B\u00e9rub\u00e9",
+                "score": 1
+            }
+        ],
+        "Stratigraphy": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "Computers in Earth Sciences": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            }
+        ],
+        "General Social Sciences": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Channel morphology": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 7
+            }
+        ],
+        "Channel stability": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "Nuclear and High Energy Physics": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "Astronomy and Astrophysics": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "Electronic, Optical and Magnetic Materials": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            }
+        ],
+        "Statistical and Nonlinear Physics": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Law": [
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 2
+            }
+        ],
+        "General Energy": [
+            {
+                "topicLabel": "Nadja Kunz",
+                "score": 1
+            },
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Ozone": [
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Water quality assessment": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            },
+            {
+                "topicLabel": "Nicolas Peleato",
+                "score": 1
+            }
+        ],
+        "Geotechnical Engineering and Engineering Geology": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            }
+        ],
+        "Building and Construction": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 10
+            }
+        ],
+        "Uncertainty": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 15
+            },
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 5
+            }
+        ],
+        "Management Science and Operations Research": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Modelling and Simulation": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Information Systems and Management": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            }
+        ],
+        "General Engineering": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 7
+            }
+        ],
+        "Artificial Intelligence": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 9
+            }
+        ],
+        "Computational Mathematics": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Risk management": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Management Information Systems": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Computer Graphics and Computer-Aided Design": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Mathematical Physics": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Machine learning": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            },
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ],
+        "Mine drainage": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Decision support": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 4
+            }
+        ],
+        "Control and Systems Engineering": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Industrial relations": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Visual Arts and Performing Arts": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            }
+        ],
+        "Architecture ": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            }
+        ],
+        "Energy Engineering and Power Technology": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Business, Management and Accounting (miscellaneous)": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 4
+            }
+        ],
+        "Business and International Management": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 4
+            }
+        ],
+        "Economics, Econometrics and Finance (miscellaneous)": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
+        "Transportation": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 3
+            }
+        ],
+        "Human-Computer Interaction": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 2
+            }
+        ],
+        "Bacteria": [
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 4
+            }
+        ],
+        "Genomics": [
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 2
+            }
+        ],
+        "Cell Biology": [
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 1
+            }
+        ],
+        "Information theory": [
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 3
+            }
+        ],
+        "Catchment hydrology": [
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            }
+        ],
+        "Sustainable development": [
+            {
+                "topicLabel": "Steven Weijs",
+                "score": 1
+            }
+        ],
+        "Glacier": [
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 9
+            }
+        ],
+        "Sea level rise": [
+            {
+                "topicLabel": "Valentina Radi\u0107",
+                "score": 1
+            }
+        ]
+    },
+    "authors": {
+        "Ali Ameli": [
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 13
+            },
+            {
+                "topicLabel": "Earth-Surface Processes",
+                "score": 3
+            },
+            {
+                "topicLabel": "Ecology",
+                "score": 3
+            },
+            {
+                "topicLabel": "Streamflow",
+                "score": 3
+            },
+            {
+                "topicLabel": "Modeling",
+                "score": 2
+            },
+            {
+                "topicLabel": "Watershed",
+                "score": 2
+            },
+            {
+                "topicLabel": "Wetland",
+                "score": 2
+            },
+            {
+                "topicLabel": "Soil",
+                "score": 2
+            },
+            {
+                "topicLabel": "Rivers",
+                "score": 1
+            },
+            {
+                "topicLabel": "Statistics, Probability and Uncertainty",
+                "score": 1
+            }
+        ],
+        "Alice Guimaraes": [
+            {
+                "topicLabel": "Ecology",
+                "score": 4
+            },
+            {
+                "topicLabel": "General Agricultural and Biological Sciences",
+                "score": 2
+            },
+            {
+                "topicLabel": "Global and Planetary Change",
+                "score": 2
+            },
+            {
+                "topicLabel": "Pollution",
+                "score": 2
+            },
+            {
+                "topicLabel": "Aquatic Science",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ecology, Evolution, Behavior and Systematics",
+                "score": 2
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 2
+            },
+            {
+                "topicLabel": "Environmental",
+                "score": 1
+            },
+            {
+                "topicLabel": "Climate change",
+                "score": 1
+            }
+        ],
+        "Gunilla \u00d6berg": [
+            {
+                "topicLabel": "Environmental Chemistry",
+                "score": 17
+            },
+            {
+                "topicLabel": "General Chemistry",
+                "score": 11
+            },
+            {
+                "topicLabel": "General Medicine",
+                "score": 11
+            },
+            {
+                "topicLabel": "Soil",
+                "score": 9
+            },
+            {
+                "topicLabel": "Soil Science",
+                "score": 8
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 8
+            },
+            {
+                "topicLabel": "Microbiology",
+                "score": 7
+            },
+            {
+                "topicLabel": "Pollution",
+                "score": 6
+            },
+            {
+                "topicLabel": "General Environmental Science",
+                "score": 5
+            },
+            {
+                "topicLabel": "Environmental Engineering",
+                "score": 3
+            }
+        ],
+        "John\u00a0S.\u00a0Richardson": [
+            {
+                "topicLabel": "Ecology, Evolution, Behavior and Systematics",
+                "score": 74
+            },
+            {
+                "topicLabel": "Aquatic Science",
+                "score": 59
+            },
+            {
+                "topicLabel": "Ecology",
+                "score": 33
+            },
+            {
+                "topicLabel": "Animal Science and Zoology",
+                "score": 16
+            },
+            {
+                "topicLabel": "Streams",
+                "score": 14
+            },
+            {
+                "topicLabel": "General Environmental Science",
+                "score": 13
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 12
+            },
+            {
+                "topicLabel": "Global and Planetary Change",
+                "score": 10
+            },
+            {
+                "topicLabel": "Environmental Chemistry",
+                "score": 9
+            },
+            {
+                "topicLabel": "Forestry",
+                "score": 9
+            }
+        ],
+        "Jongho Lee": [
+            {
+                "topicLabel": "Desalination",
+                "score": 7
+            },
+            {
+                "topicLabel": "Membranes",
+                "score": 7
+            },
+            {
+                "topicLabel": "General Materials Science",
+                "score": 5
+            },
+            {
+                "topicLabel": "Filtration and Separation",
+                "score": 5
+            },
+            {
+                "topicLabel": "Physical and Theoretical Chemistry",
+                "score": 3
+            },
+            {
+                "topicLabel": "Biochemistry",
+                "score": 3
+            },
+            {
+                "topicLabel": "Electrical and Electronic Engineering",
+                "score": 2
+            },
+            {
+                "topicLabel": "Bioengineering",
+                "score": 2
+            },
+            {
+                "topicLabel": "Condensed Matter Physics",
+                "score": 2
+            },
+            {
+                "topicLabel": "Analytical Chemistry",
+                "score": 2
+            }
+        ],
+        "Leila\u00a0M. Harris": [
+            {
+                "topicLabel": "Geography, Planning and Development",
+                "score": 16
+            },
+            {
+                "topicLabel": "Sociology and Political Science",
+                "score": 13
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 8
+            },
+            {
+                "topicLabel": "Development",
+                "score": 7
+            },
+            {
+                "topicLabel": "Aquatic Science",
+                "score": 7
+            },
+            {
+                "topicLabel": "Environmental Science (miscellaneous)",
+                "score": 6
+            },
+            {
+                "topicLabel": "Turkey",
+                "score": 6
+            },
+            {
+                "topicLabel": "Gender",
+                "score": 5
+            },
+            {
+                "topicLabel": "Management, Monitoring, Policy and Law",
+                "score": 5
+            },
+            {
+                "topicLabel": "History",
+                "score": 3
+            }
+        ],
+        "Lucy Rodina": [
+            {
+                "topicLabel": "South africa",
+                "score": 4
+            },
+            {
+                "topicLabel": "Environmental Science (miscellaneous)",
+                "score": 3
+            },
+            {
+                "topicLabel": "Water resilience",
+                "score": 3
+            },
+            {
+                "topicLabel": "Urban Studies",
+                "score": 2
+            },
+            {
+                "topicLabel": "Sociology and Political Science",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ecology",
+                "score": 2
+            },
+            {
+                "topicLabel": "Environmental",
+                "score": 1
+            },
+            {
+                "topicLabel": "Environmental justice",
+                "score": 1
+            },
+            {
+                "topicLabel": "Geography, Planning and Development",
+                "score": 1
+            },
+            {
+                "topicLabel": "Management, Monitoring, Policy and Law",
+                "score": 1
+            }
+        ],
+        "Madjid\u00a0Mohseni": [
+            {
+                "topicLabel": "Environmental Engineering",
+                "score": 32
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 31
+            },
+            {
+                "topicLabel": "Waste Management and Disposal",
+                "score": 30
+            },
+            {
+                "topicLabel": "Environmental Chemistry",
+                "score": 29
+            },
+            {
+                "topicLabel": "Pollution",
+                "score": 26
+            },
+            {
+                "topicLabel": "General Chemistry",
+                "score": 20
+            },
+            {
+                "topicLabel": "General Chemical Engineering",
+                "score": 20
+            },
+            {
+                "topicLabel": "General Medicine",
+                "score": 14
+            },
+            {
+                "topicLabel": "Ecological Modelling",
+                "score": 13
+            },
+            {
+                "topicLabel": "General Environmental Science",
+                "score": 12
+            }
+        ],
+        "Mark\u00a0Johnson": [
+            {
+                "topicLabel": "Soil",
+                "score": 13
+            },
+            {
+                "topicLabel": "Environmental Chemistry",
+                "score": 12
+            },
+            {
+                "topicLabel": "General Environmental Science",
+                "score": 11
+            },
+            {
+                "topicLabel": "Soil Science",
+                "score": 10
+            },
+            {
+                "topicLabel": "Ecology",
+                "score": 10
+            },
+            {
+                "topicLabel": "Global and Planetary Change",
+                "score": 10
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 9
+            },
+            {
+                "topicLabel": "Earth-Surface Processes",
+                "score": 9
+            },
+            {
+                "topicLabel": "Agronomy and Crop Science",
+                "score": 8
+            },
+            {
+                "topicLabel": "Wetland",
+                "score": 7
+            }
+        ],
+        "Marwan Hassan": [
+            {
+                "topicLabel": "Earth-Surface Processes",
+                "score": 49
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 45
+            },
+            {
+                "topicLabel": "Earth and Planetary Sciences (miscellaneous)",
+                "score": 25
+            },
+            {
+                "topicLabel": "Sediment transport",
+                "score": 21
+            },
+            {
+                "topicLabel": "Rivers",
+                "score": 20
+            },
+            {
+                "topicLabel": "Geography, Planning and Development",
+                "score": 19
+            },
+            {
+                "topicLabel": "Streams",
+                "score": 15
+            },
+            {
+                "topicLabel": "Geophysics",
+                "score": 15
+            },
+            {
+                "topicLabel": "Ecology",
+                "score": 14
+            },
+            {
+                "topicLabel": "General Earth and Planetary Sciences",
+                "score": 11
+            }
+        ],
+        "Nadja Kunz": [
+            {
+                "topicLabel": "General Environmental Science",
+                "score": 3
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 3
+            },
+            {
+                "topicLabel": "Management, Monitoring, Policy and Law",
+                "score": 3
+            },
+            {
+                "topicLabel": "Renewable Energy, Sustainability and the Environment",
+                "score": 2
+            },
+            {
+                "topicLabel": "Strategy and Management",
+                "score": 2
+            },
+            {
+                "topicLabel": "Industrial and Manufacturing Engineering",
+                "score": 2
+            },
+            {
+                "topicLabel": "Geography, Planning and Development",
+                "score": 2
+            },
+            {
+                "topicLabel": "Aquatic Science",
+                "score": 2
+            },
+            {
+                "topicLabel": "Biochemistry",
+                "score": 2
+            },
+            {
+                "topicLabel": "Economics and Econometrics",
+                "score": 2
+            }
+        ],
+        "Nicolas Peleato": [
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 5
+            },
+            {
+                "topicLabel": "Waste Management and Disposal",
+                "score": 4
+            },
+            {
+                "topicLabel": "Pollution",
+                "score": 4
+            },
+            {
+                "topicLabel": "Ecological Modelling",
+                "score": 3
+            },
+            {
+                "topicLabel": "Environmental Engineering",
+                "score": 2
+            },
+            {
+                "topicLabel": "Environmental Chemistry",
+                "score": 2
+            },
+            {
+                "topicLabel": "General Medicine",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ozone",
+                "score": 1
+            },
+            {
+                "topicLabel": "Drinking water",
+                "score": 1
+            },
+            {
+                "topicLabel": "Membranes",
+                "score": 1
+            }
+        ],
+        "Pierre B\u00e9rub\u00e9": [
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 27
+            },
+            {
+                "topicLabel": "Pollution",
+                "score": 14
+            },
+            {
+                "topicLabel": "Waste Management and Disposal",
+                "score": 13
+            },
+            {
+                "topicLabel": "Ecological Modelling",
+                "score": 12
+            },
+            {
+                "topicLabel": "Environmental Engineering",
+                "score": 12
+            },
+            {
+                "topicLabel": "Filtration and Separation",
+                "score": 11
+            },
+            {
+                "topicLabel": "Membranes",
+                "score": 9
+            },
+            {
+                "topicLabel": "Environmental Chemistry",
+                "score": 8
+            },
+            {
+                "topicLabel": "Physical and Theoretical Chemistry",
+                "score": 6
+            },
+            {
+                "topicLabel": "General Materials Science",
+                "score": 6
+            }
+        ],
+        "Rehan Sadiq": [
+            {
+                "topicLabel": "Civil and Structural Engineering",
+                "score": 50
+            },
+            {
+                "topicLabel": "Environmental Engineering",
+                "score": 49
+            },
+            {
+                "topicLabel": "General Environmental Science",
+                "score": 46
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 43
+            },
+            {
+                "topicLabel": "Strategy and Management",
+                "score": 31
+            },
+            {
+                "topicLabel": "Renewable Energy, Sustainability and the Environment",
+                "score": 30
+            },
+            {
+                "topicLabel": "Environmental Chemistry",
+                "score": 30
+            },
+            {
+                "topicLabel": "Safety, Risk, Reliability and Quality",
+                "score": 29
+            },
+            {
+                "topicLabel": "Pollution",
+                "score": 28
+            },
+            {
+                "topicLabel": "Management, Monitoring, Policy and Law",
+                "score": 28
+            }
+        ],
+        "Ryan Ziels": [
+            {
+                "topicLabel": "Bacteria",
+                "score": 4
+            },
+            {
+                "topicLabel": "Water treatment",
+                "score": 4
+            },
+            {
+                "topicLabel": "Biotechnology",
+                "score": 3
+            },
+            {
+                "topicLabel": "Ecological Modelling",
+                "score": 2
+            },
+            {
+                "topicLabel": "Waste Management and Disposal",
+                "score": 2
+            },
+            {
+                "topicLabel": "Pollution",
+                "score": 2
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 2
+            },
+            {
+                "topicLabel": "Genomics",
+                "score": 2
+            },
+            {
+                "topicLabel": "Environmental",
+                "score": 2
+            },
+            {
+                "topicLabel": "Bioengineering",
+                "score": 2
+            }
+        ],
+        "Steven Weijs": [
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 8
+            },
+            {
+                "topicLabel": "Uncertainty",
+                "score": 5
+            },
+            {
+                "topicLabel": "Hydrology",
+                "score": 3
+            },
+            {
+                "topicLabel": "Information theory",
+                "score": 3
+            },
+            {
+                "topicLabel": "Atmospheric Science",
+                "score": 3
+            },
+            {
+                "topicLabel": "General Physics and Astronomy",
+                "score": 3
+            },
+            {
+                "topicLabel": "Civil and Structural Engineering",
+                "score": 2
+            },
+            {
+                "topicLabel": "Catchment hydrology",
+                "score": 1
+            },
+            {
+                "topicLabel": "Streams",
+                "score": 1
+            },
+            {
+                "topicLabel": "Streamflow",
+                "score": 1
+            }
+        ],
+        "Valentina Radi\u0107": [
+            {
+                "topicLabel": "Earth-Surface Processes",
+                "score": 10
+            },
+            {
+                "topicLabel": "Glacier",
+                "score": 9
+            },
+            {
+                "topicLabel": "Water Science and Technology",
+                "score": 5
+            },
+            {
+                "topicLabel": "Atmospheric Science",
+                "score": 4
+            },
+            {
+                "topicLabel": "Geophysics",
+                "score": 4
+            },
+            {
+                "topicLabel": "Geochemistry and Petrology",
+                "score": 3
+            },
+            {
+                "topicLabel": "Aquatic Science",
+                "score": 2
+            },
+            {
+                "topicLabel": "Earth and Planetary Sciences (miscellaneous)",
+                "score": 2
+            },
+            {
+                "topicLabel": "Space and Planetary Science",
+                "score": 2
+            },
+            {
+                "topicLabel": "Multidisciplinary",
+                "score": 1
+            }
+        ]
+    }
+}

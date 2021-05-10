@@ -79,11 +79,9 @@ wikibase.queryService.ui.resultBrowser.GraphResultBrowser = ( function( $, vis, 
 		var nodeBrowser = new wikibase.queryService.ui.resultBrowser.GraphResultBrowserNodeBrowser( data.nodes, data.edges, this.getSparqlApi() );
 		network.on( 'click', function( properties ) {
 			var nodeId = properties.nodes[0] || null;
-			if ( $( '#expand-type-switch' ).is( ':checked' ) ) {
-				nodeBrowser.browse( nodeId, EXPAND_TYPE_INCOMING );
-			} else {
-				nodeBrowser.browse( nodeId, EXPAND_TYPE_OUTGOING );
-			}
+			// Arthur - recursively walks through the graph
+			if (nodeId !== null)
+				window.open(nodeId, '_blank' );
 		} );
 
 		$container.prepend( this._createToolbar( network ) );
