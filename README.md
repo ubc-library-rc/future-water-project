@@ -9,7 +9,7 @@ Add one or two images with visualizations that we want to produce
 1. [Download and install docker](https://docs.docker.com/get-started/)
 1. [Download and install Python 3.7 or higher](https://www.python.org/downloads/)
     * You only need python locally for small tasks such as clearing the cache
-1. [Download and install OpenRefine](https://openrefine.org/download.html), preferrably the stable version --- OpenRefine 3.3
+1. [Download and install OpenRefine](https://openrefine.org/download.html), preferably the stable version --- OpenRefine 3.3
 
 ## Instructions
 

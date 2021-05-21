@@ -32,8 +32,8 @@
         "P50": "Q57582079",
         "P356": "10.5194/egusphere-egu21-14084",
         "P921": [
-            "Streamflow",
-            "Watershed"
+            "Watershed",
+            "Streamflow"
         ],
         "P1476": "Can snow persistence explain the spatial-temporal variabilities in streamflow hydrograph flashiness across snow-dominated regions?",
         "P1433": "Copernicus GmbH",
@@ -132,9 +132,9 @@
         "P50": "Q57582079",
         "P356": "10.5194/egusphere-egu21-13070",
         "P921": [
-            "Groundwater",
             "Soil",
-            "Streamflow"
+            "Streamflow",
+            "Groundwater"
         ],
         "P1476": "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un) gauged basins",
         "P1433": "Copernicus GmbH",
@@ -171,9 +171,9 @@
         "P356": "10.5194/hess-21-1791-2017",
         "P921": [
             "Watershed",
-            "Modeling",
+            "Wetland",
             "Rivers",
-            "Wetland"
+            "Modeling"
         ],
         "P1476": "Quantifying hydrologic connectivity of wetlands to surface water systems",
         "P1433": "Hydrology and Earth System Sciences",
@@ -245,8 +245,8 @@
         "P50": "Q57582079",
         "P356": "10.5194/egusphere-egu21-13979",
         "P921": [
-            "Climate change",
-            "Streamflow"
+            "Streamflow",
+            "Climate change"
         ],
         "P1476": "The importance of geology when estimating catchment-scale streamflow characteristics: Application of a new technique for hydrologic similarity and regionalization",
         "P1433": "Copernicus GmbH",

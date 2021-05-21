@@ -29,8 +29,8 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-18-649-2014",
         "P921": [
-            "Catchment hydrology",
-            "Hydrology"
+            "Hydrology",
+            "Catchment hydrology"
         ],
         "P1476": "Advancing catchment hydrology to deal with predictions under change",
         "P1433": "Hydrology and Earth System Sciences",
@@ -103,8 +103,8 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-17-3171-2013",
         "P921": [
-            "Uncertainty",
-            "Information theory"
+            "Information theory",
+            "Uncertainty"
         ],
         "P1476": "Data compression to define information content of hydrological time series.",
         "P1433": "Hydrology and Earth System Sciences",
@@ -216,9 +216,9 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hessd-7-4657-2010",
         "P921": [
+            "Information theory",
             "Hydrology",
-            "Uncertainty",
-            "Information theory"
+            "Uncertainty"
         ],
         "P1476": "Interactive comment on \u201cWhy hydrological forecasts should be evaluated using information theory\u201d by SV Weijs et al.",
         "P1433": "Copernicus GmbH",
@@ -311,8 +311,8 @@
         "P50": "Steven Weijs",
         "P356": "10.1007/978-3-319-00639-0_8",
         "P921": [
-            "Sustainable development",
-            "Modeling"
+            "Modeling",
+            "Sustainable development"
         ],
         "P1476": "Toward a New Approach for Hydrological Modeling: A Tool for Sustainable Development in a Savanna Agro-System",
         "P1433": "Technologies for Sustainable Development",
@@ -334,9 +334,9 @@
         "P50": "Steven Weijs",
         "P356": "10.5194/hess-14-2545-2010",
         "P921": [
+            "Information theory",
             "Hydrology",
-            "Uncertainty",
-            "Information theory"
+            "Uncertainty"
         ],
         "P1476": "Why hydrological predictions should be evaluated using information theory",
         "P1433": "Hydrology and Earth System Sciences",

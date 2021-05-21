@@ -48,8 +48,8 @@
         "P50": "Q88314953",
         "P356": "10.1101/563387",
         "P921": [
-            "Bacteria",
-            "Genomics"
+            "Genomics",
+            "Bacteria"
         ],
         "P1476": "Elucidating syntrophic butyrate-degrading populations in anaerobic digesters using stable isotope-informed genome-resolved metagenomics",
         "P1433": "Cold Spring Harbor Laboratory",
@@ -193,8 +193,8 @@
         "P50": "Q88314953",
         "P356": "10.21203/rs.2.18473/v2",
         "P921": [
-            "Bacteria",
             "Genomics",
+            "Bacteria",
             "Environmental"
         ],
         "P1476": "New insights from the biogas microbiome by comprehensive genome-resolved metagenomics of nearly 1600 species originating from multiple anaerobic digesters",
@@ -207,8 +207,8 @@
         "P50": "Q88314953",
         "P356": "10.21203/rs.2.18473/v1",
         "P921": [
-            "Bacteria",
             "Genomics",
+            "Bacteria",
             "Environmental"
         ],
         "P1476": "New insights from the biogas microbiome by comprehensive genome-resolved metagenomics of nearly 1600 species originating from multiple anaerobic digesters",

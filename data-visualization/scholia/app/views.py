@@ -369,7 +369,7 @@ def __get_keywords_bubble_chart_data():
             _new_entry = {
                 "topic": {
                     "type": "uri",
-                    "value": f"http://localhost:8100/keyword?kw={encoded}&n=3"
+                    "value": f"http://localhost:8100/keyword?kw={encoded}&n=2"
                 },
                 "score": {
                     "datatype": "http://www.w3.org/2001/XMLSchema#integer",

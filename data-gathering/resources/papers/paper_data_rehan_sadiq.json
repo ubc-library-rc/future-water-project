@@ -1101,8 +1101,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.4314/wsa.v44i4.25",
         "P921": [
-            "Policy",
             "Climate change",
+            "Policy",
             "Environments"
         ],
         "P1476": "Development of Consumer Perception Index for assessing greywater reuse potential in arid environments",
@@ -1807,8 +1807,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1016/j.scitotenv.2017.06.269",
         "P921": [
-            "Decision support",
-            "Water treatment"
+            "Water treatment",
+            "Decision support"
         ],
         "P1476": "Fit-for-purpose wastewater treatment: Conceptualization to development of decision support tool (I)",
         "P1433": "Science of The Total Environment",
@@ -2479,8 +2479,8 @@
         "P356": "10.1139/facets-2017-0109",
         "P921": [
             "Policy",
-            "Environmental",
-            "Climate change"
+            "Climate change",
+            "Environmental"
         ],
         "P1476": "Investigating the impacts of plausible Canadian policies and their supporting mechanisms on export-based regional air pollution in China: A cement manufacturing case study",
         "P1433": "FACETS",
@@ -3314,8 +3314,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1111/wej.12248",
         "P921": [
-            "Decision support",
-            "Water treatment"
+            "Water treatment",
+            "Decision support"
         ],
         "P1476": "Performance management of small water treatment plant operations: a decision support system",
         "P1433": "Water and Environment Journal",
@@ -4244,8 +4244,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/978-3-030-43578-3_13",
         "P921": [
-            "Policy",
-            "Climate change"
+            "Climate change",
+            "Policy"
         ],
         "P1476": "The nexus of climate change and increasing demand for energy: a policy deliberation from the Canadian context",
         "P1433": "Dynamics of Energy, Environment and Economy",
@@ -4367,8 +4367,8 @@
         "P50": "Rehan Sadiq",
         "P356": "10.1007/s11269-013-0467-0",
         "P921": [
-            "Uncertainty",
-            "Climate change"
+            "Climate change",
+            "Uncertainty"
         ],
         "P1476": "Uncertainty-driven characterization of climate change effects on drought frequency using enhanced SPI",
         "P1433": "Water Resources Management",
