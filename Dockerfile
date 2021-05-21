@@ -2,7 +2,7 @@ FROM python:3
 
 COPY ./data-visualization /tmp/src
 
-COPY ./data-gathering/resources/keywords_final.json /tmp/src/scholia/app/keywords_final.json
+COPY ./data-gathering/resources/keywords_final.json /tmp/src/scholia/resources/keywords_final.json
 
 WORKDIR /tmp/src/
 
