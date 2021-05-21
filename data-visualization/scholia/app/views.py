@@ -99,6 +99,37 @@ def index():
                                __get_keywords_bubble_chart_data())
                            )
 
+@main.route('/author/' + q_pattern)
+def show_author(q):
+    """Return HTML rendering for specific author.
+    Parameters
+    ----------
+    q : str
+        Wikidata item identifier.
+    Returns
+    -------
+    html : str
+        Rendered HTML.
+    """
+    entities = wb_get_entities([q])
+    name = entity_to_name(entities[q])
+    if name:
+        first_initial, last_name = name[0], name.split()[-1]
+    else:
+        first_initial, last_name = '', ''
+    return render_template('author.html', q=q, first_initial=first_initial,
+                           last_name=last_name)
+
+@main.route('/author/')
+def show_author_empty():
+    """Return author index page.
+    Returns
+    -------
+    html : str
+        Rendered index page for author view.
+    """
+    return render_template('author_empty.html')                           
+
 
 @main.route('/keyword')
 def show_keyword():
@@ -115,12 +146,12 @@ def show_keyword():
                            )
 
 
-@main.route('/author')
-def show_author():
+@main.route('/keyword/author')
+def show_keyword_of_author():
     author = request.args.get('name')
 
     first_initial, last_name = '', ''
-    return render_template('author.html',
+    return render_template('keyword_author.html',
                            q=author,
                            first_initial=first_initial,
                            last_name=last_name,
@@ -430,7 +461,7 @@ def __find_keywords_cluster_members(query_keyword, current_hop, max_hops, alread
                 },
                 "author2": {
                     "type": "uri",
-                    "value": f"http://localhost:8100/author?name={_encoded_name}"
+                    "value": f"http://localhost:8100/keyword/author?name={_encoded_name}"
                 },
                 "author1Label": {
                     "xml:lang": "en",
@@ -461,7 +492,7 @@ def __find_keywords_cluster_members(query_keyword, current_hop, max_hops, alread
                     _new_entry = {
                         "author1": {
                             "type": "uri",
-                            "value": f"http://localhost:8100/author?name={_encoded_name}"
+                            "value": f"http://localhost:8100/keyword/author?name={_encoded_name}"
                         },
                         "author2": {
                             "type": "uri",
@@ -570,7 +601,7 @@ def __get_author_to_keywords_chart_data(query_author):
             _new_entry = {
                 "author2": {
                     "type": "uri",
-                    "value": f"http://localhost:8100/author?name={_encoded_name}"
+                    "value": f"http://localhost:8100/keyword/author?name={_encoded_name}"
                 },
                 "author1": {
                     "type": "uri",

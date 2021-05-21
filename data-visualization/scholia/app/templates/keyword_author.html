@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+
+{% set aspect = "author" %}
+
+{% block scripts %}
+{{super()}}
+
+<script type="text/javascript" src="{{ url_for('static', filename='d3.v3.5.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='underscore-umd-min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='dimple.v2.3.0.min.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='vis-network.min.js') }}"></script>
+
+
+
+
+<!-- Charts used by wikidata query service, @see: https://github.com/wikimedia/wikidata-query-gui -->
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/getMessage.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/FormatterHelper.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/Options.js') }}"></script>
+<!-- Abstract data used by all charts  -->
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/AbstractResultBrowser.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/AbstractChartResultBrowser.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/AbstractDimpleChartResultBrowser.js') }}"></script>
+<!-- Bar chart -->
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/BarChartResultBrowser.js') }}"></script>
+<!-- Bubble chart -->
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/BubbleChartResultBrowser.js') }}"></script>
+<!-- Graph chart -->
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/GraphResultBrowserNodeBrowser.js') }}"></script>
+<script type="text/javascript" src="{{ url_for('static', filename='wikidata/GraphResultBrowser.js') }}"></script>
+
+<script type="text/javascript">
+// https://codepen.io/mikuel/pen/amXXBN
+
+$( document ).ready(function() {
+
+
+
+var graphChartData = JSON.parse({{ cluster_keywords|tojson }});
+
+
+// var wdqsTable = new wikibase.queryService.ui.resultBrowser.TableResultBrowser();
+var wdqsBubbleChart = new wikibase.queryService.ui.resultBrowser.BubbleChartResultBrowser();
+var wdqsGraphChart = new wikibase.queryService.ui.resultBrowser.GraphResultBrowser();
+
+wdqsGraphChart.setResult(graphChartData);
+wdqsGraphChart.draw($('#keywords-chart'));
+
+
+// wdqsGraphChart.setResult(mockGraphChartData);
+// wdqsGraphChart.draw($('#query-result'));
+
+
+});
+
+</script>
+
+{% endblock %}
+
+
+{% block page_content %}
+
+<h1 id="h1">{{ q }}</h1>
+
+<div id="intro"></div>
+
+<div id="wembedder"></div>
+
+<div id="details"></div>
+
+<hr>
+
+<p>
+INSTRUCTIONS
+</p>
+
+<ul>
+    <li>Left click + hold to move around the graph</li>
+    <li>Left click on an edge for emphasis</li>
+    <li>Mouse scroll to zoom in and zoom out</li>
+    <li>Click in a keyword or cluster member to open its graph in a new tab.
+        <ul>
+            <li><strong>Colored</strong> circles represent keywords.</li>
+            <li><strong>Gray</strong> circles represent cluster members.</li>
+        </ul>
+    </li>
+</ul>
+
+<hr>
+
+<div>
+    <div id="keywords-chart"></div>
+</div>
+
+
+{% endblock %}
+

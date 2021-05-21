@@ -40,6 +40,7 @@ docker build -t libraryrc/future-waters .
 
 
 ```shell
+cd data-gathering
 docker build -t libraryrc/future-waters .
 ```
 
@@ -80,7 +81,7 @@ docker rm future-waters && docker run --name=future-waters -v <your path>:/tmp/s
 For example:
 
 ```shell
-docker rm future-waters && docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources libraryrc/future-waters
+docker rm future-waters && docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project/data-gathering/resources:/tmp/src/resources libraryrc/future-waters
 ```
 
 5. Important
@@ -108,7 +109,7 @@ For example:
 ```shell
 docker rm future-waters && \
 docker build -t libraryrc/future-waters . && \
-docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources libraryrc/future-waters
+docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project/data-gathering/resources:/tmp/src/resources libraryrc/future-waters
 ```
 
 
@@ -116,19 +117,31 @@ docker run --name=future-waters -v /home/msarthur/Workspace/future-water-project
 
 ### Data Visualization
 
+**IMPORTANT** all other docker commands are executed inside a specifi folder. This command should **run in the project root folder**
 
-
+1. Build the container
 
 ```shell
-cd data-gathering
 docker build -t libraryrc/future-waters-viz .
 ```
 
+2. Run the container
 
 ```shell
 docker run --name=future-waters-viz -p 8100:8100  libraryrc/future-waters-viz
 ```
 
+3. Subsequent executions:
+
+
+```
+docker rm future-waters-viz && \
+docker run --name=future-waters-viz -p 8100:8100  libraryrc/future-waters-viz
+```
+
+4. Helpful for development environment:
+
+Remove last container, build and run new version in a single command
 
 
 ```shell
