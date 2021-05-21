@@ -1,0 +1,188 @@
+CREATE
+LAST	Len	"Can mineral exploration companies create and share value with local communities? The case of Erdene Resource Development Corporation in Mongolia"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.resourpol.2019.101455"
+LAST	P1476	en:"Can mineral exploration companies create and share value with local communities? The case of Erdene Resource Development Corporation in Mongolia"
+LAST	P1433	Q15756022
+LAST	P577	+2019-08-03T00:00:00Z/11
+CREATE
+LAST	Len	"Catchment-based water management in the mining industry: Challenges and solutions"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.exis.2016.10.012"
+LAST	P1476	en:"Catchment-based water management in the mining industry: Challenges and solutions"
+LAST	P1433	Q50809723
+LAST	P577	+2016-11-03T00:00:00Z/11
+CREATE
+LAST	Len	"Conceptualising “coupling” for sustainability implementation in the industrial sector: a review of the field and projection of future research opportunities"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.jclepro.2013.03.040"
+LAST	P1476	en:"Conceptualising “coupling” for sustainability implementation in the industrial sector: a review of the field and projection of future research opportunities"
+LAST	P1433	Q15761445
+LAST	P577	+2013-04-17T00:00:00Z/11
+Q38714604	Aen	"Drivers for and against municipal wastewater recycling: A review"
+Q38714604	P31	Q13442814
+Q38714604	P50	Q106694944
+Q38714604	P356	"10.2166/wst.2015.496"
+Q38714604	P1476	en:"Drivers for and against municipal wastewater recycling: A review"
+Q38714604	P1433	Q15756445
+Q38714604	P577	+2016-02-01T00:00:00Z/11
+CREATE
+LAST	Len	"Identifying Drivers of China's Provincial Wastewater Reuse Outcomes Using Qualitative Comparative Analysis"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1111/jiec.12584"
+LAST	P1476	en:"Identifying Drivers of China's Provincial Wastewater Reuse Outcomes Using Qualitative Comparative Analysis"
+LAST	P1433	Q15749495
+LAST	P577	+2017-04-28T00:00:00Z/11
+CREATE
+LAST	Len	"Implementing an integrated approach to water management by matching problem complexity with management responses: a case study of a mine site water committee"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.jclepro.2013.03.018"
+LAST	P1476	en:"Implementing an integrated approach to water management by matching problem complexity with management responses: a case study of a mine site water committee"
+LAST	P1433	Q15761445
+LAST	P577	+2013-03-21T00:00:00Z/11
+CREATE
+LAST	Len	"Improved resource governance through transparency: Evidence from Mongolia"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.exis.2018.12.007"
+LAST	P1476	en:"Improved resource governance through transparency: Evidence from Mongolia"
+LAST	P1433	Q50809723
+LAST	P577	+2019-01-16T00:00:00Z/11
+CREATE
+LAST	Len	"Mining needs new business models"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.exis.2019.07.007"
+LAST	P1476	en:"Mining needs new business models"
+LAST	P1433	Q50809723
+LAST	P577	+2019-08-17T00:00:00Z/11
+CREATE
+LAST	Len	"Positive steps to living green"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1126/science.1256000"
+LAST	P1476	en:"Positive steps to living green"
+LAST	P1433	Q192864
+LAST	P577	+2014-07-17T00:00:00Z/11
+Q106695182	Aen	"Renewable energy-based artificial ground freezing as an adaptation solution for sustainability of permafrost in post-climate change conditions"
+Q106695182	P31	Q13442814
+Q106695182	P50	Q106694944
+Q106695182	P356	"10.1088/1755-1315/268/1/012128"
+Q106695182	P1476	en:"Renewable energy-based artificial ground freezing as an adaptation solution for sustainability of permafrost in post-climate change conditions"
+Q106695182	P1433	Q59275282
+Q106695182	P577	+2019-07-02T00:00:00Z/11
+CREATE
+LAST	Len	"Sharing the benefits from water as a new approach to regional water targets for mining companies"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.jclepro.2014.02.053"
+LAST	P1476	en:"Sharing the benefits from water as a new approach to regional water targets for mining companies"
+LAST	P1433	Q15761445
+LAST	P577	+2014-03-05T00:00:00Z/11
+CREATE
+LAST	Len	"Social license needs business strategy"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.exis.2020.10.007"
+LAST	P1476	en:"Social license needs business strategy"
+LAST	P1433	Q50809723
+LAST	P577	+2020-10-24T00:00:00Z/11
+CREATE
+LAST	Len	"Social network analysis reveals that communication gaps may prevent effective water management in the mining sector"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.jclepro.2017.01.175"
+LAST	P1476	en:"Social network analysis reveals that communication gaps may prevent effective water management in the mining sector"
+LAST	P1433	Q15761445
+LAST	P577	+2017-01-31T00:00:00Z/11
+CREATE
+LAST	Len	"Sustainability as it pertains to minerals and energy supply and demand: a new interpretative perspective for assessing progress"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.jclepro.2014.09.008"
+LAST	P1476	en:"Sustainability as it pertains to minerals and energy supply and demand: a new interpretative perspective for assessing progress"
+LAST	P1433	Q15761445
+LAST	P577	+2014-09-16T00:00:00Z/11
+CREATE
+LAST	Len	"Sustainability in mining, minerals and energy: new processes, pathways and human interactions for a cautiously optimistic future"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.jclepro.2014.09.016"
+LAST	P1476	en:"Sustainability in mining, minerals and energy: new processes, pathways and human interactions for a cautiously optimistic future"
+LAST	P1433	Q15761445
+LAST	P577	+2014-10-14T00:00:00Z/11
+CREATE
+LAST	Len	"Sustainable water management by coupling human and engineered systems"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.2495/wrm150041"
+LAST	P1476	en:"Sustainable water management by coupling human and engineered systems"
+LAST	P1433	Q15763474
+LAST	P577	+2015-05-22T00:00:00Z/11
+CREATE
+LAST	Len	"The role of institutional mining investors in driving responsible tailings management"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.exis.2020.10.014"
+LAST	P1476	en:"The role of institutional mining investors in driving responsible tailings management"
+LAST	P1433	Q50809723
+LAST	P577	+2020-11-07T00:00:00Z/11
+CREATE
+LAST	Len	"The sustainability agenda of the minerals and energy supply and demand network: an integrative analysis of ecological, ethical, economic, and technological dimensions"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.jclepro.2012.09.038"
+LAST	P1476	en:"The sustainability agenda of the minerals and energy supply and demand network: an integrative analysis of ecological, ethical, economic, and technological dimensions"
+LAST	P1433	Q15761445
+LAST	P577	+2012-11-07T00:00:00Z/11
+CREATE
+LAST	Len	"The utility of a systems approach for managing strategic water risks at a mine site level"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.wri.2016.02.001"
+LAST	P1476	en:"The utility of a systems approach for managing strategic water risks at a mine site level"
+LAST	P1433	Q50816108
+LAST	P577	+2016-02-04T00:00:00Z/11
+CREATE
+LAST	Len	"Too small to be viable? The potential market for small modular reactors in mining and remote communities in Canada"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.enpol.2020.111587"
+LAST	P1476	en:"Too small to be viable? The potential market for small modular reactors in mining and remote communities in Canada"
+LAST	P1433	Q15764299
+LAST	P577	+2020-06-23T00:00:00Z/11
+CREATE
+LAST	Len	"Towards a broadened view of water security in mining regions"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.1016/j.wasec.2020.100079"
+LAST	P1476	en:"Towards a broadened view of water security in mining regions"
+LAST	P1433	Q96320215
+LAST	P577	+2020-12-07T00:00:00Z/11
+Q57517505	Aen	"Water stewardship: Attributes of collaborative partnerships between mining companies and communities"
+Q57517505	P31	Q13442814
+Q57517505	P50	Q106694944
+Q57517505	P356	"10.3390/w10081081"
+Q57517505	P1476	en:"Water stewardship: Attributes of collaborative partnerships between mining companies and communities"
+Q57517505	P1433	Q15816677
+Q57517505	P577	+2018-08-14T00:00:00Z/11
+CREATE
+LAST	Len	"What participation? Distinguishing water monitoring programs in mining regions based on community participation"
+LAST	P31	Q13442814
+LAST	P50	Q106694944
+LAST	P356	"10.3390/w10101325"
+LAST	P1476	en:"What participation? Distinguishing water monitoring programs in mining regions based on community participation"
+LAST	P1433	Q15816677
+LAST	P577	+2018-09-25T00:00:00Z/11
+Q43334991	Aen	"Why do some water utilities recycle more than others? A qualitative comparative analysis in New South Wales, Australia"
+Q43334991	P31	Q13442814
+Q43334991	P50	Q106694944
+Q43334991	P356	"10.1021/acs.est.5b01827"
+Q43334991	P1476	en:"Why do some water utilities recycle more than others? A qualitative comparative analysis in New South Wales, Australia"
+Q43334991	P1433	Q689027
+Q43334991	P577	+2015-06-23T00:00:00Z/11

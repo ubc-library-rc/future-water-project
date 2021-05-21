@@ -1,0 +1,120 @@
+CREATE
+LAST	Len	"Anaerobic codigester feeding pattern drives long-chain fatty acid bioconversion kinetics and syntrophic community structure"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.2175/193864717821495726"
+LAST	P1476	en:"Anaerobic codigester feeding pattern drives long-chain fatty acid bioconversion kinetics and syntrophic community structure"
+LAST	P1433	Q96729286
+LAST	P577	+2017-09-05T00:00:00Z/11
+CREATE
+LAST	Len	"Anaerobic codigester feeding strategy selects for microbial communities with higher FOG degradation kinetics"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.2175/193864717822152248"
+LAST	P1476	en:"Anaerobic codigester feeding strategy selects for microbial communities with higher FOG degradation kinetics"
+LAST	P1433	Q96729286
+LAST	P577	+2017-11-28T00:00:00Z/11
+CREATE
+LAST	Len	"Biodegradation kinetics of 17α-ethinylestradiol in activated sludge treatment processes"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.1089/ees.2014.0467"
+LAST	P1476	en:"Biodegradation kinetics of 17α-ethinylestradiol in activated sludge treatment processes"
+LAST	P1433	Q15757136
+LAST	P577	+2015-05-14T00:00:00Z/11
+Q46308391	Aen	"DNA-SIP based genome-centric metagenomics identifies key long-chain fatty acid-degrading populations in anaerobic digesters with different feeding frequencies"
+Q46308391	P31	Q13442814
+Q46308391	P50	Q88314953
+Q46308391	P356	"10.1038/ismej.2017.143"
+Q46308391	P1476	en:"DNA-SIP based genome-centric metagenomics identifies key long-chain fatty acid-degrading populations in anaerobic digesters with different feeding frequencies"
+Q46308391	P1433	Q7741240
+Q46308391	P577	+2017-09-12T00:00:00Z/11
+Q92459847	Aen	"Elucidating syntrophic butyrate-degrading populations in anaerobic digesters using stable isotope-informed genome-resolved metagenomics"
+Q92459847	P31	Q13442814
+Q92459847	P50	Q88314953
+Q92459847	P356	"10.1101/563387"
+Q92459847	P1476	en:"Elucidating syntrophic butyrate-degrading populations in anaerobic digesters using stable isotope-informed genome-resolved metagenomics"
+Q92459847	P1433	Q15758412
+Q92459847	P577	+2019-03-01T00:00:00Z/11
+CREATE
+LAST	Len	"Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.1101/645903"
+LAST	P1476	en:"Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing"
+LAST	P1433	Q15758412
+LAST	P577	+2019-05-24T00:00:00Z/11
+Q59523018	Aen	"Feasibility of OFMSW co-digestion with sewage sludge for increasing biogas production at wastewater treatment plants"
+Q59523018	P31	Q13442814
+Q59523018	P50	Q88314953
+Q59523018	P356	"10.1007/s41207-017-0031-z"
+Q59523018	P1476	en:"Feasibility of OFMSW co-digestion with sewage sludge for increasing biogas production at wastewater treatment plants"
+Q59523018	P1433	Q96319407
+Q59523018	P577	+2017-08-21T00:00:00Z/11
+CREATE
+LAST	Len	"Genome-resolved metagenomics links microbial dynamics to failure and recovery of a bioreactor removing nitrate and selenate from mine-influenced water"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.1016/j.bej.2019.107297"
+LAST	P1476	en:"Genome-resolved metagenomics links microbial dynamics to failure and recovery of a bioreactor removing nitrate and selenate from mine-influenced water"
+LAST	P1433	Q15755129
+LAST	P577	+2019-07-18T00:00:00Z/11
+CREATE
+LAST	Len	"High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.1038/s41592-020-01041-y"
+LAST	P1476	en:"High-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing"
+LAST	P1433	Q680640
+LAST	P577	+2021-01-11T00:00:00Z/11
+Q51059220	Aen	"Importance of sulfide interaction with iron as regulator of the microbial community in biogas reactors and its effect on methanogenesis, volatile fatty acids turnover, and …"
+Q51059220	P31	Q13442814
+Q51059220	P50	Q88314953
+Q51059220	P356	"10.1016/j.jbiosc.2016.12.003"
+Q51059220	P1476	en:"Importance of sulfide interaction with iron as regulator of the microbial community in biogas reactors and its effect on methanogenesis, volatile fatty acids turnover, and …"
+Q51059220	P1433	Q15755170
+Q51059220	P577	+2017-01-05T00:00:00Z/11
+CREATE
+LAST	Len	"Importance of syntrophic long-chain fatty acid-degrading bacteria during anaerobic co-digestion of fats, oils, and grease with municipal wastewater sludge"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.2175/193864715823546404"
+LAST	P1476	en:"Importance of syntrophic long-chain fatty acid-degrading bacteria during anaerobic co-digestion of fats, oils, and grease with municipal wastewater sludge"
+LAST	P1433	Q96729286
+LAST	P577	+2018-06-21T00:00:00Z/11
+CREATE
+LAST	Len	"Influence of Kinetic and Metabolic Selection on 17alpha-ethinylestradiol Biodegradation in Activated Sludge Wastewater Treatment Systems"
+LAST	P31	Q13442814
+LAST	P50	Q88314953
+LAST	P356	"10.1021/es405351b"
+LAST	P1476	en:"Influence of Kinetic and Metabolic Selection on 17alpha-ethinylestradiol Biodegradation in Activated Sludge Wastewater Treatment Systems"
+LAST	P1433	Q689027
+LAST	P577	+2014-05-08T00:00:00Z/11
+Q38840416	Aen	"Long-chain fatty acid feeding frequency in anaerobic codigestion impacts syntrophic community structure and biokinetics"
+Q38840416	P31	Q13442814
+Q38840416	P50	Q88314953
+Q38840416	P356	"10.1016/j.watres.2017.03.060"
+Q38840416	P1476	en:"Long-chain fatty acid feeding frequency in anaerobic codigestion impacts syntrophic community structure and biokinetics"
+Q38840416	P1433	Q15708879
+Q38840416	P577	+2017-03-31T00:00:00Z/11
+Q46506783	Aen	"Microbial community adaptation influences long-chain fatty acid conversion during anaerobic codigestion of fats, oils, and grease with municipal sludge"
+Q46506783	P31	Q13442814
+Q46506783	P50	Q88314953
+Q46506783	P356	"10.1016/j.watres.2016.07.043"
+Q46506783	P1476	en:"Microbial community adaptation influences long-chain fatty acid conversion during anaerobic codigestion of fats, oils, and grease with municipal sludge"
+Q46506783	P1433	Q15708879
+Q46506783	P577	+2016-07-21T00:00:00Z/11
+Q41073410	Aen	"Monitoring the dynamics of syntrophic β-oxidizing bacteria during anaerobic degradation of oleic acid by quantitative PCR"
+Q41073410	P31	Q13442814
+Q41073410	P50	Q88314953
+Q41073410	P356	"10.1093/femsec/fiv028"
+Q41073410	P1476	en:"Monitoring the dynamics of syntrophic β-oxidizing bacteria during anaerobic degradation of oleic acid by quantitative PCR"
+Q41073410	P1433	Q15766483
+Q41073410	P577	+2015-03-21T00:00:00Z/11
+Q90589028	Aen	"Reducing cost and environmental impact of wastewater treatment with denitrifying methanotrophs, anammox, and mainstream anaerobic treatment"
+Q90589028	P31	Q13442814
+Q90589028	P50	Q88314953
+Q90589028	P356	"10.1021/acs.est.9b04764.s001"
+Q90589028	P1476	en:"Reducing cost and environmental impact of wastewater treatment with denitrifying methanotrophs, anammox, and mainstream anaerobic treatment"
+Q90589028	P1433	Q898902
+Q90589028	P577	+2020-04-07T00:00:00Z/11

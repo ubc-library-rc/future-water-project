@@ -1,20 +1,24 @@
 {
     "keywords": {
-        "Rivers": [
+        "Watershed": [
             {
-                "topicLabel": "Marwan Hassan",
-                "score": 20
-            },
-            {
-                "topicLabel": "John\u00a0S.\u00a0Richardson",
-                "score": 2
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 5
             },
             {
                 "topicLabel": "Ali Ameli",
+                "score": 2
+            },
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 2
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
                 "score": 1
             },
             {
-                "topicLabel": "Mark\u00a0Johnson",
+                "topicLabel": "Leila\u00a0M. Harris",
                 "score": 1
             }
         ],
@@ -56,28 +60,6 @@
                 "score": 1
             }
         ],
-        "Watershed": [
-            {
-                "topicLabel": "Mark\u00a0Johnson",
-                "score": 5
-            },
-            {
-                "topicLabel": "Ali Ameli",
-                "score": 2
-            },
-            {
-                "topicLabel": "Marwan Hassan",
-                "score": 2
-            },
-            {
-                "topicLabel": "John\u00a0S.\u00a0Richardson",
-                "score": 1
-            },
-            {
-                "topicLabel": "Leila\u00a0M. Harris",
-                "score": 1
-            }
-        ],
         "Wetland": [
             {
                 "topicLabel": "Mark\u00a0Johnson",
@@ -86,6 +68,24 @@
             {
                 "topicLabel": "Ali Ameli",
                 "score": 2
+            }
+        ],
+        "Rivers": [
+            {
+                "topicLabel": "Marwan Hassan",
+                "score": 20
+            },
+            {
+                "topicLabel": "John\u00a0S.\u00a0Richardson",
+                "score": 2
+            },
+            {
+                "topicLabel": "Ali Ameli",
+                "score": 1
+            },
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
             }
         ],
         "Water Science and Technology": [
@@ -2140,6 +2140,12 @@
                 "score": 2
             }
         ],
+        "Ecohydrology": [
+            {
+                "topicLabel": "Mark\u00a0Johnson",
+                "score": 1
+            }
+        ],
         "Hydrology": [
             {
                 "topicLabel": "Steven Weijs",
@@ -2149,12 +2155,6 @@
                 "topicLabel": "Marwan Hassan",
                 "score": 2
             },
-            {
-                "topicLabel": "Mark\u00a0Johnson",
-                "score": 1
-            }
-        ],
-        "Ecohydrology": [
             {
                 "topicLabel": "Mark\u00a0Johnson",
                 "score": 1
@@ -2420,6 +2420,12 @@
                 "score": 1
             }
         ],
+        "Mine drainage": [
+            {
+                "topicLabel": "Rehan Sadiq",
+                "score": 1
+            }
+        ],
         "Machine learning": [
             {
                 "topicLabel": "Rehan Sadiq",
@@ -2427,12 +2433,6 @@
             },
             {
                 "topicLabel": "Valentina Radi\u0107",
-                "score": 1
-            }
-        ],
-        "Mine drainage": [
-            {
-                "topicLabel": "Rehan Sadiq",
                 "score": 1
             }
         ],
@@ -2502,16 +2502,16 @@
                 "score": 2
             }
         ],
-        "Bacteria": [
-            {
-                "topicLabel": "Ryan Ziels",
-                "score": 4
-            }
-        ],
         "Genomics": [
             {
                 "topicLabel": "Ryan Ziels",
                 "score": 2
+            }
+        ],
+        "Bacteria": [
+            {
+                "topicLabel": "Ryan Ziels",
+                "score": 4
             }
         ],
         "Cell Biology": [
@@ -2570,11 +2570,11 @@
                 "score": 3
             },
             {
-                "topicLabel": "Modeling",
+                "topicLabel": "Watershed",
                 "score": 2
             },
             {
-                "topicLabel": "Watershed",
+                "topicLabel": "Modeling",
                 "score": 2
             },
             {
@@ -3188,11 +3188,11 @@
                 "score": 5
             },
             {
-                "topicLabel": "Hydrology",
+                "topicLabel": "Information theory",
                 "score": 3
             },
             {
-                "topicLabel": "Information theory",
+                "topicLabel": "Hydrology",
                 "score": 3
             },
             {

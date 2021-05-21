@@ -1,0 +1,206 @@
+CREATE
+LAST	Len	"A philosophical basis for hydrological uncertainty"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1080/02626667.2016.1183009"
+LAST	P1476	en:"A philosophical basis for hydrological uncertainty"
+LAST	P1433	Q15766458
+LAST	P577	+2016-04-27T00:00:00Z/11
+Q61938942	Aen	"Accounting for observational uncertainty in forecast verification: An information-theoretical view on forecasts, observations, and truth"
+Q61938942	P31	Q13442814
+Q61938942	P50	Q103830191
+Q61938942	P356	"10.1175/2011mwr3573.1"
+Q61938942	P1476	en:"Accounting for observational uncertainty in forecast verification: An information-theoretical view on forecasts, observations, and truth"
+Q61938942	P1433	Q1581474
+Q61938942	P577	+2011-03-11T00:00:00Z/11
+Q57261526	Aen	"Advancing catchment hydrology to deal with predictions under change"
+Q57261526	P31	Q13442814
+Q57261526	P50	Q103830191
+Q57261526	P356	"10.5194/hess-18-649-2014"
+Q57261526	P1476	en:"Advancing catchment hydrology to deal with predictions under change"
+Q57261526	P1433	Q15755050
+Q57261526	P577	+2014-02-19T00:00:00Z/11
+Q61938847	Aen	"An information-theoretical perspective on weighted ensemble forecasts"
+Q61938847	P31	Q13442814
+Q61938847	P50	Q103830191
+Q61938847	P356	"10.1016/j.jhydrol.2013.06.033"
+Q61938847	P1476	en:"An information-theoretical perspective on weighted ensemble forecasts"
+Q61938847	P1433	Q6295314
+Q61938847	P577	+2013-06-27T00:00:00Z/11
+Q103830192	Aen	"Application of Entropy Ensemble Filter in Neural Network Forecasts of Tropical Pacific Sea Surface Temperatures"
+Q103830192	P31	Q13442814
+Q103830192	P50	Q103830191
+Q103830192	P356	"10.3390/e20030207"
+Q103830192	P1476	en:"Application of Entropy Ensemble Filter in Neural Network Forecasts of Tropical Pacific Sea Surface Temperatures"
+Q103830192	P1433	Q3011618
+Q103830192	P577	+2018-03-20T00:00:00Z/11
+CREATE
+LAST	Len	"Balancing Costs and Benefits in Selecting New Information: Efficient Monitoring Using Deterministic Hydro-economic Models"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1007/s11269-017-1813-4"
+LAST	P1476	en:"Balancing Costs and Benefits in Selecting New Information: Efficient Monitoring Using Deterministic Hydro-economic Models"
+LAST	P1433	Q15763474
+LAST	P577	+2017-10-07T00:00:00Z/11
+Q59907122	Aen	"Controls on the diurnal streamflow cycles in two subbasins of an alpine headwater catchment"
+Q59907122	P31	Q13442814
+Q59907122	P50	Q103830191
+Q59907122	P356	"10.1002/2014wr016581"
+Q59907122	P1476	en:"Controls on the diurnal streamflow cycles in two subbasins of an alpine headwater catchment"
+Q59907122	P1433	Q7973358
+Q59907122	P577	+2015-04-17T00:00:00Z/11
+CREATE
+LAST	Len	"Could electrical conductivity replace water level in rating curves for alpine streams?"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1029/2012wr012181"
+LAST	P1476	en:"Could electrical conductivity replace water level in rating curves for alpine streams?"
+LAST	P1433	Q7973358
+LAST	P577	+2012-12-03T00:00:00Z/11
+Q61938851	Aen	"Data compression to define information content of hydrological time series."
+Q61938851	P31	Q13442814
+Q61938851	P50	Q103830191
+Q61938851	P356	"10.5194/hess-17-3171-2013"
+Q61938851	P1476	en:"Data compression to define information content of hydrological time series."
+Q61938851	P1433	Q15755050
+Q61938851	P577	+2013-08-06T00:00:00Z/11
+CREATE
+LAST	Len	"Debates: Does Information Theory Provide a New Paradigm for Earth Science? Sharper Predictions Using Occam's Digital Razor"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1029/2019wr026471"
+LAST	P1476	en:"Debates: Does Information Theory Provide a New Paradigm for Earth Science? Sharper Predictions Using Occam's Digital Razor"
+LAST	P1433	Q7973358
+LAST	P577	+2020-03-02T00:00:00Z/11
+CREATE
+LAST	Len	"Dependency and redundancy: How information theory untangles three variable interactions in environmental data"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1029/2018wr022649"
+LAST	P1476	en:"Dependency and redundancy: How information theory untangles three variable interactions in environmental data"
+LAST	P1433	Q7973358
+LAST	P577	+2018-09-24T00:00:00Z/11
+CREATE
+LAST	Len	"Entropy Ensemble Filter: A Modified Bootstrap Aggregating (Bagging) Procedure to Improve Efficiency in Ensemble Model Simulation"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.3390/e19100520"
+LAST	P1476	en:"Entropy Ensemble Filter: A Modified Bootstrap Aggregating (Bagging) Procedure to Improve Efficiency in Ensemble Model Simulation"
+LAST	P1433	Q3011618
+LAST	P577	+2017-09-28T00:00:00Z/11
+CREATE
+LAST	Len	"Estimating Stream Surface Flow Velocities from Video Clips"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1109/icip.2015.7351509"
+LAST	P1476	en:"Estimating Stream Surface Flow Velocities from Video Clips"
+LAST	P577	+2015-12-13T00:00:00Z/11
+CREATE
+LAST	Len	"Evaluating reliability and resolution of ensemble forecasts using information theory"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1175/1520-0493(2002)130<1653:epfuit>2.0.co;2"
+LAST	P1476	en:"Evaluating reliability and resolution of ensemble forecasts using information theory"
+LAST	P1433	Q1581474
+LAST	P577	+2002-07-27T00:00:00Z/11
+CREATE
+LAST	Len	"Extracting local information from crowds through betting markets"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.2139/ssrn.1719046"
+LAST	P1476	en:"Extracting local information from crowds through betting markets"
+LAST	P1433	Q53949192
+LAST	P577	+2012-01-05T00:00:00Z/11
+CREATE
+LAST	Len	"Geomorphic Signatures on Brutsaert Base Flow Recession Analysis: case study of 27 Swiss Catchments"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1002/wrcr.20417"
+LAST	P1476	en:"Geomorphic Signatures on Brutsaert Base Flow Recession Analysis: case study of 27 Swiss Catchments"
+LAST	P1433	Q7973358
+LAST	P577	+2013-07-20T00:00:00Z/11
+CREATE
+LAST	Len	"HydroZIP: using hydrological knowledge to compress hydrological data"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.3390/e15041289"
+LAST	P1476	en:"HydroZIP: using hydrological knowledge to compress hydrological data"
+LAST	P1433	Q3011618
+LAST	P577	+2013-04-10T00:00:00Z/11
+CREATE
+LAST	Len	"Interactive comment on “Why hydrological forecasts should be evaluated using information theory” by SV Weijs et al."
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.5194/hessd-7-4657-2010"
+LAST	P1476	en:"Interactive comment on “Why hydrological forecasts should be evaluated using information theory” by SV Weijs et al."
+LAST	P1433	Q5168538
+LAST	P577	+2010-07-16T00:00:00Z/11
+Q61939031	Aen	"Kullback-Leibler divergence as a forecast skill score with classic reliability-resolution-uncertainty decomposition"
+Q61939031	P31	Q13442814
+Q61939031	P50	Q103830191
+Q61939031	P356	"10.1175/2010mwr3229.1"
+Q61939031	P1476	en:"Kullback-Leibler divergence as a forecast skill score with classic reliability-resolution-uncertainty decomposition"
+Q61939031	P1433	Q1581474
+Q61939031	P577	+2010-04-27T00:00:00Z/11
+CREATE
+LAST	Len	"Multiple model predictive control on a drainage canal system"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1016/j.conengprac.2007.06.002"
+LAST	P1476	en:"Multiple model predictive control on a drainage canal system"
+LAST	P1433	Q2217358
+LAST	P577	+2007-08-28T00:00:00Z/11
+CREATE
+LAST	Len	"Objective Functions for Information-Content-Based Optimal Monitoring Network Design"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.5194/hess-2020-148"
+LAST	P1476	en:"Objective Functions for Information-Content-Based Optimal Monitoring Network Design"
+LAST	P1433	Q5168538
+LAST	P577	+2020-04-17T00:00:00Z/11
+CREATE
+LAST	Len	"Preface—Special Issue: Facets of Uncertainty"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1080/02626667.2016.1186919"
+LAST	P1476	en:"Preface—Special Issue: Facets of Uncertainty"
+LAST	P1433	Q15766458
+LAST	P577	+2016-05-24T00:00:00Z/11
+CREATE
+LAST	Len	"Reservoir Operation Optimized for Hydropower Production Reduces Conflict with Traditional Water Uses in the Senegal River"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1061/(asce)wr.1943-5452.0001076"
+LAST	P1476	en:"Reservoir Operation Optimized for Hydropower Production Reduces Conflict with Traditional Water Uses in the Senegal River"
+LAST	P1433	Q6296047
+LAST	P577	+2020-02-08T00:00:00Z/11
+CREATE
+LAST	Len	"Soil Moisture & Snow Properties Determination with GNSS in Alpine Environments: Challenges, Status, and Perspectives"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.3390/rs5073516"
+LAST	P1476	en:"Soil Moisture & Snow Properties Determination with GNSS in Alpine Environments: Challenges, Status, and Perspectives"
+LAST	P1433	Q16800644
+LAST	P577	+2013-07-19T00:00:00Z/11
+CREATE
+LAST	Len	"Toward a New Approach for Hydrological Modeling: A Tool for Sustainable Development in a Savanna Agro-System"
+LAST	P31	Q13442814
+LAST	P50	Q103830191
+LAST	P356	"10.1007/978-3-319-00639-0_8"
+LAST	P1476	en:"Toward a New Approach for Hydrological Modeling: A Tool for Sustainable Development in a Savanna Agro-System"
+LAST	P1433	Q96733639
+LAST	P577	+2013-07-31T00:00:00Z/11
+Q28865148	Aen	"Using the Wiimote as a sensor in water research"
+Q28865148	P31	Q13442814
+Q28865148	P50	Q103830191
+Q28865148	P356	"10.1029/2010wr009350"
+Q28865148	P1476	en:"Using the Wiimote as a sensor in water research"
+Q28865148	P1433	Q7973358
+Q28865148	P577	+2010-11-30T00:00:00Z/11
+Q61939051	Aen	"Why hydrological predictions should be evaluated using information theory"
+Q61939051	P31	Q13442814
+Q61939051	P50	Q103830191
+Q61939051	P356	"10.5194/hess-14-2545-2010"
+Q61939051	P1476	en:"Why hydrological predictions should be evaluated using information theory"
+Q61939051	P1433	Q15755050
+Q61939051	P577	+2010-12-13T00:00:00Z/11

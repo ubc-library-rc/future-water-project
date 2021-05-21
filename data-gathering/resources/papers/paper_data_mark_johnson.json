@@ -5,9 +5,9 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.5194/hessd-11-4017-2014",
         "P921": [
+            "Groundwater",
             "Soil",
-            "Wetland",
-            "Groundwater"
+            "Wetland"
         ],
         "P1476": "A New Approach to Quantify Evaporative Water Loss in Tropical Wetlands",
         "P1433": "Copernicus GmbH",
@@ -34,9 +34,9 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.5194/hess-20-2179-2016",
         "P921": [
-            "Soil",
             "Agriculture",
-            "Groundwater"
+            "Groundwater",
+            "Soil"
         ],
         "P1476": "A review of green-and blue-water resources and their trade-offs for future agricultural production in the Amazon Basin: what could irrigated agriculture mean for Amazonia?",
         "P1433": "Hydrology and Earth System Sciences",
@@ -373,8 +373,8 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.1007/978-94-007-1363-5_24",
         "P921": [
-            "Hydrology",
-            "Ecohydrology"
+            "Ecohydrology",
+            "Hydrology"
         ],
         "P1476": "Ecohydrology and biogeochemistry of the rhizosphere in forested ecosystems",
         "P1433": "Forest Hydrology and Biogeochemistry",
@@ -386,9 +386,9 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.32942/osf.io/85ypg",
         "P921": [
-            "Soil",
             "Environmental",
-            "Environments"
+            "Environments",
+            "Soil"
         ],
         "P1476": "Ecosystem services of a functionally diverse riparian zone in the Amazon\u2013Cerrado agricultural frontier",
         "P1433": "Center for Open Science",
@@ -628,8 +628,8 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.5194/hess-18-4407-2014",
         "P921": [
-            "Wetland",
-            "Groundwater"
+            "Groundwater",
+            "Wetland"
         ],
         "P1476": "Inundation and groundwater dynamics for quantification of evaporative water loss in tropical wetlands",
         "P1433": "Hydrology and Earth System Sciences",
@@ -641,9 +641,9 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.5194/hess-2020-404",
         "P921": [
-            "Soil",
             "Agriculture",
-            "Groundwater"
+            "Groundwater",
+            "Soil"
         ],
         "P1476": "Investigating the impacts of biochar on water fluxes in tropical agriculture using stable isotopes",
         "P1433": "Copernicus GmbH",
@@ -655,9 +655,9 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.1080/02626667.2013.870665",
         "P921": [
+            "Lakes",
             "Groundwater",
-            "Wetland",
-            "Lakes"
+            "Wetland"
         ],
         "P1476": "Isotopic estimation of water balance and groundwater-surface water interactions of tropical wetland lakes in the Pantanal, Brazil",
         "P1433": "Hydrological Sciences Journal",
@@ -717,8 +717,8 @@
         "P50": "Mark\u00a0Johnson",
         "P356": "10.35648/20.500.12413/11781/ii250",
         "P921": [
-            "Watershed",
-            "Life cycle assessment"
+            "Life cycle assessment",
+            "Watershed"
         ],
         "P1476": "Life Cycle Assessment of Greenhouse Gas Emissions from Dairy Production in a Central New York State Watershed",
         "P1433": "Taiwan Water Conservancy Journal",

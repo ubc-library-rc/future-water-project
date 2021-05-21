@@ -32,8 +32,8 @@
         "P50": "Q56794616",
         "P356": "10.2478/remc-2014-0001",
         "P921": [
-            "Streams",
             "Agriculture",
+            "Streams",
             "Climate change"
         ],
         "P1476": "A model-based comparison of organic matter dynamics between riparian-forested and open-canopy streams",
@@ -1121,8 +1121,8 @@
         "P50": "Q56794616",
         "P356": "10.1515/remc-2016-0001",
         "P921": [
-            "Climate change",
-            "Riparian areas"
+            "Riparian areas",
+            "Climate change"
         ],
         "P1476": "Importance of riparian zone: effects of resource availability at land-water interface",
         "P1433": "Riparian Ecology and Conservation",
@@ -2216,8 +2216,8 @@
         "P50": "Q56794616",
         "P356": "10.1002/9781118406618.ch2",
         "P921": [
-            "Watershed",
-            "Restoration"
+            "Restoration",
+            "Watershed"
         ],
         "P1476": "Watershed processes, human impacts, and process\u2010based restoration",
         "P1433": "Stream and Watershed Restoration",

@@ -140,8 +140,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/egusphere-egu2020-10800",
         "P921": [
-            "Rivers",
             "Streams",
+            "Rivers",
             "Environmental"
         ],
         "P1476": "BEDFLOW: integrating river morphodynamics in the Sillaro River across spatial and temporal scales",
@@ -517,10 +517,10 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/egusphere-egu21-6889",
         "P921": [
-            "Environmental",
             "Rivers",
-            "Channel morphology",
-            "Sediment transport"
+            "Sediment transport",
+            "Environmental",
+            "Channel morphology"
         ],
         "P1476": "Effect of stress history on sediment transport and channel adjustment in graded gravel-bed rivers",
         "P1433": "Copernicus GmbH",
@@ -813,8 +813,8 @@
         "P356": "10.5194/hessd-7-7779-2010",
         "P921": [
             "Hydrology",
-            "Soil",
-            "Modeling"
+            "Modeling",
+            "Soil"
         ],
         "P1476": "Hydrologic Predictions in a Changing Environment III",
         "P1433": "Copernicus GmbH",
@@ -1001,9 +1001,9 @@
         "P50": "Marwan Hassan",
         "P356": "10.1016/s0928-2025(05)80016-1",
         "P921": [
+            "Sediment transport",
             "Streamflow",
-            "Channel morphology",
-            "Sediment transport"
+            "Channel morphology"
         ],
         "P1476": "Maintenance of an obstruction-forced pool in a gravel-bed channel: streamflow, channel morphology, and sediment transport",
         "P1433": "Developments in Earth Surface Processes",
@@ -1280,8 +1280,8 @@
         "P50": "Marwan Hassan",
         "P356": "10.5194/esurf-2020-33",
         "P921": [
-            "Channel morphology",
-            "Streams"
+            "Streams",
+            "Channel morphology"
         ],
         "P1476": "Rapid and objective characterization of channel morphology in a small, forested stream",
         "P1433": "Copernicus GmbH",
@@ -1512,8 +1512,8 @@
         "P356": "10.1201/9781315120584-17",
         "P921": [
             "Fish",
-            "Channel morphology",
-            "Sediment transport"
+            "Sediment transport",
+            "Channel morphology"
         ],
         "P1476": "Sediment Transport and Channel Morphology Implications for Fish Habitat",
         "P1433": "Open Channel Hydraulics, River Hydraulic Structures and Fluvial Geomorphology",

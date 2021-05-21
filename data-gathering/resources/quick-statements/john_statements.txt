@@ -1,0 +1,8 @@
+CREATE
+LAST	Len	"Managing Drought Risk in the Okanagan: A Role for Dry-Year Option Contracts?"
+LAST	P31	Q13442814
+LAST	P50	Q106694940
+LAST	P356	"10.3138/cpp.2017-003"
+LAST	P1476	en:"Managing Drought Risk in the Okanagan: A Role for Dry-Year Option Contracts?"
+LAST	P1433	Q15763403
+LAST	P577	+2018-06-13T00:00:00Z/11

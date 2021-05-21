@@ -1,0 +1,88 @@
+CREATE
+LAST	Len	"Defining “water resilience”: Debates, concepts, approaches, and gaps"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1002/wat2.1334"
+LAST	P1476	en:"Defining “water resilience”: Debates, concepts, approaches, and gaps"
+LAST	P1433	Q27727591
+LAST	P577	+2018-12-28T00:00:00Z/11
+CREATE
+LAST	Len	"Expert views on strategies to increase water resilience: evidence from a global survey"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.5751/es-11302-240428"
+LAST	P1476	en:"Expert views on strategies to increase water resilience: evidence from a global survey"
+LAST	P1433	Q1282052
+LAST	P577	+2019-12-04T00:00:00Z/11
+CREATE
+LAST	Len	"Implementation of the Human Right to Water in Khayelitsha, South Africa: Lessons from a ‘lived experience’perspective"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1016/j.geoforum.2016.04.003"
+LAST	P1476	en:"Implementation of the Human Right to Water in Khayelitsha, South Africa: Lessons from a ‘lived experience’perspective"
+LAST	P1433	Q5535018
+LAST	P577	+2016-04-27T00:00:00Z/11
+CREATE
+LAST	Len	"Planning for water resilience: competing agendas among Cape Town’s planners and water managers"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1016/j.envsci.2019.05.016"
+LAST	P1476	en:"Planning for water resilience: competing agendas among Cape Town’s planners and water managers"
+LAST	P1433	Q15759071
+LAST	P577	+2019-05-24T00:00:00Z/11
+CREATE
+LAST	Len	"Rethinking the human right to water: Water access and dispossession in Botswana’s Central Kalahari Game Reserve"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1016/j.geoforum.2013.06.012"
+LAST	P1476	en:"Rethinking the human right to water: Water access and dispossession in Botswana’s Central Kalahari Game Reserve"
+LAST	P1433	Q5535018
+LAST	P577	+2013-07-24T00:00:00Z/11
+CREATE
+LAST	Len	"Revisiting the Human Right to Water from an environmental justice lens"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1080/21565503.2015.1080619"
+LAST	P1476	en:"Revisiting the Human Right to Water from an environmental justice lens"
+LAST	P1433	Q27726705
+LAST	P577	+2015-09-14T00:00:00Z/11
+CREATE
+LAST	Len	"Unpacking social-ecological transformations: Conceptual, ethical and methodological insights"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1177/2053019618817928"
+LAST	P1476	en:"Unpacking social-ecological transformations: Conceptual, ethical and methodological insights"
+LAST	P1433	Q96326433
+LAST	P577	+2018-12-07T00:00:00Z/11
+CREATE
+LAST	Len	"Water Materialities and Citizen Engagement: Testing the Implications of Water Access and Quality for Community Engagement in Ghana and South Africa"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1080/08941920.2017.1364818"
+LAST	P1476	en:"Water Materialities and Citizen Engagement: Testing the Implications of Water Access and Quality for Community Engagement in Ghana and South Africa"
+LAST	P1433	Q15759233
+LAST	P577	+2017-10-24T00:00:00Z/11
+CREATE
+LAST	Len	"Water ethics, justice, and equity in social-ecological systems conservation: lessons from the Queensland Wild Rivers Act"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.2166/wp.2018.016"
+LAST	P1476	en:"Water ethics, justice, and equity in social-ecological systems conservation: lessons from the Queensland Wild Rivers Act"
+LAST	P1433	Q15761055
+LAST	P577	+2018-06-29T00:00:00Z/11
+CREATE
+LAST	Len	"Water resilience lessons from Cape Town's water crisis"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1002/wat2.1376"
+LAST	P1476	en:"Water resilience lessons from Cape Town's water crisis"
+LAST	P1433	Q27727591
+LAST	P577	+2019-08-05T00:00:00Z/11
+CREATE
+LAST	Len	"Water, equity and resilience in Southern Africa: Future directions for research and practice"
+LAST	P31	Q13442814
+LAST	P50	Q58348879
+LAST	P356	"10.1016/j.cosust.2017.09.001"
+LAST	P1476	en:"Water, equity and resilience in Southern Africa: Future directions for research and practice"
+LAST	P1433	Q15817373
+LAST	P577	+2017-10-13T00:00:00Z/11

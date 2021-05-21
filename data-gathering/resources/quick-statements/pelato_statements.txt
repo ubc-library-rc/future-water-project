@@ -1,0 +1,136 @@
+CREATE
+LAST	Len	"Application and refinement of fluorescence spectroscopy for organic matter characterization in drinking water"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.1007/s11157-011-9243-x"
+LAST	P1476	en:"Application and refinement of fluorescence spectroscopy for organic matter characterization in drinking water"
+LAST	P1433	Q15765895
+LAST	P577	+2011-08-11T00:00:00Z/11
+CREATE
+LAST	Len	"Applications of Principal Component Analysis of Fluorescence Excitation-emission Matrices for Characterization of Natural Organic Matter in Water Treatment"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.1016/j.memsci.2011.05.013"
+LAST	P1476	en:"Applications of Principal Component Analysis of Fluorescence Excitation-emission Matrices for Characterization of Natural Organic Matter in Water Treatment"
+LAST	P1433	Q6295552
+LAST	P577	+2011-05-20T00:00:00Z/11
+Q47684255	Aen	"Characterization of UF foulants and fouling mechanisms when applying low in-line coagulant pre-treatment"
+Q47684255	P31	Q13442814
+Q47684255	P50	Q61112978
+Q47684255	P356	"10.1016/j.watres.2017.08.064"
+Q47684255	P1476	en:"Characterization of UF foulants and fouling mechanisms when applying low in-line coagulant pre-treatment"
+Q47684255	P1433	Q15708879
+Q47684255	P577	+2017-08-30T00:00:00Z/11
+CREATE
+LAST	Len	"Comparison of Dimensionality Reduction Techniques for Cross-Source Transfer of Fluorescence Contaminant Detection Models"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.1016/j.chemosphere.2021.130064"
+LAST	P1476	en:"Comparison of Dimensionality Reduction Techniques for Cross-Source Transfer of Fluorescence Contaminant Detection Models"
+LAST	P1433	Q749724
+LAST	P577	+2021-02-22T00:00:00Z/11
+Q53336362	Aen	"Comparison of three-dimensional fluorescence analysis methods for predicting formation of trihalomethanes and haloacetic acids"
+Q53336362	P31	Q13442814
+Q53336362	P50	Q61112978
+Q53336362	P356	"10.1016/j.jes.2014.04.014"
+Q53336362	P1476	en:"Comparison of three-dimensional fluorescence analysis methods for predicting formation of trihalomethanes and haloacetic acids"
+Q53336362	P1433	Q15816454
+Q53336362	P577	+2014-11-16T00:00:00Z/11
+CREATE
+LAST	Len	"Continuous organic characterization for biological and membrane filter performance monitoring"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.5942/jawwa.2017.109.0031"
+LAST	P1476	en:"Continuous organic characterization for biological and membrane filter performance monitoring"
+LAST	P1433	Q15751975
+LAST	P577	+2017-03-21T00:00:00Z/11
+CREATE
+LAST	Len	"Contributions of spatial, temporal, and treatment impacts on natural organic matter character using fluorescence-based measures"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.2166/ws.2015.013"
+LAST	P1476	en:"Contributions of spatial, temporal, and treatment impacts on natural organic matter character using fluorescence-based measures"
+LAST	P1433	Q46995103
+LAST	P577	+2015-06-18T00:00:00Z/11
+CREATE
+LAST	Len	"Fluorescence excitation emission matrices for rapid detection of polycyclic aromatic hydrocarbons and pesticides in surface waters"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.1039/c8ew00821c"
+LAST	P1476	en:"Fluorescence excitation emission matrices for rapid detection of polycyclic aromatic hydrocarbons and pesticides in surface waters"
+LAST	P1433	Q27727203
+LAST	P577	+2018-12-18T00:00:00Z/11
+Q43346911	Aen	"Fluorescence spectroscopy for monitoring reduction of natural organic matter and halogenated furanone precursors by biofiltration"
+Q43346911	P31	Q13442814
+Q43346911	P50	Q61112978
+Q43346911	P356	"10.1016/j.chemosphere.2016.03.018"
+Q43346911	P1476	en:"Fluorescence spectroscopy for monitoring reduction of natural organic matter and halogenated furanone precursors by biofiltration"
+Q43346911	P1433	Q749724
+Q43346911	P577	+2016-03-24T00:00:00Z/11
+CREATE
+LAST	Len	"Identifying the best coagulant for simultaneous water treatment objectives: Interactions of mononuclear and polynuclear aluminum species with different natural organic matter …"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.1016/j.jwpe.2020.101829"
+LAST	P1476	en:"Identifying the best coagulant for simultaneous water treatment objectives: Interactions of mononuclear and polynuclear aluminum species with different natural organic matter …"
+LAST	P1433	Q58568811
+LAST	P577	+2020-12-09T00:00:00Z/11
+CREATE
+LAST	Len	"Impact of low coagulant dosages on protein fouling of ultrafiltration membranes"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.1016/j.jwpe.2019.100801"
+LAST	P1476	en:"Impact of low coagulant dosages on protein fouling of ultrafiltration membranes"
+LAST	P1433	Q58568811
+LAST	P577	+2019-04-08T00:00:00Z/11
+CREATE
+LAST	Len	"Impact of operational parameters on biofiltration performance: organic carbon removal and effluent turbidity"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.2166/ws.2016.093"
+LAST	P1476	en:"Impact of operational parameters on biofiltration performance: organic carbon removal and effluent turbidity"
+LAST	P1433	Q46995103
+LAST	P577	+2016-06-03T00:00:00Z/11
+Q91922518	Aen	"Integration of weather conditions for predicting microbial water quality using Bayesian belief networks"
+Q91922518	P31	Q13442814
+Q91922518	P50	Q61112978
+Q91922518	P356	"10.1016/j.watres.2019.115349"
+Q91922518	P1476	en:"Integration of weather conditions for predicting microbial water quality using Bayesian belief networks"
+Q91922518	P1433	Q15708879
+Q91922518	P577	+2019-11-28T00:00:00Z/11
+Q39517479	Aen	"Investigation of fluorescence methods for rapid detection of municipal wastewater impact on drinking water sources"
+Q39517479	P31	Q13442814
+Q39517479	P50	Q61112978
+Q39517479	P356	"10.1016/j.saa.2016.07.031"
+Q39517479	P1476	en:"Investigation of fluorescence methods for rapid detection of municipal wastewater impact on drinking water sources"
+Q39517479	P1433	Q3492888
+Q39517479	P577	+2016-07-18T00:00:00Z/11
+Q43358718	Aen	"Investigation of ozone and peroxone impacts on natural organic matter character and biofiltration performance using fluorescence spectroscopy"
+Q43358718	P31	Q13442814
+Q43358718	P50	Q61112978
+Q43358718	P356	"10.1016/j.chemosphere.2016.12.118"
+Q43358718	P1476	en:"Investigation of ozone and peroxone impacts on natural organic matter character and biofiltration performance using fluorescence spectroscopy"
+Q43358718	P1433	Q749724
+Q43358718	P577	+2016-12-27T00:00:00Z/11
+Q51744953	Aen	"Neural networks for dimensionality reduction of fluorescence spectra and prediction of drinking water disinfection by-products"
+Q51744953	P31	Q13442814
+Q51744953	P50	Q61112978
+Q51744953	P356	"10.1016/j.watres.2018.02.052"
+Q51744953	P1476	en:"Neural networks for dimensionality reduction of fluorescence spectra and prediction of drinking water disinfection by-products"
+Q51744953	P1433	Q15708879
+Q51744953	P577	+2018-02-21T00:00:00Z/11
+CREATE
+LAST	Len	"Statistical significance testing of parallel pilot-scale coagulation optimization study to compare aluminum sulfate and polyaluminum chloride performance"
+LAST	P31	Q13442814
+LAST	P50	Q61112978
+LAST	P356	"10.2166/aqua.2014.158"
+LAST	P1476	en:"Statistical significance testing of parallel pilot-scale coagulation optimization study to compare aluminum sulfate and polyaluminum chloride performance"
+LAST	P1433	Q46995103
+LAST	P577	+2014-11-06T00:00:00Z/11
+Q91578793	Aen	"Towards real-time detection of wastewater in surface waters using fluorescence spectroscopy"
+Q91578793	P31	Q13442814
+Q91578793	P50	Q61112978
+Q91578793	P356	"10.1016/j.jes.2019.06.002"
+Q91578793	P1476	en:"Towards real-time detection of wastewater in surface waters using fluorescence spectroscopy"
+Q91578793	P1433	Q15816454
+Q91578793	P577	+2019-06-12T00:00:00Z/11

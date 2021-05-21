@@ -45,8 +45,8 @@
         "P50": "Q57582079",
         "P356": "10.5194/soil-6-231-2020",
         "P921": [
-            "Soil",
-            "Modeling"
+            "Modeling",
+            "Soil"
         ],
         "P1476": "Catchment export of base cations: improved mineral dissolution kinetics influence the role of water transit time",
         "P1433": "SOIL",
@@ -132,9 +132,9 @@
         "P50": "Q57582079",
         "P356": "10.5194/egusphere-egu21-13070",
         "P921": [
-            "Soil",
             "Streamflow",
-            "Groundwater"
+            "Groundwater",
+            "Soil"
         ],
         "P1476": "New functional topographic, lithology and climatic indices to define shallow groundwater systems in (un) gauged basins",
         "P1433": "Copernicus GmbH",
@@ -170,10 +170,10 @@
         "P50": "Q57582079",
         "P356": "10.5194/hess-21-1791-2017",
         "P921": [
-            "Watershed",
-            "Wetland",
             "Rivers",
-            "Modeling"
+            "Watershed",
+            "Modeling",
+            "Wetland"
         ],
         "P1476": "Quantifying hydrologic connectivity of wetlands to surface water systems",
         "P1433": "Hydrology and Earth System Sciences",
@@ -245,8 +245,8 @@
         "P50": "Q57582079",
         "P356": "10.5194/egusphere-egu21-13979",
         "P921": [
-            "Streamflow",
-            "Climate change"
+            "Climate change",
+            "Streamflow"
         ],
         "P1476": "The importance of geology when estimating catchment-scale streamflow characteristics: Application of a new technique for hydrologic similarity and regionalization",
         "P1433": "Copernicus GmbH",
