@@ -11,7 +11,12 @@
 
 {{ sparql_to_iframe('publications-per-year') }}
 
+{{ sparql_to_iframe('publications-per-year-and-author') }}
+
+
 {{ sparql_to_iframe('venue-statistics') }}
+
+{{ sparql_to_table('venue-year-stats') }}
 
 {% endblock %}
 
@@ -22,6 +27,8 @@
 <script type="text/javascript" src="{{ url_for('static', filename='underscore-umd-min.js') }}"></script>
 <script type="text/javascript" src="{{ url_for('static', filename='dimple.v2.3.0.min.js') }}"></script>
 <script type="text/javascript" src="{{ url_for('static', filename='vis-network.min.js') }}"></script>
+
+<link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 
 
 
@@ -57,11 +64,6 @@ var wdqsGraphChart = new wikibase.queryService.ui.resultBrowser.GraphResultBrows
 
 wdqsBubbleChart.setResult(bubbleChartData);
 wdqsBubbleChart.draw($('#keywords-chart'));
- 
-
-// wdqsGraphChart.setResult(graphChartData);
-// wdqsGraphChart.draw($('#keywords-chart'));
-
 
 });
 
@@ -94,6 +96,8 @@ wdqsBubbleChart.draw($('#keywords-chart'));
 Information automaticaly gathered from wikidata. Please refer to 
 <a href="https://water.ubc.ca/home" target="_blank">Future waters</a> for the complete list of cluster members.
 
+<p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Use the search bar to find information about a cluster member</p>
+
 <table class="table table-hover" id="cluster-members-table"></table>
 
 
@@ -103,15 +107,20 @@ Information automaticaly gathered from wikidata. Please refer to
 
 <h3 id="publications-header">Publications</h3>
 
+<p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Use the search to filter results based on any of the columns in the table</p>
+
 <table class="table table-hover" id="publications-table"></table>
 
 <br>
 <br>
 <hr>
 
+
+
 <h3 id="keywords-chart-header">Keywords</h3>
 
-<p>Click on a keyword to find information about it and its cluster members</p>
+
+<p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Click on a keyword to find information about it and its cluster members</p>
 
 <div>
     <div id="keywords-chart"></div>
@@ -132,11 +141,30 @@ Information automaticaly gathered from wikidata. Please refer to
 <br>
 <hr>
 
+<p>Venue publication count per year.</p>
+<p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Use the search bar to find information about a specific year or veneu</p>
+
+
+<table class="table table-hover" id="venue-year-stats-table"></table>
+
+<br>
+<br>
+<hr>
+
 <h2 id="publications-per-year-header">Publications per year</h2>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" id="publications-per-year-iframe"></iframe>
 </div>
+
+<h3>Detailed list of publications per year and authors</h3>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" id="publications-per-year-and-author-iframe"></iframe>
+</div>
+
+
+
 
 
 {% endblock %}

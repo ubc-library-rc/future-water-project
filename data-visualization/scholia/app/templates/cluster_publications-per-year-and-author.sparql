@@ -1,0 +1,34 @@
+#defaultView:BarChart
+select ?year (count(?work) as ?number_of_publications) ?researcher_label where {
+  {
+    select (str(?year_) as ?year) (0 as ?pages) where {
+      # default values = 0
+      ?year_item wdt:P31 wd:Q577 . 
+      ?year_item wdt:P585 ?date .
+      bind(year(?date) as ?year_)
+      {
+        select (min(?year_) as ?earliest_year) where {
+          ?work wdt:P50 ?author .
+          ?author wdt:P463 wd:{{ q }} . 
+          ?work wdt:P577 ?publication_date . 
+          bind(year(?publication_date) as ?year_)          
+        }
+      }
+      bind(year(now()) as ?next_year)
+      filter (?year_ >= ?earliest_year && ?year_ <= ?next_year)
+    }
+  }
+  union {
+    select ?work (min(?years) as ?year) ?researcher_label where {
+      ?work wdt:P50 ?author .
+      ?author wdt:P463 wd:{{ q }} . 
+      ?work wdt:P577 ?publication_date . 
+      ?work wdt:P577 ?dates .
+      bind(str(year(?dates)) as ?years) .
+      ?author rdfs:label ?researcher_label . FILTER(LANG(?researcher_label) = 'en')
+    }
+    group by ?work ?researcher_label
+  }
+}
+group by ?year ?researcher_label
+order by ?year

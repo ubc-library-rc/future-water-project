@@ -217,4 +217,3 @@ function sparqlToIframe(sparql, element, filename) {
             filename.replace("_", ": ") +
             '</a></span>');
 };
- 
