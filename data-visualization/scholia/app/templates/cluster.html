@@ -28,8 +28,6 @@
 <script type="text/javascript" src="{{ url_for('static', filename='dimple.v2.3.0.min.js') }}"></script>
 <script type="text/javascript" src="{{ url_for('static', filename='vis-network.min.js') }}"></script>
 
-<link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
-
 
 
 
@@ -133,6 +131,8 @@ Information automaticaly gathered from wikidata. Please refer to
 
 <h2 id="venue-statistics-header">Venue statistics</h2>
 
+<p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Hove over a bubble to see the total number of publications for that venue</p>
+
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" id="venue-statistics-iframe"></iframe>
 </div>
@@ -153,11 +153,15 @@ Information automaticaly gathered from wikidata. Please refer to
 
 <h2 id="publications-per-year-header">Publications per year</h2>
 
+<p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Hove over a bar to see the total number of publications on that year</p>
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" id="publications-per-year-iframe"></iframe>
 </div>
 
 <h3>Detailed list of publications per year and authors</h3>
+
+<p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Hove over a bar to see an author's name and their total number of publications on that year</p>
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" id="publications-per-year-and-author-iframe"></iframe>
