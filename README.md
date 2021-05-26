@@ -17,21 +17,13 @@ Add one or two images with visualizations that we want to produce
 1. Upload and clean the data with Open Refine
     * [authors](documentation/open-refine.md)
     * [papers](documentation/open-refine-papers.md)
-1. View visualizations with `TODO`
+1. View visualizations with `scholia`
 
 
 ## Docker
 
 The bulk of the project is available in a self-contained environment, aka a Docker container. Instructions on running docker are available below and also on the [python scripts](documentation/scripts.md).
 
-
-1. Build the base docker container running:
-
-
-```shell
-cd base
-docker build -t libraryrc/future-waters .
-```
 
 ### Data Gathering
 
@@ -151,5 +143,3 @@ docker run --name=future-waters-viz -p 8100:8100  libraryrc/future-waters-viz
 ```
 
 
-
-___
