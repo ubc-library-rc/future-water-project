@@ -45,7 +45,7 @@ pwd
 The output will be something similar to  
 
 ```shell
-/home/msarthur/Workspace/future-water-project
+/home/msarthur/Workspace/future-waters-project
 ```
 
 Update the path in the volume argument in the command on step 3, accordingly.
@@ -53,7 +53,7 @@ Update the path in the volume argument in the command on step 3, accordingly.
 For example, for the previous output, the command `-v <your path>:/tmp/src/resources` should be updated to: 
 
 ```shell
--v /home/msarthur/Workspace/future-water-project/resources:/tmp/src/resources
+-v /home/msarthur/Workspace/future-waters-project/resources:/tmp/src/resources
 ```
 
 This is **very important** because all the output of the docker scripts will be written to the `resources` folder and you need a [shared volume](https://docs.docker.com/storage/volumes/) to pass data from your local machine to the docker container (and vice-versa).
