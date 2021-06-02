@@ -1,0 +1,680 @@
+CREATE
+LAST	Len	"A New Approach to Quantify Evaporative Water Loss in Tropical Wetlands"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.5194/hessd-11-4017-2014"
+LAST	P1476	en:"A New Approach to Quantify Evaporative Water Loss in Tropical Wetlands"
+LAST	P1433	Q5168538
+LAST	P577	+2014-04-10T00:00:00Z/11
+CREATE
+LAST	Len	"A contribution to harmonize water footprint assessments"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.gloenvcha.2018.10.004"
+LAST	P1476	en:"A contribution to harmonize water footprint assessments"
+LAST	P1433	Q15761501
+LAST	P577	+2018-10-25T00:00:00Z/11
+CREATE
+LAST	Len	"A review of green-and blue-water resources and their trade-offs for future agricultural production in the Amazon Basin: what could irrigated agriculture mean for Amazonia?"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.5194/hess-20-2179-2016"
+LAST	P1476	en:"A review of green-and blue-water resources and their trade-offs for future agricultural production in the Amazon Basin: what could irrigated agriculture mean for Amazonia?"
+LAST	P1433	Q15755050
+LAST	P577	+2016-06-07T00:00:00Z/11
+CREATE
+LAST	Len	"A simple, direct method to measure dissolved CO2 using soda lime"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.4257/oeco.2008.1201.08"
+LAST	P1476	en:"A simple, direct method to measure dissolved CO2 using soda lime"
+LAST	P1433	Q15817903
+LAST	P577	+2009-08-31T00:00:00Z/11
+CREATE
+LAST	Len	"Application of SMR to modeling watersheds in the Catskill Mountains"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1023/b:enmo.0000032096.13649.92"
+LAST	P1476	en:"Application of SMR to modeling watersheds in the Catskill Mountains"
+LAST	P1433	Q15758114
+LAST	P577	+2004-06-17T00:00:00Z/11
+Q46423102	Aen	"Application of biochar and nitrogen influences fluxes of CO2, CH4 and N2O in a forest soil"
+Q46423102	P31	Q13442814
+Q46423102	P50	Q41953499
+Q46423102	P356	"10.1016/j.jenvman.2016.12.066"
+Q46423102	P1476	en:"Application of biochar and nitrogen influences fluxes of CO2, CH4 and N2O in a forest soil"
+Q46423102	P1433	Q15757726
+Q46423102	P577	+2017-02-03T00:00:00Z/11
+CREATE
+LAST	Len	"Application of two hydrologic models with different runoff mechanisms to a hillslope dominated watershed in the northeastern US: a comparison of HSPF and SMR"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.jhydrol.2003.07.005"
+LAST	P1476	en:"Application of two hydrologic models with different runoff mechanisms to a hillslope dominated watershed in the northeastern US: a comparison of HSPF and SMR"
+LAST	P1433	Q6295314
+LAST	P577	+2003-10-15T00:00:00Z/11
+Q38996764	Aen	"Biochar decreases dissolved organic carbon but not nitrate leaching in relation to vinasse application in a Brazilian sugarcane soil"
+Q38996764	P31	Q13442814
+Q38996764	P50	Q41953499
+Q38996764	P356	"10.1016/j.jenvman.2014.09.033"
+Q38996764	P1476	en:"Biochar decreases dissolved organic carbon but not nitrate leaching in relation to vinasse application in a Brazilian sugarcane soil"
+Q38996764	P1433	Q15757726
+Q38996764	P577	+2014-10-17T00:00:00Z/11
+Q50170400	Aen	"Biochar feedstock and pyrolysis temperature effects on leachate: DOC characteristics and nitrate losses from a Brazilian Cerrado Arenosol mixed with agricultural waste biochars"
+Q50170400	P31	Q13442814
+Q50170400	P50	Q41953499
+Q50170400	P356	"10.1016/j.jenvman.2017.12.052"
+Q50170400	P1476	en:"Biochar feedstock and pyrolysis temperature effects on leachate: DOC characteristics and nitrate losses from a Brazilian Cerrado Arenosol mixed with agricultural waste biochars"
+Q50170400	P1433	Q15757726
+Q50170400	P577	+2018-02-04T00:00:00Z/11
+Q35181637	Aen	"Biochar from Sugarcane Filtercake Reduces Soil CO2 Emissions Relative to Raw Residue and Improves Water Retention and Nutrient Availability in a Highly-Weathered Tropical Soil"
+Q35181637	P31	Q13442814
+Q35181637	P50	Q41953499
+Q35181637	P356	"10.1371/journal.pone.0098523"
+Q35181637	P1476	en:"Biochar from Sugarcane Filtercake Reduces Soil CO2 Emissions Relative to Raw Residue and Improves Water Retention and Nutrient Availability in a Highly-Weathered Tropical Soil"
+Q35181637	P1433	Q564954
+Q35181637	P577	+2014-06-04T00:00:00Z/11
+Q41953443	Aen	"Biochar influences on soil CO2 and CH4 fluxes in response to wetting and drying cycles for a forest soil"
+Q41953443	P31	Q13442814
+Q41953443	P50	Q41953499
+Q41953443	P356	"10.1038/s41598-017-07224-6"
+Q41953443	P1476	en:"Biochar influences on soil CO2 and CH4 fluxes in response to wetting and drying cycles for a forest soil"
+Q41953443	P1433	Q2261792
+Q41953443	P577	+2017-07-24T00:00:00Z/11
+CREATE
+LAST	Len	"Biochars from local agricultural waste residues contribute to soil quality and plant growth in a Cerrado region (Brazil) Arenosol"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1111/gcbb.12489"
+LAST	P1476	en:"Biochars from local agricultural waste residues contribute to soil quality and plant growth in a Cerrado region (Brazil) Arenosol"
+LAST	P1433	Q19720862
+LAST	P577	+2017-11-20T00:00:00Z/11
+CREATE
+LAST	Len	"CO2 efflux from Amazonian headwater streams represents a significant fate for deep soil respiration"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1029/2008gl034619"
+LAST	P1476	en:"CO2 efflux from Amazonian headwater streams represents a significant fate for deep soil respiration"
+LAST	P1433	Q5535576
+LAST	P577	+2008-09-02T00:00:00Z/11
+CREATE
+LAST	Len	"Carbon biogeochemistry of a flooded Pantanal forest over three annual flood cycles"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1007/s10533-018-0450-1"
+LAST	P1476	en:"Carbon biogeochemistry of a flooded Pantanal forest over three annual flood cycles"
+LAST	P1433	Q15757650
+LAST	P577	+2018-05-17T00:00:00Z/11
+CREATE
+LAST	Len	"Cattle production in Southern Amazonia: implications for land and water management"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1088/1748-9326/ab30a7"
+LAST	P1476	en:"Cattle production in Southern Amazonia: implications for land and water management"
+LAST	P1433	Q5381163
+LAST	P577	+2019-07-10T00:00:00Z/11
+CREATE
+LAST	Len	"Characterization of shortwave and longwave properties of several plastic film mulches and their impact on the surface energy balance and soil temperature"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.solener.2020.11.058"
+LAST	P1476	en:"Characterization of shortwave and longwave properties of several plastic film mulches and their impact on the surface energy balance and soil temperature"
+LAST	P1433	Q15763957
+LAST	P577	+2020-12-25T00:00:00Z/11
+Q36406502	Aen	"Citizen science for water quality monitoring: Data implications of citizen perspectives"
+Q36406502	P31	Q13442814
+Q36406502	P50	Q41953499
+Q36406502	P356	"10.1016/j.jenvman.2017.05.083"
+Q36406502	P1476	en:"Citizen science for water quality monitoring: Data implications of citizen perspectives"
+Q36406502	P1433	Q15757726
+Q36406502	P577	+2017-07-01T00:00:00Z/11
+CREATE
+LAST	Len	"Complementarity in mid-point impacts for water use in life cycle assessment applied to cropland and cattle production in Southern Amazonia"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.jclepro.2019.02.021"
+LAST	P1476	en:"Complementarity in mid-point impacts for water use in life cycle assessment applied to cropland and cattle production in Southern Amazonia"
+LAST	P1433	Q15761445
+LAST	P577	+2019-02-10T00:00:00Z/11
+CREATE
+LAST	Len	"Contrasting CO2 concentration discharge dynamics in headwater streams: A multi‐catchment comparison"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1002/jgrg.20047"
+LAST	P1476	en:"Contrasting CO2 concentration discharge dynamics in headwater streams: A multi‐catchment comparison"
+LAST	P1433	Q27725075
+LAST	P577	+2013-03-13T00:00:00Z/11
+CREATE
+LAST	Len	"DOC and DIC in flowpaths of Amazonian headwater catchments with hydrologically contrasting soils"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1007/s10533-006-9029-3"
+LAST	P1476	en:"DOC and DIC in flowpaths of Amazonian headwater catchments with hydrologically contrasting soils"
+LAST	P1433	Q15757650
+LAST	P577	+2006-07-06T00:00:00Z/11
+CREATE
+LAST	Len	"Developing a hydrologic monitoring network in data‐scarce regions using open‐source arduino dataloggers"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.2134/ael2016.02.0011"
+LAST	P1476	en:"Developing a hydrologic monitoring network in data‐scarce regions using open‐source arduino dataloggers"
+LAST	P1433	Q50817783
+LAST	P577	+2016-04-29T00:00:00Z/11
+CREATE
+LAST	Len	"Dinâmica dos atributos físico-químicos e variação sazonal dos estoques de carbono no solo em diferentes fitofisionomias do Pantanal Norte Mato-Grossense"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1590/0100-67622015000200012"
+LAST	P1476	en:"Dinâmica dos atributos físico-químicos e variação sazonal dos estoques de carbono no solo em diferentes fitofisionomias do Pantanal Norte Mato-Grossense"
+LAST	P1433	Q15816905
+LAST	P577	+2015-06-04T00:00:00Z/11
+CREATE
+LAST	Len	"Direct and continuous measurement of dissolved carbon dioxide in freshwater aquatic systems—method and applications"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1002/eco.95"
+LAST	P1476	en:"Direct and continuous measurement of dissolved carbon dioxide in freshwater aquatic systems—method and applications"
+LAST	P1433	Q15754586
+LAST	P577	+2009-10-23T00:00:00Z/11
+Q58085853	Aen	"Discharge–calcium concentration relationships in streams of the Amazon and Cerrado of Brazil: soil or land use controlled"
+Q58085853	P31	Q13442814
+Q58085853	P50	Q41953499
+Q58085853	P356	"10.1007/s10533-011-9574-2"
+Q58085853	P1476	en:"Discharge–calcium concentration relationships in streams of the Amazon and Cerrado of Brazil: soil or land use controlled"
+Q58085853	P1433	Q15757650
+Q58085853	P577	+2011-02-22T00:00:00Z/11
+CREATE
+LAST	Len	"Distribuição espacial da granulometria, cor e carbono orgânico do solo ao longo de um transecto em microbacias na Amazônia meridional"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1590/s0044-59672008000400015"
+LAST	P1476	en:"Distribuição espacial da granulometria, cor e carbono orgânico do solo ao longo de um transecto em microbacias na Amazônia meridional"
+LAST	P1433	Q5656861
+LAST	P577	+2009-02-04T00:00:00Z/11
+CREATE
+LAST	Len	"Distribuição espacial de carbono em solo sob floresta primária na Amazônia meridional"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1590/s0100-67622007000100010"
+LAST	P1476	en:"Distribuição espacial de carbono em solo sob floresta primária na Amazônia meridional"
+LAST	P1433	Q15816905
+LAST	P577	+2007-04-11T00:00:00Z/11
+CREATE
+LAST	Len	"Double-funneling of trees: Stemflow and root-induced preferential flow"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.2980/i1195-6860-13-3-324.1"
+LAST	P1476	en:"Double-funneling of trees: Stemflow and root-induced preferential flow"
+LAST	P1433	Q19597053
+LAST	P577	+2007-01-13T00:00:00Z/11
+CREATE
+LAST	Len	"Ecohydrological responses to rewetting of a highly impacted raised bog ecosystem"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1002/eco.1922"
+LAST	P1476	en:"Ecohydrological responses to rewetting of a highly impacted raised bog ecosystem"
+LAST	P1433	Q15754586
+LAST	P577	+2017-10-27T00:00:00Z/11
+Q60472873	Aen	"Effects of forest tent caterpillar defoliation on carbon and water fluxes in a boreal aspen stand"
+Q60472873	P31	Q13442814
+Q60472873	P50	Q41953499
+Q60472873	P356	"10.1016/j.agrformet.2018.01.035"
+Q60472873	P1476	en:"Effects of forest tent caterpillar defoliation on carbon and water fluxes in a boreal aspen stand"
+Q60472873	P1433	Q4693950
+Q60472873	P577	+2018-02-24T00:00:00Z/11
+CREATE
+LAST	Len	"Evaluating Water Use for Agricultural Intensification in Southern Amazonia Using the Water Footprint Sustainability Assessment"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.3390/w10040349"
+LAST	P1476	en:"Evaluating Water Use for Agricultural Intensification in Southern Amazonia Using the Water Footprint Sustainability Assessment"
+LAST	P1433	Q15816677
+LAST	P577	+2018-03-22T00:00:00Z/11
+CREATE
+LAST	Len	"Evaluating sampling efforts of standard laboratory analysis and mid-infrared spectroscopy for cost effective digital soil mapping at field scale"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.geoderma.2019.113925"
+LAST	P1476	en:"Evaluating sampling efforts of standard laboratory analysis and mid-infrared spectroscopy for cost effective digital soil mapping at field scale"
+LAST	P1433	Q15765939
+LAST	P577	+2019-08-30T00:00:00Z/11
+CREATE
+LAST	Len	"Examining CO2 concentrations and flow dynamics in streams"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1002/2013eo230014"
+LAST	P1476	en:"Examining CO2 concentrations and flow dynamics in streams"
+LAST	P1433	Q3055637
+LAST	P577	+2013-06-11T00:00:00Z/11
+CREATE
+LAST	Len	"Fluorescence index as an indicator of dissolved organic carbon quality in hydrologic flowpaths of forested tropical watersheds"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1007/s10533-011-9595-x"
+LAST	P1476	en:"Fluorescence index as an indicator of dissolved organic carbon quality in hydrologic flowpaths of forested tropical watersheds"
+LAST	P1433	Q15757650
+LAST	P577	+2011-03-16T00:00:00Z/11
+CREATE
+LAST	Len	"Future water supply and demand in the Okanagan Basin, British Columbia: a scenario-based analysis of multiple, interacting stressors"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1007/s11269-011-9938-3"
+LAST	P1476	en:"Future water supply and demand in the Okanagan Basin, British Columbia: a scenario-based analysis of multiple, interacting stressors"
+LAST	P1433	Q15763474
+LAST	P577	+2011-11-02T00:00:00Z/11
+Q90281050	Aen	"Gap‐filling approaches for eddy covariance methane fluxes: A comparison of three machine learning algorithms and a traditional method with principal component analysis"
+Q90281050	P31	Q13442814
+Q90281050	P50	Q41953499
+Q90281050	P356	"10.1111/gcb.14845"
+Q90281050	P1476	en:"Gap‐filling approaches for eddy covariance methane fluxes: A comparison of three machine learning algorithms and a traditional method with principal component analysis"
+Q90281050	P1433	Q1531580
+Q90281050	P577	+2019-09-25T00:00:00Z/11
+CREATE
+LAST	Len	"Gas Transfer Velocities Evaluated Using Carbon Dioxide as a Tracer Show High Streamflow to Be a Major Driver of Total CO2 Evasion Flux for a Headwater Stream"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1029/2018jg004388"
+LAST	P1476	en:"Gas Transfer Velocities Evaluated Using Carbon Dioxide as a Tracer Show High Streamflow to Be a Major Driver of Total CO2 Evasion Flux for a Headwater Stream"
+LAST	P1433	Q27725075
+LAST	P577	+2018-07-02T00:00:00Z/11
+CREATE
+LAST	Len	"Groundwater recharge indicator as tool for decision makers to increase socio-hydrological resilience to seasonal drought"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.jhydrol.2018.05.069"
+LAST	P1476	en:"Groundwater recharge indicator as tool for decision makers to increase socio-hydrological resilience to seasonal drought"
+LAST	P1433	Q6295314
+LAST	P577	+2018-05-31T00:00:00Z/11
+CREATE
+LAST	Len	"High-frequency analysis of dissolved organic carbon storm responses in headwater streams of contrasting forest harvest history"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.jhydrol.2020.125371"
+LAST	P1476	en:"High-frequency analysis of dissolved organic carbon storm responses in headwater streams of contrasting forest harvest history"
+LAST	P1433	Q6295314
+LAST	P577	+2020-08-05T00:00:00Z/11
+CREATE
+LAST	Len	"Hydrochemistry of shallow groundwater and springs used for potable supply in Southern Brazil"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1007/s12665-018-7254-4"
+LAST	P1476	en:"Hydrochemistry of shallow groundwater and springs used for potable supply in Southern Brazil"
+LAST	P1433	Q5381114
+LAST	P577	+2018-01-24T00:00:00Z/11
+CREATE
+LAST	Len	"Hyperspectral and Thermal Sensing of Stomatal Conductance, Transpiration, and Photosynthesis for Soybean and Maize under Drought"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.3390/rs12193182"
+LAST	P1476	en:"Hyperspectral and Thermal Sensing of Stomatal Conductance, Transpiration, and Photosynthesis for Soybean and Maize under Drought"
+LAST	P1433	Q16800644
+LAST	P577	+2020-09-29T00:00:00Z/11
+CREATE
+LAST	Len	"Identifying socio economic levers for a sustainable provision of ecosystem services in Amazonia landscapes"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1088/1755-1307/6/37/372027"
+LAST	P1476	en:"Identifying socio economic levers for a sustainable provision of ecosystem services in Amazonia landscapes"
+LAST	P1433	Q59275282
+LAST	P577	+2009-03-10T00:00:00Z/11
+CREATE
+LAST	Len	"Impact of different agricultural waste biochars on maize biomass and soil water content in a Brazilian Cerrado Arenosol"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.3390/agronomy7030049"
+LAST	P1476	en:"Impact of different agricultural waste biochars on maize biomass and soil water content in a Brazilian Cerrado Arenosol"
+LAST	P1433	Q27726978
+LAST	P577	+2017-07-20T00:00:00Z/11
+Q91201953	Aen	"Improving agricultural water use efficiency with biochar–A synthesis of biochar effects on water storage and fluxes across scales"
+Q91201953	P31	Q13442814
+Q91201953	P50	Q41953499
+Q91201953	P356	"10.1016/j.scitotenv.2018.11.312"
+Q91201953	P1476	en:"Improving agricultural water use efficiency with biochar–A synthesis of biochar effects on water storage and fluxes across scales"
+Q91201953	P1433	Q15766357
+Q91201953	P577	+2018-11-22T00:00:00Z/11
+CREATE
+LAST	Len	"Indicativos de descontinuidade litológica de regolitos derivados de granitos em uma microbacia sob floresta Amazônica, em Juruena-MT"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1590/s0100-06832012000200001"
+LAST	P1476	en:"Indicativos de descontinuidade litológica de regolitos derivados de granitos em uma microbacia sob floresta Amazônica, em Juruena-MT"
+LAST	P1433	Q27721174
+LAST	P577	+2012-06-04T00:00:00Z/11
+Q57895138	Aen	"Inundation and groundwater dynamics for quantification of evaporative water loss in tropical wetlands"
+Q57895138	P31	Q13442814
+Q57895138	P50	Q41953499
+Q57895138	P356	"10.5194/hess-18-4407-2014"
+Q57895138	P1476	en:"Inundation and groundwater dynamics for quantification of evaporative water loss in tropical wetlands"
+Q57895138	P1433	Q15755050
+Q57895138	P577	+2014-11-05T00:00:00Z/11
+CREATE
+LAST	Len	"Investigating the impacts of biochar on water fluxes in tropical agriculture using stable isotopes"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.5194/hess-2020-404"
+LAST	P1476	en:"Investigating the impacts of biochar on water fluxes in tropical agriculture using stable isotopes"
+LAST	P1433	Q5168538
+LAST	P577	+2020-08-20T00:00:00Z/11
+CREATE
+LAST	Len	"Isotopic estimation of water balance and groundwater-surface water interactions of tropical wetland lakes in the Pantanal, Brazil"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1080/02626667.2013.870665"
+LAST	P1476	en:"Isotopic estimation of water balance and groundwater-surface water interactions of tropical wetland lakes in the Pantanal, Brazil"
+LAST	P1433	Q15766458
+LAST	P577	+2013-12-09T00:00:00Z/11
+CREATE
+LAST	Len	"Land occupation and transformation impacts of soybean production in Southern Amazonia, Brazil"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.jclepro.2017.02.120"
+LAST	P1476	en:"Land occupation and transformation impacts of soybean production in Southern Amazonia, Brazil"
+LAST	P1433	Q15761445
+LAST	P577	+2017-02-17T00:00:00Z/11
+Q58059475	Aen	"Land-use change and stream water fluxes: Decadal dynamics in watershed nitrate exports"
+Q58059475	P31	Q13442814
+Q58059475	P50	Q41953499
+Q58059475	P356	"10.1007/s10021-007-9091-2"
+Q58059475	P1476	en:"Land-use change and stream water fluxes: Decadal dynamics in watershed nitrate exports"
+Q58059475	P1433	Q15754480
+Q58059475	P577	+2007-09-19T00:00:00Z/11
+CREATE
+LAST	Len	"Land–Water interactions in the amazon"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1007/s10533-011-9622-y"
+LAST	P1476	en:"Land–Water interactions in the amazon"
+LAST	P1433	Q15757650
+LAST	P577	+2011-07-27T00:00:00Z/11
+CREATE
+LAST	Len	"Life Cycle Assessment of Greenhouse Gas Emissions from Dairy Production in a Central New York State Watershed"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.35648/20.500.12413/11781/ii250"
+LAST	P1476	en:"Life Cycle Assessment of Greenhouse Gas Emissions from Dairy Production in a Central New York State Watershed"
+LAST	P1433	Q96334176
+LAST	P577	+2020-05-31T00:00:00Z/11
+CREATE
+LAST	Len	"Litterfall production and fluvial export in headwater catchments of the southern Amazon"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1017/s0266467406003956"
+LAST	P1476	en:"Litterfall production and fluvial export in headwater catchments of the southern Amazon"
+LAST	P1433	Q15755822
+LAST	P577	+2007-04-24T00:00:00Z/11
+CREATE
+LAST	Len	"Mapping soil organic carbon and clay using remote sensing to predict soil workability for enhanced climate change adaptation"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.geoderma.2020.114177"
+LAST	P1476	en:"Mapping soil organic carbon and clay using remote sensing to predict soil workability for enhanced climate change adaptation"
+LAST	P1433	Q15765939
+LAST	P577	+2020-01-16T00:00:00Z/11
+CREATE
+LAST	Len	"Measurements of Greenhouse Gas Exchange over a Conventionally Managed Highbush Blueberry Field in the Fraser River Delta in BC, Canada"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.agrformet.2020.108152"
+LAST	P1476	en:"Measurements of Greenhouse Gas Exchange over a Conventionally Managed Highbush Blueberry Field in the Fraser River Delta in BC, Canada"
+LAST	P1433	Q4693950
+LAST	P577	+2020-09-08T00:00:00Z/11
+Q60136375	Aen	"Modeling to discern nitrogen fertilization impacts on carbon sequestration in a Pacific Northwest Douglas‐fir forest in the first‐postfertilization year"
+Q60136375	P31	Q13442814
+Q60136375	P50	Q41953499
+Q60136375	P356	"10.1111/j.1365-2486.2010.02298.x"
+Q60136375	P1476	en:"Modeling to discern nitrogen fertilization impacts on carbon sequestration in a Pacific Northwest Douglas‐fir forest in the first‐postfertilization year"
+Q60136375	P1433	Q1531580
+Q60136375	P577	+2010-07-23T00:00:00Z/11
+CREATE
+LAST	Len	"Monitoramento contínuo do potencial redox e de variáveis complementares em ambiente hipersazonal no pantanal norte"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1590/s0100-06832013000300009"
+LAST	P1476	en:"Monitoramento contínuo do potencial redox e de variáveis complementares em ambiente hipersazonal no pantanal norte"
+LAST	P1433	Q27721174
+LAST	P577	+2013-07-21T00:00:00Z/11
+CREATE
+LAST	Len	"Net ecosystem carbon balance of a peat bog undergoing restoration: integrating CO2 and CH4 fluxes from eddy covariance and aquatic evasion with DOC drainage fluxes"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1029/2019jg005123"
+LAST	P1476	en:"Net ecosystem carbon balance of a peat bog undergoing restoration: integrating CO2 and CH4 fluxes from eddy covariance and aquatic evasion with DOC drainage fluxes"
+LAST	P1433	Q27725075
+LAST	P577	+2019-03-19T00:00:00Z/11
+Q57183786	Aen	"Nitrogen aboveground turnover and soil stocks to 8 m depth in primary and selectively logged forest in southern Amazonia"
+Q57183786	P31	Q13442814
+Q57183786	P50	Q41953499
+Q57183786	P356	"10.1111/j.1365-2486.2009.02068.x"
+Q57183786	P1476	en:"Nitrogen aboveground turnover and soil stocks to 8 m depth in primary and selectively logged forest in southern Amazonia"
+Q57183786	P1433	Q1531580
+Q57183786	P577	+2009-09-15T00:00:00Z/11
+Q46782240	Aen	"Nitrogen enrichment potential of biochar in relation to pyrolysis temperature and feedstock quality"
+Q46782240	P31	Q13442814
+Q46782240	P50	Q41953499
+Q46782240	P356	"10.1016/j.jenvman.2015.01.021"
+Q46782240	P1476	en:"Nitrogen enrichment potential of biochar in relation to pyrolysis temperature and feedstock quality"
+Q46782240	P1433	Q15757726
+Q46782240	P577	+2015-01-23T00:00:00Z/11
+CREATE
+LAST	Len	"Organic carbon fluxes within and streamwater exports from headwater catchments in the southern Amazon"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1002/hyp.6218"
+LAST	P1476	en:"Organic carbon fluxes within and streamwater exports from headwater catchments in the southern Amazon"
+LAST	P1433	Q15763791
+LAST	P577	+2006-07-24T00:00:00Z/11
+CREATE
+LAST	Len	"PS 44-82: Training tomorrow's environmental problem-solvers: An integrative approach to graduate education"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1525/bio.2009.59.6.10"
+LAST	P1476	en:"PS 44-82: Training tomorrow's environmental problem-solvers: An integrative approach to graduate education"
+LAST	P1433	Q1092250
+LAST	P577	+2009-06-02T00:00:00Z/11
+CREATE
+LAST	Len	"Physiological responses to extreme hydrological events in the Pantanal wetland: heterogeneity of a plant community containing super‐dominant species"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1111/jvs.12379"
+LAST	P1476	en:"Physiological responses to extreme hydrological events in the Pantanal wetland: heterogeneity of a plant community containing super‐dominant species"
+LAST	P1433	Q15755483
+LAST	P577	+2016-01-11T00:00:00Z/11
+CREATE
+LAST	Len	"Public participation and perceptions of watershed modeling"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1080/08941920802220347"
+LAST	P1476	en:"Public participation and perceptions of watershed modeling"
+LAST	P1433	Q15759233
+LAST	P577	+2008-12-19T00:00:00Z/11
+Q92260426	Aen	"Radiative forcing of methane fluxes offsets net carbon dioxide uptake for a tropical flooded forest"
+Q92260426	P31	Q13442814
+Q92260426	P50	Q41953499
+Q92260426	P356	"10.1111/gcb.14615"
+Q92260426	P1476	en:"Radiative forcing of methane fluxes offsets net carbon dioxide uptake for a tropical flooded forest"
+Q92260426	P1433	Q1531580
+Q92260426	P577	+2019-03-11T00:00:00Z/11
+CREATE
+LAST	Len	"Rain-fed and irrigated cropland-atmosphere water fluxes and their implications for agricultural production in Southern Amazonia"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.agrformet.2018.03.023"
+LAST	P1476	en:"Rain-fed and irrigated cropland-atmosphere water fluxes and their implications for agricultural production in Southern Amazonia"
+LAST	P1433	Q4693950
+LAST	P577	+2018-04-09T00:00:00Z/11
+Q57183796	Aen	"Relationships between soil hydrology and forest structure and composition in the southern Brazilian Amazon"
+Q57183796	P31	Q13442814
+Q57183796	P50	Q41953499
+Q57183796	P356	"10.1111/j.1654-1103.2007.tb02529.x"
+Q57183796	P1476	en:"Relationships between soil hydrology and forest structure and composition in the southern Brazilian Amazon"
+Q57183796	P1433	Q15755483
+Q57183796	P577	+2009-02-24T00:00:00Z/11
+CREATE
+LAST	Len	"Relative humidity gradients as a key constraint on terrestrial water and energy fluxes"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.31223/x59880"
+LAST	P1476	en:"Relative humidity gradients as a key constraint on terrestrial water and energy fluxes"
+LAST	P1433	Q5020447
+LAST	P577	+2020-12-01T00:00:00Z/11
+CREATE
+LAST	Len	"Runoff sources and land cover change in the Amazon: an end-member mixing analysis from small watersheds"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1007/s10533-011-9597-8"
+LAST	P1476	en:"Runoff sources and land cover change in the Amazon: an end-member mixing analysis from small watersheds"
+LAST	P1433	Q15757650
+LAST	P577	+2011-04-02T00:00:00Z/11
+CREATE
+LAST	Len	"Simultaneous Measurements of Soil CO2 and CH4 Fluxes Using Laser Absorption Spectroscopy"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.2134/ael2015.12.0014"
+LAST	P1476	en:"Simultaneous Measurements of Soil CO2 and CH4 Fluxes Using Laser Absorption Spectroscopy"
+LAST	P1433	Q50817783
+LAST	P577	+2016-09-28T00:00:00Z/11
+Q30647216	Aen	"Soil CO 2 Dynamics in a Tree Island Soil of the Pantanal: The Role of Soil Water Potential"
+Q30647216	P31	Q13442814
+Q30647216	P50	Q41953499
+Q30647216	P356	"10.1371/journal.pone.0064874"
+Q30647216	P1476	en:"Soil CO 2 Dynamics in a Tree Island Soil of the Pantanal: The Role of Soil Water Potential"
+Q30647216	P1433	Q564954
+Q30647216	P577	+2013-06-10T00:00:00Z/11
+CREATE
+LAST	Len	"Soil CO2 concentrations and efflux dynamics of a tree island in the Pantanal wetland"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1002/2017jg003877"
+LAST	P1476	en:"Soil CO2 concentrations and efflux dynamics of a tree island in the Pantanal wetland"
+LAST	P1433	Q27725075
+LAST	P577	+2017-08-14T00:00:00Z/11
+CREATE
+LAST	Len	"Spatial and temporal variability of soil water repellency of Amazonian pastures"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1071/sr04097"
+LAST	P1476	en:"Spatial and temporal variability of soil water repellency of Amazonian pastures"
+LAST	P1433	Q7554883
+LAST	P577	+2005-05-27T00:00:00Z/11
+CREATE
+LAST	Len	"Spatial patterns of DOC concentration and DOM optical properties in a Brazilian tropical river‐wetland system"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1002/2017jg003797"
+LAST	P1476	en:"Spatial patterns of DOC concentration and DOM optical properties in a Brazilian tropical river‐wetland system"
+LAST	P1433	Q27725075
+LAST	P577	+2017-07-15T00:00:00Z/11
+CREATE
+LAST	Len	"Storm pulses of dissolved CO2 in a forested headwater Amazonian stream explored using hydrograph separation"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1029/2007wr006359"
+LAST	P1476	en:"Storm pulses of dissolved CO2 in a forested headwater Amazonian stream explored using hydrograph separation"
+LAST	P1433	Q7973358
+LAST	P577	+2007-11-14T00:00:00Z/11
+CREATE
+LAST	Len	"Stream Discharge in Tropical Headwater Catchments as a Result of Forest Clearing and Soil Degradation"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1175/2012ei000439.1"
+LAST	P1476	en:"Stream Discharge in Tropical Headwater Catchments as a Result of Forest Clearing and Soil Degradation"
+LAST	P1433	Q5327086
+LAST	P577	+2012-08-10T00:00:00Z/11
+Q59155363	Aen	"Stream water nutrient and organic carbon exports from tropical headwater catchments at a soil degradation gradient"
+Q59155363	P31	Q13442814
+Q59155363	P50	Q41953499
+Q59155363	P356	"10.1007/s10705-013-9554-0"
+Q59155363	P1476	en:"Stream water nutrient and organic carbon exports from tropical headwater catchments at a soil degradation gradient"
+Q59155363	P1433	Q15749632
+Q59155363	P577	+2013-01-30T00:00:00Z/11
+CREATE
+LAST	Len	"Streams with Riparian Forest Buffers versus Impoundments Differ in Discharge and DOM Characteristics for Pasture Catchments in Southern Amazonia"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.3390/w11020390"
+LAST	P1476	en:"Streams with Riparian Forest Buffers versus Impoundments Differ in Discharge and DOM Characteristics for Pasture Catchments in Southern Amazonia"
+LAST	P1433	Q15816677
+LAST	P577	+2019-02-25T00:00:00Z/11
+Q42174506	Aen	"Submersible UV-Vis spectroscopy for quantifying streamwater organic carbon dynamics: Implementation and challenges before and after forest harvest in a headwater stream"
+Q42174506	P31	Q13442814
+Q42174506	P50	Q41953499
+Q42174506	P356	"10.3390/s120403798"
+Q42174506	P1476	en:"Submersible UV-Vis spectroscopy for quantifying streamwater organic carbon dynamics: Implementation and challenges before and after forest harvest in a headwater stream"
+Q42174506	P1433	Q3478643
+Q42174506	P577	+2012-03-24T00:00:00Z/11
+CREATE
+LAST	Len	"Summertime greenhouse gas fluxes from an urban bog undergoing restoration through rewetting."
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.5194/bg-14-2799-2017"
+LAST	P1476	en:"Summertime greenhouse gas fluxes from an urban bog undergoing restoration through rewetting."
+LAST	P1433	Q15755805
+LAST	P577	+2017-06-08T00:00:00Z/11
+Q56069115	Aen	"Temporal variability of nitrous oxide from fertilized croplands: hot moment analysis"
+Q56069115	P31	Q13442814
+Q56069115	P50	Q41953499
+Q56069115	P356	"10.2136/sssaj2012.0039"
+Q56069115	P1476	en:"Temporal variability of nitrous oxide from fertilized croplands: hot moment analysis"
+Q56069115	P1433	Q15753681
+Q56069115	P577	+2012-09-12T00:00:00Z/11
+CREATE
+LAST	Len	"Tracking changes in soil organic carbon across the heterogeneous agricultural landscape of the Lower Fraser Valley of British Columbia"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1016/j.scitotenv.2020.138994"
+LAST	P1476	en:"Tracking changes in soil organic carbon across the heterogeneous agricultural landscape of the Lower Fraser Valley of British Columbia"
+LAST	P1433	Q15766357
+LAST	P577	+2020-05-05T00:00:00Z/11
+Q51910760	Aen	"Transcatheter Valve-in-Valve Implantation for Failed Bioprosthetic Heart Valves"
+Q51910760	P31	Q13442814
+Q51910760	P50	Q41953499
+Q51910760	P356	"10.1161/circulationaha.109.924613"
+Q51910760	P1476	en:"Transcatheter Valve-in-Valve Implantation for Failed Bioprosthetic Heart Valves"
+Q51910760	P1433	Q578091
+Q51910760	P577	+2010-04-13T00:00:00Z/11
+CREATE
+LAST	Len	"Variabilidade espacial de atributos físicos de solo usada na identificação de classes pedológicas de microbacias na Amazônia meridional"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1590/s0100-06832007000100010"
+LAST	P1476	en:"Variabilidade espacial de atributos físicos de solo usada na identificação de classes pedológicas de microbacias na Amazônia meridional"
+LAST	P1433	Q27721174
+LAST	P577	+2007-10-04T00:00:00Z/11
+CREATE
+LAST	Len	"Variação Sazonal do Carbono Orgânico Dissolvido (COD) e Propriedades Ópticas da Matéria Orgânica em Diferentes Sistemas de Pastagem e de Soja no Estado de Mato Grosso"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.5902/2179460x27649"
+LAST	P1476	en:"Variação Sazonal do Carbono Orgânico Dissolvido (COD) e Propriedades Ópticas da Matéria Orgânica em Diferentes Sistemas de Pastagem e de Soja no Estado de Mato Grosso"
+LAST	P1433	Q96700839
+LAST	P577	+2017-11-20T00:00:00Z/11
+Q90851667	Aen	"Water quality and greenhouse gas fluxes for stormwater detained in a constructed wetland"
+Q90851667	P31	Q13442814
+Q90851667	P50	Q41953499
+Q90851667	P356	"10.1016/j.jenvman.2018.10.106"
+Q90851667	P1476	en:"Water quality and greenhouse gas fluxes for stormwater detained in a constructed wetland"
+Q90851667	P1433	Q15757726
+Q90851667	P577	+2018-11-17T00:00:00Z/11
+CREATE
+LAST	Len	"Water use by terrestrial ecosystems: temporal variability in rainforest and agricultural contributions to evapotranspiration in Mato Grosso, Brazil"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1088/1748-9326/7/2/024024"
+LAST	P1476	en:"Water use by terrestrial ecosystems: temporal variability in rainforest and agricultural contributions to evapotranspiration in Mato Grosso, Brazil"
+LAST	P1433	Q5381163
+LAST	P577	+2012-06-25T00:00:00Z/11
+CREATE
+LAST	Len	"Water use dynamics in double cropping of rainfed upland rice and irrigated melons produced under drought‐prone tropical conditions"
+LAST	P31	Q13442814
+LAST	P50	Q41953499
+LAST	P356	"10.1029/2018wr023757"
+LAST	P1476	en:"Water use dynamics in double cropping of rainfed upland rice and irrigated melons produced under drought‐prone tropical conditions"
+LAST	P1433	Q7973358
+LAST	P577	+2019-04-18T00:00:00Z/11
+Q57230940	Aen	"Watershed services in the humid tropics: Opportunities from recent advances in ecohydrology"
+Q57230940	P31	Q13442814
+Q57230940	P50	Q41953499
+Q57230940	P356	"10.1002/eco.1921"
+Q57230940	P1476	en:"Watershed services in the humid tropics: Opportunities from recent advances in ecohydrology"
+Q57230940	P1433	Q15754586
+Q57230940	P577	+2017-11-04T00:00:00Z/11

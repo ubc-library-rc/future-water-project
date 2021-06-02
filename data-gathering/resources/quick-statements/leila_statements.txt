@@ -1,0 +1,489 @@
+Q38140470	Aen	"A comparative analysis of current microbial water quality risk assessment and management practices in British Columbia and Ontario, Canada"
+Q38140470	P31	Q13442814
+Q38140470	P50	Q106694942
+Q38140470	P356	"10.1016/j.scitotenv.2013.08.004"
+Q38140470	P1476	en:"A comparative analysis of current microbial water quality risk assessment and management practices in British Columbia and Ontario, Canada"
+Q38140470	P1433	Q15766357
+Q38140470	P577	+2013-09-19T00:00:00Z/11
+Q61830315	Aen	"Advancing human capabilities for water security: A relational approach"
+Q61830315	P31	Q13442814
+Q61830315	P50	Q106694942
+Q61830315	P356	"10.1016/j.wasec.2017.07.001"
+Q61830315	P1476	en:"Advancing human capabilities for water security: A relational approach"
+Q61830315	P1433	Q96320215
+Q61830315	P577	+2017-07-14T00:00:00Z/11
+Q61830311	Aen	"Advancing methods for research on household water insecurity: Studying entitlements and capabilities, socio-cultural dynamics, and political processes, institutions and governance"
+Q61830311	P31	Q13442814
+Q61830311	P50	Q106694942
+Q61830311	P356	"10.1016/j.wasec.2017.09.001"
+Q61830311	P1476	en:"Advancing methods for research on household water insecurity: Studying entitlements and capabilities, socio-cultural dynamics, and political processes, institutions and governance"
+Q61830311	P1433	Q96320215
+Q61830311	P577	+2017-11-20T00:00:00Z/11
+CREATE
+LAST	Len	"Assessing states: Water service delivery and evolving state–society relations in Accra, Ghana and Cape Town, South Africa"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1177/2399654419859365"
+LAST	P1476	en:"Assessing states: Water service delivery and evolving state–society relations in Accra, Ghana and Cape Town, South Africa"
+LAST	P1433	Q15757279
+LAST	P577	+2019-07-09T00:00:00Z/11
+CREATE
+LAST	Len	"Book Review: Engendering the environment? Gender in the World Bank’s environmental policies"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1177/146499340200200121"
+LAST	P1476	en:"Book Review: Engendering the environment? Gender in the World Bank’s environmental policies"
+LAST	P1433	Q15752806
+LAST	P577	+2007-08-24T00:00:00Z/11
+CREATE
+LAST	Len	"Book Review: Opposing currents: The politics of water and gender in Latin America"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1017/s1743923x05242071"
+LAST	P1476	en:"Book Review: Opposing currents: The politics of water and gender in Latin America"
+LAST	P1433	Q96700572
+LAST	P577	+2008-04-21T00:00:00Z/11
+CREATE
+LAST	Len	"Canadian Drinking Water Policy: Jurisdictional Variation in the Context of Decentralized Water Governance"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1007/978-3-319-42806-2_16"
+LAST	P1476	en:"Canadian Drinking Water Policy: Jurisdictional Variation in the Context of Decentralized Water Governance"
+LAST	P1433	Q96328942
+LAST	P577	+2016-10-31T00:00:00Z/11
+CREATE
+LAST	Len	"Citizenshit: the right to flush and the urban sanitation imaginary"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1068/a130331p"
+LAST	P1476	en:"Citizenshit: the right to flush and the urban sanitation imaginary"
+LAST	P1433	Q15759814
+LAST	P577	+2014-12-09T00:00:00Z/11
+CREATE
+LAST	Len	"Contested sustainabilities: Assessing narratives of environmental change in southeastern Turkey"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/13549830903096452"
+LAST	P1476	en:"Contested sustainabilities: Assessing narratives of environmental change in southeastern Turkey"
+LAST	P1433	Q15716608
+LAST	P577	+2009-08-22T00:00:00Z/11
+CREATE
+LAST	Len	"Contested waters: Conflict, scale, and sustainability in aquatic socioecological systems"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/08941920290069272"
+LAST	P1476	en:"Contested waters: Conflict, scale, and sustainability in aquatic socioecological systems"
+LAST	P1433	Q15759233
+LAST	P577	+2002-09-30T00:00:00Z/11
+CREATE
+LAST	Len	"Developing new urban water supplies: investigating motivations and barriers to groundwater use in Cape Town"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/07900627.2018.1509787"
+LAST	P1476	en:"Developing new urban water supplies: investigating motivations and barriers to groundwater use in Cape Town"
+LAST	P1433	Q15751981
+LAST	P577	+2018-09-26T00:00:00Z/11
+Q33742329	Aen	"Drinking water quality guidelines across Canadian provinces and territories: Jurisdictional variation in the context of decentralized water governance"
+Q33742329	P31	Q13442814
+Q33742329	P50	Q106694942
+Q33742329	P356	"10.3390/ijerph110504634"
+Q33742329	P1476	en:"Drinking water quality guidelines across Canadian provinces and territories: Jurisdictional variation in the context of decentralized water governance"
+Q33742329	P1433	Q6051382
+Q33742329	P577	+2014-04-28T00:00:00Z/11
+CREATE
+LAST	Len	"Evolving connections, discourses and identities in rural–urban water struggles"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/02508060.2019.1583312"
+LAST	P1476	en:"Evolving connections, discourses and identities in rural–urban water struggles"
+LAST	P1433	Q15765652
+LAST	P577	+2019-04-15T00:00:00Z/11
+CREATE
+LAST	Len	"Exposing the myths of household water insecurity in the global North: A critical review"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1002/wat2.1486"
+LAST	P1476	en:"Exposing the myths of household water insecurity in the global North: A critical review"
+LAST	P1433	Q27727591
+LAST	P577	+2020-10-05T00:00:00Z/11
+CREATE
+LAST	Len	"Framing community entitlements to water in Accra, Ghana: A complex reality"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.geoforum.2017.03.011"
+LAST	P1476	en:"Framing community entitlements to water in Accra, Ghana: A complex reality"
+LAST	P1433	Q5535018
+LAST	P577	+2017-04-05T00:00:00Z/11
+CREATE
+LAST	Len	"From needs to actions: prospects for planned adaptations in high mountain communities"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1007/s10584-020-02920-1"
+LAST	P1476	en:"From needs to actions: prospects for planned adaptations in high mountain communities"
+LAST	P1433	Q5133623
+LAST	P577	+2020-11-20T00:00:00Z/11
+Q61050861	Aen	"Gender and emergent water governance: comparative overview of neoliberalized natures and gender dimensions of privatization, devolution and marketization"
+Q61050861	P31	Q13442814
+Q61050861	P50	Q106694942
+Q61050861	P356	"10.1080/09663690903003918"
+Q61050861	P1476	en:"Gender and emergent water governance: comparative overview of neoliberalized natures and gender dimensions of privatization, devolution and marketization"
+Q61050861	P1433	Q15754756
+Q61050861	P577	+2009-07-07T00:00:00Z/11
+CREATE
+LAST	Len	"Gender and marine protected areas: a case study of Danajon Bank, Philippines"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1007/s40152-018-0107-7"
+LAST	P1476	en:"Gender and marine protected areas: a case study of Danajon Bank, Philippines"
+LAST	P1433	Q15761133
+LAST	P577	+2018-09-08T00:00:00Z/11
+CREATE
+LAST	Len	"Gender and small‐scale fisheries: a case for counting women and beyond"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1111/faf.12075"
+LAST	P1476	en:"Gender and small‐scale fisheries: a case for counting women and beyond"
+LAST	P1433	Q15755688
+LAST	P577	+2014-02-03T00:00:00Z/11
+Q90332450	Aen	"Health, environment and colonial legacies: Situating the science of pesticides, bananas and bodies in Ecuador"
+Q90332450	P31	Q13442814
+Q90332450	P50	Q106694942
+Q90332450	P356	"10.1016/j.socscimed.2019.112529"
+Q90332450	P1476	en:"Health, environment and colonial legacies: Situating the science of pesticides, bananas and bodies in Ecuador"
+Q90332450	P1433	Q7550785
+Q90332450	P577	+2019-09-04T00:00:00Z/11
+Q58812749	Aen	"Household water sharing: A review of water gifts, exchanges, and transfers across cultures"
+Q58812749	P31	Q13442814
+Q58812749	P50	Q106694942
+Q58812749	P356	"10.1002/wat2.1309"
+Q58812749	P1476	en:"Household water sharing: A review of water gifts, exchanges, and transfers across cultures"
+Q58812749	P1433	Q27727591
+Q58812749	P577	+2018-09-07T00:00:00Z/11
+Q90700546	Aen	"Household water sharing: a missing link in international health"
+Q90700546	P31	Q13442814
+Q90700546	P50	Q106694942
+Q90700546	P356	"10.1093/inthealth/ihy094"
+Q90700546	P1476	en:"Household water sharing: a missing link in international health"
+Q90700546	P1433	Q15816250
+Q90700546	P577	+2018-12-11T00:00:00Z/11
+CREATE
+LAST	Len	"Human right to water: Contemporary challenges and contours of a global debate"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1111/j.1467-8330.2011.00929.x"
+LAST	P1476	en:"Human right to water: Contemporary challenges and contours of a global debate"
+LAST	P1433	Q4775111
+LAST	P577	+2011-08-03T00:00:00Z/11
+CREATE
+LAST	Len	"Hybrid regulatory landscapes: The human right to water, variegated neoliberal water governance, and policy transfer in Cape Town, South Africa, and Accra, Ghana"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.worlddev.2018.05.021"
+LAST	P1476	en:"Hybrid regulatory landscapes: The human right to water, variegated neoliberal water governance, and policy transfer in Cape Town, South Africa, and Accra, Ghana"
+LAST	P1433	Q8035641
+LAST	P577	+2018-05-26T00:00:00Z/11
+Q58138635	Aen	"Imaginative Geographies of Green: Difference, Postcoloniality, and Affect in Environmental Narratives in Contemporary Turkey"
+Q58138635	P31	Q13442814
+Q58138635	P50	Q106694942
+Q58138635	P356	"10.1080/00045608.2014.892356"
+Q58138635	P1476	en:"Imaginative Geographies of Green: Difference, Postcoloniality, and Affect in Environmental Narratives in Contemporary Turkey"
+Q58138635	P1433	Q15753179
+Q58138635	P577	+2014-04-21T00:00:00Z/11
+CREATE
+LAST	Len	"Improving fisheries estimates by including women’s catch in the Central Philippines"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1139/cjfas-2013-0177"
+LAST	P1476	en:"Improving fisheries estimates by including women’s catch in the Central Philippines"
+LAST	P1433	Q15755683
+LAST	P577	+2014-01-31T00:00:00Z/11
+CREATE
+LAST	Len	"Indigenous women respond to fisheries conflict and catalyze change in governance on Canada’s Pacific Coast"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1007/s40152-018-0101-0"
+LAST	P1476	en:"Indigenous women respond to fisheries conflict and catalyze change in governance on Canada’s Pacific Coast"
+LAST	P1433	Q15761133
+LAST	P577	+2018-08-30T00:00:00Z/11
+CREATE
+LAST	Len	"Intersections of gender and water: comparative approaches to everyday gendered negotiations of water access in underserved areas of Accra, Ghana and Cape Town, South Africa"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/09589236.2016.1150819"
+LAST	P1476	en:"Intersections of gender and water: comparative approaches to everyday gendered negotiations of water access in underserved areas of Accra, Ghana and Cape Town, South Africa"
+LAST	P1433	Q6295244
+LAST	P577	+2016-03-10T00:00:00Z/11
+CREATE
+LAST	Len	"Irrigation, gender, and social geographies of the changing waterscapes of southeastern Anatolia"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1068/d03k"
+LAST	P1476	en:"Irrigation, gender, and social geographies of the changing waterscapes of southeastern Anatolia"
+LAST	P1433	Q15750399
+LAST	P577	+2006-03-27T00:00:00Z/11
+CREATE
+LAST	Len	"Jessica Barnes . Cultivating the Nile: The Everyday Politics of Water in Egypt. New Ecologies for the 21st Century. Duke University Press, Durham and London …"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1017/rms.2017.100"
+LAST	P1476	en:"Jessica Barnes . Cultivating the Nile: The Everyday Politics of Water in Egypt. New Ecologies for the 21st Century. Duke University Press, Durham and London …"
+LAST	P1433	Q53967759
+LAST	P577	+2017-09-12T00:00:00Z/11
+CREATE
+LAST	Len	"Limits of territorially-focused conservation: a critical assessment based on cartographic and geographic approaches"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1017/s0376892907004237"
+LAST	P1476	en:"Limits of territorially-focused conservation: a critical assessment based on cartographic and geographic approaches"
+LAST	P1433	Q1345887
+LAST	P577	+2007-12-06T00:00:00Z/11
+CREATE
+LAST	Len	"Microbial risk governance: challenges and opportunities in fresh water management in Canada"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/07011784.2015.1043648"
+LAST	P1476	en:"Microbial risk governance: challenges and opportunities in fresh water management in Canada"
+LAST	P1433	Q29043871
+LAST	P577	+2015-06-29T00:00:00Z/11
+Q85634370	Aen	"Microbial water quality communication: public and practitioner insights from British Columbia, Canada Microbial water quality communication: public and practitioner insights …"
+Q85634370	P31	Q13442814
+Q85634370	P50	Q106694942
+Q85634370	P356	"10.2166/wh.2014.126"
+Q85634370	P1476	en:"Microbial water quality communication: public and practitioner insights from British Columbia, Canada Microbial water quality communication: public and practitioner insights …"
+Q85634370	P1433	Q15758145
+Q85634370	P577	+2014-09-25T00:00:00Z/11
+CREATE
+LAST	Len	"Modernizing the nation: Postcolonialism, postdevelopmentalism, and ambivalent spaces of difference in southeastern Turkey"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.geoforum.2008.03.002"
+LAST	P1476	en:"Modernizing the nation: Postcolonialism, postdevelopmentalism, and ambivalent spaces of difference in southeastern Turkey"
+LAST	P1433	Q5535018
+LAST	P577	+2008-05-10T00:00:00Z/11
+CREATE
+LAST	Len	"Multiple ontologies of water: Politics, conflict and implications for governance"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1177/0263775817700395"
+LAST	P1476	en:"Multiple ontologies of water: Politics, conflict and implications for governance"
+LAST	P1433	Q15750399
+LAST	P577	+2017-03-28T00:00:00Z/11
+CREATE
+LAST	Len	"Navigating the tensions in collaborative watershed governance: Water governance and Indigenous communities in British Columbia, Canada"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.geoforum.2016.04.005"
+LAST	P1476	en:"Navigating the tensions in collaborative watershed governance: Water governance and Indigenous communities in British Columbia, Canada"
+LAST	P1433	Q5535018
+LAST	P577	+2016-05-12T00:00:00Z/11
+CREATE
+LAST	Len	"Negotiating hydro-scales, forging states: Comparison of the upper Tigris/Euphrates and Jordan River basins"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.polgeo.2010.02.012"
+LAST	P1476	en:"Negotiating hydro-scales, forging states: Comparison of the upper Tigris/Euphrates and Jordan River basins"
+LAST	P1433	Q96329040
+LAST	P577	+2010-03-26T00:00:00Z/11
+CREATE
+LAST	Len	"Neo (liberal) citizens of Europe: politics, scales, and visibilities of environmental citizenship in contemporary Turkey"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/13621025.2011.600095"
+LAST	P1476	en:"Neo (liberal) citizens of Europe: politics, scales, and visibilities of environmental citizenship in contemporary Turkey"
+LAST	P1433	Q15759597
+LAST	P577	+2011-10-26T00:00:00Z/11
+CREATE
+LAST	Len	"Participation’s limits: tracing the contours of participatory water governance in Accra, Ghana"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.5751/es-06623-190336"
+LAST	P1476	en:"Participation’s limits: tracing the contours of participatory water governance in Accra, Ghana"
+LAST	P1433	Q1282052
+LAST	P577	+2014-09-10T00:00:00Z/11
+CREATE
+LAST	Len	"Pathways for Participatory Water Governance in Ashaiman, Ghana: Learning from Institutional Bricolage and Hydrosocial Perspectives"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/08941920.2017.1364451"
+LAST	P1476	en:"Pathways for Participatory Water Governance in Ashaiman, Ghana: Learning from Institutional Bricolage and Hydrosocial Perspectives"
+LAST	P1433	Q15759233
+LAST	P577	+2017-10-16T00:00:00Z/11
+Q49836367	Aen	"Political Ecologies of Global Health: Pesticide Exposure in Southwestern Ecuador's Banana Industry"
+Q49836367	P31	Q13442814
+Q49836367	P50	Q106694942
+Q49836367	P356	"10.1111/anti.12340"
+Q49836367	P1476	en:"Political Ecologies of Global Health: Pesticide Exposure in Southwestern Ecuador's Banana Industry"
+Q49836367	P1433	Q4775111
+Q49836367	P577	+2017-06-13T00:00:00Z/11
+CREATE
+LAST	Len	"Political ecologies of the state: Recent interventions and questions going forward"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.polgeo.2017.03.006"
+LAST	P1476	en:"Political ecologies of the state: Recent interventions and questions going forward"
+LAST	P1433	Q96329040
+LAST	P577	+2017-03-27T00:00:00Z/11
+CREATE
+LAST	Len	"Re-Theorizing Politics in Water Governance"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.3390/w11071470"
+LAST	P1476	en:"Re-Theorizing Politics in Water Governance"
+LAST	P1433	Q15816677
+LAST	P577	+2019-07-16T00:00:00Z/11
+CREATE
+LAST	Len	"Recent waves of water governance: Constitutional reform and resistance to neoliberalization in Latin America (1990–2012)"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.geoforum.2013.07.009"
+LAST	P1476	en:"Recent waves of water governance: Constitutional reform and resistance to neoliberalization in Latin America (1990–2012)"
+LAST	P1433	Q5535018
+LAST	P577	+2013-08-15T00:00:00Z/11
+Q106930153	Aen	"Revisiting the Human Right to Water from an environmental justice lens"
+Q106930153	P31	Q13442814
+Q106930153	P50	Q106694942
+Q106930153	P356	"10.1080/21565503.2015.1080619"
+Q106930153	P1476	en:"Revisiting the Human Right to Water from an environmental justice lens"
+Q106930153	P1433	Q27726705
+Q106930153	P577	+2015-09-14T00:00:00Z/11
+CREATE
+LAST	Len	"Rural–urban water struggles: urbanizing hydrosocial territories and evolving connections, discourses and identities"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/02508060.2019.1583311"
+LAST	P1476	en:"Rural–urban water struggles: urbanizing hydrosocial territories and evolving connections, discourses and identities"
+LAST	P1433	Q15765652
+LAST	P577	+2019-04-15T00:00:00Z/11
+CREATE
+LAST	Len	"Small systems, big challenges: review of small drinking water system governance"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1139/er-2018-0033"
+LAST	P1476	en:"Small systems, big challenges: review of small drinking water system governance"
+LAST	P1433	Q15759072
+LAST	P577	+2018-10-09T00:00:00Z/11
+CREATE
+LAST	Len	"Social Capital, political empowerment and social difference: a mixed-methods study of an ecotourism project in the rural Volta region of Ghana"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/09669582.2018.1546711"
+LAST	P1476	en:"Social Capital, political empowerment and social difference: a mixed-methods study of an ecotourism project in the rural Volta region of Ghana"
+LAST	P1433	Q15757725
+LAST	P577	+2019-01-14T00:00:00Z/11
+CREATE
+LAST	Len	"Special Issue"" Water Governance: Retheorizing Politics"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.3390/books978-3-03921-561-4"
+LAST	P1476	en:"Special Issue"" Water Governance: Retheorizing Politics"
+LAST	P1433	Q6715186
+LAST	P577	+2019-11-07T00:00:00Z/11
+CREATE
+LAST	Len	"State as socionatural effect: Variable and emergent geographies of the state in southeastern Turkey"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1215/1089201x-1545345"
+LAST	P1476	en:"State as socionatural effect: Variable and emergent geographies of the state in southeastern Turkey"
+LAST	P1433	Q15757807
+LAST	P577	+2012-04-11T00:00:00Z/11
+Q64863168	Aen	"The Legal Geographies of Water Claims: Seawater Desalination in Mining Regions in Chile"
+Q64863168	P31	Q13442814
+Q64863168	P50	Q106694942
+Q64863168	P356	"10.3390/w11050886"
+Q64863168	P1476	en:"The Legal Geographies of Water Claims: Seawater Desalination in Mining Regions in Chile"
+Q64863168	P1433	Q15816677
+Q64863168	P577	+2019-04-29T00:00:00Z/11
+CREATE
+LAST	Len	"The antinomies of nature and space"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1177/2514848618777162"
+LAST	P1476	en:"The antinomies of nature and space"
+LAST	P1433	Q96321270
+LAST	P577	+2018-05-30T00:00:00Z/11
+CREATE
+LAST	Len	"The cultural, economic, and health implications of water sharing"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.21203/rs.2.15147/v1"
+LAST	P1476	en:"The cultural, economic, and health implications of water sharing"
+LAST	P1433	Q96713815
+LAST	P577	+2019-09-20T00:00:00Z/11
+CREATE
+LAST	Len	"The rural–urban equity nexus of Metro Manila’s water system"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/02508060.2019.1560559"
+LAST	P1476	en:"The rural–urban equity nexus of Metro Manila’s water system"
+LAST	P1433	Q15765652
+LAST	P577	+2019-04-15T00:00:00Z/11
+CREATE
+LAST	Len	"Using subjectivity and emotion to reconsider participatory natural resource management"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.worlddev.2014.06.032"
+LAST	P1476	en:"Using subjectivity and emotion to reconsider participatory natural resource management"
+LAST	P1433	Q8035641
+LAST	P577	+2014-08-02T00:00:00Z/11
+Q106930155	Aen	"Water Materialities and Citizen Engagement: Testing the Implications of Water Access and Quality for Community Engagement in Ghana and South Africa"
+Q106930155	P31	Q13442814
+Q106930155	P50	Q106694942
+Q106930155	P356	"10.1080/08941920.2017.1364818"
+Q106930155	P1476	en:"Water Materialities and Citizen Engagement: Testing the Implications of Water Access and Quality for Community Engagement in Ghana and South Africa"
+Q106930155	P1433	Q15759233
+Q106930155	P577	+2017-10-24T00:00:00Z/11
+CREATE
+LAST	Len	"Water and conflict geographies of the Southeastern Anatolia Project"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/08941920290069326"
+LAST	P1476	en:"Water and conflict geographies of the Southeastern Anatolia Project"
+LAST	P1433	Q15759233
+LAST	P577	+2002-09-30T00:00:00Z/11
+CREATE
+LAST	Len	"Water is Medicine: Reimagining Water Security through Tr’ondëk Hwëch’in Relationships to Treated and Traditional Water Sources in Yukon, Canada"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.3390/w11030624"
+LAST	P1476	en:"Water is Medicine: Reimagining Water Security through Tr’ondëk Hwëch’in Relationships to Treated and Traditional Water Sources in Yukon, Canada"
+LAST	P1433	Q15816677
+LAST	P577	+2019-03-27T00:00:00Z/11
+CREATE
+LAST	Len	"Water rich, resource poor: Intersections of gender, poverty, and vulnerability in newly irrigated areas of southeastern Turkey"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.worlddev.2008.03.004"
+LAST	P1476	en:"Water rich, resource poor: Intersections of gender, poverty, and vulnerability in newly irrigated areas of southeastern Turkey"
+LAST	P1433	Q8035641
+LAST	P577	+2008-07-08T00:00:00Z/11
+CREATE
+LAST	Len	"Water sharing and the right to water: Refusal, rebellion and everyday resistance"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.polgeo.2020.102245"
+LAST	P1476	en:"Water sharing and the right to water: Refusal, rebellion and everyday resistance"
+LAST	P1433	Q96329040
+LAST	P577	+2020-06-16T00:00:00Z/11
+Q106930158	Aen	"Water, equity and resilience in Southern Africa: future directions for research and practice"
+Q106930158	P31	Q13442814
+Q106930158	P50	Q106694942
+Q106930158	P356	"10.1016/j.cosust.2017.09.001"
+Q106930158	P1476	en:"Water, equity and resilience in Southern Africa: future directions for research and practice"
+Q106930158	P1433	Q15817373
+Q106930158	P577	+2017-10-13T00:00:00Z/11
+CREATE
+LAST	Len	"Whose input counts? Evaluating the process and outcomes of public consultation through the BC Water Act Modernization"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1080/19460171.2017.1282377"
+LAST	P1476	en:"Whose input counts? Evaluating the process and outcomes of public consultation through the BC Water Act Modernization"
+LAST	P1433	Q15767023
+LAST	P577	+2017-03-10T00:00:00Z/11
+CREATE
+LAST	Len	"Worlding the intangibility of resilience: the case of rice farmers in a water-stressed region of the Philippines"
+LAST	P31	Q13442814
+LAST	P50	Q106694942
+LAST	P356	"10.1016/j.worlddev.2017.05.004"
+LAST	P1476	en:"Worlding the intangibility of resilience: the case of rice farmers in a water-stressed region of the Philippines"
+LAST	P1433	Q8035641
+LAST	P577	+2017-06-21T00:00:00Z/11
