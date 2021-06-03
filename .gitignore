@@ -139,5 +139,10 @@ data-gathering/resources/papers/*.json
 data-gathering/resources/quick-statements/*.json
 data-gathering/resources/quick-statements/*.txt
 data-gathering/resources/wikidata/*.json
+data-gathering/resources/imports/authors/*.csv
+data-gathering/resources/imports/authors/*.csv
+data-gathering/resources/scholarly/*.json
+data-gathering/resources/scholarly/*.json
+
 
 
