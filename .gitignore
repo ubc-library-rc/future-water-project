@@ -127,7 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-scholarly/
 .idea/
 wikidata_raw.zip
 *.csv#
+
+
+data-gathering/resources/crossref/*.json
+data-gathering/resources/imports/*.csv
+data-gathering/resources/imports/*.json
+data-gathering/resources/papers/*.json
+data-gathering/resources/quick-statements/*.json
+data-gathering/resources/quick-statements/*.txt
+data-gathering/resources/wikidata/*.json
+
+
