@@ -202,6 +202,8 @@ ___
 
 5. Check visualizations on your local browser at http://localhost:8100
 
+    * Find details on how we create each visualization [here](documentation/scholia.md)
+
 
 
 ### Troubleshooting

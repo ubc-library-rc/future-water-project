@@ -1,11 +1,11 @@
-# Visualizations produced by Scholia
+# Visualizations
 
-All visualizations in this project are dereived from [Scholia](https://github.com/fnielsen/scholia) and [Wikidata Query GUI](https://github.com/wikimedia/wikidata-query-gui)
+All visualizations in this project are derived from [Scholia](https://github.com/fnielsen/scholia) and [Wikidata Query GUI](https://github.com/wikimedia/wikidata-query-gui)
 
 ## Scholia Visualizations
 
 <br>
-<div style="text-align:center"><img src="authors-year.png" width="75%" /></div>
+<div style="text-align:center"><img src="authors-year.png" width="100%" /></div>
 <br>
 
 Scholia visualizations are defined through `sparql` files in the `data-visualization` folder.
@@ -22,8 +22,9 @@ The following visualizations/queries are currently available:
 * [Topic score for a publication](../data-visualization/scholia/app/templates/work_topic-scores.sparql) - buble chart
 
 
-When running these queries, note that they have query arguments. Any argument with curly braces such as `{{ q }}` are dynamically modified at the moment a Web page is requested. 
+When running these queries, note that they have query arguments. Any argument with curly braces, such as `{{ q }}`, are dynamically modified at the moment a Web page is requested. 
 
+___
 
 For example, for the [landing page](../data-visualization/scholia/app/views.py#L87-98), we explicitly define that `q = Q106489997`, which for the [publications per year for a research cluster](../data-visualization/scholia/app/templates/cluster_publications-per-year.sparql) visualization would produce the query:
 
@@ -82,11 +83,11 @@ Note that we do not show all the visualization/queries in this document because 
 
 
 <br>
-<div style="text-align:center"><img src="polution.png" width="75%" /></div>
+<div style="text-align:center"><img src="polution.png" width="100%" /></div>
 <br>
 
 
-These are custom visualizations that do not consume data from Wikidata. All of these visualizations rely on the [data](../data-visualization/scholia/resources/keywords_final.json) fetched in the data-gathering stage of our visualization pipeline.
+Custom visualizations do not consume data from Wikidata. All of these visualizations rely on the [data](../data-visualization/scholia/resources/keywords_final.json) fetched in the [data-gathering stage](scripts.md).
 
 > The data is copied as part of the copy instructions of [Docker](../Dockerfile)
 
@@ -94,7 +95,7 @@ While these visualizations are custom, we rely on the code from the [Wikidata Qu
 
 > This design decision ensures that the custom and scholia made visualizations have the same aesthetics 
 
-The custom code to produce the data for the visualizations is available at [research_commons.py](../data-visualization/scholia/research_commons.py) and the JSON response that we create is the same as a a JSON from the Wikidata Query GUI
+The custom code to produce the data for the visualizations is available at [research_commons.py](../data-visualization/scholia/research_commons.py) and the JSON response that we create is the same as a JSON from the Wikidata Query GUI
 
 
 In detail, we produce the following data:
@@ -126,4 +127,4 @@ data-visualization/scholia/app/static/wikidata
 ```
 
 
-Note that these scripts must be imported in the header of our Web templates, e.g., [](../data-visualization/scholia/app/templates/cluster.html) lines `26` to `48`
+Note that these scripts must be imported in the header of our Web templates, e.g., [cluster.html](../data-visualization/scholia/app/templates/cluster.html#L26-48) lines `26` to `48`
