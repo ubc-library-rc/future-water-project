@@ -15,21 +15,15 @@ Start by uploading the `cluster-members.csv` file to resources. The file must co
 
 ___
 
-1. **Build the two docker images required for this project:**
+1. **Build the docker image for this project:**
 
 Base image:
 
 ```shell
-cd docker/base
+cd data-gathering
 docker build -t libraryrc/future-waters .
 ```
 
-
-Script images:
-
-```shell
-docker build -t libraryrc/future-waters .
-```
 ___
 
 2. **Find and update docker volume parameter**
@@ -50,7 +44,7 @@ The output will be something similar to
 
 Update the path in the volume argument in the command on step 3, accordingly.
 
-For example, for the previous output, the command `-v <your path>:/tmp/src/resources` should be updated to: 
+For example, for the previous output, the command `-v !!your path!!:/tmp/src/resources` should be updated to: 
 
 ```shell
 -v /home/msarthur/Workspace/future-waters-project/resources:/tmp/src/resources
@@ -67,7 +61,7 @@ Note that the scripts make heavy use of `caching` so that a cluster member is no
 
 
 ```shell
-docker run --name=future-waters -v <your path>/resources:/tmp/src/resources libraryrc/future-waters
+docker run --name=future-waters -v !!your path!!/resources:/tmp/src/resources libraryrc/future-waters
 ```
 
 If the container runs as expected, you will see an output similar to:

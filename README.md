@@ -15,6 +15,9 @@ ___
 
 <div style="text-align:center"><img src="documentation/polution.png" width="75%" /></div>
 
+* Sample visualization of publications per year per author for the research cluster
+
+<div style="text-align:center"><img src="documentation/authors-year.png" width="75%" /></div>
 
 ___
 
@@ -88,7 +91,7 @@ Update the path in the volume argument in the command below, e.g.: `-v /home/msa
 
 
 ```shell
-docker run --name=future-waters -v <your path>/resources:/tmp/src/resources libraryrc/future-waters
+docker run --name=future-waters -v !!your path!!/resources:/tmp/src/resources libraryrc/future-waters
 ```
 
 
@@ -115,9 +118,11 @@ ___
 
 You need to remove previous named containers with the `future-waters` identifier. Run
 
+
 ```shell
-docker rm future-waters && docker run --name=future-waters -v <your path>:/tmp/src/resources libraryrc/future-waters
+docker rm future-waters && docker run --name=future-waters -v !!your path!!:/tmp/src/resources libraryrc/future-waters
 ```
+
 
 For example:
 
