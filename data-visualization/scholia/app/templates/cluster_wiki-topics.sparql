@@ -1,0 +1,28 @@
+#defaultView:BubbleChart
+SELECT ?score ?topic ?topicLabel
+WITH {
+  SELECT
+    (SUM(?score_) AS ?score)
+    ?topic
+  WHERE {
+    { 
+      wd:Q57582079 wdt:P101 ?topic .
+      BIND(20 AS ?score_)
+    }
+    UNION
+    {
+      SELECT (3 AS ?score_) ?topic WHERE {
+        ?work wdt:P921 ?topic . 
+        ?work wdt:P50 ?author .
+        ?author wdt:P463 wd:{{ q }} .
+      }
+    }
+  }
+  GROUP BY ?topic
+} AS %results 
+WHERE {
+  INCLUDE %results
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en,da,de,es,jp,no,ru,sv,zh". }
+}
+ORDER BY DESC(?score)
+LIMIT 200

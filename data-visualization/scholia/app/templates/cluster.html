@@ -13,6 +13,7 @@
 
 {{ sparql_to_iframe('publications-per-year-and-author') }}
 
+{{ sparql_to_iframe('wiki-topics') }}
 
 {{ sparql_to_iframe('venue-statistics') }}
 
@@ -117,11 +118,23 @@ Information automaticaly gathered from wikidata. Please refer to
 
 <h3 id="keywords-chart-header">Keywords</h3>
 
-
+<p><button type="button" class="btn btn-info btn-circle"><i class="fa fa-exclamation"></i></button> These keywords are derived from our custom data-gathering scripts</p>
 <p><button type="button" class="btn btn-warning btn-circle"><i class="fa fa-question"></i></button> Click on a keyword to find information about it and its cluster members</p>
+
+
 
 <div>
     <div id="keywords-chart"></div>
+</div>
+
+<br>
+<br>
+<hr>
+
+<p><button type="button" class="btn btn-info btn-circle"><i class="fa fa-exclamation"></i></button> These keywords are derived from Wikidata</p>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" id="wiki-topics-iframe"></iframe>
 </div>
 
 
